@@ -1,2 +1,3 @@
 # linja laso
-sitelen pona font
+a simple and sharp edged sitelen pona font 
+by laso pi mute ante
