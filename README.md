@@ -1,2 +1,2 @@
-# linja-laso
+# linja laso
 sitelen pona font
