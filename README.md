@@ -1,7 +1,7 @@
 # linja laso
 (laso pi mute ante li pali e linja ni e lipu ni)
 ### current version: 0.1
-![specimen of v0.1](0.1.png)
+![specimen of v0.1](specimens/0.1.png)
 
 this is a little font i'm making, based on a grid and with sharp edges! More about {why} and {how}. (under construction!)
 
