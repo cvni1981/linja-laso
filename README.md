@@ -3,7 +3,7 @@
 ### current version: 0.1
 ![specimen of v0.1](specimens/0.1.png)
 
-this is a little font i'm making, based on a grid and with sharp edges! More about {why} and {how}. (under construction!)
+this is a little font i'm making, based on a grid and with sharp edges! More about [why](https://github.com/cvni1981/linja-laso/wiki/why) and {how}. (under construction!)
 
 any and all quibbles may be sent to cvni1981@gmail.com
 
