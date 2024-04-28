@@ -20,6 +20,7 @@ any and all quibbles may be sent to cvni1981@gmail.com
 - make the letters not look too crappy
 - scaling glyphs (same thing, if they dont look too bad when squished)
 - lots and lots of character variants
+- toki pona radicals
 - personal glyphs (priority on those who Need them to be identified)
 - proportional (non-monospaced) version!
 - half thickness version!
