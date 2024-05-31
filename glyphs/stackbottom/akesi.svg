@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.0840494"
-     inkscape:cx="321.94104"
-     inkscape:cy="221.39212"
+     inkscape:zoom="1.0856627"
+     inkscape:cx="203.10175"
+     inkscape:cy="348.17444"
      inkscape:window-width="1366"
      inkscape:window-height="768"
      inkscape:window-x="0"
@@ -52,36 +52,35 @@
   </sodipodi:namedview>
   <defs
      id="defs1" />
-  <rect
-     style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:0.23665;-inkscape-stroke:hairline"
-     id="rect7"
-     width="59.999996"
-     height="7.5"
-     x="25"
-     y="80" />
-  <rect
-     style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:0.23665;-inkscape-stroke:hairline"
-     id="rect7-7"
-     width="60"
-     height="7.5"
-     x="25"
-     y="90" />
+  <circle
+     style="font-variation-settings:'wght' 292;vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264582;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+     id="path1"
+     cx="88.75"
+     cy="78.75"
+     r="6.2499981" />
+  <circle
+     style="font-variation-settings:'wght' 292;vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264582;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+     id="path1-7"
+     cx="88.75"
+     cy="98.75"
+     r="6.2499981" />
   <path
-     id="path7"
-     style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:0.264583;-inkscape-stroke:hairline"
-     d="m 55.000184,67.500001 a 20.000004,20.000004 0 0 0 -20.00033,19.999812 v 2.500106 A 20.000004,20.000004 0 0 0 55.000184,109.99973 20.000004,20.000004 0 0 0 74.999997,89.999919 V 87.499813 A 20.000004,20.000004 0 0 0 55.000184,67.500001 Z m 0,9.999906 a 9.9999981,9.9999981 0 0 1 9.999906,9.999906 v 2.500106 a 9.9999981,9.9999981 0 0 1 -9.999906,9.999909 9.9999981,9.9999981 0 0 1 -10.000423,-9.999909 v -2.500106 a 9.9999981,9.9999981 0 0 1 10.000423,-9.999906 z" />
-  <ellipse
-     style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:0.264583;-inkscape-stroke:hairline"
-     id="path9"
-     cx="32.5"
-     cy="72.5"
-     rx="4.9999995"
-     ry="5" />
-  <ellipse
-     style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:0.264583;-inkscape-stroke:hairline"
-     id="path9-6"
-     cx="77.5"
-     cy="72.5"
-     rx="4.9999995"
-     ry="5" />
+     id="path2"
+     style="font-variation-settings:'wght' 292;vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264583;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+     d="m 63.749597,104.99985 c 8.974559,1e-4 16.24998,-7.275094 16.250171,-16.249653 9.4e-5,-8.974761 -7.27541,-16.250265 -16.250171,-16.250171 H 31.249653 c -8.974559,1.91e-4 -16.249748,7.275612 -16.249654,16.250171 1.91e-4,8.974357 7.275297,16.249463 16.249654,16.249653 z M 31.249653,94.999945 c -3.451583,-1.39e-4 -6.249609,-2.798165 -6.249748,-6.249748 -1.46e-4,-3.451784 2.797964,-6.250125 6.249748,-6.250264 h 32.499944 c 3.451986,-1.47e-4 6.250411,2.798278 6.250265,6.250264 -1.39e-4,3.451785 -2.79848,6.249895 -6.250265,6.249748 z"
+     sodipodi:nodetypes="ccccccccsccscc" />
+  <rect
+     style="font-variation-settings:'wght' 292;vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264583;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+     id="rect3"
+     width="7.5"
+     height="42.5"
+     x="35"
+     y="67.5" />
+  <rect
+     style="font-variation-settings:'wght' 292;vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264583;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+     id="rect4"
+     width="7.5"
+     height="42.5"
+     x="52.499996"
+     y="67.5" />
 </svg>
