@@ -8,19 +8,19 @@ this is a little font i'm making, based on a grid and with sharp edges! More abo
 any and all quibbles may be sent to cvni1981@gmail.com
 
 ### currently has:
-- nimi pu ale
-- leko and kijetesantakalu
-- cartouched glyphs and morae dots
-- stackable versions of several glyphs
+- nimi pu ale, nimi ku suli ale
+    - also the nimi ku lili in the UCSUR standard so all glyphs are included
+- cartouched glyphs, morae dots, te and to quotation marks
+- stackable versions of most glyphs
 
 ### will (hopefully soon) have:
-- a wiki here to show how i made this font so other people can as well!
-- add more stack glyphs (if they dont look too crappy with the thickness and grid)
+- more stack glyphs?
     - including special ones as character variants, like kama pona, kama sona, toki pona
-- make the letters not look too crappy
-- scaling glyphs (same thing, if they dont look too bad when squished)
 - lots and lots of character variants
-- toki pona radicals
 - personal glyphs (priority on those who Need them to be identified)
+- cartouche tickmarks
+- make the letters not look too crappy
+- toki pona radicals
+- scaling glyphs (same thing, if they dont look too bad when squished)
 - proportional (non-monospaced) version!
 - half thickness version!
