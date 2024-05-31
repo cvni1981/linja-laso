@@ -802,7 +802,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 324 18 7
+WinInfo: 0 18 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 0 0 0 564618 1048576 0 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -812,7 +812,7 @@ StartChar: .notdef
 Encoding: 211 -1 0
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -833,7 +833,7 @@ StartChar: .null
 Encoding: 212 -1 1
 Width: 0
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 EndChar
 
@@ -841,7 +841,7 @@ StartChar: nonmarkingreturn
 Encoding: 213 -1 2
 Width: 433
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 EndChar
 
@@ -849,7 +849,7 @@ StartChar: space
 Encoding: 0 32 3
 Width: 0
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 EndChar
 
@@ -857,7 +857,7 @@ StartChar: bracketleft
 Encoding: 43 91 4
 Width: 1000
 GlyphClass: 2
-Flags: W
+Flags: MW
 LayerCount: 2
 EndChar
 
@@ -865,7 +865,7 @@ StartChar: bracketright
 Encoding: 44 93 5
 Width: 1000
 GlyphClass: 2
-Flags: W
+Flags: MW
 LayerCount: 2
 EndChar
 
@@ -873,7 +873,7 @@ StartChar: a
 Encoding: 46 97 6
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -910,7 +910,7 @@ StartChar: e
 Encoding: 47 101 7
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -936,7 +936,7 @@ StartChar: i
 Encoding: 48 105 8
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -961,7 +961,7 @@ StartChar: j
 Encoding: 49 106 9
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -992,7 +992,7 @@ StartChar: k
 Encoding: 50 107 10
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -1015,7 +1015,7 @@ StartChar: l
 Encoding: 51 108 11
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -1669,7 +1669,7 @@ StartChar: m
 Encoding: 52 109 12
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -1707,7 +1707,7 @@ StartChar: n
 Encoding: 53 110 13
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -1741,7 +1741,7 @@ StartChar: o
 Encoding: 54 111 14
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -1776,7 +1776,7 @@ StartChar: p
 Encoding: 55 112 15
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -1813,7 +1813,7 @@ StartChar: s
 Encoding: 56 115 16
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -1993,7 +1993,7 @@ StartChar: t
 Encoding: 57 116 17
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2021,7 +2021,7 @@ StartChar: u
 Encoding: 58 117 18
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2049,7 +2049,7 @@ StartChar: w
 Encoding: 60 119 19
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2078,7 +2078,7 @@ StartChar: a.t
 Encoding: 63 989440 20
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2116,7 +2116,7 @@ StartChar: akesi.t
 Encoding: 64 989441 21
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2193,7 +2193,7 @@ StartChar: ala.t
 Encoding: 65 989442 22
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2220,7 +2220,7 @@ StartChar: alasa.t
 Encoding: 66 989443 23
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2266,7 +2266,7 @@ StartChar: ale.t
 Encoding: 67 989444 24
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2330,7 +2330,7 @@ StartChar: anpa.t
 Encoding: 68 989445 25
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2362,7 +2362,7 @@ StartChar: ante.t
 Encoding: 69 989446 26
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2390,7 +2390,7 @@ StartChar: anu.t
 Encoding: 70 989447 27
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2416,7 +2416,7 @@ StartChar: awen.t
 Encoding: 71 989448 28
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2447,7 +2447,7 @@ StartChar: e.t
 Encoding: 72 989449 29
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2474,7 +2474,7 @@ StartChar: en.t
 Encoding: 73 989450 30
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2498,7 +2498,7 @@ StartChar: esun.t
 Encoding: 74 989451 31
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2560,7 +2560,7 @@ StartChar: ijo.t
 Encoding: 75 989452 32
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2604,7 +2604,7 @@ StartChar: ike.t
 Encoding: 76 989453 33
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2706,7 +2706,7 @@ StartChar: ilo.t
 Encoding: 77 989454 34
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2739,7 +2739,7 @@ StartChar: insa.t
 Encoding: 78 989455 35
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2774,7 +2774,7 @@ StartChar: jaki.t
 Encoding: 79 989456 36
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2874,7 +2874,7 @@ StartChar: jan.t
 Encoding: 80 989457 37
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2916,7 +2916,7 @@ StartChar: jelo.t
 Encoding: 81 989458 38
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -2972,7 +2972,7 @@ StartChar: jo.t
 Encoding: 82 989459 39
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3031,7 +3031,7 @@ StartChar: kala.t
 Encoding: 83 989460 40
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3071,7 +3071,7 @@ StartChar: kalama.t
 Encoding: 84 989461 41
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3116,7 +3116,7 @@ StartChar: kama.t
 Encoding: 85 989462 42
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3145,7 +3145,7 @@ StartChar: kasi.t
 Encoding: 86 989463 43
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3190,7 +3190,7 @@ StartChar: ken.t
 Encoding: 87 989464 44
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3228,7 +3228,7 @@ StartChar: kepeken.t
 Encoding: 88 989465 45
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3360,7 +3360,7 @@ StartChar: kili.t
 Encoding: 89 989466 46
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3413,7 +3413,7 @@ StartChar: kiwen.t
 Encoding: 90 989467 47
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3439,7 +3439,7 @@ StartChar: ko.t
 Encoding: 91 989468 48
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3568,7 +3568,7 @@ StartChar: kon.t
 Encoding: 92 989469 49
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3616,7 +3616,7 @@ StartChar: kule.t
 Encoding: 93 989470 50
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3651,7 +3651,7 @@ StartChar: kulupu.t
 Encoding: 94 989471 51
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3719,7 +3719,7 @@ StartChar: kute.t
 Encoding: 95 989472 52
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3764,7 +3764,7 @@ StartChar: la.t
 Encoding: 96 989473 53
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3789,7 +3789,7 @@ StartChar: lape.t
 Encoding: 97 989474 54
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3824,7 +3824,7 @@ StartChar: laso.t
 Encoding: 98 989475 55
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3874,7 +3874,7 @@ StartChar: lawa.t
 Encoding: 99 989476 56
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3913,7 +3913,7 @@ StartChar: len.t
 Encoding: 100 989477 57
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3946,7 +3946,7 @@ StartChar: lete.t
 Encoding: 101 989478 58
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -3979,7 +3979,7 @@ StartChar: li.t
 Encoding: 102 989479 59
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4000,7 +4000,7 @@ StartChar: lili.t
 Encoding: 103 989480 60
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4021,7 +4021,7 @@ StartChar: linja.t
 Encoding: 104 989481 61
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4053,7 +4053,7 @@ StartChar: lipu.t
 Encoding: 105 989482 62
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4083,7 +4083,7 @@ StartChar: loje.t
 Encoding: 106 989483 63
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4128,7 +4128,7 @@ StartChar: lon.t
 Encoding: 107 989484 64
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4156,7 +4156,7 @@ StartChar: luka.t
 Encoding: 108 989485 65
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4199,7 +4199,7 @@ StartChar: lukin.t
 Encoding: 109 989486 66
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4245,7 +4245,7 @@ StartChar: lupa.t
 Encoding: 110 989487 67
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4282,7 +4282,7 @@ StartChar: ma.t
 Encoding: 111 989488 68
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4333,7 +4333,7 @@ StartChar: mama.t
 Encoding: 112 989489 69
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4387,7 +4387,7 @@ StartChar: mani.t
 Encoding: 113 989490 70
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4437,7 +4437,7 @@ StartChar: meli.t
 Encoding: 114 989491 71
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4567,7 +4567,7 @@ StartChar: mi.t
 Encoding: 115 989492 72
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4604,7 +4604,7 @@ StartChar: mije.t
 Encoding: 116 989493 73
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4657,7 +4657,7 @@ StartChar: moku.t
 Encoding: 117 989494 74
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4861,7 +4861,7 @@ StartChar: moli.t
 Encoding: 118 989495 75
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4931,7 +4931,7 @@ StartChar: monsi.t
 Encoding: 119 989496 76
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -4968,7 +4968,7 @@ StartChar: mu.t
 Encoding: 120 989497 77
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5049,7 +5049,7 @@ StartChar: mun.t
 Encoding: 121 989498 78
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5095,7 +5095,7 @@ StartChar: musi.t
 Encoding: 122 989499 79
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5162,7 +5162,7 @@ StartChar: mute.t
 Encoding: 123 989500 80
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5191,7 +5191,7 @@ StartChar: nanpa.t
 Encoding: 124 989501 81
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5225,7 +5225,7 @@ StartChar: nasa.t
 Encoding: 125 989502 82
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5281,7 +5281,7 @@ StartChar: nasin.t
 Encoding: 126 989503 83
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5307,7 +5307,7 @@ StartChar: nena.t
 Encoding: 127 989504 84
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5336,7 +5336,7 @@ StartChar: ni.t
 Encoding: 128 989505 85
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5360,7 +5360,7 @@ StartChar: nimi.t
 Encoding: 129 989506 86
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5617,7 +5617,7 @@ StartChar: noka.t
 Encoding: 130 989507 87
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5665,7 +5665,7 @@ StartChar: o.t
 Encoding: 131 989508 88
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5701,7 +5701,7 @@ StartChar: olin.t
 Encoding: 132 989509 89
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5780,7 +5780,7 @@ StartChar: ona.t
 Encoding: 133 989510 90
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5818,7 +5818,7 @@ StartChar: open.t
 Encoding: 134 989511 91
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5848,7 +5848,7 @@ StartChar: pakala.t
 Encoding: 135 989512 92
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -5889,7 +5889,7 @@ StartChar: pali.t
 Encoding: 136 989513 93
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6018,7 +6018,7 @@ StartChar: palisa.t
 Encoding: 137 989514 94
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6059,7 +6059,7 @@ StartChar: pan.t
 Encoding: 138 989515 95
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6100,7 +6100,7 @@ StartChar: pana.t
 Encoding: 139 989516 96
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6226,7 +6226,7 @@ StartChar: pi.t
 Encoding: 140 989517 97
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6249,7 +6249,7 @@ StartChar: pilin.t
 Encoding: 141 989518 98
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6309,7 +6309,7 @@ StartChar: pimeja.t
 Encoding: 142 989519 99
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6348,7 +6348,7 @@ StartChar: pini.t
 Encoding: 143 989520 100
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6375,7 +6375,7 @@ StartChar: pipi.t
 Encoding: 144 989521 101
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6427,7 +6427,7 @@ StartChar: poka.t
 Encoding: 145 989522 102
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6460,7 +6460,7 @@ StartChar: poki.t
 Encoding: 146 989523 103
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6485,7 +6485,7 @@ StartChar: pona.t
 Encoding: 147 989524 104
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6587,7 +6587,7 @@ StartChar: pu.t
 Encoding: 148 989525 105
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6655,7 +6655,7 @@ StartChar: sama.t
 Encoding: 149 989526 106
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6679,7 +6679,7 @@ StartChar: seli.t
 Encoding: 150 989527 107
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6717,7 +6717,7 @@ StartChar: selo.t
 Encoding: 151 989528 108
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6748,7 +6748,7 @@ StartChar: seme.t
 Encoding: 152 989529 109
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -6973,7 +6973,7 @@ StartChar: sewi.t
 Encoding: 153 989530 110
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7022,7 +7022,7 @@ StartChar: sijelo.t
 Encoding: 154 989531 111
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7049,7 +7049,7 @@ StartChar: sike.t
 Encoding: 155 989532 112
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7112,7 +7112,7 @@ StartChar: sin.t
 Encoding: 156 989533 113
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7141,7 +7141,7 @@ StartChar: sina.t
 Encoding: 157 989534 114
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7179,7 +7179,7 @@ StartChar: sinpin.t
 Encoding: 158 989535 115
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7211,7 +7211,7 @@ StartChar: sitelen.t
 Encoding: 159 989536 116
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7268,7 +7268,7 @@ StartChar: sona.t
 Encoding: 160 989537 117
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7308,7 +7308,7 @@ StartChar: soweli.t
 Encoding: 161 989538 118
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7376,7 +7376,7 @@ StartChar: suli.t
 Encoding: 162 989539 119
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7410,7 +7410,7 @@ StartChar: suno.t
 Encoding: 163 989540 120
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7462,7 +7462,7 @@ StartChar: supa.t
 Encoding: 164 989541 121
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7491,7 +7491,7 @@ StartChar: suwi.t
 Encoding: 165 989542 122
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7528,7 +7528,7 @@ StartChar: tan.t
 Encoding: 166 989543 123
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7562,7 +7562,7 @@ StartChar: taso.t
 Encoding: 167 989544 124
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7587,7 +7587,7 @@ StartChar: tawa.t
 Encoding: 168 989545 125
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7617,7 +7617,7 @@ StartChar: telo.t
 Encoding: 169 989546 126
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7665,7 +7665,7 @@ StartChar: tenpo.t
 Encoding: 170 989547 127
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7716,7 +7716,7 @@ StartChar: toki.t
 Encoding: 171 989548 128
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7763,7 +7763,7 @@ StartChar: tomo.t
 Encoding: 172 989549 129
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7789,7 +7789,7 @@ StartChar: tu.t
 Encoding: 173 989550 130
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7813,7 +7813,7 @@ StartChar: unpa.t
 Encoding: 174 989551 131
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7874,7 +7874,7 @@ StartChar: uta.t
 Encoding: 175 989552 132
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7911,7 +7911,7 @@ StartChar: utala.t
 Encoding: 176 989553 133
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7945,7 +7945,7 @@ StartChar: walo.t
 Encoding: 177 989554 134
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -7975,7 +7975,7 @@ StartChar: wan.t
 Encoding: 178 989555 135
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8001,7 +8001,7 @@ StartChar: waso.t
 Encoding: 179 989556 136
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8046,7 +8046,7 @@ StartChar: wawa.t
 Encoding: 180 989557 137
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8094,7 +8094,7 @@ StartChar: weka.t
 Encoding: 181 989558 138
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8128,7 +8128,7 @@ StartChar: wile.t
 Encoding: 182 989559 139
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8191,7 +8191,7 @@ StartChar: namako.t
 Encoding: 183 989560 140
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8232,7 +8232,7 @@ StartChar: kin.t
 Encoding: 184 989561 141
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8270,7 +8270,7 @@ StartChar: oko.t
 Encoding: 185 989562 142
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8313,7 +8313,7 @@ StartChar: kipisi.t
 Encoding: 186 989563 143
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8350,7 +8350,7 @@ StartChar: leko.t
 Encoding: 187 989564 144
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8384,7 +8384,7 @@ StartChar: monsuta.t
 Encoding: 188 989565 145
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8417,7 +8417,7 @@ StartChar: tonsi.t
 Encoding: 189 989566 146
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8480,7 +8480,7 @@ StartChar: jasima.t
 Encoding: 190 989567 147
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8535,7 +8535,7 @@ StartChar: kijetesantakalu.t
 Encoding: 191 989568 148
 Width: 1100
 GlyphClass: 1
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8694,7 +8694,7 @@ StartChar: wide.space
 Encoding: 200 989577 149
 Width: 1100
 GlyphClass: 3
-Flags: W
+Flags: MW
 LayerCount: 2
 Ligature2: "spaces" space space
 Substitution2: "cartouched sitelen" cart.space
@@ -8704,7 +8704,7 @@ StartChar: cartouche.start
 Encoding: 201 989584 150
 Width: 1100
 GlyphClass: 2
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8735,7 +8735,7 @@ StartChar: cartouche.end
 Encoding: 202 989585 151
 Width: 1100
 GlyphClass: 2
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8766,7 +8766,7 @@ StartChar: cartouche.body
 Encoding: 203 989586 152
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8788,7 +8788,7 @@ EndChar
 StartChar: cart.a
 Encoding: 214 -1 153
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8835,7 +8835,7 @@ EndChar
 StartChar: cart.akesi
 Encoding: 215 -1 154
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8920,7 +8920,7 @@ EndChar
 StartChar: cart.ala
 Encoding: 216 -1 155
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -8955,7 +8955,7 @@ EndChar
 StartChar: cart.alasa
 Encoding: 217 -1 156
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9009,7 +9009,7 @@ EndChar
 StartChar: cart.ale
 Encoding: 218 -1 157
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9079,7 +9079,7 @@ EndChar
 StartChar: cart.anpa
 Encoding: 219 -1 158
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9119,7 +9119,7 @@ EndChar
 StartChar: cart.ante
 Encoding: 220 -1 159
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9155,7 +9155,7 @@ EndChar
 StartChar: cart.anu
 Encoding: 221 -1 160
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9189,7 +9189,7 @@ EndChar
 StartChar: cart.awen
 Encoding: 222 -1 161
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9228,7 +9228,7 @@ EndChar
 StartChar: cart.e
 Encoding: 223 -1 162
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9264,7 +9264,7 @@ EndChar
 StartChar: cart.en
 Encoding: 224 -1 163
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9296,7 +9296,7 @@ EndChar
 StartChar: cart.esun
 Encoding: 225 -1 164
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9366,7 +9366,7 @@ EndChar
 StartChar: cart.ijo
 Encoding: 226 -1 165
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9418,7 +9418,7 @@ EndChar
 StartChar: cart.ike
 Encoding: 227 -1 166
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9528,7 +9528,7 @@ EndChar
 StartChar: cart.ilo
 Encoding: 228 -1 167
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9569,7 +9569,7 @@ EndChar
 StartChar: cart.insa
 Encoding: 229 -1 168
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9612,7 +9612,7 @@ EndChar
 StartChar: cart.jaki
 Encoding: 230 -1 169
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9720,7 +9720,7 @@ EndChar
 StartChar: cart.jan
 Encoding: 231 -1 170
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9770,7 +9770,7 @@ EndChar
 StartChar: cart.jelo
 Encoding: 232 -1 171
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9834,7 +9834,7 @@ EndChar
 StartChar: cart.jo
 Encoding: 233 -1 172
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9901,7 +9901,7 @@ EndChar
 StartChar: cart.kala
 Encoding: 234 -1 173
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -9949,7 +9949,7 @@ EndChar
 StartChar: cart.kalama
 Encoding: 235 -1 174
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10002,7 +10002,7 @@ EndChar
 StartChar: cart.kama
 Encoding: 236 -1 175
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10039,7 +10039,7 @@ EndChar
 StartChar: cart.kasi
 Encoding: 237 -1 176
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10092,7 +10092,7 @@ EndChar
 StartChar: cart.ken
 Encoding: 238 -1 177
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10138,7 +10138,7 @@ EndChar
 StartChar: cart.kepeken
 Encoding: 239 -1 178
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10278,7 +10278,7 @@ EndChar
 StartChar: cart.kili
 Encoding: 240 -1 179
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10339,7 +10339,7 @@ EndChar
 StartChar: cart.kiwen
 Encoding: 241 -1 180
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10373,7 +10373,7 @@ EndChar
 StartChar: cart.ko
 Encoding: 242 -1 181
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10510,7 +10510,7 @@ EndChar
 StartChar: cart.kon
 Encoding: 243 -1 182
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10566,7 +10566,7 @@ EndChar
 StartChar: cart.kule
 Encoding: 244 -1 183
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10609,7 +10609,7 @@ EndChar
 StartChar: cart.kulupu
 Encoding: 245 -1 184
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10685,7 +10685,7 @@ EndChar
 StartChar: cart.kute
 Encoding: 246 -1 185
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10738,7 +10738,7 @@ EndChar
 StartChar: cart.la
 Encoding: 247 -1 186
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10771,7 +10771,7 @@ EndChar
 StartChar: cart.lape
 Encoding: 248 -1 187
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10814,7 +10814,7 @@ EndChar
 StartChar: cart.laso
 Encoding: 249 -1 188
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10872,7 +10872,7 @@ EndChar
 StartChar: cart.lawa
 Encoding: 250 -1 189
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10919,7 +10919,7 @@ EndChar
 StartChar: cart.len
 Encoding: 251 -1 190
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -10960,7 +10960,7 @@ EndChar
 StartChar: cart.lete
 Encoding: 252 -1 191
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11001,7 +11001,7 @@ EndChar
 StartChar: cart.li
 Encoding: 253 -1 192
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11030,7 +11030,7 @@ EndChar
 StartChar: cart.lili
 Encoding: 254 -1 193
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11059,7 +11059,7 @@ EndChar
 StartChar: cart.linja
 Encoding: 255 -1 194
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11098,7 +11098,7 @@ EndChar
 StartChar: cart.lipu
 Encoding: 256 -1 195
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11136,7 +11136,7 @@ EndChar
 StartChar: cart.loje
 Encoding: 257 -1 196
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11189,7 +11189,7 @@ EndChar
 StartChar: cart.lon
 Encoding: 258 -1 197
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11225,7 +11225,7 @@ EndChar
 StartChar: cart.luka
 Encoding: 259 -1 198
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11276,7 +11276,7 @@ EndChar
 StartChar: cart.lukin
 Encoding: 260 -1 199
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11329,7 +11329,7 @@ EndChar
 StartChar: cart.lupa
 Encoding: 261 -1 200
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11374,7 +11374,7 @@ EndChar
 StartChar: cart.ma
 Encoding: 262 -1 201
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11433,7 +11433,7 @@ EndChar
 StartChar: cart.mama
 Encoding: 263 -1 202
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11495,7 +11495,7 @@ EndChar
 StartChar: cart.mani
 Encoding: 264 -1 203
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11553,7 +11553,7 @@ EndChar
 StartChar: cart.meli
 Encoding: 265 -1 204
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11691,7 +11691,7 @@ EndChar
 StartChar: cart.mi
 Encoding: 266 -1 205
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11737,7 +11737,7 @@ EndChar
 StartChar: cart.mije
 Encoding: 267 -1 206
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -11798,7 +11798,7 @@ EndChar
 StartChar: cart.moku
 Encoding: 268 -1 207
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12009,7 +12009,7 @@ EndChar
 StartChar: cart.moli
 Encoding: 269 -1 208
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12087,7 +12087,7 @@ EndChar
 StartChar: cart.monsi
 Encoding: 270 -1 209
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12131,7 +12131,7 @@ EndChar
 StartChar: cart.mu
 Encoding: 271 -1 210
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12220,7 +12220,7 @@ EndChar
 StartChar: cart.mun
 Encoding: 272 -1 211
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12274,7 +12274,7 @@ EndChar
 StartChar: cart.musi
 Encoding: 273 -1 212
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12349,7 +12349,7 @@ EndChar
 StartChar: cart.mute
 Encoding: 274 -1 213
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12386,7 +12386,7 @@ EndChar
 StartChar: cart.nanpa
 Encoding: 275 -1 214
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12428,7 +12428,7 @@ EndChar
 StartChar: cart.nasa
 Encoding: 276 -1 215
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12492,7 +12492,7 @@ EndChar
 StartChar: cart.nasin
 Encoding: 277 -1 216
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12526,7 +12526,7 @@ EndChar
 StartChar: cart.nena
 Encoding: 278 -1 217
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12563,7 +12563,7 @@ EndChar
 StartChar: cart.ni
 Encoding: 279 -1 218
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12595,7 +12595,7 @@ EndChar
 StartChar: cart.nimi
 Encoding: 280 -1 219
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12860,7 +12860,7 @@ EndChar
 StartChar: cart.noka
 Encoding: 281 -1 220
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12916,7 +12916,7 @@ EndChar
 StartChar: cart.o
 Encoding: 282 -1 221
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -12961,7 +12961,7 @@ EndChar
 StartChar: cart.olin
 Encoding: 283 -1 222
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13048,7 +13048,7 @@ EndChar
 StartChar: cart.ona
 Encoding: 284 -1 223
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13094,7 +13094,7 @@ EndChar
 StartChar: cart.open
 Encoding: 285 -1 224
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13132,7 +13132,7 @@ EndChar
 StartChar: cart.pakala
 Encoding: 286 -1 225
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13181,7 +13181,7 @@ EndChar
 StartChar: cart.pali
 Encoding: 287 -1 226
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13318,7 +13318,7 @@ EndChar
 StartChar: cart.palisa
 Encoding: 288 -1 227
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13367,7 +13367,7 @@ EndChar
 StartChar: cart.pan
 Encoding: 289 -1 228
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13416,7 +13416,7 @@ EndChar
 StartChar: cart.pana
 Encoding: 290 -1 229
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13550,7 +13550,7 @@ EndChar
 StartChar: cart.pi
 Encoding: 291 -1 230
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13581,7 +13581,7 @@ EndChar
 StartChar: cart.pilin
 Encoding: 292 -1 231
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13649,7 +13649,7 @@ EndChar
 StartChar: cart.pimeja
 Encoding: 293 -1 232
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13696,7 +13696,7 @@ EndChar
 StartChar: cart.pini
 Encoding: 294 -1 233
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13731,7 +13731,7 @@ EndChar
 StartChar: cart.pipi
 Encoding: 295 -1 234
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13791,7 +13791,7 @@ EndChar
 StartChar: cart.poka
 Encoding: 296 -1 235
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13831,7 +13831,7 @@ EndChar
 StartChar: cart.poki
 Encoding: 297 -1 236
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13864,7 +13864,7 @@ EndChar
 StartChar: cart.pona
 Encoding: 298 -1 237
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -13974,7 +13974,7 @@ EndChar
 StartChar: cart.pu
 Encoding: 299 -1 238
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14050,7 +14050,7 @@ EndChar
 StartChar: cart.sama
 Encoding: 300 -1 239
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14082,7 +14082,7 @@ EndChar
 StartChar: cart.seli
 Encoding: 301 -1 240
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14128,7 +14128,7 @@ EndChar
 StartChar: cart.selo
 Encoding: 302 -1 241
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14167,7 +14167,7 @@ EndChar
 StartChar: cart.seme
 Encoding: 303 -1 242
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14400,7 +14400,7 @@ EndChar
 StartChar: cart.sewi
 Encoding: 304 -1 243
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14457,7 +14457,7 @@ EndChar
 StartChar: cart.sijelo
 Encoding: 305 -1 244
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14492,7 +14492,7 @@ EndChar
 StartChar: cart.sike
 Encoding: 306 -1 245
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14562,7 +14562,7 @@ EndChar
 StartChar: cart.sin
 Encoding: 307 -1 246
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14599,7 +14599,7 @@ EndChar
 StartChar: cart.sina
 Encoding: 308 -1 247
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14645,7 +14645,7 @@ EndChar
 StartChar: cart.sinpin
 Encoding: 309 -1 248
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14685,7 +14685,7 @@ EndChar
 StartChar: cart.sitelen
 Encoding: 310 -1 249
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14750,8 +14750,7 @@ EndChar
 StartChar: cart.sona
 Encoding: 311 -1 250
 Width: 1100
-Flags: W
-CounterMasks: 1 07
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14799,7 +14798,7 @@ EndChar
 StartChar: cart.soweli
 Encoding: 312 -1 251
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14875,7 +14874,7 @@ EndChar
 StartChar: cart.suli
 Encoding: 313 -1 252
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14917,7 +14916,7 @@ EndChar
 StartChar: cart.suno
 Encoding: 314 -1 253
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14977,7 +14976,7 @@ EndChar
 StartChar: cart.supa
 Encoding: 315 -1 254
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15014,7 +15013,7 @@ EndChar
 StartChar: cart.suwi
 Encoding: 316 -1 255
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15059,7 +15058,7 @@ EndChar
 StartChar: cart.tan
 Encoding: 317 -1 256
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15101,7 +15100,7 @@ EndChar
 StartChar: cart.taso
 Encoding: 318 -1 257
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15134,7 +15133,7 @@ EndChar
 StartChar: cart.tawa
 Encoding: 319 -1 258
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15171,7 +15170,7 @@ EndChar
 StartChar: cart.telo
 Encoding: 320 -1 259
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15227,7 +15226,7 @@ EndChar
 StartChar: cart.tenpo
 Encoding: 321 -1 260
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15286,7 +15285,7 @@ EndChar
 StartChar: cart.toki
 Encoding: 322 -1 261
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15341,7 +15340,7 @@ EndChar
 StartChar: cart.tomo
 Encoding: 323 -1 262
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15375,7 +15374,7 @@ EndChar
 StartChar: cart.tu
 Encoding: 324 -1 263
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15407,7 +15406,7 @@ EndChar
 StartChar: cart.unpa
 Encoding: 325 -1 264
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15476,7 +15475,7 @@ EndChar
 StartChar: cart.uta
 Encoding: 326 -1 265
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15521,7 +15520,7 @@ EndChar
 StartChar: cart.utala
 Encoding: 327 -1 266
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15563,7 +15562,7 @@ EndChar
 StartChar: cart.walo
 Encoding: 328 -1 267
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15601,7 +15600,7 @@ EndChar
 StartChar: cart.wan
 Encoding: 329 -1 268
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15635,7 +15634,7 @@ EndChar
 StartChar: cart.waso
 Encoding: 330 -1 269
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15688,7 +15687,7 @@ EndChar
 StartChar: cart.wawa
 Encoding: 331 -1 270
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15744,7 +15743,7 @@ EndChar
 StartChar: cart.weka
 Encoding: 332 -1 271
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15786,7 +15785,7 @@ EndChar
 StartChar: cart.wile
 Encoding: 333 -1 272
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15856,7 +15855,7 @@ EndChar
 StartChar: cart.leko
 Encoding: 334 -1 273
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -15898,7 +15897,7 @@ EndChar
 StartChar: cart.kijetesantakalu
 Encoding: 335 -1 274
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16065,7 +16064,7 @@ EndChar
 StartChar: cart.space
 Encoding: 336 -1 275
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16087,7 +16086,7 @@ EndChar
 StartChar: period
 Encoding: 3 46 276
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16108,7 +16107,7 @@ EndChar
 StartChar: comma
 Encoding: 1 44 277
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16128,7 +16127,7 @@ EndChar
 StartChar: colon
 Encoding: 14 58 278
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16157,7 +16156,7 @@ EndChar
 StartChar: periodcentered
 Encoding: 61 183 279
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16176,7 +16175,7 @@ EndChar
 StartChar: dotdot
 Encoding: 337 -1 280
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16212,7 +16211,7 @@ EndChar
 StartChar: dotdotdot
 Encoding: 338 -1 281
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16256,7 +16255,7 @@ EndChar
 StartChar: dot.cart
 Encoding: 339 -1 282
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16287,7 +16286,7 @@ EndChar
 StartChar: col.cart
 Encoding: 340 -1 283
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16327,7 +16326,7 @@ EndChar
 StartChar: dotdot.cart
 Encoding: 341 -1 284
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16367,7 +16366,7 @@ EndChar
 StartChar: dotdotdot.cart
 Encoding: 342 -1 285
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16416,7 +16415,7 @@ EndChar
 StartChar: n.t
 Encoding: 197 989574 286
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16450,7 +16449,7 @@ EndChar
 StartChar: cart.n
 Encoding: 343 -1 287
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16494,7 +16493,7 @@ EndChar
 StartChar: akesi.anpa
 Encoding: 344 -1 288
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16557,7 +16556,7 @@ EndChar
 StartChar: alasa.anpa
 Encoding: 345 -1 289
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16595,7 +16594,7 @@ EndChar
 StartChar: ala.anpa
 Encoding: 346 -1 290
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16637,7 +16636,7 @@ EndChar
 StartChar: ale.anpa
 Encoding: 347 -1 291
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16685,7 +16684,7 @@ EndChar
 StartChar: anpa.anpa
 Encoding: 348 -1 292
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16715,7 +16714,7 @@ EndChar
 StartChar: awen.anpa
 Encoding: 349 -1 293
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16738,7 +16737,7 @@ EndChar
 StartChar: jaki.anpa
 Encoding: 350 -1 294
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16794,7 +16793,7 @@ EndChar
 StartChar: ike.anpa
 Encoding: 351 -1 295
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16890,7 +16889,7 @@ EndChar
 StartChar: ilo.anpa
 Encoding: 352 -1 296
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16921,7 +16920,7 @@ EndChar
 StartChar: insa.anpa
 Encoding: 353 -1 297
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16952,7 +16951,7 @@ EndChar
 StartChar: kalama.anpa
 Encoding: 354 -1 298
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -16993,7 +16992,7 @@ EndChar
 StartChar: kala.anpa
 Encoding: 355 -1 299
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17029,7 +17028,7 @@ EndChar
 StartChar: kama.anpa
 Encoding: 356 -1 300
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17052,7 +17051,7 @@ EndChar
 StartChar: kasi.anpa
 Encoding: 357 -1 301
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17090,7 +17089,7 @@ EndChar
 StartChar: kiwen.anpa
 Encoding: 358 -1 302
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17116,7 +17115,7 @@ EndChar
 StartChar: ko.anpa
 Encoding: 359 -1 303
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17229,7 +17228,7 @@ EndChar
 StartChar: kule.anpa
 Encoding: 360 -1 304
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17254,7 +17253,7 @@ EndChar
 StartChar: kulupu.anpa
 Encoding: 361 -1 305
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17320,7 +17319,7 @@ EndChar
 StartChar: lape.anpa
 Encoding: 362 -1 306
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17353,7 +17352,7 @@ EndChar
 StartChar: lawa.anpa
 Encoding: 363 -1 307
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17390,7 +17389,7 @@ EndChar
 StartChar: leko.anpa
 Encoding: 364 -1 308
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17422,7 +17421,7 @@ EndChar
 StartChar: len.anpa
 Encoding: 365 -1 309
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17453,7 +17452,7 @@ EndChar
 StartChar: lete.anpa
 Encoding: 366 -1 310
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17480,7 +17479,7 @@ EndChar
 StartChar: linja.anpa
 Encoding: 367 -1 311
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17509,7 +17508,7 @@ EndChar
 StartChar: lon.anpa
 Encoding: 368 -1 312
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17536,7 +17535,7 @@ EndChar
 StartChar: luka.anpa
 Encoding: 369 -1 313
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17566,7 +17565,7 @@ EndChar
 StartChar: lukin.anpa
 Encoding: 370 -1 314
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17609,7 +17608,7 @@ EndChar
 StartChar: mani.anpa
 Encoding: 371 -1 315
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17653,7 +17652,7 @@ EndChar
 StartChar: ma.anpa
 Encoding: 372 -1 316
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17698,7 +17697,7 @@ EndChar
 StartChar: meli.anpa
 Encoding: 373 -1 317
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17851,7 +17850,7 @@ EndChar
 StartChar: mije.anpa
 Encoding: 374 -1 318
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17898,7 +17897,7 @@ EndChar
 StartChar: moli.anpa
 Encoding: 375 -1 319
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17962,7 +17961,7 @@ EndChar
 StartChar: nanpa.anpa
 Encoding: 376 -1 320
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -17994,7 +17993,7 @@ EndChar
 StartChar: nasin.anpa
 Encoding: 377 -1 321
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18018,7 +18017,7 @@ EndChar
 StartChar: pakala.anpa
 Encoding: 378 -1 322
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18049,7 +18048,7 @@ EndChar
 StartChar: pimeja.anpa
 Encoding: 379 -1 323
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18084,7 +18083,7 @@ EndChar
 StartChar: pipi.anpa
 Encoding: 380 -1 324
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18134,7 +18133,7 @@ EndChar
 StartChar: poka.anpa
 Encoding: 381 -1 325
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18164,7 +18163,7 @@ EndChar
 StartChar: pona.anpa
 Encoding: 382 -1 326
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18189,7 +18188,7 @@ EndChar
 StartChar: sama.anpa
 Encoding: 383 -1 327
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18211,7 +18210,7 @@ EndChar
 StartChar: selo.anpa
 Encoding: 384 -1 328
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18240,7 +18239,7 @@ EndChar
 StartChar: sewi.anpa
 Encoding: 385 -1 329
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18284,7 +18283,7 @@ EndChar
 StartChar: sijelo.anpa
 Encoding: 386 -1 330
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18309,7 +18308,7 @@ EndChar
 StartChar: sitelen.anpa
 Encoding: 387 -1 331
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18358,7 +18357,7 @@ EndChar
 StartChar: soweli.anpa
 Encoding: 388 -1 332
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18471,7 +18470,7 @@ EndChar
 StartChar: suno.anpa
 Encoding: 389 -1 333
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18523,7 +18522,7 @@ EndChar
 StartChar: supa.anpa
 Encoding: 390 -1 334
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18548,7 +18547,7 @@ EndChar
 StartChar: suwi.anpa
 Encoding: 391 -1 335
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18583,7 +18582,7 @@ EndChar
 StartChar: tan.anpa
 Encoding: 392 -1 336
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18613,7 +18612,7 @@ EndChar
 StartChar: tawa.anpa
 Encoding: 393 -1 337
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18636,7 +18635,7 @@ EndChar
 StartChar: tenpo.anpa
 Encoding: 394 -1 338
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18677,7 +18676,7 @@ EndChar
 StartChar: tomo.anpa
 Encoding: 395 -1 339
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18701,7 +18700,7 @@ EndChar
 StartChar: utala.anpa
 Encoding: 396 -1 340
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18737,7 +18736,7 @@ EndChar
 StartChar: uta.anpa
 Encoding: 397 -1 341
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18772,7 +18771,7 @@ EndChar
 StartChar: walo.anpa
 Encoding: 398 -1 342
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18800,7 +18799,7 @@ EndChar
 StartChar: waso.anpa
 Encoding: 399 -1 343
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18841,7 +18840,7 @@ EndChar
 StartChar: wawa.anpa
 Encoding: 400 -1 344
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18885,7 +18884,7 @@ EndChar
 StartChar: wile.anpa
 Encoding: 401 -1 345
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18935,7 +18934,7 @@ EndChar
 StartChar: akesi.sewi
 Encoding: 402 -1 346
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18997,7 +18996,7 @@ EndChar
 StartChar: alasa.sewi
 Encoding: 403 -1 347
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19035,7 +19034,7 @@ EndChar
 StartChar: ala.sewi
 Encoding: 404 -1 348
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19076,7 +19075,7 @@ EndChar
 StartChar: ale.sewi
 Encoding: 405 -1 349
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19123,7 +19122,7 @@ EndChar
 StartChar: anpa.sewi
 Encoding: 406 -1 350
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19152,7 +19151,7 @@ EndChar
 StartChar: awen.sewi
 Encoding: 407 -1 351
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19174,7 +19173,7 @@ EndChar
 StartChar: ike.sewi
 Encoding: 408 -1 352
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19198,7 +19197,7 @@ EndChar
 StartChar: ilo.sewi
 Encoding: 409 -1 353
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19228,7 +19227,7 @@ EndChar
 StartChar: insa.sewi
 Encoding: 410 -1 354
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19257,7 +19256,7 @@ EndChar
 StartChar: jaki.sewi
 Encoding: 411 -1 355
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19312,7 +19311,7 @@ EndChar
 StartChar: kalama.sewi
 Encoding: 412 -1 356
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19352,7 +19351,7 @@ EndChar
 StartChar: kala.sewi
 Encoding: 413 -1 357
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19387,7 +19386,7 @@ EndChar
 StartChar: kama.sewi
 Encoding: 414 -1 358
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19409,7 +19408,7 @@ EndChar
 StartChar: kasi.sewi
 Encoding: 415 -1 359
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19501,7 +19500,7 @@ EndChar
 StartChar: kiwen.sewi
 Encoding: 416 -1 360
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19526,7 +19525,7 @@ EndChar
 StartChar: ko.sewi
 Encoding: 417 -1 361
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19639,7 +19638,7 @@ EndChar
 StartChar: kule.sewi
 Encoding: 418 -1 362
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19663,7 +19662,7 @@ EndChar
 StartChar: kulupu.sewi
 Encoding: 419 -1 363
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19728,7 +19727,7 @@ EndChar
 StartChar: lape.sewi
 Encoding: 420 -1 364
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19760,7 +19759,7 @@ EndChar
 StartChar: lawa.sewi
 Encoding: 421 -1 365
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19796,7 +19795,7 @@ EndChar
 StartChar: leko.sewi
 Encoding: 422 -1 366
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19827,7 +19826,7 @@ EndChar
 StartChar: len.sewi
 Encoding: 423 -1 367
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19857,7 +19856,7 @@ EndChar
 StartChar: lete.sewi
 Encoding: 424 -1 368
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19883,7 +19882,7 @@ EndChar
 StartChar: linja.sewi
 Encoding: 425 -1 369
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19911,7 +19910,7 @@ EndChar
 StartChar: lon.sewi
 Encoding: 426 -1 370
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19936,7 +19935,7 @@ EndChar
 StartChar: luka.sewi
 Encoding: 427 -1 371
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -19965,7 +19964,7 @@ EndChar
 StartChar: lukin.sewi
 Encoding: 428 -1 372
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20007,7 +20006,7 @@ EndChar
 StartChar: mani.sewi
 Encoding: 429 -1 373
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20050,7 +20049,7 @@ EndChar
 StartChar: ma.sewi
 Encoding: 430 -1 374
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20094,7 +20093,7 @@ EndChar
 StartChar: meli.sewi
 Encoding: 431 -1 375
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20246,7 +20245,7 @@ EndChar
 StartChar: mije.sewi
 Encoding: 432 -1 376
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20292,7 +20291,7 @@ EndChar
 StartChar: moli.sewi
 Encoding: 433 -1 377
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20355,7 +20354,7 @@ EndChar
 StartChar: nanpa.sewi
 Encoding: 434 -1 378
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20401,7 +20400,7 @@ EndChar
 StartChar: nasin.sewi
 Encoding: 435 -1 379
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20425,7 +20424,7 @@ EndChar
 StartChar: pakala.sewi
 Encoding: 436 -1 380
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20455,7 +20454,7 @@ EndChar
 StartChar: pimeja.sewi
 Encoding: 437 -1 381
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20489,7 +20488,7 @@ EndChar
 StartChar: pipi.sewi
 Encoding: 438 -1 382
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20539,7 +20538,7 @@ EndChar
 StartChar: poka.sewi
 Encoding: 439 -1 383
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20568,7 +20567,7 @@ EndChar
 StartChar: pona.sewi
 Encoding: 440 -1 384
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20593,7 +20592,7 @@ EndChar
 StartChar: sama.sewi
 Encoding: 441 -1 385
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20614,7 +20613,7 @@ EndChar
 StartChar: selo.sewi
 Encoding: 442 -1 386
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20642,7 +20641,7 @@ EndChar
 StartChar: sewi.sewi
 Encoding: 443 -1 387
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20685,7 +20684,7 @@ EndChar
 StartChar: sijelo.sewi
 Encoding: 444 -1 388
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20709,7 +20708,7 @@ EndChar
 StartChar: sitelen.sewi
 Encoding: 445 -1 389
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20757,7 +20756,7 @@ EndChar
 StartChar: soweli.sewi
 Encoding: 446 -1 390
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20869,7 +20868,7 @@ EndChar
 StartChar: suno.sewi
 Encoding: 447 -1 391
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20920,7 +20919,7 @@ EndChar
 StartChar: supa.sewi
 Encoding: 448 -1 392
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20944,7 +20943,7 @@ EndChar
 StartChar: suwi.sewi
 Encoding: 449 -1 393
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -20978,7 +20977,7 @@ EndChar
 StartChar: tan.sewi
 Encoding: 450 -1 394
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21007,7 +21006,7 @@ EndChar
 StartChar: tawa.sewi
 Encoding: 451 -1 395
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21029,7 +21028,7 @@ EndChar
 StartChar: tenpo.sewi
 Encoding: 452 -1 396
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21069,7 +21068,7 @@ EndChar
 StartChar: tomo.sewi
 Encoding: 453 -1 397
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21092,7 +21091,7 @@ EndChar
 StartChar: utala.sewi
 Encoding: 454 -1 398
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21123,7 +21122,7 @@ EndChar
 StartChar: uta.sewi
 Encoding: 455 -1 399
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21157,7 +21156,7 @@ EndChar
 StartChar: walo.sewi
 Encoding: 456 -1 400
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21184,7 +21183,7 @@ EndChar
 StartChar: waso.sewi
 Encoding: 457 -1 401
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21224,7 +21223,7 @@ EndChar
 StartChar: wawa.sewi
 Encoding: 458 -1 402
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21263,7 +21262,7 @@ EndChar
 StartChar: wile.sewi
 Encoding: 459 -1 403
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21308,7 +21307,7 @@ EndChar
 StartChar: dot
 Encoding: 205 989596 404
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21327,7 +21326,7 @@ EndChar
 StartChar: colon.t
 Encoding: 206 989597 405
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21355,7 +21354,7 @@ EndChar
 StartChar: stackjoiner
 Encoding: 204 989589 406
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Ligature2: "zwj" zwj
 Ligature2: "sitelen" hyphen
@@ -21364,6 +21363,7 @@ EndChar
 StartChar: hyphen
 Encoding: 2 45 407
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -21378,14 +21378,14 @@ EndChar
 StartChar: zwj
 Encoding: 62 8205 408
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 EndChar
 
 StartChar: A
 Encoding: 17 65 409
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21410,7 +21410,7 @@ EndChar
 StartChar: B
 Encoding: 18 66 410
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21449,7 +21449,7 @@ EndChar
 StartChar: C
 Encoding: 19 67 411
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21485,7 +21485,7 @@ EndChar
 StartChar: D
 Encoding: 20 68 412
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21518,7 +21518,7 @@ EndChar
 StartChar: E
 Encoding: 21 69 413
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21545,7 +21545,7 @@ EndChar
 StartChar: F
 Encoding: 22 70 414
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21569,7 +21569,7 @@ EndChar
 StartChar: G
 Encoding: 23 71 415
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21615,7 +21615,7 @@ EndChar
 StartChar: H
 Encoding: 24 72 416
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21639,7 +21639,7 @@ EndChar
 StartChar: I
 Encoding: 25 73 417
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21667,7 +21667,7 @@ EndChar
 StartChar: J
 Encoding: 26 74 418
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21695,7 +21695,7 @@ EndChar
 StartChar: K
 Encoding: 27 75 419
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21719,7 +21719,7 @@ EndChar
 StartChar: L
 Encoding: 28 76 420
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21739,7 +21739,7 @@ EndChar
 StartChar: M
 Encoding: 29 77 421
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21763,7 +21763,7 @@ EndChar
 StartChar: N
 Encoding: 30 78 422
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -21785,7 +21785,7 @@ EndChar
 StartChar: O
 Encoding: 31 79 423
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22045,7 +22045,7 @@ EndChar
 StartChar: P
 Encoding: 32 80 424
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22078,7 +22078,7 @@ EndChar
 StartChar: Q
 Encoding: 33 81 425
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22343,7 +22343,7 @@ EndChar
 StartChar: R
 Encoding: 34 82 426
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22383,7 +22383,7 @@ EndChar
 StartChar: S
 Encoding: 35 83 427
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22466,7 +22466,7 @@ EndChar
 StartChar: T
 Encoding: 36 84 428
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22488,7 +22488,7 @@ EndChar
 StartChar: U
 Encoding: 37 85 429
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22959,7 +22959,7 @@ EndChar
 StartChar: V
 Encoding: 38 86 430
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -22981,7 +22981,7 @@ EndChar
 StartChar: W
 Encoding: 39 87 431
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23008,7 +23008,7 @@ EndChar
 StartChar: X
 Encoding: 40 88 432
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23034,7 +23034,7 @@ EndChar
 StartChar: Y
 Encoding: 41 89 433
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23059,7 +23059,7 @@ EndChar
 StartChar: Z
 Encoding: 42 90 434
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23083,7 +23083,7 @@ EndChar
 StartChar: cart.A
 Encoding: 460 -1 435
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23119,7 +23119,7 @@ EndChar
 StartChar: cart.B
 Encoding: 461 -1 436
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23169,7 +23169,7 @@ EndChar
 StartChar: cart.C
 Encoding: 462 -1 437
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23216,7 +23216,7 @@ EndChar
 StartChar: cart.D
 Encoding: 463 -1 438
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23260,7 +23260,7 @@ EndChar
 StartChar: cart.E
 Encoding: 464 -1 439
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23298,7 +23298,7 @@ EndChar
 StartChar: cart.F
 Encoding: 465 -1 440
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23333,7 +23333,7 @@ EndChar
 StartChar: cart.G
 Encoding: 466 -1 441
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23390,7 +23390,7 @@ EndChar
 StartChar: cart.H
 Encoding: 467 -1 442
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23425,7 +23425,7 @@ EndChar
 StartChar: cart.I
 Encoding: 468 -1 443
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23464,7 +23464,7 @@ EndChar
 StartChar: cart.J
 Encoding: 469 -1 444
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23503,7 +23503,7 @@ EndChar
 StartChar: cart.K
 Encoding: 470 -1 445
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23538,7 +23538,7 @@ EndChar
 StartChar: cart.L
 Encoding: 471 -1 446
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23569,7 +23569,7 @@ EndChar
 StartChar: cart.M
 Encoding: 472 -1 447
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23604,7 +23604,7 @@ EndChar
 StartChar: cart.N
 Encoding: 473 -1 448
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23637,7 +23637,7 @@ EndChar
 StartChar: cart.O
 Encoding: 474 -1 449
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23908,7 +23908,7 @@ EndChar
 StartChar: cart.P
 Encoding: 475 -1 450
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -23952,7 +23952,7 @@ EndChar
 StartChar: cart.Q
 Encoding: 476 -1 451
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24228,7 +24228,7 @@ EndChar
 StartChar: cart.R
 Encoding: 477 -1 452
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24279,7 +24279,7 @@ EndChar
 StartChar: cart.S
 Encoding: 478 -1 453
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24373,7 +24373,7 @@ EndChar
 StartChar: cart.T
 Encoding: 479 -1 454
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24406,7 +24406,7 @@ EndChar
 StartChar: cart.U
 Encoding: 480 -1 455
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24888,7 +24888,7 @@ EndChar
 StartChar: cart.V
 Encoding: 481 -1 456
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24921,7 +24921,7 @@ EndChar
 StartChar: cart.W
 Encoding: 482 -1 457
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24959,7 +24959,7 @@ EndChar
 StartChar: cart.X
 Encoding: 483 -1 458
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -24996,7 +24996,7 @@ EndChar
 StartChar: cart.Y
 Encoding: 484 -1 459
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25032,7 +25032,7 @@ EndChar
 StartChar: cart.Z
 Encoding: 485 -1 460
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25067,6 +25067,7 @@ EndChar
 StartChar: zero
 Encoding: 4 48 461
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25101,6 +25102,7 @@ EndChar
 StartChar: one
 Encoding: 5 49 462
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25125,6 +25127,7 @@ EndChar
 StartChar: two
 Encoding: 6 50 463
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25153,6 +25156,7 @@ EndChar
 StartChar: three
 Encoding: 7 51 464
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25198,6 +25202,7 @@ EndChar
 StartChar: four
 Encoding: 8 52 465
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25224,6 +25229,7 @@ EndChar
 StartChar: five
 Encoding: 9 53 466
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25265,6 +25271,7 @@ EndChar
 StartChar: six
 Encoding: 10 54 467
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25299,6 +25306,7 @@ EndChar
 StartChar: seven
 Encoding: 11 55 468
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25316,6 +25324,7 @@ EndChar
 StartChar: eight
 Encoding: 12 56 469
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25360,6 +25369,7 @@ EndChar
 StartChar: nine
 Encoding: 13 57 470
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -25394,7 +25404,7 @@ EndChar
 StartChar: cart.namako
 Encoding: 486 -1 471
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25443,7 +25453,7 @@ EndChar
 StartChar: ku.t
 Encoding: 199 989576 472
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25485,7 +25495,7 @@ EndChar
 StartChar: misikeke.t
 Encoding: 198 989575 473
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25525,7 +25535,7 @@ EndChar
 StartChar: kokosila.t
 Encoding: 195 989572 474
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25576,7 +25586,7 @@ EndChar
 StartChar: epiku.t
 Encoding: 194 989571 475
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25617,7 +25627,7 @@ EndChar
 StartChar: meso.t
 Encoding: 193 989570 476
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25649,7 +25659,7 @@ EndChar
 StartChar: soko.t
 Encoding: 192 989569 477
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25690,7 +25700,7 @@ EndChar
 StartChar: lanpan.t
 Encoding: 196 989573 478
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25767,7 +25777,7 @@ EndChar
 StartChar: cart.kin
 Encoding: 487 -1 479
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25813,7 +25823,7 @@ EndChar
 StartChar: cart.oko
 Encoding: 488 -1 480
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25864,7 +25874,7 @@ EndChar
 StartChar: cart.kipisi
 Encoding: 489 -1 481
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25909,7 +25919,7 @@ EndChar
 StartChar: cart.monsuta
 Encoding: 490 -1 482
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -25950,7 +25960,7 @@ EndChar
 StartChar: cart.tonsi
 Encoding: 491 -1 483
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26021,7 +26031,7 @@ EndChar
 StartChar: cart.jasima
 Encoding: 492 -1 484
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26084,7 +26094,7 @@ EndChar
 StartChar: cart.soko
 Encoding: 493 -1 485
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26134,7 +26144,7 @@ EndChar
 StartChar: cart.meso
 Encoding: 494 -1 486
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26175,7 +26185,7 @@ EndChar
 StartChar: cart.epiku
 Encoding: 495 -1 487
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26225,7 +26235,7 @@ EndChar
 StartChar: cart.kokosila
 Encoding: 496 -1 488
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26285,7 +26295,7 @@ EndChar
 StartChar: cart.lanpan
 Encoding: 497 -1 489
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26371,7 +26381,7 @@ EndChar
 StartChar: cart.misikeke
 Encoding: 498 -1 490
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26420,7 +26430,7 @@ EndChar
 StartChar: cart.ku
 Encoding: 499 -1 491
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26471,7 +26481,7 @@ EndChar
 StartChar: pake.t
 Encoding: 207 989600 492
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26495,7 +26505,7 @@ EndChar
 StartChar: apeja.t
 Encoding: 208 989601 493
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26569,7 +26579,7 @@ EndChar
 StartChar: majuna.t
 Encoding: 209 989602 494
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26607,7 +26617,7 @@ EndChar
 StartChar: powe.t
 Encoding: 210 989603 495
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26638,7 +26648,7 @@ EndChar
 StartChar: cart.pake
 Encoding: 500 -1 496
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26671,7 +26681,7 @@ EndChar
 StartChar: cart.apeja
 Encoding: 501 -1 497
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26754,7 +26764,7 @@ EndChar
 StartChar: cart.majuna
 Encoding: 502 -1 498
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26801,7 +26811,7 @@ EndChar
 StartChar: cart.powe
 Encoding: 503 -1 499
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -26841,6 +26851,7 @@ EndChar
 StartChar: lipamanka.t
 Encoding: 504 -1 500
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27020,6 +27031,7 @@ EndChar
 StartChar: less
 Encoding: 15 60 501
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27037,6 +27049,7 @@ EndChar
 StartChar: greater
 Encoding: 16 62 502
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27054,6 +27067,7 @@ EndChar
 StartChar: v
 Encoding: 59 118 503
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27071,6 +27085,7 @@ EndChar
 StartChar: asciicircum
 Encoding: 45 94 504
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27089,6 +27104,7 @@ EndChar
 StartChar: ni.t.dr
 Encoding: 505 -1 505
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27110,6 +27126,7 @@ EndChar
 StartChar: ni.t.r
 Encoding: 506 -1 506
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27132,6 +27149,7 @@ EndChar
 StartChar: ni.t.ur
 Encoding: 507 -1 507
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27153,6 +27171,7 @@ EndChar
 StartChar: ni.t.u
 Encoding: 508 -1 508
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27173,6 +27192,7 @@ EndChar
 StartChar: ni.t.ul
 Encoding: 509 -1 509
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27194,6 +27214,7 @@ EndChar
 StartChar: ni.t.l
 Encoding: 510 -1 510
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27214,6 +27235,7 @@ EndChar
 StartChar: ni.t.dl
 Encoding: 511 -1 511
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -27235,7 +27257,7 @@ EndChar
 StartChar: sewi.a.t
 Encoding: 512 -1 512
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27272,7 +27294,7 @@ EndChar
 StartChar: ijo.sewi
 Encoding: 513 -1 513
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27309,7 +27331,7 @@ EndChar
 StartChar: ken.sewi
 Encoding: 514 -1 514
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27338,7 +27360,7 @@ EndChar
 StartChar: lili.sewi
 Encoding: 515 -1 515
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27356,7 +27378,7 @@ EndChar
 StartChar: lipu.sewi
 Encoding: 516 -1 516
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27377,7 +27399,7 @@ EndChar
 StartChar: monsi.sewi
 Encoding: 517 -1 517
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27406,7 +27428,7 @@ EndChar
 StartChar: mun.sewi
 Encoding: 518 -1 518
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27439,7 +27461,7 @@ EndChar
 StartChar: mute.sewi
 Encoding: 519 -1 519
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27465,7 +27487,7 @@ EndChar
 StartChar: ni.sewi
 Encoding: 520 -1 520
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27488,7 +27510,7 @@ EndChar
 StartChar: nimi.sewi
 Encoding: 521 -1 521
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27742,7 +27764,7 @@ EndChar
 StartChar: noka.sewi
 Encoding: 522 -1 522
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27785,7 +27807,7 @@ EndChar
 StartChar: ona.sewi
 Encoding: 523 -1 523
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27818,7 +27840,7 @@ EndChar
 StartChar: open.sewi
 Encoding: 524 -1 524
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27845,7 +27867,7 @@ EndChar
 StartChar: pini.sewi
 Encoding: 525 -1 525
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27869,7 +27891,7 @@ EndChar
 StartChar: poki.sewi
 Encoding: 526 -1 526
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27889,7 +27911,7 @@ EndChar
 StartChar: sin.sewi
 Encoding: 527 -1 527
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27915,7 +27937,7 @@ EndChar
 StartChar: sinpin.sewi
 Encoding: 528 -1 528
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27944,7 +27966,7 @@ EndChar
 StartChar: suli.sewi
 Encoding: 529 -1 529
 Width: 0
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -27975,6 +27997,7 @@ EndChar
 StartChar: ijo.anpa
 Encoding: 530 -1 530
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28012,6 +28035,7 @@ EndChar
 StartChar: ken.anpa
 Encoding: 531 -1 531
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28041,6 +28065,7 @@ EndChar
 StartChar: lili.anpa
 Encoding: 532 -1 532
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28059,6 +28084,7 @@ EndChar
 StartChar: lipu.anpa
 Encoding: 533 -1 533
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28080,6 +28106,7 @@ EndChar
 StartChar: monsi.anpa
 Encoding: 534 -1 534
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28109,6 +28136,7 @@ EndChar
 StartChar: mun.anpa
 Encoding: 535 -1 535
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28142,6 +28170,7 @@ EndChar
 StartChar: mute.anpa
 Encoding: 536 -1 536
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28168,6 +28197,7 @@ EndChar
 StartChar: ni.anpa
 Encoding: 537 -1 537
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28191,6 +28221,7 @@ EndChar
 StartChar: nimi.anpa
 Encoding: 538 -1 538
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28445,6 +28476,7 @@ EndChar
 StartChar: noka.anpa
 Encoding: 539 -1 539
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28488,6 +28520,7 @@ EndChar
 StartChar: ona.anpa
 Encoding: 540 -1 540
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28521,6 +28554,7 @@ EndChar
 StartChar: open.anpa
 Encoding: 541 -1 541
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28548,6 +28582,7 @@ EndChar
 StartChar: pini.anpa
 Encoding: 542 -1 542
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28572,6 +28607,7 @@ EndChar
 StartChar: poki.anpa
 Encoding: 543 -1 543
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28592,6 +28628,7 @@ EndChar
 StartChar: sin.anpa
 Encoding: 544 -1 544
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28618,6 +28655,7 @@ EndChar
 StartChar: sinpin.anpa
 Encoding: 545 -1 545
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28647,6 +28685,7 @@ EndChar
 StartChar: suli.anpa
 Encoding: 546 -1 546
 Width: 1100
+Flags: M
 LayerCount: 2
 Fore
 SplineSet
@@ -28742,7 +28781,7 @@ EndChar
 StartChar: te.t
 Encoding: 547 -1 547
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -28763,7 +28802,7 @@ EndChar
 StartChar: to.t
 Encoding: 548 -1 548
 Width: 1100
-Flags: W
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
