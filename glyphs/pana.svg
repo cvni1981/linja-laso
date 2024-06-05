@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.3812435"
-     inkscape:cx="166.15462"
-     inkscape:cy="271.49448"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="165.79264"
+     inkscape:cy="271.1325"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -59,32 +59,6 @@
     <path
        id="path3"
        style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.220484;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       d="M 54.999738,50.000005 A 24.999771,24.999771 0 0 0 30.00023,75.000029 h 9.999906 A 15,15 0 0 1 54.999738,60.000428 15,15 0 0 1 69.999856,75.000029 h 9.999906 A 24.999771,24.999771 0 0 0 54.999738,50.000005 Z" />
-    <path
-       id="rect4"
-       style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.350011;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       d="m 30,75.000029 h 9.999999 V 110 H 30 Z" />
-    <path
-       id="rect5"
-       style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.350011;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       d="m 69.999998,75.000029 h 9.999999 V 110 h -9.999999 z" />
-    <path
-       id="rect6"
-       style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.216031;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       inkscape:transform-center-x="3.1698703"
-       inkscape:transform-center-y="-15.490376"
-       d="m 14.999998,84.019246 8.660253,-5 15.000004,25.980764 -8.660253,5 z" />
-    <path
-       id="rect15-88"
-       style="fill:#0a0a0a;stroke-width:0.2514;stroke-miterlimit:100"
-       d="m 49.999996,20.000006 h 10 v 22.5001 h -10 z" />
-    <path
-       id="rect15-8"
-       style="fill:#0a0a0a;stroke-width:0.5333;stroke-miterlimit:100"
-       d="m 75.000076,19.999918 -7.4998,22.500435 h 10.54044 l 7.50032,-22.500435 z" />
-    <path
-       id="rect15-8-0"
-       style="fill:#0a0a0a;stroke-width:0.5333;stroke-miterlimit:100"
-       d="m 35.000206,19.99967 7.4998,22.500436 H 31.959549 L 24.459239,19.99967 Z" />
+       d="M 24.459489 19.999813 L 31.959806 42.500248 L 42.500248 42.500248 L 35.000448 19.999813 L 24.459489 19.999813 z M 50.000049 19.999813 L 50.000049 42.500248 L 59.999955 42.500248 L 59.999955 19.999813 L 50.000049 19.999813 z M 75.000073 19.999813 L 67.500273 42.500248 L 78.040715 42.500248 L 85.541032 19.999813 L 75.000073 19.999813 z M 54.999744 50.000049 A 24.999771 24.999771 0 0 0 30.000236 75.000073 L 30.000236 90.000708 L 23.660055 79.019466 L 15.000118 84.019161 L 30.000236 110 L 40.000142 110 L 40.000142 75.000073 A 15 15 0 0 1 54.999744 60.000472 A 15 15 0 0 1 69.999862 75.000073 L 69.999862 110 L 79.999768 110 L 79.999768 75.000073 A 24.999771 24.999771 0 0 0 54.999744 50.000049 z " />
   </g>
 </svg>
