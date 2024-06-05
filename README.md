@@ -11,7 +11,7 @@ any and all quibbles may be sent to cvni1981@gmail.com
 - nimi pu ale, nimi ku suli ale
     - also the nimi ku lili in the UCSUR standard so all glyphs are included
     - also vast majority of alts `tonsi1 tonsi2...`
-- cartouched glyphs `[ ]`, morae dots `. (period); · (interpunct) :`and tick marks `,`, te and to quotation marks
+- cartouched glyphs `[ ]`, morae dots `. (period) · (interpunct) :`and tick marks `,`, te and to quotation marks
 - stackable versions of most glyphs `-`
 - directional ni `ni>v ⇒ ↘; ni: ⇒ →`
 - zero width non joiner/ZWNJ `|`

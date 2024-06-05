@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1710370062
-ModificationTime: 1717619216
+ModificationTime: 1717623495
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -804,7 +804,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 610 10 4
+WinInfo: 480 10 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 0 0 0 564618 1048576 0 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -29478,7 +29478,7 @@ EndChar
 
 StartChar: mu.t1
 Encoding: 580 -1 578
-Width: 550
+Width: 1100
 Flags: W
 LayerCount: 2
 Fore
@@ -29499,6 +29499,7 @@ SplineSet
  0 324.997070312 l 1,11,-1
  225.00390625 249.999023438 l 1,8,-1
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "alts" mu.t one
 Ligature2: "alts" mu.t var1
 Substitution2: "cartouched sitelen" cart.mu1
@@ -32341,7 +32342,7 @@ EndChar
 
 StartChar: cart.mu1
 Encoding: 617 -1 615
-Width: 550
+Width: 1100
 Flags: W
 LayerCount: 2
 Fore
@@ -33834,6 +33835,7 @@ SplineSet
  449.998779297 158.608154297 449.998779297 158.608154297 479.301513672 129.305419922 c 128,-1,534
  508.604248047 100.002685547 508.604248047 100.002685547 549.997070312 100.001953125 c 128,-1,535
 EndSplineSet
+Ligature2: "alts" sina.t one
 Ligature2: "alts" sina.t var1
 Substitution2: "cartouched sitelen" cart.sina1
 EndChar
@@ -34387,6 +34389,7 @@ SplineSet
  841.390869141 349.997802734 841.390869141 349.997802734 870.693603516 379.300537109 c 128,-1,534
  899.996337891 408.603271484 899.996337891 408.603271484 899.997070312 449.99609375 c 128,-1,535
 EndSplineSet
+Ligature2: "alts" ona.t one
 Ligature2: "alts" ona.t var1
 Substitution2: "cartouched sitelen" cart.ona1
 EndChar
