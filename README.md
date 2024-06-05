@@ -10,9 +10,11 @@ any and all quibbles may be sent to cvni1981@gmail.com
 ### currently has:
 - nimi pu ale, nimi ku suli ale
     - also the nimi ku lili in the UCSUR standard so all glyphs are included
-    - also vast majority of alts
-- cartouched glyphs, morae dots and tick marks, te and to quotation marks
-- stackable versions of most glyphs (using `-`)
+    - also vast majority of alts `tonsi1 tonsi2...`
+- cartouched glyphs `[ ]`, morae dots `. (period); · (interpunct) :`and tick marks `,`, te and to quotation marks
+- stackable versions of most glyphs `-`
+- directional ni `ni>v ⇒ ↘; ni: ⇒ →`
+- zero width non joiner/ZWNJ `|`
 
 ### will (hopefully soon) have:
 - personal glyphs (priority on those who Need them to be identified)
