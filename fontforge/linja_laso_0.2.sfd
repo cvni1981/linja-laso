@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1710370062
-ModificationTime: 1717341969
+ModificationTime: 1717593789
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -796,20 +796,20 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "Version 001.000" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
-Encoding: Custom
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 144 18 7
+WinInfo: 989406 18 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 0 0 0 564618 1048576 0 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 553 549
+BeginChars: 1114450 557
 
 StartChar: .notdef
-Encoding: 211 -1 0
+Encoding: 1114112 -1 0
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -830,7 +830,7 @@ EndSplineSet
 EndChar
 
 StartChar: .null
-Encoding: 212 -1 1
+Encoding: 1114113 -1 1
 Width: 0
 GlyphClass: 1
 Flags: MW
@@ -838,7 +838,7 @@ LayerCount: 2
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 213 -1 2
+Encoding: 1114114 -1 2
 Width: 433
 GlyphClass: 1
 Flags: MW
@@ -846,7 +846,7 @@ LayerCount: 2
 EndChar
 
 StartChar: space
-Encoding: 0 32 3
+Encoding: 32 32 3
 Width: 0
 GlyphClass: 1
 Flags: MW
@@ -854,7 +854,7 @@ LayerCount: 2
 EndChar
 
 StartChar: bracketleft
-Encoding: 43 91 4
+Encoding: 91 91 4
 Width: 1000
 GlyphClass: 2
 Flags: MW
@@ -862,7 +862,7 @@ LayerCount: 2
 EndChar
 
 StartChar: bracketright
-Encoding: 44 93 5
+Encoding: 93 93 5
 Width: 1000
 GlyphClass: 2
 Flags: MW
@@ -870,7 +870,7 @@ LayerCount: 2
 EndChar
 
 StartChar: a
-Encoding: 46 97 6
+Encoding: 97 97 6
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -907,7 +907,7 @@ Substitution2: "cartouched sitelen" cart.a
 EndChar
 
 StartChar: e
-Encoding: 47 101 7
+Encoding: 101 101 7
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -933,7 +933,7 @@ Substitution2: "cartouched sitelen" cart.e
 EndChar
 
 StartChar: i
-Encoding: 48 105 8
+Encoding: 105 105 8
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -958,7 +958,7 @@ EndSplineSet
 EndChar
 
 StartChar: j
-Encoding: 49 106 9
+Encoding: 106 106 9
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -989,7 +989,7 @@ EndSplineSet
 EndChar
 
 StartChar: k
-Encoding: 50 107 10
+Encoding: 107 107 10
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -1012,7 +1012,7 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 51 108 11
+Encoding: 108 108 11
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -1640,7 +1640,7 @@ EndSplineSet
 EndChar
 
 StartChar: m
-Encoding: 52 109 12
+Encoding: 109 109 12
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -1678,7 +1678,7 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 53 110 13
+Encoding: 110 110 13
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -1712,7 +1712,7 @@ Substitution2: "cartouched sitelen" cart.n
 EndChar
 
 StartChar: o
-Encoding: 54 111 14
+Encoding: 111 111 14
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -1747,7 +1747,7 @@ Substitution2: "cartouched sitelen" cart.o
 EndChar
 
 StartChar: p
-Encoding: 55 112 15
+Encoding: 112 112 15
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -1784,7 +1784,7 @@ EndSplineSet
 EndChar
 
 StartChar: s
-Encoding: 56 115 16
+Encoding: 115 115 16
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -1958,7 +1958,7 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 57 116 17
+Encoding: 116 116 17
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -1986,7 +1986,7 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 58 117 18
+Encoding: 117 117 18
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2014,7 +2014,7 @@ EndSplineSet
 EndChar
 
 StartChar: w
-Encoding: 60 119 19
+Encoding: 119 119 19
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2039,7 +2039,7 @@ EndSplineSet
 EndChar
 
 StartChar: a.t
-Encoding: 63 989440 20
+Encoding: 989440 989440 20
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2077,7 +2077,7 @@ Substitution2: "cartouched sitelen" cart.a
 EndChar
 
 StartChar: akesi.t
-Encoding: 64 989441 21
+Encoding: 989441 989441 21
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2158,7 +2158,7 @@ Ligature2: "sitelen" a k e s i
 EndChar
 
 StartChar: ala.t
-Encoding: 65 989442 22
+Encoding: 989442 989442 22
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2186,7 +2186,7 @@ Ligature2: "sitelen" a l a
 EndChar
 
 StartChar: alasa.t
-Encoding: 66 989443 23
+Encoding: 989443 989443 23
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2238,7 +2238,7 @@ Ligature2: "sitelen" a l a s a
 EndChar
 
 StartChar: ale.t
-Encoding: 67 989444 24
+Encoding: 989444 989444 24
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2302,7 +2302,7 @@ Ligature2: "sitelen" a l i
 EndChar
 
 StartChar: anpa.t
-Encoding: 68 989445 25
+Encoding: 989445 989445 25
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2334,7 +2334,7 @@ Ligature2: "sitelen" a n p a
 EndChar
 
 StartChar: ante.t
-Encoding: 69 989446 26
+Encoding: 989446 989446 26
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2362,7 +2362,7 @@ Ligature2: "sitelen" a n t e
 EndChar
 
 StartChar: anu.t
-Encoding: 70 989447 27
+Encoding: 989447 989447 27
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2386,7 +2386,7 @@ Ligature2: "sitelen" a n u
 EndChar
 
 StartChar: awen.t
-Encoding: 71 989448 28
+Encoding: 989448 989448 28
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2411,7 +2411,7 @@ Ligature2: "sitelen" a w e n
 EndChar
 
 StartChar: e.t
-Encoding: 72 989449 29
+Encoding: 989449 989449 29
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2438,7 +2438,7 @@ Substitution2: "cartouched sitelen" cart.e
 EndChar
 
 StartChar: en.t
-Encoding: 73 989450 30
+Encoding: 989450 989450 30
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2465,7 +2465,7 @@ Ligature2: "sitelen" e n
 EndChar
 
 StartChar: esun.t
-Encoding: 74 989451 31
+Encoding: 989451 989451 31
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2527,7 +2527,7 @@ Ligature2: "sitelen" e s u n
 EndChar
 
 StartChar: ijo.t
-Encoding: 75 989452 32
+Encoding: 989452 989452 32
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2571,7 +2571,7 @@ Ligature2: "sitelen" i j o
 EndChar
 
 StartChar: ike.t
-Encoding: 76 989453 33
+Encoding: 989453 989453 33
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2670,7 +2670,7 @@ Ligature2: "sitelen" i k e
 EndChar
 
 StartChar: ilo.t
-Encoding: 77 989454 34
+Encoding: 989454 989454 34
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2703,7 +2703,7 @@ Ligature2: "sitelen" i l o
 EndChar
 
 StartChar: insa.t
-Encoding: 78 989455 35
+Encoding: 989455 989455 35
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2738,7 +2738,7 @@ Ligature2: "sitelen" i n s a
 EndChar
 
 StartChar: jaki.t
-Encoding: 79 989456 36
+Encoding: 989456 989456 36
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2838,7 +2838,7 @@ Ligature2: "sitelen" j a k i
 EndChar
 
 StartChar: jan.t
-Encoding: 80 989457 37
+Encoding: 989457 989457 37
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2880,7 +2880,7 @@ Ligature2: "sitelen" j a n
 EndChar
 
 StartChar: jelo.t
-Encoding: 81 989458 38
+Encoding: 989458 989458 38
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2930,7 +2930,7 @@ Ligature2: "sitelen" j e l o
 EndChar
 
 StartChar: jo.t
-Encoding: 82 989459 39
+Encoding: 989459 989459 39
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2984,7 +2984,7 @@ Ligature2: "sitelen" j o
 EndChar
 
 StartChar: kala.t
-Encoding: 83 989460 40
+Encoding: 989460 989460 40
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3024,7 +3024,7 @@ Ligature2: "sitelen" k a l a
 EndChar
 
 StartChar: kalama.t
-Encoding: 84 989461 41
+Encoding: 989461 989461 41
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3069,7 +3069,7 @@ Ligature2: "sitelen" k a l a m a
 EndChar
 
 StartChar: kama.t
-Encoding: 85 989462 42
+Encoding: 989462 989462 42
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3098,7 +3098,7 @@ Ligature2: "sitelen" k a m a
 EndChar
 
 StartChar: kasi.t
-Encoding: 86 989463 43
+Encoding: 989463 989463 43
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3143,7 +3143,7 @@ Ligature2: "sitelen" k a s i
 EndChar
 
 StartChar: ken.t
-Encoding: 87 989464 44
+Encoding: 989464 989464 44
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3181,7 +3181,7 @@ Ligature2: "sitelen" k e n
 EndChar
 
 StartChar: kepeken.t
-Encoding: 88 989465 45
+Encoding: 989465 989465 45
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3230,7 +3230,7 @@ Ligature2: "sitelen" k e p e k e n
 EndChar
 
 StartChar: kili.t
-Encoding: 89 989466 46
+Encoding: 989466 989466 46
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3281,7 +3281,7 @@ Ligature2: "sitelen" k i l i
 EndChar
 
 StartChar: kiwen.t
-Encoding: 90 989467 47
+Encoding: 989467 989467 47
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3307,7 +3307,7 @@ Ligature2: "sitelen" k i w e n
 EndChar
 
 StartChar: ko.t
-Encoding: 91 989468 48
+Encoding: 989468 989468 48
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3436,7 +3436,7 @@ Ligature2: "sitelen" k o
 EndChar
 
 StartChar: kon.t
-Encoding: 92 989469 49
+Encoding: 989469 989469 49
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3484,7 +3484,7 @@ Ligature2: "sitelen" k o n
 EndChar
 
 StartChar: kule.t
-Encoding: 93 989470 50
+Encoding: 989470 989470 50
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3519,7 +3519,7 @@ Ligature2: "sitelen" k u l e
 EndChar
 
 StartChar: kulupu.t
-Encoding: 94 989471 51
+Encoding: 989471 989471 51
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3587,7 +3587,7 @@ Ligature2: "sitelen" k u l u p u
 EndChar
 
 StartChar: kute.t
-Encoding: 95 989472 52
+Encoding: 989472 989472 52
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3632,7 +3632,7 @@ Ligature2: "sitelen" k u t e
 EndChar
 
 StartChar: la.t
-Encoding: 96 989473 53
+Encoding: 989473 989473 53
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3657,7 +3657,7 @@ Ligature2: "sitelen" l a
 EndChar
 
 StartChar: lape.t
-Encoding: 97 989474 54
+Encoding: 989474 989474 54
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3692,7 +3692,7 @@ Ligature2: "sitelen" l a p e
 EndChar
 
 StartChar: laso.t
-Encoding: 98 989475 55
+Encoding: 989475 989475 55
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3740,7 +3740,7 @@ Ligature2: "sitelen" l a s o
 EndChar
 
 StartChar: lawa.t
-Encoding: 99 989476 56
+Encoding: 989476 989476 56
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3783,7 +3783,7 @@ Ligature2: "sitelen" l a w a
 EndChar
 
 StartChar: len.t
-Encoding: 100 989477 57
+Encoding: 989477 989477 57
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3816,7 +3816,7 @@ Ligature2: "sitelen" l e n
 EndChar
 
 StartChar: lete.t
-Encoding: 101 989478 58
+Encoding: 989478 989478 58
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3849,7 +3849,7 @@ Ligature2: "sitelen" l e t e
 EndChar
 
 StartChar: li.t
-Encoding: 102 989479 59
+Encoding: 989479 989479 59
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3870,7 +3870,7 @@ Ligature2: "sitelen" l i
 EndChar
 
 StartChar: lili.t
-Encoding: 103 989480 60
+Encoding: 989480 989480 60
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3891,7 +3891,7 @@ Ligature2: "sitelen" l i l i
 EndChar
 
 StartChar: linja.t
-Encoding: 104 989481 61
+Encoding: 989481 989481 61
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3923,7 +3923,7 @@ Ligature2: "sitelen" l i n j a
 EndChar
 
 StartChar: lipu.t
-Encoding: 105 989482 62
+Encoding: 989482 989482 62
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3953,7 +3953,7 @@ Ligature2: "sitelen" l i p u
 EndChar
 
 StartChar: loje.t
-Encoding: 106 989483 63
+Encoding: 989483 989483 63
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3993,7 +3993,7 @@ Ligature2: "sitelen" l o j e
 EndChar
 
 StartChar: lon.t
-Encoding: 107 989484 64
+Encoding: 989484 989484 64
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4021,7 +4021,7 @@ Ligature2: "sitelen" l o n
 EndChar
 
 StartChar: luka.t
-Encoding: 108 989485 65
+Encoding: 989485 989485 65
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4053,7 +4053,7 @@ Ligature2: "sitelen" l u k a
 EndChar
 
 StartChar: lukin.t
-Encoding: 109 989486 66
+Encoding: 989486 989486 66
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4099,7 +4099,7 @@ Ligature2: "sitelen" l u k i n
 EndChar
 
 StartChar: lupa.t
-Encoding: 110 989487 67
+Encoding: 989487 989487 67
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4128,7 +4128,7 @@ Ligature2: "sitelen" l u p a
 EndChar
 
 StartChar: ma.t
-Encoding: 111 989488 68
+Encoding: 989488 989488 68
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4179,7 +4179,7 @@ Ligature2: "sitelen" m a
 EndChar
 
 StartChar: mama.t
-Encoding: 112 989489 69
+Encoding: 989489 989489 69
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4230,7 +4230,7 @@ Ligature2: "sitelen" m a m a
 EndChar
 
 StartChar: mani.t
-Encoding: 113 989490 70
+Encoding: 989490 989490 70
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4276,7 +4276,7 @@ Ligature2: "sitelen" m a n i
 EndChar
 
 StartChar: meli.t
-Encoding: 114 989491 71
+Encoding: 989491 989491 71
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4329,7 +4329,7 @@ Ligature2: "sitelen" m e l i
 EndChar
 
 StartChar: mi.t
-Encoding: 115 989492 72
+Encoding: 989492 989492 72
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4366,7 +4366,7 @@ Ligature2: "sitelen" m i
 EndChar
 
 StartChar: mije.t
-Encoding: 116 989493 73
+Encoding: 989493 989493 73
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4419,7 +4419,7 @@ Ligature2: "sitelen" m i j e
 EndChar
 
 StartChar: moku.t
-Encoding: 117 989494 74
+Encoding: 989494 989494 74
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4509,7 +4509,7 @@ Ligature2: "sitelen" m o k u
 EndChar
 
 StartChar: moli.t
-Encoding: 118 989495 75
+Encoding: 989495 989495 75
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4579,7 +4579,7 @@ Ligature2: "sitelen" m o l i
 EndChar
 
 StartChar: monsi.t
-Encoding: 119 989496 76
+Encoding: 989496 989496 76
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4616,7 +4616,7 @@ Ligature2: "sitelen" m o n s i
 EndChar
 
 StartChar: mu.t
-Encoding: 120 989497 77
+Encoding: 989497 989497 77
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4689,7 +4689,7 @@ Ligature2: "sitelen" m u
 EndChar
 
 StartChar: mun.t
-Encoding: 121 989498 78
+Encoding: 989498 989498 78
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4735,7 +4735,7 @@ Ligature2: "sitelen" m u n
 EndChar
 
 StartChar: musi.t
-Encoding: 122 989499 79
+Encoding: 989499 989499 79
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4802,7 +4802,7 @@ Ligature2: "sitelen" m u s i
 EndChar
 
 StartChar: mute.t
-Encoding: 123 989500 80
+Encoding: 989500 989500 80
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4831,7 +4831,7 @@ Ligature2: "sitelen" m u t e
 EndChar
 
 StartChar: nanpa.t
-Encoding: 124 989501 81
+Encoding: 989501 989501 81
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4879,7 +4879,7 @@ Ligature2: "sitelen" n a n p a
 EndChar
 
 StartChar: nasa.t
-Encoding: 125 989502 82
+Encoding: 989502 989502 82
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4935,7 +4935,7 @@ Ligature2: "sitelen" n a s a
 EndChar
 
 StartChar: nasin.t
-Encoding: 126 989503 83
+Encoding: 989503 989503 83
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4962,7 +4962,7 @@ Ligature2: "sitelen" n a s i n
 EndChar
 
 StartChar: nena.t
-Encoding: 127 989504 84
+Encoding: 989504 989504 84
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4991,7 +4991,7 @@ Ligature2: "sitelen" n e n a
 EndChar
 
 StartChar: ni.t
-Encoding: 128 989505 85
+Encoding: 989505 989505 85
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5015,7 +5015,7 @@ Ligature2: "sitelen" n i
 EndChar
 
 StartChar: nimi.t
-Encoding: 129 989506 86
+Encoding: 989506 989506 86
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5191,7 +5191,7 @@ Ligature2: "sitelen" n i m i
 EndChar
 
 StartChar: noka.t
-Encoding: 130 989507 87
+Encoding: 989507 989507 87
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5226,7 +5226,7 @@ Ligature2: "sitelen" n o k a
 EndChar
 
 StartChar: o.t
-Encoding: 131 989508 88
+Encoding: 989508 989508 88
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5262,7 +5262,7 @@ Substitution2: "cartouched sitelen" cart.o
 EndChar
 
 StartChar: olin.t
-Encoding: 132 989509 89
+Encoding: 989509 989509 89
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5333,7 +5333,7 @@ Ligature2: "sitelen" o l i n
 EndChar
 
 StartChar: ona.t
-Encoding: 133 989510 90
+Encoding: 989510 989510 90
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5371,7 +5371,7 @@ Ligature2: "sitelen" o n a
 EndChar
 
 StartChar: open.t
-Encoding: 134 989511 91
+Encoding: 989511 989511 91
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5401,7 +5401,7 @@ Ligature2: "sitelen" o p e n
 EndChar
 
 StartChar: pakala.t
-Encoding: 135 989512 92
+Encoding: 989512 989512 92
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5443,7 +5443,7 @@ Ligature2: "sitelen" p a k a l a
 EndChar
 
 StartChar: pali.t
-Encoding: 136 989513 93
+Encoding: 989513 989513 93
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5492,7 +5492,7 @@ Ligature2: "sitelen" p a l i
 EndChar
 
 StartChar: palisa.t
-Encoding: 137 989514 94
+Encoding: 989514 989514 94
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5533,7 +5533,7 @@ Ligature2: "sitelen" p a l i s a
 EndChar
 
 StartChar: pan.t
-Encoding: 138 989515 95
+Encoding: 989515 989515 95
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5574,7 +5574,7 @@ Ligature2: "sitelen" p a n
 EndChar
 
 StartChar: pana.t
-Encoding: 139 989516 96
+Encoding: 989516 989516 96
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5621,7 +5621,7 @@ Ligature2: "sitelen" p a n a
 EndChar
 
 StartChar: pi.t
-Encoding: 140 989517 97
+Encoding: 989517 989517 97
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5644,7 +5644,7 @@ Ligature2: "sitelen" p i
 EndChar
 
 StartChar: pilin.t
-Encoding: 141 989518 98
+Encoding: 989518 989518 98
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5704,7 +5704,7 @@ Ligature2: "sitelen" p i l i n
 EndChar
 
 StartChar: pimeja.t
-Encoding: 142 989519 99
+Encoding: 989519 989519 99
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5744,7 +5744,7 @@ Ligature2: "sitelen" p i m e j a
 EndChar
 
 StartChar: pini.t
-Encoding: 143 989520 100
+Encoding: 989520 989520 100
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5771,7 +5771,7 @@ Ligature2: "sitelen" p i n i
 EndChar
 
 StartChar: pipi.t
-Encoding: 144 989521 101
+Encoding: 989521 989521 101
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5833,7 +5833,7 @@ Ligature2: "sitelen" p i p i
 EndChar
 
 StartChar: poka.t
-Encoding: 145 989522 102
+Encoding: 989522 989522 102
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5866,7 +5866,7 @@ Ligature2: "sitelen" p o k a
 EndChar
 
 StartChar: poki.t
-Encoding: 146 989523 103
+Encoding: 989523 989523 103
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5891,7 +5891,7 @@ Ligature2: "sitelen" p o k i
 EndChar
 
 StartChar: pona.t
-Encoding: 147 989524 104
+Encoding: 989524 989524 104
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5990,7 +5990,7 @@ Ligature2: "sitelen" p o n a
 EndChar
 
 StartChar: pu.t
-Encoding: 148 989525 105
+Encoding: 989525 989525 105
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6058,7 +6058,7 @@ Ligature2: "sitelen" p u
 EndChar
 
 StartChar: sama.t
-Encoding: 149 989526 106
+Encoding: 989526 989526 106
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6082,7 +6082,7 @@ Ligature2: "sitelen" s a m a
 EndChar
 
 StartChar: seli.t
-Encoding: 150 989527 107
+Encoding: 989527 989527 107
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6120,7 +6120,7 @@ Ligature2: "sitelen" s e l i
 EndChar
 
 StartChar: selo.t
-Encoding: 151 989528 108
+Encoding: 989528 989528 108
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6151,7 +6151,7 @@ Ligature2: "sitelen" s e l o
 EndChar
 
 StartChar: seme.t
-Encoding: 152 989529 109
+Encoding: 989529 989529 109
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6366,7 +6366,7 @@ Ligature2: "sitelen" s e m e
 EndChar
 
 StartChar: sewi.t
-Encoding: 153 989530 110
+Encoding: 989530 989530 110
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6415,7 +6415,7 @@ Ligature2: "sitelen" s e w i
 EndChar
 
 StartChar: sijelo.t
-Encoding: 154 989531 111
+Encoding: 989531 989531 111
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6442,7 +6442,7 @@ Ligature2: "sitelen" s i j e l o
 EndChar
 
 StartChar: sike.t
-Encoding: 155 989532 112
+Encoding: 989532 989532 112
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6505,7 +6505,7 @@ Ligature2: "sitelen" s i k e
 EndChar
 
 StartChar: sin.t
-Encoding: 156 989533 113
+Encoding: 989533 989533 113
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6534,7 +6534,7 @@ Ligature2: "sitelen" s i n
 EndChar
 
 StartChar: sina.t
-Encoding: 157 989534 114
+Encoding: 989534 989534 114
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6572,7 +6572,7 @@ Ligature2: "sitelen" s i n a
 EndChar
 
 StartChar: sinpin.t
-Encoding: 158 989535 115
+Encoding: 989535 989535 115
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6604,7 +6604,7 @@ Ligature2: "sitelen" s i n p i n
 EndChar
 
 StartChar: sitelen.t
-Encoding: 159 989536 116
+Encoding: 989536 989536 116
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6661,7 +6661,7 @@ Ligature2: "sitelen" s i t e l e n
 EndChar
 
 StartChar: sona.t
-Encoding: 160 989537 117
+Encoding: 989537 989537 117
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6701,7 +6701,7 @@ Ligature2: "sitelen" s o n a
 EndChar
 
 StartChar: soweli.t
-Encoding: 161 989538 118
+Encoding: 989538 989538 118
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6764,7 +6764,7 @@ Ligature2: "sitelen" s o w e l i
 EndChar
 
 StartChar: suli.t
-Encoding: 162 989539 119
+Encoding: 989539 989539 119
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6798,7 +6798,7 @@ Ligature2: "sitelen" s u l i
 EndChar
 
 StartChar: suno.t
-Encoding: 163 989540 120
+Encoding: 989540 989540 120
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6842,7 +6842,7 @@ Ligature2: "sitelen" s u n o
 EndChar
 
 StartChar: supa.t
-Encoding: 164 989541 121
+Encoding: 989541 989541 121
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6869,7 +6869,7 @@ Ligature2: "sitelen" s u p a
 EndChar
 
 StartChar: suwi.t
-Encoding: 165 989542 122
+Encoding: 989542 989542 122
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6906,7 +6906,7 @@ Ligature2: "sitelen" s u w i
 EndChar
 
 StartChar: tan.t
-Encoding: 166 989543 123
+Encoding: 989543 989543 123
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6940,7 +6940,7 @@ Ligature2: "sitelen" t a n
 EndChar
 
 StartChar: taso.t
-Encoding: 167 989544 124
+Encoding: 989544 989544 124
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6965,7 +6965,7 @@ Ligature2: "sitelen" t a s o
 EndChar
 
 StartChar: tawa.t
-Encoding: 168 989545 125
+Encoding: 989545 989545 125
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6995,7 +6995,7 @@ Ligature2: "sitelen" t a w a
 EndChar
 
 StartChar: telo.t
-Encoding: 169 989546 126
+Encoding: 989546 989546 126
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7043,7 +7043,7 @@ Ligature2: "sitelen" t e l o
 EndChar
 
 StartChar: tenpo.t
-Encoding: 170 989547 127
+Encoding: 989547 989547 127
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7094,7 +7094,7 @@ Ligature2: "sitelen" t e n p o
 EndChar
 
 StartChar: toki.t
-Encoding: 171 989548 128
+Encoding: 989548 989548 128
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7141,7 +7141,7 @@ Ligature2: "sitelen" t o k i
 EndChar
 
 StartChar: tomo.t
-Encoding: 172 989549 129
+Encoding: 989549 989549 129
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7167,7 +7167,7 @@ Ligature2: "sitelen" t o m o
 EndChar
 
 StartChar: tu.t
-Encoding: 173 989550 130
+Encoding: 989550 989550 130
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7191,7 +7191,7 @@ Ligature2: "sitelen" t u
 EndChar
 
 StartChar: unpa.t
-Encoding: 174 989551 131
+Encoding: 989551 989551 131
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7252,7 +7252,7 @@ Ligature2: "sitelen" u n p a
 EndChar
 
 StartChar: uta.t
-Encoding: 175 989552 132
+Encoding: 989552 989552 132
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7284,7 +7284,7 @@ Ligature2: "sitelen" u t a
 EndChar
 
 StartChar: utala.t
-Encoding: 176 989553 133
+Encoding: 989553 989553 133
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7315,7 +7315,7 @@ Ligature2: "sitelen" u t a l a
 EndChar
 
 StartChar: walo.t
-Encoding: 177 989554 134
+Encoding: 989554 989554 134
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7345,7 +7345,7 @@ Ligature2: "sitelen" w a l o
 EndChar
 
 StartChar: wan.t
-Encoding: 178 989555 135
+Encoding: 989555 989555 135
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7371,7 +7371,7 @@ Ligature2: "sitelen" w a n
 EndChar
 
 StartChar: waso.t
-Encoding: 179 989556 136
+Encoding: 989556 989556 136
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7415,7 +7415,7 @@ Ligature2: "sitelen" w a s o
 EndChar
 
 StartChar: wawa.t
-Encoding: 180 989557 137
+Encoding: 989557 989557 137
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7457,7 +7457,7 @@ Ligature2: "sitelen" w a w a
 EndChar
 
 StartChar: weka.t
-Encoding: 181 989558 138
+Encoding: 989558 989558 138
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7491,7 +7491,7 @@ Ligature2: "sitelen" w e k a
 EndChar
 
 StartChar: wile.t
-Encoding: 182 989559 139
+Encoding: 989559 989559 139
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7554,7 +7554,7 @@ Ligature2: "sitelen" w i l e
 EndChar
 
 StartChar: namako.t
-Encoding: 183 989560 140
+Encoding: 989560 989560 140
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7595,7 +7595,7 @@ Ligature2: "sitelen+-space" n a m a k o space
 EndChar
 
 StartChar: kin.t
-Encoding: 184 989561 141
+Encoding: 989561 989561 141
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7633,7 +7633,7 @@ Ligature2: "sitelen" k i n
 EndChar
 
 StartChar: oko.t
-Encoding: 185 989562 142
+Encoding: 989562 989562 142
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7676,7 +7676,7 @@ Ligature2: "sitelen" o k o
 EndChar
 
 StartChar: kipisi.t
-Encoding: 186 989563 143
+Encoding: 989563 989563 143
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7713,7 +7713,7 @@ Ligature2: "sitelen" k i p i s i
 EndChar
 
 StartChar: leko.t
-Encoding: 187 989564 144
+Encoding: 989564 989564 144
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7747,7 +7747,7 @@ Ligature2: "sitelen" l e k o
 EndChar
 
 StartChar: monsuta.t
-Encoding: 188 989565 145
+Encoding: 989565 989565 145
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7780,7 +7780,7 @@ Ligature2: "sitelen" m o n s u t a
 EndChar
 
 StartChar: tonsi.t
-Encoding: 189 989566 146
+Encoding: 989566 989566 146
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7834,7 +7834,7 @@ Ligature2: "sitelen" t o n s i
 EndChar
 
 StartChar: jasima.t
-Encoding: 190 989567 147
+Encoding: 989567 989567 147
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7889,7 +7889,7 @@ Ligature2: "sitelen" j a s i m a
 EndChar
 
 StartChar: kijetesantakalu.t
-Encoding: 191 989568 148
+Encoding: 989568 989568 148
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7968,7 +7968,7 @@ Ligature2: "sitelen" k i j e t e s a n t a k a l u
 EndChar
 
 StartChar: wide.space
-Encoding: 200 989577 149
+Encoding: 989577 989577 149
 Width: 1100
 GlyphClass: 3
 Flags: MW
@@ -7978,7 +7978,7 @@ Substitution2: "cartouched sitelen" cart.space
 EndChar
 
 StartChar: cartouche.start
-Encoding: 201 989584 150
+Encoding: 989584 989584 150
 Width: 1100
 GlyphClass: 2
 Flags: MW
@@ -8009,7 +8009,7 @@ Ligature2: "sitelen+-space" bracketleft space
 EndChar
 
 StartChar: cartouche.end
-Encoding: 202 989585 151
+Encoding: 989585 989585 151
 Width: 1100
 GlyphClass: 2
 Flags: MW
@@ -8040,7 +8040,7 @@ Ligature2: "sitelen" bracketright
 EndChar
 
 StartChar: cartouche.body
-Encoding: 203 989586 152
+Encoding: 989586 989586 152
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -8063,7 +8063,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.a
-Encoding: 214 -1 153
+Encoding: 1114115 -1 153
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8110,7 +8110,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.akesi
-Encoding: 215 -1 154
+Encoding: 1114116 -1 154
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8198,7 +8198,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ala
-Encoding: 216 -1 155
+Encoding: 1114117 -1 155
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8233,7 +8233,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.alasa
-Encoding: 217 -1 156
+Encoding: 1114118 -1 156
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8293,7 +8293,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ale
-Encoding: 218 -1 157
+Encoding: 1114119 -1 157
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8363,7 +8363,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.anpa
-Encoding: 219 -1 158
+Encoding: 1114120 -1 158
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8403,7 +8403,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ante
-Encoding: 220 -1 159
+Encoding: 1114121 -1 159
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8439,7 +8439,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.anu
-Encoding: 221 -1 160
+Encoding: 1114122 -1 160
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8471,7 +8471,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.awen
-Encoding: 222 -1 161
+Encoding: 1114123 -1 161
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8504,7 +8504,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.e
-Encoding: 223 -1 162
+Encoding: 1114124 -1 162
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8540,7 +8540,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.en
-Encoding: 224 -1 163
+Encoding: 1114125 -1 163
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8575,7 +8575,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.esun
-Encoding: 225 -1 164
+Encoding: 1114126 -1 164
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8645,7 +8645,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ijo
-Encoding: 226 -1 165
+Encoding: 1114127 -1 165
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8697,7 +8697,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ike
-Encoding: 227 -1 166
+Encoding: 1114128 -1 166
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8804,7 +8804,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ilo
-Encoding: 228 -1 167
+Encoding: 1114129 -1 167
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8845,7 +8845,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.insa
-Encoding: 229 -1 168
+Encoding: 1114130 -1 168
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8888,7 +8888,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.jaki
-Encoding: 230 -1 169
+Encoding: 1114131 -1 169
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8996,7 +8996,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.jan
-Encoding: 231 -1 170
+Encoding: 1114132 -1 170
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9046,7 +9046,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.jelo
-Encoding: 232 -1 171
+Encoding: 1114133 -1 171
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9104,7 +9104,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.jo
-Encoding: 233 -1 172
+Encoding: 1114134 -1 172
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9166,7 +9166,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kala
-Encoding: 234 -1 173
+Encoding: 1114135 -1 173
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9214,7 +9214,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kalama
-Encoding: 235 -1 174
+Encoding: 1114136 -1 174
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9267,7 +9267,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kama
-Encoding: 236 -1 175
+Encoding: 1114137 -1 175
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9304,7 +9304,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kasi
-Encoding: 237 -1 176
+Encoding: 1114138 -1 176
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9357,7 +9357,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ken
-Encoding: 238 -1 177
+Encoding: 1114139 -1 177
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9403,7 +9403,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kepeken
-Encoding: 239 -1 178
+Encoding: 1114140 -1 178
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9460,7 +9460,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kili
-Encoding: 240 -1 179
+Encoding: 1114141 -1 179
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9519,7 +9519,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kiwen
-Encoding: 241 -1 180
+Encoding: 1114142 -1 180
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9553,7 +9553,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ko
-Encoding: 242 -1 181
+Encoding: 1114143 -1 181
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9690,7 +9690,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kon
-Encoding: 243 -1 182
+Encoding: 1114144 -1 182
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9746,7 +9746,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kule
-Encoding: 244 -1 183
+Encoding: 1114145 -1 183
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9789,7 +9789,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kulupu
-Encoding: 245 -1 184
+Encoding: 1114146 -1 184
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9865,7 +9865,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kute
-Encoding: 246 -1 185
+Encoding: 1114147 -1 185
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9918,7 +9918,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.la
-Encoding: 247 -1 186
+Encoding: 1114148 -1 186
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9951,7 +9951,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.lape
-Encoding: 248 -1 187
+Encoding: 1114149 -1 187
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9994,7 +9994,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.laso
-Encoding: 249 -1 188
+Encoding: 1114150 -1 188
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10050,7 +10050,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.lawa
-Encoding: 250 -1 189
+Encoding: 1114151 -1 189
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10101,7 +10101,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.len
-Encoding: 251 -1 190
+Encoding: 1114152 -1 190
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10142,7 +10142,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.lete
-Encoding: 252 -1 191
+Encoding: 1114153 -1 191
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10183,7 +10183,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.li
-Encoding: 253 -1 192
+Encoding: 1114154 -1 192
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10212,7 +10212,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.lili
-Encoding: 254 -1 193
+Encoding: 1114155 -1 193
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10241,7 +10241,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.linja
-Encoding: 255 -1 194
+Encoding: 1114156 -1 194
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10280,7 +10280,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.lipu
-Encoding: 256 -1 195
+Encoding: 1114157 -1 195
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10318,7 +10318,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.loje
-Encoding: 257 -1 196
+Encoding: 1114158 -1 196
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10366,7 +10366,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.lon
-Encoding: 258 -1 197
+Encoding: 1114159 -1 197
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10402,7 +10402,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.luka
-Encoding: 259 -1 198
+Encoding: 1114160 -1 198
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10442,7 +10442,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.lukin
-Encoding: 260 -1 199
+Encoding: 1114161 -1 199
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10495,7 +10495,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.lupa
-Encoding: 261 -1 200
+Encoding: 1114162 -1 200
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10532,7 +10532,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ma
-Encoding: 262 -1 201
+Encoding: 1114163 -1 201
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10591,7 +10591,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.mama
-Encoding: 263 -1 202
+Encoding: 1114164 -1 202
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10650,7 +10650,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.mani
-Encoding: 264 -1 203
+Encoding: 1114165 -1 203
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10704,7 +10704,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.meli
-Encoding: 265 -1 204
+Encoding: 1114166 -1 204
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10765,7 +10765,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.mi
-Encoding: 266 -1 205
+Encoding: 1114167 -1 205
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10811,7 +10811,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.mije
-Encoding: 267 -1 206
+Encoding: 1114168 -1 206
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10872,7 +10872,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.moku
-Encoding: 268 -1 207
+Encoding: 1114169 -1 207
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10969,7 +10969,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.moli
-Encoding: 269 -1 208
+Encoding: 1114170 -1 208
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11047,7 +11047,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.monsi
-Encoding: 270 -1 209
+Encoding: 1114171 -1 209
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11091,7 +11091,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.mu
-Encoding: 271 -1 210
+Encoding: 1114172 -1 210
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11172,7 +11172,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.mun
-Encoding: 272 -1 211
+Encoding: 1114173 -1 211
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11226,7 +11226,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.musi
-Encoding: 273 -1 212
+Encoding: 1114174 -1 212
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11301,7 +11301,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.mute
-Encoding: 274 -1 213
+Encoding: 1114175 -1 213
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11338,7 +11338,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.nanpa
-Encoding: 275 -1 214
+Encoding: 1114176 -1 214
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11394,7 +11394,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.nasa
-Encoding: 276 -1 215
+Encoding: 1114177 -1 215
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11458,7 +11458,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.nasin
-Encoding: 277 -1 216
+Encoding: 1114178 -1 216
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11493,7 +11493,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.nena
-Encoding: 278 -1 217
+Encoding: 1114179 -1 217
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11530,7 +11530,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ni
-Encoding: 279 -1 218
+Encoding: 1114180 -1 218
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11562,7 +11562,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.nimi
-Encoding: 280 -1 219
+Encoding: 1114181 -1 219
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11746,7 +11746,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.noka
-Encoding: 281 -1 220
+Encoding: 1114182 -1 220
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11789,7 +11789,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.o
-Encoding: 282 -1 221
+Encoding: 1114183 -1 221
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11834,7 +11834,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.olin
-Encoding: 283 -1 222
+Encoding: 1114184 -1 222
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11913,7 +11913,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ona
-Encoding: 284 -1 223
+Encoding: 1114185 -1 223
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11959,7 +11959,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.open
-Encoding: 285 -1 224
+Encoding: 1114186 -1 224
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -11997,7 +11997,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pakala
-Encoding: 286 -1 225
+Encoding: 1114187 -1 225
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12046,7 +12046,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pali
-Encoding: 287 -1 226
+Encoding: 1114188 -1 226
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12103,7 +12103,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.palisa
-Encoding: 288 -1 227
+Encoding: 1114189 -1 227
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12152,7 +12152,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pan
-Encoding: 289 -1 228
+Encoding: 1114190 -1 228
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12201,7 +12201,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pana
-Encoding: 290 -1 229
+Encoding: 1114191 -1 229
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12256,7 +12256,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pi
-Encoding: 291 -1 230
+Encoding: 1114192 -1 230
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12287,7 +12287,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pilin
-Encoding: 292 -1 231
+Encoding: 1114193 -1 231
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12355,7 +12355,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pimeja
-Encoding: 293 -1 232
+Encoding: 1114194 -1 232
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12402,7 +12402,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pini
-Encoding: 294 -1 233
+Encoding: 1114195 -1 233
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12437,7 +12437,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pipi
-Encoding: 295 -1 234
+Encoding: 1114196 -1 234
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12506,7 +12506,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.poka
-Encoding: 296 -1 235
+Encoding: 1114197 -1 235
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12546,7 +12546,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.poki
-Encoding: 297 -1 236
+Encoding: 1114198 -1 236
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12579,7 +12579,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pona
-Encoding: 298 -1 237
+Encoding: 1114199 -1 237
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12686,7 +12686,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.pu
-Encoding: 299 -1 238
+Encoding: 1114200 -1 238
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12762,7 +12762,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.sama
-Encoding: 300 -1 239
+Encoding: 1114201 -1 239
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12794,7 +12794,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.seli
-Encoding: 301 -1 240
+Encoding: 1114202 -1 240
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12840,7 +12840,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.selo
-Encoding: 302 -1 241
+Encoding: 1114203 -1 241
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -12879,7 +12879,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.seme
-Encoding: 303 -1 242
+Encoding: 1114204 -1 242
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13102,7 +13102,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.sewi
-Encoding: 304 -1 243
+Encoding: 1114205 -1 243
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13159,7 +13159,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.sijelo
-Encoding: 305 -1 244
+Encoding: 1114206 -1 244
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13194,7 +13194,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.sike
-Encoding: 306 -1 245
+Encoding: 1114207 -1 245
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13264,7 +13264,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.sin
-Encoding: 307 -1 246
+Encoding: 1114208 -1 246
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13301,7 +13301,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.sina
-Encoding: 308 -1 247
+Encoding: 1114209 -1 247
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13347,7 +13347,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.sinpin
-Encoding: 309 -1 248
+Encoding: 1114210 -1 248
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13387,7 +13387,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.sitelen
-Encoding: 310 -1 249
+Encoding: 1114211 -1 249
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13452,7 +13452,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.sona
-Encoding: 311 -1 250
+Encoding: 1114212 -1 250
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13500,7 +13500,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.soweli
-Encoding: 312 -1 251
+Encoding: 1114213 -1 251
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13571,7 +13571,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.suli
-Encoding: 313 -1 252
+Encoding: 1114214 -1 252
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13613,7 +13613,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.suno
-Encoding: 314 -1 253
+Encoding: 1114215 -1 253
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13665,7 +13665,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.supa
-Encoding: 315 -1 254
+Encoding: 1114216 -1 254
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13700,7 +13700,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.suwi
-Encoding: 316 -1 255
+Encoding: 1114217 -1 255
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13745,7 +13745,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.tan
-Encoding: 317 -1 256
+Encoding: 1114218 -1 256
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13787,7 +13787,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.taso
-Encoding: 318 -1 257
+Encoding: 1114219 -1 257
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13820,7 +13820,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.tawa
-Encoding: 319 -1 258
+Encoding: 1114220 -1 258
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13857,7 +13857,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.telo
-Encoding: 320 -1 259
+Encoding: 1114221 -1 259
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13913,7 +13913,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.tenpo
-Encoding: 321 -1 260
+Encoding: 1114222 -1 260
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13972,7 +13972,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.toki
-Encoding: 322 -1 261
+Encoding: 1114223 -1 261
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14027,7 +14027,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.tomo
-Encoding: 323 -1 262
+Encoding: 1114224 -1 262
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14061,7 +14061,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.tu
-Encoding: 324 -1 263
+Encoding: 1114225 -1 263
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14093,7 +14093,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.unpa
-Encoding: 325 -1 264
+Encoding: 1114226 -1 264
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14162,7 +14162,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.uta
-Encoding: 326 -1 265
+Encoding: 1114227 -1 265
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14202,7 +14202,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.utala
-Encoding: 327 -1 266
+Encoding: 1114228 -1 266
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14241,7 +14241,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.walo
-Encoding: 328 -1 267
+Encoding: 1114229 -1 267
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14279,7 +14279,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.wan
-Encoding: 329 -1 268
+Encoding: 1114230 -1 268
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14313,7 +14313,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.waso
-Encoding: 330 -1 269
+Encoding: 1114231 -1 269
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14365,7 +14365,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.wawa
-Encoding: 331 -1 270
+Encoding: 1114232 -1 270
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14415,7 +14415,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.weka
-Encoding: 332 -1 271
+Encoding: 1114233 -1 271
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14457,7 +14457,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.wile
-Encoding: 333 -1 272
+Encoding: 1114234 -1 272
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14527,7 +14527,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.leko
-Encoding: 334 -1 273
+Encoding: 1114235 -1 273
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14569,7 +14569,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kijetesantakalu
-Encoding: 335 -1 274
+Encoding: 1114236 -1 274
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14656,7 +14656,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.space
-Encoding: 336 -1 275
+Encoding: 1114237 -1 275
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14678,7 +14678,7 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 3 46 276
+Encoding: 46 46 276
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14700,7 +14700,7 @@ Substitution2: "cartouched sitelen" dot.cart
 EndChar
 
 StartChar: comma
-Encoding: 1 44 277
+Encoding: 44 44 277
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14720,7 +14720,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon
-Encoding: 14 58 278
+Encoding: 58 58 278
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14749,7 +14749,7 @@ Substitution2: "cartouched sitelen" col.cart
 EndChar
 
 StartChar: periodcentered
-Encoding: 61 183 279
+Encoding: 183 183 279
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14769,7 +14769,7 @@ Substitution2: "cartouched sitelen" dot.cart
 EndChar
 
 StartChar: dotdot
-Encoding: 337 -1 280
+Encoding: 1114238 -1 280
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14805,7 +14805,7 @@ Ligature2: "sitelen" period period
 EndChar
 
 StartChar: dotdotdot
-Encoding: 338 -1 281
+Encoding: 1114239 -1 281
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14849,7 +14849,7 @@ Ligature2: "sitelen" period period period
 EndChar
 
 StartChar: dot.cart
-Encoding: 339 -1 282
+Encoding: 1114240 -1 282
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14880,7 +14880,7 @@ EndSplineSet
 EndChar
 
 StartChar: col.cart
-Encoding: 340 -1 283
+Encoding: 1114241 -1 283
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14920,7 +14920,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotdot.cart
-Encoding: 341 -1 284
+Encoding: 1114242 -1 284
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14960,7 +14960,7 @@ EndSplineSet
 EndChar
 
 StartChar: dotdotdot.cart
-Encoding: 342 -1 285
+Encoding: 1114243 -1 285
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15009,7 +15009,7 @@ EndSplineSet
 EndChar
 
 StartChar: n.t
-Encoding: 197 989574 286
+Encoding: 989574 989574 286
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15043,7 +15043,7 @@ Ligature2: "sitelen+-space" n space
 EndChar
 
 StartChar: cart.n
-Encoding: 343 -1 287
+Encoding: 1114244 -1 287
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15087,7 +15087,7 @@ EndSplineSet
 EndChar
 
 StartChar: akesi.anpa
-Encoding: 344 -1 288
+Encoding: 1114245 -1 288
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15166,7 +15166,7 @@ Ligature2: "anpa" akesi.t stackjoiner
 EndChar
 
 StartChar: alasa.anpa
-Encoding: 345 -1 289
+Encoding: 1114246 -1 289
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15208,7 +15208,7 @@ Ligature2: "anpa" alasa.t stackjoiner
 EndChar
 
 StartChar: ala.anpa
-Encoding: 346 -1 290
+Encoding: 1114247 -1 290
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15303,7 +15303,7 @@ Ligature2: "anpa" ala.t stackjoiner
 EndChar
 
 StartChar: ale.anpa
-Encoding: 347 -1 291
+Encoding: 1114248 -1 291
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15351,7 +15351,7 @@ Ligature2: "anpa" ale.t stackjoiner
 EndChar
 
 StartChar: anpa.anpa
-Encoding: 348 -1 292
+Encoding: 1114249 -1 292
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15381,7 +15381,7 @@ Ligature2: "anpa" anpa.t stackjoiner
 EndChar
 
 StartChar: awen.anpa
-Encoding: 349 -1 293
+Encoding: 1114250 -1 293
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15404,7 +15404,7 @@ Ligature2: "anpa" awen.t stackjoiner
 EndChar
 
 StartChar: jaki.anpa
-Encoding: 350 -1 294
+Encoding: 1114251 -1 294
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15460,7 +15460,7 @@ Ligature2: "anpa" jaki.t stackjoiner
 EndChar
 
 StartChar: ike.anpa
-Encoding: 351 -1 295
+Encoding: 1114252 -1 295
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15556,7 +15556,7 @@ Ligature2: "anpa" ike.t stackjoiner
 EndChar
 
 StartChar: ilo.anpa
-Encoding: 352 -1 296
+Encoding: 1114253 -1 296
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15587,7 +15587,7 @@ Ligature2: "anpa" ilo.t stackjoiner
 EndChar
 
 StartChar: insa.anpa
-Encoding: 353 -1 297
+Encoding: 1114254 -1 297
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15618,7 +15618,7 @@ Ligature2: "anpa" insa.t stackjoiner
 EndChar
 
 StartChar: kalama.anpa
-Encoding: 354 -1 298
+Encoding: 1114255 -1 298
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15659,7 +15659,7 @@ Ligature2: "anpa" kalama.t stackjoiner
 EndChar
 
 StartChar: kala.anpa
-Encoding: 355 -1 299
+Encoding: 1114256 -1 299
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15695,7 +15695,7 @@ Ligature2: "anpa" kala.t stackjoiner
 EndChar
 
 StartChar: kama.anpa
-Encoding: 356 -1 300
+Encoding: 1114257 -1 300
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15718,7 +15718,7 @@ Ligature2: "anpa" kama.t stackjoiner
 EndChar
 
 StartChar: kasi.anpa
-Encoding: 357 -1 301
+Encoding: 1114258 -1 301
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15756,7 +15756,7 @@ Ligature2: "anpa" kasi.t stackjoiner
 EndChar
 
 StartChar: kiwen.anpa
-Encoding: 358 -1 302
+Encoding: 1114259 -1 302
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15781,7 +15781,7 @@ Ligature2: "anpa" kiwen.t stackjoiner
 EndChar
 
 StartChar: ko.anpa
-Encoding: 359 -1 303
+Encoding: 1114260 -1 303
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15893,7 +15893,7 @@ Ligature2: "anpa" ko.t stackjoiner
 EndChar
 
 StartChar: kule.anpa
-Encoding: 360 -1 304
+Encoding: 1114261 -1 304
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15926,7 +15926,7 @@ Ligature2: "anpa" kule.t stackjoiner
 EndChar
 
 StartChar: kulupu.anpa
-Encoding: 361 -1 305
+Encoding: 1114262 -1 305
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15992,7 +15992,7 @@ Ligature2: "anpa" kulupu.t stackjoiner
 EndChar
 
 StartChar: lape.anpa
-Encoding: 362 -1 306
+Encoding: 1114263 -1 306
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16025,7 +16025,7 @@ Ligature2: "anpa" lape.t stackjoiner
 EndChar
 
 StartChar: lawa.anpa
-Encoding: 363 -1 307
+Encoding: 1114264 -1 307
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16062,7 +16062,7 @@ Ligature2: "anpa" lawa.t stackjoiner
 EndChar
 
 StartChar: leko.anpa
-Encoding: 364 -1 308
+Encoding: 1114265 -1 308
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16094,7 +16094,7 @@ Ligature2: "anpa" leko.t stackjoiner
 EndChar
 
 StartChar: len.anpa
-Encoding: 365 -1 309
+Encoding: 1114266 -1 309
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16125,7 +16125,7 @@ Ligature2: "anpa" len.t stackjoiner
 EndChar
 
 StartChar: lete.anpa
-Encoding: 366 -1 310
+Encoding: 1114267 -1 310
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16156,7 +16156,7 @@ Ligature2: "anpa" lete.t stackjoiner
 EndChar
 
 StartChar: linja.anpa
-Encoding: 367 -1 311
+Encoding: 1114268 -1 311
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16185,7 +16185,7 @@ Ligature2: "anpa" linja.t stackjoiner
 EndChar
 
 StartChar: lon.anpa
-Encoding: 368 -1 312
+Encoding: 1114269 -1 312
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16212,7 +16212,7 @@ Ligature2: "anpa" lon.t stackjoiner
 EndChar
 
 StartChar: luka.anpa
-Encoding: 369 -1 313
+Encoding: 1114270 -1 313
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16242,7 +16242,7 @@ Ligature2: "anpa" luka.t stackjoiner
 EndChar
 
 StartChar: lukin.anpa
-Encoding: 370 -1 314
+Encoding: 1114271 -1 314
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16285,7 +16285,7 @@ Ligature2: "anpa" lukin.t stackjoiner
 EndChar
 
 StartChar: mani.anpa
-Encoding: 371 -1 315
+Encoding: 1114272 -1 315
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16329,7 +16329,7 @@ Ligature2: "anpa" mani.t stackjoiner
 EndChar
 
 StartChar: ma.anpa
-Encoding: 372 -1 316
+Encoding: 1114273 -1 316
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16374,7 +16374,7 @@ Ligature2: "anpa" ma.t stackjoiner
 EndChar
 
 StartChar: meli.anpa
-Encoding: 373 -1 317
+Encoding: 1114274 -1 317
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16527,7 +16527,7 @@ Ligature2: "anpa" meli.t stackjoiner
 EndChar
 
 StartChar: mije.anpa
-Encoding: 374 -1 318
+Encoding: 1114275 -1 318
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16572,7 +16572,7 @@ Ligature2: "anpa" mije.t stackjoiner
 EndChar
 
 StartChar: moli.anpa
-Encoding: 375 -1 319
+Encoding: 1114276 -1 319
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16636,7 +16636,7 @@ Ligature2: "anpa" moli.t stackjoiner
 EndChar
 
 StartChar: nanpa.anpa
-Encoding: 376 -1 320
+Encoding: 1114277 -1 320
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16682,7 +16682,7 @@ Ligature2: "anpa" nanpa.t stackjoiner
 EndChar
 
 StartChar: nasin.anpa
-Encoding: 377 -1 321
+Encoding: 1114278 -1 321
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16707,7 +16707,7 @@ Ligature2: "anpa" nasin.t stackjoiner
 EndChar
 
 StartChar: pakala.anpa
-Encoding: 378 -1 322
+Encoding: 1114279 -1 322
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16738,7 +16738,7 @@ Ligature2: "anpa" pakala.t stackjoiner
 EndChar
 
 StartChar: pimeja.anpa
-Encoding: 379 -1 323
+Encoding: 1114280 -1 323
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16773,7 +16773,7 @@ Ligature2: "anpa" pimeja.t stackjoiner
 EndChar
 
 StartChar: pipi.anpa
-Encoding: 380 -1 324
+Encoding: 1114281 -1 324
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16832,7 +16832,7 @@ Ligature2: "anpa" pipi.t stackjoiner
 EndChar
 
 StartChar: poka.anpa
-Encoding: 381 -1 325
+Encoding: 1114282 -1 325
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16862,7 +16862,7 @@ Ligature2: "anpa" poka.t stackjoiner
 EndChar
 
 StartChar: pona.anpa
-Encoding: 382 -1 326
+Encoding: 1114283 -1 326
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16887,7 +16887,7 @@ Ligature2: "anpa" pona.t stackjoiner
 EndChar
 
 StartChar: sama.anpa
-Encoding: 383 -1 327
+Encoding: 1114284 -1 327
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16909,7 +16909,7 @@ Ligature2: "anpa" sama.t stackjoiner
 EndChar
 
 StartChar: selo.anpa
-Encoding: 384 -1 328
+Encoding: 1114285 -1 328
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16938,7 +16938,7 @@ Ligature2: "anpa" selo.t stackjoiner
 EndChar
 
 StartChar: sewi.anpa
-Encoding: 385 -1 329
+Encoding: 1114286 -1 329
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16982,7 +16982,7 @@ Ligature2: "anpa" sewi.t stackjoiner
 EndChar
 
 StartChar: sijelo.anpa
-Encoding: 386 -1 330
+Encoding: 1114287 -1 330
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17007,7 +17007,7 @@ Ligature2: "anpa" sijelo.t stackjoiner
 EndChar
 
 StartChar: sitelen.anpa
-Encoding: 387 -1 331
+Encoding: 1114288 -1 331
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17056,7 +17056,7 @@ Ligature2: "anpa" sitelen.t stackjoiner
 EndChar
 
 StartChar: soweli.anpa
-Encoding: 388 -1 332
+Encoding: 1114289 -1 332
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17169,7 +17169,7 @@ Ligature2: "anpa" soweli.t stackjoiner
 EndChar
 
 StartChar: suno.anpa
-Encoding: 389 -1 333
+Encoding: 1114290 -1 333
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17211,7 +17211,7 @@ Ligature2: "anpa" suno.t stackjoiner
 EndChar
 
 StartChar: supa.anpa
-Encoding: 390 -1 334
+Encoding: 1114291 -1 334
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17236,7 +17236,7 @@ Ligature2: "anpa" supa.t stackjoiner
 EndChar
 
 StartChar: suwi.anpa
-Encoding: 391 -1 335
+Encoding: 1114292 -1 335
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17271,7 +17271,7 @@ Ligature2: "anpa" suwi.t stackjoiner
 EndChar
 
 StartChar: tan.anpa
-Encoding: 392 -1 336
+Encoding: 1114293 -1 336
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17301,7 +17301,7 @@ Ligature2: "anpa" tan.t stackjoiner
 EndChar
 
 StartChar: tawa.anpa
-Encoding: 393 -1 337
+Encoding: 1114294 -1 337
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17324,7 +17324,7 @@ Ligature2: "anpa" tawa.t stackjoiner
 EndChar
 
 StartChar: tenpo.anpa
-Encoding: 394 -1 338
+Encoding: 1114295 -1 338
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17365,7 +17365,7 @@ Ligature2: "anpa" tenpo.t stackjoiner
 EndChar
 
 StartChar: tomo.anpa
-Encoding: 395 -1 339
+Encoding: 1114296 -1 339
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17389,7 +17389,7 @@ Ligature2: "anpa" tomo.t stackjoiner
 EndChar
 
 StartChar: utala.anpa
-Encoding: 396 -1 340
+Encoding: 1114297 -1 340
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17422,7 +17422,7 @@ Ligature2: "anpa" utala.t stackjoiner
 EndChar
 
 StartChar: uta.anpa
-Encoding: 397 -1 341
+Encoding: 1114298 -1 341
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17454,7 +17454,7 @@ Ligature2: "anpa" uta.t stackjoiner
 EndChar
 
 StartChar: walo.anpa
-Encoding: 398 -1 342
+Encoding: 1114299 -1 342
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17482,7 +17482,7 @@ Ligature2: "anpa" walo.t stackjoiner
 EndChar
 
 StartChar: waso.anpa
-Encoding: 399 -1 343
+Encoding: 1114300 -1 343
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17523,7 +17523,7 @@ Ligature2: "anpa" waso.t stackjoiner
 EndChar
 
 StartChar: wawa.anpa
-Encoding: 400 -1 344
+Encoding: 1114301 -1 344
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17567,7 +17567,7 @@ Ligature2: "anpa" wawa.t stackjoiner
 EndChar
 
 StartChar: wile.anpa
-Encoding: 401 -1 345
+Encoding: 1114302 -1 345
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -17617,7 +17617,7 @@ Ligature2: "anpa" wile.t stackjoiner
 EndChar
 
 StartChar: akesi.sewi
-Encoding: 402 -1 346
+Encoding: 1114303 -1 346
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17695,7 +17695,7 @@ Ligature2: "sewi" stackjoiner akesi.t
 EndChar
 
 StartChar: alasa.sewi
-Encoding: 403 -1 347
+Encoding: 1114304 -1 347
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17737,7 +17737,7 @@ Ligature2: "sewi" stackjoiner alasa.t
 EndChar
 
 StartChar: ala.sewi
-Encoding: 404 -1 348
+Encoding: 1114305 -1 348
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17831,7 +17831,7 @@ Ligature2: "sewi" stackjoiner ala.t
 EndChar
 
 StartChar: ale.sewi
-Encoding: 405 -1 349
+Encoding: 1114306 -1 349
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17878,7 +17878,7 @@ Ligature2: "sewi" stackjoiner ale.t
 EndChar
 
 StartChar: anpa.sewi
-Encoding: 406 -1 350
+Encoding: 1114307 -1 350
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17907,7 +17907,7 @@ Ligature2: "sewi" stackjoiner anpa.t
 EndChar
 
 StartChar: awen.sewi
-Encoding: 407 -1 351
+Encoding: 1114308 -1 351
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17929,7 +17929,7 @@ Ligature2: "sewi" stackjoiner awen.t
 EndChar
 
 StartChar: ike.sewi
-Encoding: 408 -1 352
+Encoding: 1114309 -1 352
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17953,7 +17953,7 @@ Ligature2: "sewi" stackjoiner ike.t
 EndChar
 
 StartChar: ilo.sewi
-Encoding: 409 -1 353
+Encoding: 1114310 -1 353
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17983,7 +17983,7 @@ Ligature2: "sewi" stackjoiner ilo.t
 EndChar
 
 StartChar: insa.sewi
-Encoding: 410 -1 354
+Encoding: 1114311 -1 354
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18012,7 +18012,7 @@ Ligature2: "sewi" stackjoiner insa.t
 EndChar
 
 StartChar: jaki.sewi
-Encoding: 411 -1 355
+Encoding: 1114312 -1 355
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18067,7 +18067,7 @@ Ligature2: "sewi" stackjoiner jaki.t
 EndChar
 
 StartChar: kalama.sewi
-Encoding: 412 -1 356
+Encoding: 1114313 -1 356
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18107,7 +18107,7 @@ Ligature2: "sewi" stackjoiner kalama.t
 EndChar
 
 StartChar: kala.sewi
-Encoding: 413 -1 357
+Encoding: 1114314 -1 357
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18142,7 +18142,7 @@ Ligature2: "sewi" stackjoiner kala.t
 EndChar
 
 StartChar: kama.sewi
-Encoding: 414 -1 358
+Encoding: 1114315 -1 358
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18164,7 +18164,7 @@ Ligature2: "sewi" stackjoiner kama.t
 EndChar
 
 StartChar: kasi.sewi
-Encoding: 415 -1 359
+Encoding: 1114316 -1 359
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18256,7 +18256,7 @@ Ligature2: "sewi" stackjoiner kasi.t
 EndChar
 
 StartChar: kiwen.sewi
-Encoding: 416 -1 360
+Encoding: 1114317 -1 360
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18280,7 +18280,7 @@ Ligature2: "sewi" stackjoiner kiwen.t
 EndChar
 
 StartChar: ko.sewi
-Encoding: 417 -1 361
+Encoding: 1114318 -1 361
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18392,7 +18392,7 @@ Ligature2: "sewi" stackjoiner ko.t
 EndChar
 
 StartChar: kule.sewi
-Encoding: 418 -1 362
+Encoding: 1114319 -1 362
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18424,7 +18424,7 @@ Ligature2: "sewi" stackjoiner kule.t
 EndChar
 
 StartChar: kulupu.sewi
-Encoding: 419 -1 363
+Encoding: 1114320 -1 363
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18489,7 +18489,7 @@ Ligature2: "sewi" stackjoiner kulupu.t
 EndChar
 
 StartChar: lape.sewi
-Encoding: 420 -1 364
+Encoding: 1114321 -1 364
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18521,7 +18521,7 @@ Ligature2: "sewi" stackjoiner lape.t
 EndChar
 
 StartChar: lawa.sewi
-Encoding: 421 -1 365
+Encoding: 1114322 -1 365
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18557,7 +18557,7 @@ Ligature2: "sewi" stackjoiner lawa.t
 EndChar
 
 StartChar: leko.sewi
-Encoding: 422 -1 366
+Encoding: 1114323 -1 366
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18588,7 +18588,7 @@ Ligature2: "sewi" stackjoiner leko.t
 EndChar
 
 StartChar: len.sewi
-Encoding: 423 -1 367
+Encoding: 1114324 -1 367
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18618,7 +18618,7 @@ Ligature2: "sewi" stackjoiner len.t
 EndChar
 
 StartChar: lete.sewi
-Encoding: 424 -1 368
+Encoding: 1114325 -1 368
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18648,7 +18648,7 @@ Ligature2: "sewi" stackjoiner lete.t
 EndChar
 
 StartChar: linja.sewi
-Encoding: 425 -1 369
+Encoding: 1114326 -1 369
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18676,7 +18676,7 @@ Ligature2: "sewi" stackjoiner linja.t
 EndChar
 
 StartChar: lon.sewi
-Encoding: 426 -1 370
+Encoding: 1114327 -1 370
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18701,7 +18701,7 @@ Ligature2: "sewi" stackjoiner lon.t
 EndChar
 
 StartChar: luka.sewi
-Encoding: 427 -1 371
+Encoding: 1114328 -1 371
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18730,7 +18730,7 @@ Ligature2: "sewi" stackjoiner luka.t
 EndChar
 
 StartChar: lukin.sewi
-Encoding: 428 -1 372
+Encoding: 1114329 -1 372
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18772,7 +18772,7 @@ Ligature2: "sewi" stackjoiner lukin.t
 EndChar
 
 StartChar: mani.sewi
-Encoding: 429 -1 373
+Encoding: 1114330 -1 373
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18815,7 +18815,7 @@ Ligature2: "sewi" stackjoiner mani.t
 EndChar
 
 StartChar: ma.sewi
-Encoding: 430 -1 374
+Encoding: 1114331 -1 374
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -18859,7 +18859,7 @@ Ligature2: "sewi" stackjoiner ma.t
 EndChar
 
 StartChar: meli.sewi
-Encoding: 431 -1 375
+Encoding: 1114332 -1 375
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19011,7 +19011,7 @@ Ligature2: "sewi" stackjoiner meli.t
 EndChar
 
 StartChar: mije.sewi
-Encoding: 432 -1 376
+Encoding: 1114333 -1 376
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19055,7 +19055,7 @@ Ligature2: "sewi" stackjoiner mije.t
 EndChar
 
 StartChar: moli.sewi
-Encoding: 433 -1 377
+Encoding: 1114334 -1 377
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19118,7 +19118,7 @@ Ligature2: "sewi" stackjoiner moli.t
 EndChar
 
 StartChar: nanpa.sewi
-Encoding: 434 -1 378
+Encoding: 1114335 -1 378
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19164,7 +19164,7 @@ Ligature2: "sewi" stackjoiner nanpa.t
 EndChar
 
 StartChar: nasin.sewi
-Encoding: 435 -1 379
+Encoding: 1114336 -1 379
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19189,7 +19189,7 @@ Ligature2: "sewi" stackjoiner nasin.t
 EndChar
 
 StartChar: pakala.sewi
-Encoding: 436 -1 380
+Encoding: 1114337 -1 380
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19219,7 +19219,7 @@ Ligature2: "sewi" stackjoiner pakala.t
 EndChar
 
 StartChar: pimeja.sewi
-Encoding: 437 -1 381
+Encoding: 1114338 -1 381
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19253,7 +19253,7 @@ Ligature2: "sewi" stackjoiner pimeja.t
 EndChar
 
 StartChar: pipi.sewi
-Encoding: 438 -1 382
+Encoding: 1114339 -1 382
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19312,7 +19312,7 @@ Ligature2: "sewi" stackjoiner pipi.t
 EndChar
 
 StartChar: poka.sewi
-Encoding: 439 -1 383
+Encoding: 1114340 -1 383
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19341,7 +19341,7 @@ Ligature2: "sewi" stackjoiner poka.t
 EndChar
 
 StartChar: pona.sewi
-Encoding: 440 -1 384
+Encoding: 1114341 -1 384
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19366,7 +19366,7 @@ Ligature2: "sewi" stackjoiner pona.t
 EndChar
 
 StartChar: sama.sewi
-Encoding: 441 -1 385
+Encoding: 1114342 -1 385
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19387,7 +19387,7 @@ Ligature2: "sewi" stackjoiner sama.t
 EndChar
 
 StartChar: selo.sewi
-Encoding: 442 -1 386
+Encoding: 1114343 -1 386
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19415,7 +19415,7 @@ Ligature2: "sewi" stackjoiner selo.t
 EndChar
 
 StartChar: sewi.sewi
-Encoding: 443 -1 387
+Encoding: 1114344 -1 387
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19458,7 +19458,7 @@ Ligature2: "sewi" stackjoiner sewi.t
 EndChar
 
 StartChar: sijelo.sewi
-Encoding: 444 -1 388
+Encoding: 1114345 -1 388
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19482,7 +19482,7 @@ Ligature2: "sewi" stackjoiner sijelo.t
 EndChar
 
 StartChar: sitelen.sewi
-Encoding: 445 -1 389
+Encoding: 1114346 -1 389
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19530,7 +19530,7 @@ Ligature2: "sewi" stackjoiner sitelen.t
 EndChar
 
 StartChar: soweli.sewi
-Encoding: 446 -1 390
+Encoding: 1114347 -1 390
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19642,7 +19642,7 @@ Ligature2: "sewi" stackjoiner soweli.t
 EndChar
 
 StartChar: suno.sewi
-Encoding: 447 -1 391
+Encoding: 1114348 -1 391
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19683,7 +19683,7 @@ Ligature2: "sewi" stackjoiner suno.t
 EndChar
 
 StartChar: supa.sewi
-Encoding: 448 -1 392
+Encoding: 1114349 -1 392
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19707,7 +19707,7 @@ Ligature2: "sewi" stackjoiner supa.t
 EndChar
 
 StartChar: suwi.sewi
-Encoding: 449 -1 393
+Encoding: 1114350 -1 393
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19741,7 +19741,7 @@ Ligature2: "sewi" stackjoiner suwi.t
 EndChar
 
 StartChar: tan.sewi
-Encoding: 450 -1 394
+Encoding: 1114351 -1 394
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19770,7 +19770,7 @@ Ligature2: "sewi" stackjoiner tan.t
 EndChar
 
 StartChar: tawa.sewi
-Encoding: 451 -1 395
+Encoding: 1114352 -1 395
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19792,7 +19792,7 @@ Ligature2: "sewi" stackjoiner tawa.t
 EndChar
 
 StartChar: tenpo.sewi
-Encoding: 452 -1 396
+Encoding: 1114353 -1 396
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19832,7 +19832,7 @@ Ligature2: "sewi" stackjoiner tenpo.t
 EndChar
 
 StartChar: tomo.sewi
-Encoding: 453 -1 397
+Encoding: 1114354 -1 397
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19855,7 +19855,7 @@ Ligature2: "sewi" stackjoiner tomo.t
 EndChar
 
 StartChar: utala.sewi
-Encoding: 454 -1 398
+Encoding: 1114355 -1 398
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19883,7 +19883,7 @@ Ligature2: "sewi" stackjoiner utala.t
 EndChar
 
 StartChar: uta.sewi
-Encoding: 455 -1 399
+Encoding: 1114356 -1 399
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19914,7 +19914,7 @@ Ligature2: "sewi" stackjoiner uta.t
 EndChar
 
 StartChar: walo.sewi
-Encoding: 456 -1 400
+Encoding: 1114357 -1 400
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19941,7 +19941,7 @@ Ligature2: "sewi" stackjoiner walo.t
 EndChar
 
 StartChar: waso.sewi
-Encoding: 457 -1 401
+Encoding: 1114358 -1 401
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -19981,7 +19981,7 @@ Ligature2: "sewi" stackjoiner waso.t
 EndChar
 
 StartChar: wawa.sewi
-Encoding: 458 -1 402
+Encoding: 1114359 -1 402
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -20020,7 +20020,7 @@ Ligature2: "sewi" stackjoiner wawa.t
 EndChar
 
 StartChar: wile.sewi
-Encoding: 459 -1 403
+Encoding: 1114360 -1 403
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -20065,7 +20065,7 @@ Ligature2: "sewi" stackjoiner wile.t
 EndChar
 
 StartChar: dot
-Encoding: 205 989596 404
+Encoding: 989596 989596 404
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20085,7 +20085,7 @@ Substitution2: "cartouched sitelen" dot.cart
 EndChar
 
 StartChar: colon.t
-Encoding: 206 989597 405
+Encoding: 989597 989597 405
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20113,7 +20113,7 @@ EndSplineSet
 EndChar
 
 StartChar: stackjoiner
-Encoding: 204 989589 406
+Encoding: 989589 989589 406
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -20122,7 +20122,7 @@ Ligature2: "sitelen" hyphen
 EndChar
 
 StartChar: hyphen
-Encoding: 2 45 407
+Encoding: 45 45 407
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -20137,14 +20137,14 @@ EndSplineSet
 EndChar
 
 StartChar: zwj
-Encoding: 62 8205 408
+Encoding: 8205 8205 408
 Width: 0
 Flags: MW
 LayerCount: 2
 EndChar
 
 StartChar: A
-Encoding: 17 65 409
+Encoding: 65 65 409
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20169,7 +20169,7 @@ Substitution2: "cartouched sitelen" cart.A
 EndChar
 
 StartChar: B
-Encoding: 18 66 410
+Encoding: 66 66 410
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20208,7 +20208,7 @@ Substitution2: "cartouched sitelen" cart.B
 EndChar
 
 StartChar: C
-Encoding: 19 67 411
+Encoding: 67 67 411
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20244,7 +20244,7 @@ Substitution2: "cartouched sitelen" cart.C
 EndChar
 
 StartChar: D
-Encoding: 20 68 412
+Encoding: 68 68 412
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20277,7 +20277,7 @@ Substitution2: "cartouched sitelen" cart.D
 EndChar
 
 StartChar: E
-Encoding: 21 69 413
+Encoding: 69 69 413
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20304,7 +20304,7 @@ Substitution2: "cartouched sitelen" cart.E
 EndChar
 
 StartChar: F
-Encoding: 22 70 414
+Encoding: 70 70 414
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20328,7 +20328,7 @@ Substitution2: "cartouched sitelen" cart.F
 EndChar
 
 StartChar: G
-Encoding: 23 71 415
+Encoding: 71 71 415
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20374,7 +20374,7 @@ Substitution2: "cartouched sitelen" cart.G
 EndChar
 
 StartChar: H
-Encoding: 24 72 416
+Encoding: 72 72 416
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20398,7 +20398,7 @@ Substitution2: "cartouched sitelen" cart.H
 EndChar
 
 StartChar: I
-Encoding: 25 73 417
+Encoding: 73 73 417
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20426,7 +20426,7 @@ Substitution2: "cartouched sitelen" cart.I
 EndChar
 
 StartChar: J
-Encoding: 26 74 418
+Encoding: 74 74 418
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20454,7 +20454,7 @@ Substitution2: "cartouched sitelen" cart.J
 EndChar
 
 StartChar: K
-Encoding: 27 75 419
+Encoding: 75 75 419
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20478,7 +20478,7 @@ Substitution2: "cartouched sitelen" cart.K
 EndChar
 
 StartChar: L
-Encoding: 28 76 420
+Encoding: 76 76 420
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20498,7 +20498,7 @@ Substitution2: "cartouched sitelen" cart.L
 EndChar
 
 StartChar: M
-Encoding: 29 77 421
+Encoding: 77 77 421
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20522,7 +20522,7 @@ Substitution2: "cartouched sitelen" cart.M
 EndChar
 
 StartChar: N
-Encoding: 30 78 422
+Encoding: 78 78 422
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20544,7 +20544,7 @@ Substitution2: "cartouched sitelen" cart.N
 EndChar
 
 StartChar: O
-Encoding: 31 79 423
+Encoding: 79 79 423
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20804,7 +20804,7 @@ Substitution2: "cartouched sitelen" cart.O
 EndChar
 
 StartChar: P
-Encoding: 32 80 424
+Encoding: 80 80 424
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -20837,7 +20837,7 @@ Substitution2: "cartouched sitelen" cart.P
 EndChar
 
 StartChar: Q
-Encoding: 33 81 425
+Encoding: 81 81 425
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21103,7 +21103,7 @@ Substitution2: "cartouched sitelen" cart.Q
 EndChar
 
 StartChar: R
-Encoding: 34 82 426
+Encoding: 82 82 426
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21143,7 +21143,7 @@ Substitution2: "cartouched sitelen" cart.R
 EndChar
 
 StartChar: S
-Encoding: 35 83 427
+Encoding: 83 83 427
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21226,7 +21226,7 @@ Substitution2: "cartouched sitelen" cart.S
 EndChar
 
 StartChar: T
-Encoding: 36 84 428
+Encoding: 84 84 428
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21248,7 +21248,7 @@ Substitution2: "cartouched sitelen" cart.T
 EndChar
 
 StartChar: U
-Encoding: 37 85 429
+Encoding: 85 85 429
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21718,7 +21718,7 @@ Substitution2: "cartouched sitelen" cart.U
 EndChar
 
 StartChar: V
-Encoding: 38 86 430
+Encoding: 86 86 430
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21740,7 +21740,7 @@ Substitution2: "cartouched sitelen" cart.V
 EndChar
 
 StartChar: W
-Encoding: 39 87 431
+Encoding: 87 87 431
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21767,7 +21767,7 @@ Substitution2: "cartouched sitelen" cart.W
 EndChar
 
 StartChar: X
-Encoding: 40 88 432
+Encoding: 88 88 432
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21793,7 +21793,7 @@ Substitution2: "cartouched sitelen" cart.X
 EndChar
 
 StartChar: Y
-Encoding: 41 89 433
+Encoding: 89 89 433
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21818,7 +21818,7 @@ Substitution2: "cartouched sitelen" cart.Y
 EndChar
 
 StartChar: Z
-Encoding: 42 90 434
+Encoding: 90 90 434
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21842,7 +21842,7 @@ Substitution2: "cartouched sitelen" cart.Z
 EndChar
 
 StartChar: cart.A
-Encoding: 460 -1 435
+Encoding: 1114361 -1 435
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21878,7 +21878,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.B
-Encoding: 461 -1 436
+Encoding: 1114362 -1 436
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21928,7 +21928,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.C
-Encoding: 462 -1 437
+Encoding: 1114363 -1 437
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -21975,7 +21975,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.D
-Encoding: 463 -1 438
+Encoding: 1114364 -1 438
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22019,7 +22019,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.E
-Encoding: 464 -1 439
+Encoding: 1114365 -1 439
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22057,7 +22057,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.F
-Encoding: 465 -1 440
+Encoding: 1114366 -1 440
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22092,7 +22092,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.G
-Encoding: 466 -1 441
+Encoding: 1114367 -1 441
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22149,7 +22149,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.H
-Encoding: 467 -1 442
+Encoding: 1114368 -1 442
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22184,7 +22184,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.I
-Encoding: 468 -1 443
+Encoding: 1114369 -1 443
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22223,7 +22223,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.J
-Encoding: 469 -1 444
+Encoding: 1114370 -1 444
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22262,7 +22262,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.K
-Encoding: 470 -1 445
+Encoding: 1114371 -1 445
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22297,7 +22297,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.L
-Encoding: 471 -1 446
+Encoding: 1114372 -1 446
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22328,7 +22328,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.M
-Encoding: 472 -1 447
+Encoding: 1114373 -1 447
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22363,7 +22363,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.N
-Encoding: 473 -1 448
+Encoding: 1114374 -1 448
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22396,7 +22396,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.O
-Encoding: 474 -1 449
+Encoding: 1114375 -1 449
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22666,7 +22666,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.P
-Encoding: 475 -1 450
+Encoding: 1114376 -1 450
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22710,7 +22710,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.Q
-Encoding: 476 -1 451
+Encoding: 1114377 -1 451
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -22986,7 +22986,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.R
-Encoding: 477 -1 452
+Encoding: 1114378 -1 452
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -23037,7 +23037,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.S
-Encoding: 478 -1 453
+Encoding: 1114379 -1 453
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -23131,7 +23131,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.T
-Encoding: 479 -1 454
+Encoding: 1114380 -1 454
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -23164,7 +23164,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.U
-Encoding: 480 -1 455
+Encoding: 1114381 -1 455
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -23645,7 +23645,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.V
-Encoding: 481 -1 456
+Encoding: 1114382 -1 456
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -23678,7 +23678,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.W
-Encoding: 482 -1 457
+Encoding: 1114383 -1 457
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -23716,7 +23716,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.X
-Encoding: 483 -1 458
+Encoding: 1114384 -1 458
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -23753,7 +23753,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.Y
-Encoding: 484 -1 459
+Encoding: 1114385 -1 459
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -23789,7 +23789,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.Z
-Encoding: 485 -1 460
+Encoding: 1114386 -1 460
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -23824,7 +23824,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero
-Encoding: 4 48 461
+Encoding: 48 48 461
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -23859,7 +23859,7 @@ EndSplineSet
 EndChar
 
 StartChar: one
-Encoding: 5 49 462
+Encoding: 49 49 462
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -23884,7 +23884,7 @@ EndSplineSet
 EndChar
 
 StartChar: two
-Encoding: 6 50 463
+Encoding: 50 50 463
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -23913,7 +23913,7 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 7 51 464
+Encoding: 51 51 464
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -23954,7 +23954,7 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 8 52 465
+Encoding: 52 52 465
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -23981,7 +23981,7 @@ EndSplineSet
 EndChar
 
 StartChar: five
-Encoding: 9 53 466
+Encoding: 53 53 466
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -24023,7 +24023,7 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 10 54 467
+Encoding: 54 54 467
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -24058,7 +24058,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 11 55 468
+Encoding: 55 55 468
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -24076,7 +24076,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 12 56 469
+Encoding: 56 56 469
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -24121,7 +24121,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine
-Encoding: 13 57 470
+Encoding: 57 57 470
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -24156,7 +24156,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.namako
-Encoding: 486 -1 471
+Encoding: 1114387 -1 471
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24205,7 +24205,7 @@ EndSplineSet
 EndChar
 
 StartChar: ku.t
-Encoding: 199 989576 472
+Encoding: 989576 989576 472
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24247,7 +24247,7 @@ Ligature2: "sitelen" k u
 EndChar
 
 StartChar: misikeke.t
-Encoding: 198 989575 473
+Encoding: 989575 989575 473
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24287,7 +24287,7 @@ Ligature2: "sitelen" m i s i k e k e
 EndChar
 
 StartChar: kokosila.t
-Encoding: 195 989572 474
+Encoding: 989572 989572 474
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24342,7 +24342,7 @@ Ligature2: "sitelen" k o k o s i l a
 EndChar
 
 StartChar: epiku.t
-Encoding: 194 989571 475
+Encoding: 989571 989571 475
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24383,7 +24383,7 @@ Ligature2: "sitelen" e p i k u
 EndChar
 
 StartChar: meso.t
-Encoding: 193 989570 476
+Encoding: 989570 989570 476
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24415,7 +24415,7 @@ Ligature2: "sitelen" m e s o
 EndChar
 
 StartChar: soko.t
-Encoding: 192 989569 477
+Encoding: 989569 989569 477
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24456,7 +24456,7 @@ Ligature2: "sitelen" s o k o
 EndChar
 
 StartChar: lanpan.t
-Encoding: 196 989573 478
+Encoding: 989573 989573 478
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24525,13 +24525,14 @@ SplineSet
  385.704077041 793.489122379 385.704077041 793.489122379 433.605006723 841.391505751 c 0,86,16
  492.210990009 900 492.210990009 900 574.997070312 900 c 128,-1,17
 EndSplineSet
+LCarets2: 6 0 0 0 0 0 0
 Substitution2: "cartouched sitelen" cart.lanpan
 Ligature2: "sitelen+-space" l a n p a n space
 Ligature2: "sitelen" l a n p a n
 EndChar
 
 StartChar: cart.kin
-Encoding: 487 -1 479
+Encoding: 1114388 -1 479
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24577,7 +24578,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.oko
-Encoding: 488 -1 480
+Encoding: 1114389 -1 480
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24628,7 +24629,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kipisi
-Encoding: 489 -1 481
+Encoding: 1114390 -1 481
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24673,7 +24674,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.monsuta
-Encoding: 490 -1 482
+Encoding: 1114391 -1 482
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24714,7 +24715,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.tonsi
-Encoding: 491 -1 483
+Encoding: 1114392 -1 483
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24776,7 +24777,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.jasima
-Encoding: 492 -1 484
+Encoding: 1114393 -1 484
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24839,7 +24840,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.soko
-Encoding: 493 -1 485
+Encoding: 1114394 -1 485
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24889,7 +24890,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.meso
-Encoding: 494 -1 486
+Encoding: 1114395 -1 486
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24930,7 +24931,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.epiku
-Encoding: 495 -1 487
+Encoding: 1114396 -1 487
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -24980,7 +24981,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.kokosila
-Encoding: 496 -1 488
+Encoding: 1114397 -1 488
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25044,7 +25045,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.lanpan
-Encoding: 497 -1 489
+Encoding: 1114398 -1 489
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25128,7 +25129,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.misikeke
-Encoding: 498 -1 490
+Encoding: 1114399 -1 490
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25177,7 +25178,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.ku
-Encoding: 499 -1 491
+Encoding: 1114400 -1 491
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25228,7 +25229,7 @@ EndSplineSet
 EndChar
 
 StartChar: pake.t
-Encoding: 207 989600 492
+Encoding: 989600 989600 492
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25252,7 +25253,7 @@ Ligature2: "sitelen" p a k e
 EndChar
 
 StartChar: apeja.t
-Encoding: 208 989601 493
+Encoding: 989601 989601 493
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25326,7 +25327,7 @@ Ligature2: "sitelen" a p e j a
 EndChar
 
 StartChar: majuna.t
-Encoding: 209 989602 494
+Encoding: 989602 989602 494
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25364,7 +25365,7 @@ Ligature2: "sitelen" m a j u n a
 EndChar
 
 StartChar: powe.t
-Encoding: 210 989603 495
+Encoding: 989603 989603 495
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25395,7 +25396,7 @@ Ligature2: "sitelen" p o w e
 EndChar
 
 StartChar: cart.pake
-Encoding: 500 -1 496
+Encoding: 1114401 -1 496
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25428,7 +25429,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.apeja
-Encoding: 501 -1 497
+Encoding: 1114402 -1 497
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25511,7 +25512,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.majuna
-Encoding: 502 -1 498
+Encoding: 1114403 -1 498
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25558,7 +25559,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.powe
-Encoding: 503 -1 499
+Encoding: 1114404 -1 499
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -25598,7 +25599,7 @@ EndSplineSet
 EndChar
 
 StartChar: lipamanka.t
-Encoding: 504 -1 500
+Encoding: 1114405 -1 500
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25757,7 +25758,7 @@ Ligature2: "sitelen" l i p a m a n k a
 EndChar
 
 StartChar: less
-Encoding: 15 60 501
+Encoding: 60 60 501
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25775,7 +25776,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 16 62 502
+Encoding: 62 62 502
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25793,7 +25794,7 @@ EndSplineSet
 EndChar
 
 StartChar: v
-Encoding: 59 118 503
+Encoding: 118 118 503
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25811,7 +25812,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciicircum
-Encoding: 45 94 504
+Encoding: 94 94 504
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25830,7 +25831,7 @@ EndSplineSet
 EndChar
 
 StartChar: ni.t.dr
-Encoding: 505 -1 505
+Encoding: 1114406 -1 505
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25852,7 +25853,7 @@ Ligature2: "ni" n i v greater
 EndChar
 
 StartChar: ni.t.r
-Encoding: 506 -1 506
+Encoding: 1114407 -1 506
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25875,7 +25876,7 @@ Ligature2: "ni" n i greater
 EndChar
 
 StartChar: ni.t.ur
-Encoding: 507 -1 507
+Encoding: 1114408 -1 507
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25897,7 +25898,7 @@ Ligature2: "ni" n i asciicircum greater
 EndChar
 
 StartChar: ni.t.u
-Encoding: 508 -1 508
+Encoding: 1114409 -1 508
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25918,7 +25919,7 @@ Ligature2: "ni" n i asciicircum
 EndChar
 
 StartChar: ni.t.ul
-Encoding: 509 -1 509
+Encoding: 1114410 -1 509
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25940,7 +25941,7 @@ Ligature2: "ni" n i asciicircum less
 EndChar
 
 StartChar: ni.t.l
-Encoding: 510 -1 510
+Encoding: 1114411 -1 510
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25961,7 +25962,7 @@ Ligature2: "ni" n i less
 EndChar
 
 StartChar: ni.t.dl
-Encoding: 511 -1 511
+Encoding: 1114412 -1 511
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -25983,7 +25984,7 @@ Ligature2: "ni" n i v less
 EndChar
 
 StartChar: sewi.a.t
-Encoding: 512 -1 512
+Encoding: 1114413 -1 512
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26020,7 +26021,7 @@ Ligature2: "sewi" stackjoiner a.t
 EndChar
 
 StartChar: ijo.sewi
-Encoding: 513 -1 513
+Encoding: 1114414 -1 513
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26057,7 +26058,7 @@ Ligature2: "sewi" stackjoiner ijo.t
 EndChar
 
 StartChar: ken.sewi
-Encoding: 514 -1 514
+Encoding: 1114415 -1 514
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26086,7 +26087,7 @@ Ligature2: "sewi" stackjoiner ken.t
 EndChar
 
 StartChar: lili.sewi
-Encoding: 515 -1 515
+Encoding: 1114416 -1 515
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26104,7 +26105,7 @@ Ligature2: "sewi" stackjoiner lili.t
 EndChar
 
 StartChar: lipu.sewi
-Encoding: 516 -1 516
+Encoding: 1114417 -1 516
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26125,7 +26126,7 @@ Ligature2: "sewi" stackjoiner lipu.t
 EndChar
 
 StartChar: monsi.sewi
-Encoding: 517 -1 517
+Encoding: 1114418 -1 517
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26154,7 +26155,7 @@ Ligature2: "sewi" stackjoiner monsi.t
 EndChar
 
 StartChar: mun.sewi
-Encoding: 518 -1 518
+Encoding: 1114419 -1 518
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26187,7 +26188,7 @@ Ligature2: "sewi" stackjoiner mun.t
 EndChar
 
 StartChar: mute.sewi
-Encoding: 519 -1 519
+Encoding: 1114420 -1 519
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26213,7 +26214,7 @@ Ligature2: "sewi" stackjoiner mute.t
 EndChar
 
 StartChar: ni.sewi
-Encoding: 520 -1 520
+Encoding: 1114421 -1 520
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26234,7 +26235,7 @@ Ligature2: "sewi" stackjoiner ni.t
 EndChar
 
 StartChar: nimi.sewi
-Encoding: 521 -1 521
+Encoding: 1114422 -1 521
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26488,7 +26489,7 @@ Ligature2: "sewi" stackjoiner nimi.t
 EndChar
 
 StartChar: noka.sewi
-Encoding: 522 -1 522
+Encoding: 1114423 -1 522
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26527,7 +26528,7 @@ Ligature2: "sewi" stackjoiner noka.t
 EndChar
 
 StartChar: ona.sewi
-Encoding: 523 -1 523
+Encoding: 1114424 -1 523
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26560,7 +26561,7 @@ Ligature2: "sewi" stackjoiner ona.t
 EndChar
 
 StartChar: open.sewi
-Encoding: 524 -1 524
+Encoding: 1114425 -1 524
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26587,7 +26588,7 @@ Ligature2: "sewi" stackjoiner open.t
 EndChar
 
 StartChar: pini.sewi
-Encoding: 525 -1 525
+Encoding: 1114426 -1 525
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26611,7 +26612,7 @@ Ligature2: "sewi" stackjoiner pini.t
 EndChar
 
 StartChar: poki.sewi
-Encoding: 526 -1 526
+Encoding: 1114427 -1 526
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26631,7 +26632,7 @@ Ligature2: "sewi" stackjoiner poki.t
 EndChar
 
 StartChar: sin.sewi
-Encoding: 527 -1 527
+Encoding: 1114428 -1 527
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26657,7 +26658,7 @@ Ligature2: "sewi" stackjoiner sin.t
 EndChar
 
 StartChar: sinpin.sewi
-Encoding: 528 -1 528
+Encoding: 1114429 -1 528
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26686,7 +26687,7 @@ Ligature2: "sewi" stackjoiner sinpin.t
 EndChar
 
 StartChar: suli.sewi
-Encoding: 529 -1 529
+Encoding: 1114430 -1 529
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -26717,7 +26718,7 @@ Ligature2: "sewi" stackjoiner suli.t
 EndChar
 
 StartChar: ijo.anpa
-Encoding: 530 -1 530
+Encoding: 1114431 -1 530
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -26755,7 +26756,7 @@ Ligature2: "anpa" ijo.t stackjoiner
 EndChar
 
 StartChar: ken.anpa
-Encoding: 531 -1 531
+Encoding: 1114432 -1 531
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -26785,7 +26786,7 @@ Ligature2: "anpa" ken.t stackjoiner
 EndChar
 
 StartChar: lili.anpa
-Encoding: 532 -1 532
+Encoding: 1114433 -1 532
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -26804,7 +26805,7 @@ Ligature2: "anpa" lili.t stackjoiner
 EndChar
 
 StartChar: lipu.anpa
-Encoding: 533 -1 533
+Encoding: 1114434 -1 533
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -26826,7 +26827,7 @@ Ligature2: "anpa" lipu.t stackjoiner
 EndChar
 
 StartChar: monsi.anpa
-Encoding: 534 -1 534
+Encoding: 1114435 -1 534
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -26856,7 +26857,7 @@ Ligature2: "anpa" monsi.t stackjoiner
 EndChar
 
 StartChar: mun.anpa
-Encoding: 535 -1 535
+Encoding: 1114436 -1 535
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -26890,7 +26891,7 @@ Ligature2: "anpa" mun.t stackjoiner
 EndChar
 
 StartChar: mute.anpa
-Encoding: 536 -1 536
+Encoding: 1114437 -1 536
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -26917,7 +26918,7 @@ Ligature2: "anpa" mute.t stackjoiner
 EndChar
 
 StartChar: ni.anpa
-Encoding: 537 -1 537
+Encoding: 1114438 -1 537
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -26939,7 +26940,7 @@ Ligature2: "anpa" ni.t stackjoiner
 EndChar
 
 StartChar: nimi.anpa
-Encoding: 538 -1 538
+Encoding: 1114439 -1 538
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -27194,7 +27195,7 @@ Ligature2: "anpa" nimi.t stackjoiner
 EndChar
 
 StartChar: noka.anpa
-Encoding: 539 -1 539
+Encoding: 1114440 -1 539
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -27232,7 +27233,7 @@ Ligature2: "anpa" noka.t stackjoiner
 EndChar
 
 StartChar: ona.anpa
-Encoding: 540 -1 540
+Encoding: 1114441 -1 540
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -27266,7 +27267,7 @@ Ligature2: "anpa" ona.t stackjoiner
 EndChar
 
 StartChar: open.anpa
-Encoding: 541 -1 541
+Encoding: 1114442 -1 541
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -27294,7 +27295,7 @@ Ligature2: "anpa" open.t stackjoiner
 EndChar
 
 StartChar: pini.anpa
-Encoding: 542 -1 542
+Encoding: 1114443 -1 542
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -27319,7 +27320,7 @@ Ligature2: "anpa" pini.t stackjoiner
 EndChar
 
 StartChar: poki.anpa
-Encoding: 543 -1 543
+Encoding: 1114444 -1 543
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -27340,7 +27341,7 @@ Ligature2: "anpa" poki.t stackjoiner
 EndChar
 
 StartChar: sin.anpa
-Encoding: 544 -1 544
+Encoding: 1114445 -1 544
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -27367,7 +27368,7 @@ Ligature2: "anpa" sin.t stackjoiner
 EndChar
 
 StartChar: sinpin.anpa
-Encoding: 545 -1 545
+Encoding: 1114446 -1 545
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -27397,7 +27398,7 @@ Ligature2: "anpa" sinpin.t stackjoiner
 EndChar
 
 StartChar: suli.anpa
-Encoding: 546 -1 546
+Encoding: 1114447 -1 546
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -27493,7 +27494,7 @@ Ligature2: "anpa" suli.t stackjoiner
 EndChar
 
 StartChar: te.t
-Encoding: 547 -1 547
+Encoding: 1114448 -1 547
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -27514,7 +27515,7 @@ Ligature2: "sitelen+-space" t e space
 EndChar
 
 StartChar: to.t
-Encoding: 548 -1 548
+Encoding: 1114449 -1 548
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -27532,6 +27533,62 @@ SplineSet
 EndSplineSet
 Ligature2: "sitelen" t o
 Ligature2: "sitelen+-space" t o space
+EndChar
+
+StartChar: uF1993
+Encoding: 989587 989587 549
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uF1994
+Encoding: 989588 989588 550
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uF1996
+Encoding: 989590 989590 551
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uF1997
+Encoding: 989591 989591 552
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uF1998
+Encoding: 989592 989592 553
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uF1999
+Encoding: 989593 989593 554
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uF199A
+Encoding: 989594 989594 555
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uF199B
+Encoding: 989595 989595 556
+Width: 0
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
