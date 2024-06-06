@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1710370062
-ModificationTime: 1717623495
+ModificationTime: 1717697627
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -66,22 +66,22 @@ Lookup: 4 0 1 "LIGA anpa" { "anpa"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' >
 Lookup: 2 0 0 "CCMP stack" { "stack"  } ['ccmp' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "LIGA sewi" { "sewi"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 6 0 0 "CALT cartouches" { "cartouches"  } ['calt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "SS01 cartouched sitelen" { "cartouched sitelen"  } ['ss01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 2 2 0 "CC01 cartouched sitelen" { "cartouched sitelen"  } ['cc01' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: class "cartouches" 3 3 3 1
-  Class: 1433 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a e n o periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1
-  Class: 2138 cartouche.start cartouche.body cart.a cart.akesi cart.ala cart.alasa cart.ale cart.anpa cart.ante cart.anu cart.awen cart.e cart.en cart.esun cart.ijo cart.ike cart.ilo cart.insa cart.jaki cart.jan cart.jelo cart.jo cart.kala cart.kalama cart.kama cart.kasi cart.ken cart.kepeken cart.kili cart.kiwen cart.ko cart.kon cart.kule cart.kulupu cart.kute cart.la cart.lape cart.laso cart.lawa cart.len cart.lete cart.li cart.lili cart.linja cart.lipu cart.loje cart.lon cart.luka cart.lukin cart.lupa cart.ma cart.mama cart.mani cart.meli cart.mi cart.mije cart.moku cart.moli cart.monsi cart.mu cart.mun cart.musi cart.mute cart.nanpa cart.nasa cart.nasin cart.nena cart.ni cart.nimi cart.noka cart.o cart.olin cart.ona cart.open cart.pakala cart.pali cart.palisa cart.pan cart.pana cart.pi cart.pilin cart.pimeja cart.pini cart.pipi cart.poka cart.poki cart.pona cart.pu cart.sama cart.seli cart.selo cart.seme cart.sewi cart.sijelo cart.sike cart.sin cart.sina cart.sinpin cart.sitelen cart.sona cart.soweli cart.suli cart.suno cart.supa cart.suwi cart.tan cart.taso cart.tawa cart.telo cart.tenpo cart.toki cart.tomo cart.tu cart.unpa cart.uta cart.utala cart.walo cart.wan cart.waso cart.wawa cart.weka cart.wile cart.leko cart.kijetesantakalu cart.space dot.cart col.cart dotdot.cart dotdotdot.cart cart.n cart.A cart.B cart.C cart.D cart.E cart.F cart.G cart.H cart.I cart.J cart.K cart.L cart.M cart.N cart.O cart.P cart.Q cart.R cart.S cart.T cart.U cart.V cart.W cart.X cart.Y cart.Z cart.namako cart.kin cart.oko cart.kipisi cart.monsuta cart.tonsi cart.jasima cart.soko cart.meso cart.epiku cart.kokosila cart.lanpan cart.misikeke cart.ku cart.pake cart.apeja cart.majuna cart.powe cart.a1 cart.aa cart.aaa cart.akesi1 cart.akesi2 cart.akesi3 cart.esun1 cart.kala1 cart.kasi1 cart.kin1 cart.lanpan1 cart.lape1 cart.majuna1 cart.meli1 cart.meli2 cart.meso1 cart.mi1 cart.mije1 cart.mije2 cart.misikeke1 cart.moli1 cart.mu1 cart.mute1 cart.n1 cart.namako1 cart.o1 cart.olin1 cart.sewi1 cart.soko1 cart.soko2 cart.tenpo1 cart.tonsi1 cart.tonsi2 cart.tonsi3 cart.tonsi4 cart.uta1 cart.wile1 cart.sina1 cart.ona1 tick1 tick2 tick3 tick4
-  BClass: 1433 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a e n o periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1
-  BClass: 2138 cartouche.start cartouche.body cart.a cart.akesi cart.ala cart.alasa cart.ale cart.anpa cart.ante cart.anu cart.awen cart.e cart.en cart.esun cart.ijo cart.ike cart.ilo cart.insa cart.jaki cart.jan cart.jelo cart.jo cart.kala cart.kalama cart.kama cart.kasi cart.ken cart.kepeken cart.kili cart.kiwen cart.ko cart.kon cart.kule cart.kulupu cart.kute cart.la cart.lape cart.laso cart.lawa cart.len cart.lete cart.li cart.lili cart.linja cart.lipu cart.loje cart.lon cart.luka cart.lukin cart.lupa cart.ma cart.mama cart.mani cart.meli cart.mi cart.mije cart.moku cart.moli cart.monsi cart.mu cart.mun cart.musi cart.mute cart.nanpa cart.nasa cart.nasin cart.nena cart.ni cart.nimi cart.noka cart.o cart.olin cart.ona cart.open cart.pakala cart.pali cart.palisa cart.pan cart.pana cart.pi cart.pilin cart.pimeja cart.pini cart.pipi cart.poka cart.poki cart.pona cart.pu cart.sama cart.seli cart.selo cart.seme cart.sewi cart.sijelo cart.sike cart.sin cart.sina cart.sinpin cart.sitelen cart.sona cart.soweli cart.suli cart.suno cart.supa cart.suwi cart.tan cart.taso cart.tawa cart.telo cart.tenpo cart.toki cart.tomo cart.tu cart.unpa cart.uta cart.utala cart.walo cart.wan cart.waso cart.wawa cart.weka cart.wile cart.leko cart.kijetesantakalu cart.space dot.cart col.cart dotdot.cart dotdotdot.cart cart.n cart.A cart.B cart.C cart.D cart.E cart.F cart.G cart.H cart.I cart.J cart.K cart.L cart.M cart.N cart.O cart.P cart.Q cart.R cart.S cart.T cart.U cart.V cart.W cart.X cart.Y cart.Z cart.namako cart.kin cart.oko cart.kipisi cart.monsuta cart.tonsi cart.jasima cart.soko cart.meso cart.epiku cart.kokosila cart.lanpan cart.misikeke cart.ku cart.pake cart.apeja cart.majuna cart.powe cart.a1 cart.aa cart.aaa cart.akesi1 cart.akesi2 cart.akesi3 cart.esun1 cart.kala1 cart.kasi1 cart.kin1 cart.lanpan1 cart.lape1 cart.majuna1 cart.meli1 cart.meli2 cart.meso1 cart.mi1 cart.mije1 cart.mije2 cart.misikeke1 cart.moli1 cart.mu1 cart.mute1 cart.n1 cart.namako1 cart.o1 cart.olin1 cart.sewi1 cart.soko1 cart.soko2 cart.tenpo1 cart.tonsi1 cart.tonsi2 cart.tonsi3 cart.tonsi4 cart.uta1 cart.wile1 cart.sina1 cart.ona1 tick1 tick2 tick3 tick4
-  FClass: 1433 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a e n o periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1
-  FClass: 2138 cartouche.start cartouche.body cart.a cart.akesi cart.ala cart.alasa cart.ale cart.anpa cart.ante cart.anu cart.awen cart.e cart.en cart.esun cart.ijo cart.ike cart.ilo cart.insa cart.jaki cart.jan cart.jelo cart.jo cart.kala cart.kalama cart.kama cart.kasi cart.ken cart.kepeken cart.kili cart.kiwen cart.ko cart.kon cart.kule cart.kulupu cart.kute cart.la cart.lape cart.laso cart.lawa cart.len cart.lete cart.li cart.lili cart.linja cart.lipu cart.loje cart.lon cart.luka cart.lukin cart.lupa cart.ma cart.mama cart.mani cart.meli cart.mi cart.mije cart.moku cart.moli cart.monsi cart.mu cart.mun cart.musi cart.mute cart.nanpa cart.nasa cart.nasin cart.nena cart.ni cart.nimi cart.noka cart.o cart.olin cart.ona cart.open cart.pakala cart.pali cart.palisa cart.pan cart.pana cart.pi cart.pilin cart.pimeja cart.pini cart.pipi cart.poka cart.poki cart.pona cart.pu cart.sama cart.seli cart.selo cart.seme cart.sewi cart.sijelo cart.sike cart.sin cart.sina cart.sinpin cart.sitelen cart.sona cart.soweli cart.suli cart.suno cart.supa cart.suwi cart.tan cart.taso cart.tawa cart.telo cart.tenpo cart.toki cart.tomo cart.tu cart.unpa cart.uta cart.utala cart.walo cart.wan cart.waso cart.wawa cart.weka cart.wile cart.leko cart.kijetesantakalu cart.space dot.cart col.cart dotdot.cart dotdotdot.cart cart.n cart.A cart.B cart.C cart.D cart.E cart.F cart.G cart.H cart.I cart.J cart.K cart.L cart.M cart.N cart.O cart.P cart.Q cart.R cart.S cart.T cart.U cart.V cart.W cart.X cart.Y cart.Z cart.namako cart.kin cart.oko cart.kipisi cart.monsuta cart.tonsi cart.jasima cart.soko cart.meso cart.epiku cart.kokosila cart.lanpan cart.misikeke cart.ku cart.pake cart.apeja cart.majuna cart.powe cart.a1 cart.aa cart.aaa cart.akesi1 cart.akesi2 cart.akesi3 cart.esun1 cart.kala1 cart.kasi1 cart.kin1 cart.lanpan1 cart.lape1 cart.majuna1 cart.meli1 cart.meli2 cart.meso1 cart.mi1 cart.mije1 cart.mije2 cart.misikeke1 cart.moli1 cart.mu1 cart.mute1 cart.n1 cart.namako1 cart.o1 cart.olin1 cart.sewi1 cart.soko1 cart.soko2 cart.tenpo1 cart.tonsi1 cart.tonsi2 cart.tonsi3 cart.tonsi4 cart.uta1 cart.wile1 cart.sina1 cart.ona1 tick1 tick2 tick3 tick4
+  Class: 3015 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot akesi.anpa alasa.anpa ala.anpa ale.anpa anpa.anpa awen.anpa jaki.anpa ike.anpa ilo.anpa insa.anpa kalama.anpa kala.anpa kama.anpa kasi.anpa kiwen.anpa ko.anpa kule.anpa kulupu.anpa lape.anpa lawa.anpa leko.anpa len.anpa lete.anpa linja.anpa lon.anpa luka.anpa lukin.anpa mani.anpa ma.anpa meli.anpa mije.anpa moli.anpa nanpa.anpa nasin.anpa pakala.anpa pimeja.anpa pipi.anpa poka.anpa pona.anpa sama.anpa selo.anpa sewi.anpa sijelo.anpa sitelen.anpa soweli.anpa suno.anpa supa.anpa suwi.anpa tan.anpa tawa.anpa tenpo.anpa tomo.anpa utala.anpa uta.anpa walo.anpa waso.anpa wawa.anpa wile.anpa akesi.sewi alasa.sewi ala.sewi ale.sewi anpa.sewi awen.sewi ike.sewi ilo.sewi insa.sewi jaki.sewi kalama.sewi kala.sewi kama.sewi kasi.sewi kiwen.sewi ko.sewi kule.sewi kulupu.sewi lape.sewi lawa.sewi leko.sewi len.sewi lete.sewi linja.sewi lon.sewi luka.sewi lukin.sewi mani.sewi ma.sewi meli.sewi mije.sewi moli.sewi nanpa.sewi nasin.sewi pakala.sewi pimeja.sewi pipi.sewi poka.sewi pona.sewi sama.sewi selo.sewi sewi.sewi sijelo.sewi sitelen.sewi soweli.sewi suno.sewi supa.sewi suwi.sewi tan.sewi tawa.sewi tenpo.sewi tomo.sewi utala.sewi uta.sewi walo.sewi waso.sewi wawa.sewi wile.sewi lipamanka.t ni.t.dr ni.t.r ni.t.ur ni.t.u ni.t.ul ni.t.l ni.t.dl sewi.a.t ijo.sewi ken.sewi lili.sewi lipu.sewi monsi.sewi mun.sewi mute.sewi ni.sewi nimi.sewi noka.sewi ona.sewi open.sewi pini.sewi poki.sewi sin.sewi sinpin.sewi suli.sewi ijo.anpa ken.anpa lili.anpa lipu.anpa monsi.anpa mun.anpa mute.anpa ni.anpa nimi.anpa noka.anpa ona.anpa open.anpa pini.anpa poki.anpa sin.anpa sinpin.anpa suli.anpa a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1
+  Class: 54 cartouche.start cartouche.body tick1 tick2 tick3 tick4
+  BClass: 3015 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot akesi.anpa alasa.anpa ala.anpa ale.anpa anpa.anpa awen.anpa jaki.anpa ike.anpa ilo.anpa insa.anpa kalama.anpa kala.anpa kama.anpa kasi.anpa kiwen.anpa ko.anpa kule.anpa kulupu.anpa lape.anpa lawa.anpa leko.anpa len.anpa lete.anpa linja.anpa lon.anpa luka.anpa lukin.anpa mani.anpa ma.anpa meli.anpa mije.anpa moli.anpa nanpa.anpa nasin.anpa pakala.anpa pimeja.anpa pipi.anpa poka.anpa pona.anpa sama.anpa selo.anpa sewi.anpa sijelo.anpa sitelen.anpa soweli.anpa suno.anpa supa.anpa suwi.anpa tan.anpa tawa.anpa tenpo.anpa tomo.anpa utala.anpa uta.anpa walo.anpa waso.anpa wawa.anpa wile.anpa akesi.sewi alasa.sewi ala.sewi ale.sewi anpa.sewi awen.sewi ike.sewi ilo.sewi insa.sewi jaki.sewi kalama.sewi kala.sewi kama.sewi kasi.sewi kiwen.sewi ko.sewi kule.sewi kulupu.sewi lape.sewi lawa.sewi leko.sewi len.sewi lete.sewi linja.sewi lon.sewi luka.sewi lukin.sewi mani.sewi ma.sewi meli.sewi mije.sewi moli.sewi nanpa.sewi nasin.sewi pakala.sewi pimeja.sewi pipi.sewi poka.sewi pona.sewi sama.sewi selo.sewi sewi.sewi sijelo.sewi sitelen.sewi soweli.sewi suno.sewi supa.sewi suwi.sewi tan.sewi tawa.sewi tenpo.sewi tomo.sewi utala.sewi uta.sewi walo.sewi waso.sewi wawa.sewi wile.sewi lipamanka.t ni.t.dr ni.t.r ni.t.ur ni.t.u ni.t.ul ni.t.l ni.t.dl sewi.a.t ijo.sewi ken.sewi lili.sewi lipu.sewi monsi.sewi mun.sewi mute.sewi ni.sewi nimi.sewi noka.sewi ona.sewi open.sewi pini.sewi poki.sewi sin.sewi sinpin.sewi suli.sewi ijo.anpa ken.anpa lili.anpa lipu.anpa monsi.anpa mun.anpa mute.anpa ni.anpa nimi.anpa noka.anpa ona.anpa open.anpa pini.anpa poki.anpa sin.anpa sinpin.anpa suli.anpa a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1
+  BClass: 54 cartouche.start cartouche.body tick1 tick2 tick3 tick4
+  FClass: 3015 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot akesi.anpa alasa.anpa ala.anpa ale.anpa anpa.anpa awen.anpa jaki.anpa ike.anpa ilo.anpa insa.anpa kalama.anpa kala.anpa kama.anpa kasi.anpa kiwen.anpa ko.anpa kule.anpa kulupu.anpa lape.anpa lawa.anpa leko.anpa len.anpa lete.anpa linja.anpa lon.anpa luka.anpa lukin.anpa mani.anpa ma.anpa meli.anpa mije.anpa moli.anpa nanpa.anpa nasin.anpa pakala.anpa pimeja.anpa pipi.anpa poka.anpa pona.anpa sama.anpa selo.anpa sewi.anpa sijelo.anpa sitelen.anpa soweli.anpa suno.anpa supa.anpa suwi.anpa tan.anpa tawa.anpa tenpo.anpa tomo.anpa utala.anpa uta.anpa walo.anpa waso.anpa wawa.anpa wile.anpa akesi.sewi alasa.sewi ala.sewi ale.sewi anpa.sewi awen.sewi ike.sewi ilo.sewi insa.sewi jaki.sewi kalama.sewi kala.sewi kama.sewi kasi.sewi kiwen.sewi ko.sewi kule.sewi kulupu.sewi lape.sewi lawa.sewi leko.sewi len.sewi lete.sewi linja.sewi lon.sewi luka.sewi lukin.sewi mani.sewi ma.sewi meli.sewi mije.sewi moli.sewi nanpa.sewi nasin.sewi pakala.sewi pimeja.sewi pipi.sewi poka.sewi pona.sewi sama.sewi selo.sewi sewi.sewi sijelo.sewi sitelen.sewi soweli.sewi suno.sewi supa.sewi suwi.sewi tan.sewi tawa.sewi tenpo.sewi tomo.sewi utala.sewi uta.sewi walo.sewi waso.sewi wawa.sewi wile.sewi lipamanka.t ni.t.dr ni.t.r ni.t.ur ni.t.u ni.t.ul ni.t.l ni.t.dl sewi.a.t ijo.sewi ken.sewi lili.sewi lipu.sewi monsi.sewi mun.sewi mute.sewi ni.sewi nimi.sewi noka.sewi ona.sewi open.sewi pini.sewi poki.sewi sin.sewi sinpin.sewi suli.sewi ijo.anpa ken.anpa lili.anpa lipu.anpa monsi.anpa mun.anpa mute.anpa ni.anpa nimi.anpa noka.anpa ona.anpa open.anpa pini.anpa poki.anpa sin.anpa sinpin.anpa suli.anpa a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1
+  FClass: 54 cartouche.start cartouche.body tick1 tick2 tick3 tick4
  1 1 0
   ClsList: 1
   BClsList: 2
   FClsList:
  1
-  SeqLookup: 0 "SS01 cartouched sitelen"
+  SeqLookup: 0 "CC01 cartouched sitelen"
   ClassNames: "All_Others" "base" "cart"
   BClassNames: "All_Others" "base" "cart"
   FClassNames: "All_Others" "base" "cart"
@@ -801,14 +801,14 @@ Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -128
+DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 480 10 4
+WinInfo: 468 18 7
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 0 0 0 564618 1048576 0 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 653 645
+BeginChars: 661 645
 
 StartChar: .notdef
 Encoding: 221 -1 0
@@ -905,7 +905,6 @@ SplineSet
  600 375 l 1,24,-1
  500 375 l 1,21,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.a
 EndChar
 
 StartChar: e
@@ -931,7 +930,6 @@ SplineSet
  100 800 l 1,11,-1
  170 871 l 1,6,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.e
 EndChar
 
 StartChar: i
@@ -1710,7 +1708,6 @@ SplineSet
  600 375 l 1,24,-1
  500 375 l 1,21,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.n
 EndChar
 
 StartChar: o
@@ -1745,7 +1742,6 @@ SplineSet
  600 374.998046875 l 1,19,-1
  500 374.998046875 l 1,16,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.o
 EndChar
 
 StartChar: p
@@ -2074,8 +2070,9 @@ SplineSet
  600 375 l 1,24,-1
  500 375 l 1,21,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" a.t cartouche.body
+Ligature2: "sitelen" a
 Ligature2: "sitelen+-space" a space
-Substitution2: "cartouched sitelen" cart.a
 EndChar
 
 StartChar: akesi.t
@@ -2153,9 +2150,9 @@ SplineSet
  375 647 375 647 426.5 698.5 c 128,-1,36
  478 750 478 750 550 750 c 128,-1,37
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" akesi.t cartouche.body
 LCarets2: 5 0 0 0 0 0
 Ligature2: "sitelen+-space" a k e s i space
-Substitution2: "cartouched sitelen" cart.akesi
 Ligature2: "sitelen" a k e s i
 EndChar
 
@@ -2181,9 +2178,9 @@ SplineSet
  100 829 l 1,11,-1
  171 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ala.t cartouche.body
 LCarets2: 3 0 0 0
 Ligature2: "sitelen+-space" a l a space
-Substitution2: "cartouched sitelen" cart.ala
 Ligature2: "sitelen" a l a
 EndChar
 
@@ -2234,8 +2231,8 @@ SplineSet
  490.749187557 361.790427012 490.749187557 361.790427012 496.358402943 400 c 1,44,-1
  300 400 l 1,37,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" alasa.t cartouche.body
 Ligature2: "sitelen+-space" a l a s a space
-Substitution2: "cartouched sitelen" cart.alasa
 Ligature2: "sitelen" a l a s a
 EndChar
 
@@ -2296,9 +2293,9 @@ SplineSet
  100 543 100 543 166 609 c 128,-1,59
  232 675 232 675 325 675 c 0,29,30
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ale.t cartouche.body
 Ligature2: "sitelen+-space" a l i space
 Ligature2: "sitelen+-space" a l e space
-Substitution2: "cartouched sitelen" cart.ale
 Ligature2: "sitelen" a l e
 Ligature2: "sitelen" a l i
 EndChar
@@ -2330,8 +2327,8 @@ SplineSet
  99.9990234375 324.998046875 l 1,15,-1
  99.9990234375 725 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" anpa.t cartouche.body
 Ligature2: "sitelen+-space" a n p a space
-Substitution2: "cartouched sitelen" cart.anpa
 Ligature2: "sitelen" a n p a
 EndChar
 
@@ -2358,8 +2355,8 @@ SplineSet
  100 817 l 1,11,-1
  156 900 l 1,6,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ante.t cartouche.body
 Ligature2: "sitelen+-space" a n t e space
-Substitution2: "cartouched sitelen" cart.ante
 Ligature2: "sitelen" a n t e
 EndChar
 
@@ -2382,8 +2379,8 @@ SplineSet
  100 829 l 1,8,-1
  171 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" anu.t cartouche.body
 Ligature2: "sitelen+-space" a n u space
-Substitution2: "cartouched sitelen" cart.anu
 Ligature2: "sitelen" a n u
 EndChar
 
@@ -2407,8 +2404,8 @@ SplineSet
  350 0 l 1,11,-1
  100 0 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" awen.t cartouche.body
 Ligature2: "sitelen+-space" a w e n space
-Substitution2: "cartouched sitelen" cart.awen
 Ligature2: "sitelen" a w e n
 EndChar
 
@@ -2435,8 +2432,9 @@ SplineSet
  100 800 l 1,11,-1
  170 871 l 1,6,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" e.t cartouche.body
+Ligature2: "sitelen" e
 Ligature2: "sitelen+-space" e space
-Substitution2: "cartouched sitelen" cart.e
 EndChar
 
 StartChar: en.t
@@ -2461,8 +2459,8 @@ SplineSet
  500 500 l 1,11,-1
  500 800 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" en.t cartouche.body
 Ligature2: "sitelen+-space" e n space
-Substitution2: "cartouched sitelen" cart.en
 Ligature2: "sitelen" e n
 EndChar
 
@@ -2523,8 +2521,8 @@ SplineSet
  571 799 571 799 633 849.5 c 128,-1,57
  695 900 695 900 775 900 c 0,26,27
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" esun.t cartouche.body
 Ligature2: "sitelen+-space" e s u n space
-Substitution2: "cartouched sitelen" cart.esun
 Ligature2: "sitelen" e s u n
 EndChar
 
@@ -2567,8 +2565,8 @@ SplineSet
  292 829 292 829 375.5 864.5 c 128,-1,12
  459 900 459 900 550 900 c 128,-1,13
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ijo.t cartouche.body
 Ligature2: "sitelen+-space" i j o space
-Substitution2: "cartouched sitelen" cart.ijo
 Ligature2: "sitelen" i j o
 EndChar
 
@@ -2666,8 +2664,8 @@ SplineSet
  292 604 292 604 375.5 639.5 c 128,-1,0
  459 675 459 675 550 675 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ike.t cartouche.body
 Ligature2: "sitelen+-space" i k e space
-Substitution2: "cartouched sitelen" cart.ike
 Ligature2: "sitelen" i k e
 EndChar
 
@@ -2699,8 +2697,8 @@ SplineSet
  100 400 l 1,15,-1
  100 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ilo.t cartouche.body
 Ligature2: "sitelen+-space" i l o space
-Substitution2: "cartouched sitelen" cart.ilo
 Ligature2: "sitelen" i l o
 EndChar
 
@@ -2734,8 +2732,8 @@ SplineSet
  99.9990234375 349.999023438 l 1,18,-1
  99.9990234375 650.001953125 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" insa.t cartouche.body
 Ligature2: "sitelen+-space" i n s a space
-Substitution2: "cartouched sitelen" cart.insa
 Ligature2: "sitelen" i n s a
 EndChar
 
@@ -2834,8 +2832,8 @@ SplineSet
  334 828 334 828 412 848 c 2,147,-1
  610 900 l 1,42,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" jaki.t cartouche.body
 Ligature2: "sitelen+-space" j a k i space
-Substitution2: "cartouched sitelen" cart.jaki
 Ligature2: "sitelen" j a k i
 EndChar
 
@@ -2876,8 +2874,8 @@ SplineSet
  257 793 257 793 349 846.5 c 128,-1,12
  441 900 441 900 550 900 c 128,-1,13
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" jan.t cartouche.body
 Ligature2: "sitelen+-space" j a n space
-Substitution2: "cartouched sitelen" cart.jan
 Ligature2: "sitelen" j a n
 EndChar
 
@@ -2926,8 +2924,8 @@ SplineSet
  650 641 650 641 620.5 670.5 c 128,-1,31
  591 700 591 700 550 700 c 128,-1,32
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" jelo.t cartouche.body
 Ligature2: "sitelen+-space" j e l o space
-Substitution2: "cartouched sitelen" cart.jelo
 Ligature2: "sitelen" j e l o
 EndChar
 
@@ -2980,8 +2978,8 @@ SplineSet
  375.24991594 747.24991594 375.24991594 747.24991594 426.5 798.5 c 0,48,8
  478 850 478 850 550 850 c 128,-1,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" jo.t cartouche.body
 Ligature2: "sitelen+-space" j o space
-Substitution2: "cartouched sitelen" cart.jo
 Ligature2: "sitelen" j o
 EndChar
 
@@ -3020,8 +3018,8 @@ SplineSet
  523 700 523 700 580 725 c 128,-1,29
  637 750 637 750 700 750 c 0,11,12
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kala.t cartouche.body
 Ligature2: "sitelen+-space" k a l a space
-Substitution2: "cartouched sitelen" cart.kala
 Ligature2: "sitelen" k a l a
 EndChar
 
@@ -3065,8 +3063,8 @@ SplineSet
  200 355 200 355 200 450 c 2,27,-1
  200 500 l 1,18,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kalama.t cartouche.body
 Ligature2: "sitelen+-space" k a l a m a space
-Substitution2: "cartouched sitelen" cart.kalama
 Ligature2: "sitelen" k a l a m a
 EndChar
 
@@ -3094,8 +3092,8 @@ SplineSet
  330 129 l 1,13,-1
  550 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kama.t cartouche.body
 Ligature2: "sitelen+-space" k a m a space
-Substitution2: "cartouched sitelen" cart.kama
 Ligature2: "sitelen" k a m a
 EndChar
 
@@ -3139,8 +3137,8 @@ SplineSet
  100 691 100 691 100 800 c 2,36,-1
  100 900 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kasi.t cartouche.body
 Ligature2: "sitelen+-space" k a s i space
-Substitution2: "cartouched sitelen" cart.kasi
 Ligature2: "sitelen" k a s i
 EndChar
 
@@ -3177,8 +3175,8 @@ SplineSet
  250 0 l 1,29,-1
  250 900.001953125 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ken.t cartouche.body
 Ligature2: "sitelen+-space" k e n space
-Substitution2: "cartouched sitelen" cart.ken
 Ligature2: "sitelen" k e n
 EndChar
 
@@ -3226,8 +3224,8 @@ SplineSet
  500 800 l 1,36,-1
  350 800 l 1,33,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kepeken.t cartouche.body
 Ligature2: "sitelen+-space" k e p e k e n space
-Substitution2: "cartouched sitelen" cart.kepeken
 Ligature2: "sitelen" k e p e k e n
 EndChar
 
@@ -3277,8 +3275,8 @@ SplineSet
  477 566 477 566 423 582 c 0,59,31
  398 590 398 590 370.5 589 c 128,-1,32
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kili.t cartouche.body
 Ligature2: "sitelen+-space" k i l i space
-Substitution2: "cartouched sitelen" cart.kili
 Ligature2: "sitelen" k i l i
 EndChar
 
@@ -3303,8 +3301,8 @@ SplineSet
  100 450 l 1,9,-1
  300 800 l 1,5,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kiwen.t cartouche.body
 Ligature2: "sitelen+-space" k i w e n space
-Substitution2: "cartouched sitelen" cart.kiwen
 Ligature2: "sitelen" k i w e n
 EndChar
 
@@ -3432,8 +3430,8 @@ SplineSet
  322 860 322 860 361 878 c 0,197,198
  394 894 394 894 432 895 c 0,98,99
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ko.t cartouche.body
 Ligature2: "sitelen+-space" k o space
-Substitution2: "cartouched sitelen" cart.ko
 Ligature2: "sitelen" k o
 EndChar
 
@@ -3480,8 +3478,8 @@ SplineSet
  400 188 400 188 400 250 c 0,46,47
  400 300 400 300 370 340 c 2,24,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kon.t cartouche.body
 Ligature2: "sitelen+-space" k o n space
-Substitution2: "cartouched sitelen" cart.kon
 Ligature2: "sitelen" k o n
 EndChar
 
@@ -3515,8 +3513,8 @@ SplineSet
  325 450 l 1,17,-1
  550 900 l 1,7,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kule.t cartouche.body
 Ligature2: "sitelen+-space" k u l e space
-Substitution2: "cartouched sitelen" cart.kule
 Ligature2: "sitelen" k u l e
 EndChar
 
@@ -3583,8 +3581,8 @@ SplineSet
  350 758 350 758 408.5 816.5 c 128,-1,40
  467 875 467 875 550 875 c 128,-1,41
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kulupu.t cartouche.body
 Ligature2: "sitelen+-space" k u l u p u space
-Substitution2: "cartouched sitelen" cart.kulupu
 Ligature2: "sitelen" k u l u p u
 EndChar
 
@@ -3628,8 +3626,8 @@ SplineSet
  279 832 279 832 349.5 866 c 128,-1,40
  420 900 420 900 500 900 c 0,16,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kute.t cartouche.body
 Ligature2: "sitelen+-space" k u t e space
-Substitution2: "cartouched sitelen" cart.kute
 Ligature2: "sitelen" k u t e
 EndChar
 
@@ -3653,8 +3651,8 @@ SplineSet
  520 763 520 763 412 808 c 1,11,-1
  450 900 l 1,0,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" la.t cartouche.body
 Ligature2: "sitelen+-space" l a space
-Substitution2: "cartouched sitelen" cart.la
 Ligature2: "sitelen" l a
 EndChar
 
@@ -3688,8 +3686,8 @@ SplineSet
  624 565 624 565 677.5 607.5 c 128,-1,21
  731 650 731 650 800 650 c 0,8,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lape.t cartouche.body
 Ligature2: "sitelen+-space" l a p e space
-Substitution2: "cartouched sitelen" cart.lape
 Ligature2: "sitelen" l a p e
 EndChar
 
@@ -3736,8 +3734,8 @@ SplineSet
  718 100 l 1,37,-1
  550 364 l 1,35,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" laso.t cartouche.body
 Ligature2: "sitelen+-space" l a s o space
-Substitution2: "cartouched sitelen" cart.laso
 Ligature2: "sitelen" l a s o
 EndChar
 
@@ -3779,8 +3777,8 @@ SplineSet
  750 462.708146709 750 462.708146709 748.99965313 475 c 1,36,-1
  201.00034687 475 l 1,27,28
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lawa.t cartouche.body
 Ligature2: "sitelen+-space" l a w a space
-Substitution2: "cartouched sitelen" cart.lawa
 Ligature2: "sitelen" l a w a
 EndChar
 
@@ -3812,8 +3810,8 @@ SplineSet
  200 0 l 1,16,-1
  200 900 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" len.t cartouche.body
 Ligature2: "sitelen+-space" l e n space
-Substitution2: "cartouched sitelen" cart.len
 Ligature2: "sitelen" l e n
 EndChar
 
@@ -3845,8 +3843,8 @@ SplineSet
  282 815 l 1,17,-1
  368 865 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lete.t cartouche.body
 Ligature2: "sitelen+-space" l e t e space
-Substitution2: "cartouched sitelen" cart.lete
 Ligature2: "sitelen" l e t e
 EndChar
 
@@ -3866,8 +3864,8 @@ SplineSet
  325 800 l 1,5,-1
  395 871 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" li.t cartouche.body
 Ligature2: "sitelen+-space" l i space
-Substitution2: "cartouched sitelen" cart.li
 Ligature2: "sitelen" l i
 EndChar
 
@@ -3887,8 +3885,8 @@ SplineSet
  391 546 l 1,5,-1
  475 600 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lili.t cartouche.body
 Ligature2: "sitelen+-space" l i l i space
-Substitution2: "cartouched sitelen" cart.lili
 Ligature2: "sitelen" l i l i
 EndChar
 
@@ -3918,9 +3916,9 @@ SplineSet
  288 400 288 400 350 400 c 0,22,23
  400 400 400 400 440 430 c 2,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" linja.t cartouche.body
 LCarets2: 5 0 0 0 0 0
 Ligature2: "sitelen+-space" l i n j a space
-Substitution2: "cartouched sitelen" cart.linja
 Ligature2: "sitelen" l i n j a
 EndChar
 
@@ -3949,8 +3947,8 @@ SplineSet
  200 800 l 1,13,-1
  200 900 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lipu.t cartouche.body
 Ligature2: "sitelen+-space" l i p u space
-Substitution2: "cartouched sitelen" cart.lipu
 Ligature2: "sitelen" l i p u
 EndChar
 
@@ -3989,8 +3987,8 @@ SplineSet
  731.517703143 748.517703143 731.517703143 748.517703143 744.160764152 800 c 1,25,-1
  355.839235848 800 l 1,18,19
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" loje.t cartouche.body
 Ligature2: "sitelen+-space" l o j e space
-Substitution2: "cartouched sitelen" cart.loje
 Ligature2: "sitelen" l o j e
 EndChar
 
@@ -4017,8 +4015,8 @@ SplineSet
  1000 325 l 1,11,-1
  100 325 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lon.t cartouche.body
 Ligature2: "sitelen+-space" l o n space
-Substitution2: "cartouched sitelen" cart.lon
 Ligature2: "sitelen" l o n
 EndChar
 
@@ -4049,8 +4047,8 @@ SplineSet
  350 724 350 724 438 812 c 128,-1,0
  526 900 526 900 650 900 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" luka.t cartouche.body
 Ligature2: "sitelen+-space" l u k a space
-Substitution2: "cartouched sitelen" cart.luka
 Ligature2: "sitelen" l u k a
 EndChar
 
@@ -4094,9 +4092,9 @@ SplineSet
  173.166946699 566.309009526 173.166946699 566.309009526 292.916015625 632.8359375 c 0,43,22
  412.964922113 699.530273438 412.964922113 699.530273438 550.306640625 699.530273438 c 128,-1,23
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lukin.t cartouche.body
 LCarets2: 5 0 0 0 0 0
 Ligature2: "sitelen+-space" l u k i n space
-Substitution2: "cartouched sitelen" cart.lukin
 Ligature2: "sitelen" l u k i n
 EndChar
 
@@ -4124,8 +4122,8 @@ SplineSet
  850 176 850 176 762 88 c 128,-1,0
  674 0 674 0 550 0 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lupa.t cartouche.body
 Ligature2: "sitelen+-space" l u p a space
-Substitution2: "cartouched sitelen" cart.lupa
 Ligature2: "sitelen" l u p a
 EndChar
 
@@ -4175,8 +4173,8 @@ SplineSet
  292 829 292 829 375.5 864.5 c 128,-1,20
  459 900 459 900 550 900 c 128,-1,21
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ma.t cartouche.body
 Ligature2: "sitelen+-space" m a space
-Substitution2: "cartouched sitelen" cart.ma
 Ligature2: "sitelen" m a
 EndChar
 
@@ -4226,8 +4224,8 @@ SplineSet
  625 206 625 206 603 228 c 128,-1,32
  581 250 581 250 550 250 c 128,-1,33
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mama.t cartouche.body
 Ligature2: "sitelen+-space" m a m a space
-Substitution2: "cartouched sitelen" cart.mama
 Ligature2: "sitelen" m a m a
 EndChar
 
@@ -4272,8 +4270,8 @@ SplineSet
  317.023577372 719.442337099 317.023577372 719.442337099 374.5 753 c 0,43,8
  455 800 455 800 550 800 c 128,-1,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mani.t cartouche.body
 Ligature2: "sitelen+-space" m a n i space
-Substitution2: "cartouched sitelen" cart.mani
 Ligature2: "sitelen" m a n i
 EndChar
 
@@ -4325,8 +4323,8 @@ SplineSet
  292 829 292 829 375.5 864.5 c 128,-1,16
  459 900 459 900 550 900 c 128,-1,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" meli.t cartouche.body
 Ligature2: "sitelen+-space" m e l i space
-Substitution2: "cartouched sitelen" cart.meli
 Ligature2: "sitelen" m e l i
 EndChar
 
@@ -4363,7 +4361,7 @@ SplineSet
  373 816 373 816 427.5 858 c 128,-1,29
  482 900 482 900 550 900 c 0,8,9
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.mi
+MultipleSubs2: "cartouched sitelen" mi.t cartouche.body
 Ligature2: "sitelen" m i
 EndChar
 
@@ -4415,8 +4413,8 @@ SplineSet
  275 800 275 800 361.5 850 c 128,-1,16
  448 900 448 900 550 900 c 128,-1,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mije.t cartouche.body
 Ligature2: "sitelen+-space" m i j e space
-Substitution2: "cartouched sitelen" cart.mije
 Ligature2: "sitelen" m i j e
 EndChar
 
@@ -4504,9 +4502,9 @@ SplineSet
  612 700 612 700 656 744 c 0,76,77
  681.076675226 769.076675226 681.076675226 769.076675226 691.861540443 800 c 1,70,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" moku.t cartouche.body
 LCarets2: 4 0 0 0 0
 Ligature2: "sitelen+-space" m o k u space
-Substitution2: "cartouched sitelen" cart.moku
 Ligature2: "sitelen" m o k u
 EndChar
 
@@ -4575,8 +4573,8 @@ SplineSet
  292 829 292 829 375.5 864.5 c 128,-1,36
  459 900 459 900 550 900 c 128,-1,37
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" moli.t cartouche.body
 Ligature2: "sitelen+-space" m o l i space
-Substitution2: "cartouched sitelen" cart.moli
 Ligature2: "sitelen" m o l i
 EndChar
 
@@ -4611,9 +4609,9 @@ SplineSet
  425.002929688 799.998046875 l 1,19,-1
  425.002929688 900.001953125 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" monsi.t cartouche.body
 LCarets2: 5 0 0 0 0 0
 Ligature2: "sitelen+-space" m o n s i space
-Substitution2: "cartouched sitelen" cart.monsi
 Ligature2: "sitelen" m o n s i
 EndChar
 
@@ -4685,8 +4683,8 @@ SplineSet
  797 479 797 479 724.5 552 c 128,-1,56
  652 625 652 625 549 625 c 128,-1,57
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mu.t cartouche.body
 Ligature2: "sitelen+-space" m u space
-Substitution2: "cartouched sitelen" cart.mu
 Ligature2: "sitelen" m u
 EndChar
 
@@ -4731,8 +4729,8 @@ SplineSet
  318 880 318 880 447 896 c 0,37,38
  478 899 478 899 510 899 c 0,17,18
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mun.t cartouche.body
 Ligature2: "sitelen+-space" m u n space
-Substitution2: "cartouched sitelen" cart.mun
 Ligature2: "sitelen" m u n
 EndChar
 
@@ -4798,8 +4796,8 @@ SplineSet
  100 797 100 797 151.5 848.5 c 128,-1,16
  203 900 203 900 275 900 c 128,-1,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" musi.t cartouche.body
 Ligature2: "sitelen+-space" m u s i space
-Substitution2: "cartouched sitelen" cart.musi
 Ligature2: "sitelen" m u s i
 EndChar
 
@@ -4827,8 +4825,8 @@ SplineSet
  250 50 l 1,11,-1
  250 850 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mute.t cartouche.body
 Ligature2: "sitelen+-space" m u t e space
-Substitution2: "cartouched sitelen" cart.mute
 Ligature2: "sitelen" m u t e
 EndChar
 
@@ -4875,8 +4873,8 @@ SplineSet
  425 325 l 1,31,-1
  675 325 l 1,28,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nanpa.t cartouche.body
 Ligature2: "sitelen+-space" n a n p a space
-Substitution2: "cartouched sitelen" cart.nanpa
 Ligature2: "sitelen" n a n p a
 EndChar
 
@@ -4931,8 +4929,8 @@ SplineSet
  314 816 314 816 390 856 c 128,-1,58
  466 896 466 896 553 900 c 0,0,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nasa.t cartouche.body
 Ligature2: "sitelen+-space" n a s a space
-Substitution2: "cartouched sitelen" cart.nasa
 Ligature2: "sitelen" n a s a
 EndChar
 
@@ -4958,8 +4956,8 @@ SplineSet
  500 0 l 1,11,-1
  500 484 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nasin.t cartouche.body
 Ligature2: "sitelen+-space" n a s i n space
-Substitution2: "cartouched sitelen" cart.nasin
 Ligature2: "sitelen" n a s i n
 EndChar
 
@@ -4987,8 +4985,8 @@ SplineSet
  250 724 250 724 338 812 c 128,-1,0
  426 900 426 900 550 900 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nena.t cartouche.body
 Ligature2: "sitelen+-space" n e n a space
-Substitution2: "cartouched sitelen" cart.nena
 Ligature2: "sitelen" n e n a
 EndChar
 
@@ -5011,8 +5009,8 @@ SplineSet
  500 191 l 1,8,-1
  500 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.t cartouche.body
 Ligature2: "sitelen+-space" n i space
-Substitution2: "cartouched sitelen" cart.ni
 Ligature2: "sitelen" n i
 EndChar
 
@@ -5187,8 +5185,8 @@ SplineSet
  229 350 229 350 250 350 c 2,167,-1
  850 350 l 2,84,85
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nimi.t cartouche.body
 Ligature2: "sitelen+-space" n i m i space
-Substitution2: "cartouched sitelen" cart.nimi
 Ligature2: "sitelen" n i m i
 EndChar
 
@@ -5222,8 +5220,8 @@ SplineSet
  500 400 l 1,21,-1
  500 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" noka.t cartouche.body
 Ligature2: "sitelen+-space" n o k a space
-Substitution2: "cartouched sitelen" cart.noka
 Ligature2: "sitelen" n o k a
 EndChar
 
@@ -5259,8 +5257,9 @@ SplineSet
  600 374.998046875 l 1,19,-1
  500 374.998046875 l 1,16,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" o.t cartouche.body
+Ligature2: "sitelen" o
 Ligature2: "sitelen+-space" o space
-Substitution2: "cartouched sitelen" cart.o
 EndChar
 
 StartChar: olin.t
@@ -5329,8 +5328,8 @@ SplineSet
  297.630010289 817.604896491 297.630010289 817.604896491 339.4609375 856.380859375 c 128,-1,97
  381.243960063 895.112555968 381.243960063 895.112555968 437.91796875 899.790039062 c 0,55,56
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" olin.t cartouche.body
 Ligature2: "sitelen+-space" o l i n space
-Substitution2: "cartouched sitelen" cart.olin
 Ligature2: "sitelen" o l i n
 EndChar
 
@@ -5367,8 +5366,8 @@ SplineSet
  883 650 883 650 941.5 591.5 c 128,-1,29
  1000 533 1000 533 1000 450 c 0,8,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ona.t cartouche.body
 Ligature2: "sitelen+-space" o n a space
-Substitution2: "cartouched sitelen" cart.ona
 Ligature2: "sitelen" o n a
 EndChar
 
@@ -5397,8 +5396,8 @@ SplineSet
  150 0 l 1,13,-1
  150 900 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" open.t cartouche.body
 Ligature2: "sitelen+-space" o p e n space
-Substitution2: "cartouched sitelen" cart.open
 Ligature2: "sitelen" o p e n
 EndChar
 
@@ -5438,9 +5437,9 @@ SplineSet
  150 0 l 1,23,-1
  150 900 l 1,14,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pakala.t cartouche.body
 LCarets2: 6 0 0 0 0 0 0
 Ligature2: "sitelen+-space" p a k a l a space
-Substitution2: "cartouched sitelen" cart.pakala
 Ligature2: "sitelen" p a k a l a
 EndChar
 
@@ -5488,8 +5487,8 @@ SplineSet
  350 783 350 783 408.5 841.5 c 128,-1,8
  467 900 467 900 550 900 c 128,-1,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pali.t cartouche.body
 Ligature2: "sitelen+-space" p a l i space
-Substitution2: "cartouched sitelen" cart.pali
 Ligature2: "sitelen" p a l i
 EndChar
 
@@ -5529,8 +5528,8 @@ SplineSet
  400 812 400 812 444 856 c 128,-1,18
  488 900 488 900 550 900 c 128,-1,19
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" palisa.t cartouche.body
 Ligature2: "sitelen+-space" p a l i s a space
-Substitution2: "cartouched sitelen" cart.palisa
 Ligature2: "sitelen" p a l i s a
 EndChar
 
@@ -5570,8 +5569,8 @@ SplineSet
  303 826 l 1,23,-1
  373 897 l 1,16,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pan.t cartouche.body
 Ligature2: "sitelen+-space" p a n space
-Substitution2: "cartouched sitelen" cart.pan
 Ligature2: "sitelen" p a n
 EndChar
 
@@ -5617,8 +5616,8 @@ SplineSet
  300 0 l 1,30,-1
  150 260 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pana.t cartouche.body
 Ligature2: "sitelen+-space" p a n a space
-Substitution2: "cartouched sitelen" cart.pana
 Ligature2: "sitelen" p a n a
 EndChar
 
@@ -5640,8 +5639,8 @@ SplineSet
  200 200 l 1,7,-1
  200 800 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pi.t cartouche.body
 Ligature2: "sitelen+-space" p i space
-Substitution2: "cartouched sitelen" cart.pi
 Ligature2: "sitelen" p i
 EndChar
 
@@ -5700,8 +5699,8 @@ SplineSet
  257.767807741 884.788188841 257.767807741 884.788188841 312.9296875 898.515625 c 0,73,74
  334.815842479 903.962319685 334.815842479 903.962319685 357.3046875 905.1953125 c 0,41,42
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pilin.t cartouche.body
 Ligature2: "sitelen+-space" p i l i n space
-Substitution2: "cartouched sitelen" cart.pilin
 Ligature2: "sitelen" p i l i n
 EndChar
 
@@ -5739,9 +5738,9 @@ SplineSet
  400 0 l 1,19,-1
  100 0 l 1,15,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pimeja.t cartouche.body
 LCarets2: 6 0 0 0 0 0 0
 Ligature2: "sitelen+-space" p i m e j a space
-Substitution2: "cartouched sitelen" cart.pimeja
 Ligature2: "sitelen" p i m e j a
 EndChar
 
@@ -5767,8 +5766,8 @@ SplineSet
  250 800 l 1,11,-1
  250 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pini.t cartouche.body
 Ligature2: "sitelen+-space" p i n i space
-Substitution2: "cartouched sitelen" cart.pini
 Ligature2: "sitelen" p i n i
 EndChar
 
@@ -5828,9 +5827,9 @@ SplineSet
  604 859 604 859 625 879.5 c 128,-1,36
  646 900 646 900 675 900 c 128,-1,37
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pipi.t cartouche.body
 LCarets2: 4 0 0 0 0
 Ligature2: "sitelen+-space" p i p i space
-Substitution2: "cartouched sitelen" cart.pipi
 Ligature2: "sitelen" p i p i
 EndChar
 
@@ -5861,9 +5860,9 @@ SplineSet
  100 249.999023438 l 1,15,-1
  100 650 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" poka.t cartouche.body
 LCarets2: 4 0 0 0 0
 Ligature2: "sitelen+-space" p o k a space
-Substitution2: "cartouched sitelen" cart.poka
 Ligature2: "sitelen" p o k a
 EndChar
 
@@ -5887,8 +5886,8 @@ SplineSet
  150 0 l 1,9,-1
  150 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" poki.t cartouche.body
 Ligature2: "sitelen+-space" p o k i space
-Substitution2: "cartouched sitelen" cart.poki
 Ligature2: "sitelen" p o k i
 EndChar
 
@@ -5986,8 +5985,8 @@ SplineSet
  808 296 808 296 724.5 260.5 c 128,-1,0
  641 225 641 225 550 225 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pona.t cartouche.body
 Ligature2: "sitelen+-space" p o n a space
-Substitution2: "cartouched sitelen" cart.pona
 Ligature2: "sitelen" p o n a
 EndChar
 
@@ -6054,8 +6053,8 @@ SplineSet
  200 0 l 1,47,-1
  200 900 l 1,44,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pu.t cartouche.body
 Ligature2: "sitelen+-space" p u space
-Substitution2: "cartouched sitelen" cart.pu
 Ligature2: "sitelen" p u
 EndChar
 
@@ -6078,8 +6077,8 @@ SplineSet
  200 550 l 1,7,-1
  200 650 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sama.t cartouche.body
 Ligature2: "sitelen+-space" s a m a space
-Substitution2: "cartouched sitelen" cart.sama
 Ligature2: "sitelen" s a m a
 EndChar
 
@@ -6116,8 +6115,8 @@ SplineSet
  500 300 l 1,19,-1
  500 850 l 1,16,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" seli.t cartouche.body
 Ligature2: "sitelen+-space" s e l i space
-Substitution2: "cartouched sitelen" cart.seli
 Ligature2: "sitelen" s e l i
 EndChar
 
@@ -6147,8 +6146,8 @@ SplineSet
  100 200 l 1,15,-1
  100 700 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" selo.t cartouche.body
 Ligature2: "sitelen+-space" s e l o space
-Substitution2: "cartouched sitelen" cart.selo
 Ligature2: "sitelen" s e l o
 EndChar
 
@@ -6362,8 +6361,8 @@ SplineSet
  302.212386114 754.384526222 302.212386114 754.384526222 375.494417015 826.307225629 c 128,-1,336
  448.776447916 898.229925037 448.776447916 898.229925037 550.005859375 898.676757812 c 0,305,306
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" seme.t cartouche.body
 Ligature2: "sitelen+-space" s e m e space
-Substitution2: "cartouched sitelen" cart.seme
 Ligature2: "sitelen" s e m e
 EndChar
 
@@ -6411,8 +6410,8 @@ SplineSet
  625 137 625 137 625 163 c 2,41,-1
  625 700 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sewi.t cartouche.body
 Ligature2: "sitelen+-space" s e w i space
-Substitution2: "cartouched sitelen" cart.sewi
 Ligature2: "sitelen" s e w i
 EndChar
 
@@ -6438,8 +6437,8 @@ SplineSet
  150 0 l 1,11,-1
  150 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sijelo.t cartouche.body
 Ligature2: "sitelen+-space" s i j e l o space
-Substitution2: "cartouched sitelen" cart.sijelo
 Ligature2: "sitelen" s i j e l o
 EndChar
 
@@ -6500,9 +6499,9 @@ SplineSet
  292 829 292 829 375.5 864.5 c 128,-1,28
  459 900 459 900 550 900 c 128,-1,29
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sike.t cartouche.body
 LCarets2: 4 0 0 0 0
 Ligature2: "sitelen+-space" s i k e space
-Substitution2: "cartouched sitelen" cart.sike
 Ligature2: "sitelen" s i k e
 EndChar
 
@@ -6530,8 +6529,8 @@ SplineSet
  500 475 l 1,11,-1
  500 750 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sin.t cartouche.body
 Ligature2: "sitelen+-space" s i n space
-Substitution2: "cartouched sitelen" cart.sin
 Ligature2: "sitelen" s i n
 EndChar
 
@@ -6568,8 +6567,8 @@ SplineSet
  750 117 750 117 691.5 58.5 c 128,-1,29
  633 0 633 0 550 0 c 0,8,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sina.t cartouche.body
 Ligature2: "sitelen+-space" s i n a space
-Substitution2: "cartouched sitelen" cart.sina
 Ligature2: "sitelen" s i n a
 EndChar
 
@@ -6600,8 +6599,8 @@ SplineSet
  262.499023438 800.000976562 l 1,15,-1
  262.499023438 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sinpin.t cartouche.body
 Ligature2: "sitelen+-space" s i n p i n space
-Substitution2: "cartouched sitelen" cart.sinpin
 Ligature2: "sitelen" s i n p i n
 EndChar
 
@@ -6657,8 +6656,8 @@ SplineSet
  125 800 l 1,46,-1
  125 900 l 1,40,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sitelen.t cartouche.body
 Ligature2: "sitelen+-space" s i t e l e n space
-Substitution2: "cartouched sitelen" cart.sitelen
 Ligature2: "sitelen" s i t e l e n
 EndChar
 
@@ -6697,8 +6696,8 @@ SplineSet
  320 675 l 1,20,-1
  245 900 l 1,17,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sona.t cartouche.body
 Ligature2: "sitelen+-space" s o n a space
-Substitution2: "cartouched sitelen" cart.sona
 Ligature2: "sitelen" s o n a
 EndChar
 
@@ -6760,8 +6759,8 @@ SplineSet
  925 658 925 658 866.5 716.5 c 128,-1,45
  808 775 808 775 725 775 c 2,28,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" soweli.t cartouche.body
 Ligature2: "sitelen+-space" s o w e l i space
-Substitution2: "cartouched sitelen" cart.soweli
 Ligature2: "sitelen" s o w e l i
 EndChar
 
@@ -6794,8 +6793,8 @@ SplineSet
  272 707 272 707 134 823 c 1,28,-1
  199 900 l 1,0,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" suli.t cartouche.body
 Ligature2: "sitelen+-space" s u l i space
-Substitution2: "cartouched sitelen" cart.suli
 Ligature2: "sitelen" s u l i
 EndChar
 
@@ -6838,8 +6837,8 @@ SplineSet
  467 650 467 650 408.5 591.5 c 128,-1,24
  350 533 350 533 350 450 c 128,-1,25
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" suno.t cartouche.body
 Ligature2: "sitelen+-space" s u n o space
-Substitution2: "cartouched sitelen" cart.suno
 Ligature2: "sitelen" s u n o
 EndChar
 
@@ -6865,8 +6864,8 @@ SplineSet
  100 525 l 1,11,-1
  100 625 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" supa.t cartouche.body
 Ligature2: "sitelen+-space" s u p a space
-Substitution2: "cartouched sitelen" cart.supa
 Ligature2: "sitelen" s u p a
 EndChar
 
@@ -6902,8 +6901,8 @@ SplineSet
  100.00390625 449.998046875 l 1,19,-1
  300.001953125 750.000976562 l 1,14,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" suwi.t cartouche.body
 Ligature2: "sitelen+-space" s u w i space
-Substitution2: "cartouched sitelen" cart.suwi
 Ligature2: "sitelen" s u w i
 EndChar
 
@@ -6936,8 +6935,8 @@ SplineSet
  100 425 l 1,22,-1
  100 675 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tan.t cartouche.body
 Ligature2: "sitelen+-space" t a n space
-Substitution2: "cartouched sitelen" cart.tan
 Ligature2: "sitelen" t a n
 EndChar
 
@@ -6961,8 +6960,8 @@ SplineSet
  600 500 l 1,9,-1
  600 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" taso.t cartouche.body
 Ligature2: "sitelen+-space" t a s o space
-Substitution2: "cartouched sitelen" cart.taso
 Ligature2: "sitelen" t a s o
 EndChar
 
@@ -6990,9 +6989,9 @@ SplineSet
  150 189 l 1,13,-1
  550 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tawa.t cartouche.body
 Ligature2: "sitelen+-space" t a w a space
 LCarets2: 3 0 0 0
-Substitution2: "cartouched sitelen" cart.tawa
 Ligature2: "sitelen" t a w a
 EndChar
 
@@ -7039,8 +7038,8 @@ SplineSet
  667 100 667 100 600 150 c 2,47,-1
  440 270 l 2,24,25
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" telo.t cartouche.body
 Ligature2: "sitelen+-space" t e l o space
-Substitution2: "cartouched sitelen" cart.telo
 Ligature2: "sitelen" t e l o
 EndChar
 
@@ -7090,8 +7089,8 @@ SplineSet
  292 829 292 829 375 864.5 c 128,-1,18
  458 900 458 900 550 900 c 128,-1,19
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tenpo.t cartouche.body
 Ligature2: "sitelen+-space" t e n p o space
-Substitution2: "cartouched sitelen" cart.tenpo
 Ligature2: "sitelen" t e n p o
 EndChar
 
@@ -7137,8 +7136,8 @@ SplineSet
  500 675 l 1,27,-1
  500 900 l 1,24,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" toki.t cartouche.body
 Ligature2: "sitelen+-space" t o k i space
-Substitution2: "cartouched sitelen" cart.toki
 Ligature2: "sitelen" t o k i
 EndChar
 
@@ -7163,8 +7162,8 @@ SplineSet
  150 550 l 1,9,-1
  550 900 l 1,5,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tomo.t cartouche.body
 Ligature2: "sitelen+-space" t o m o space
-Substitution2: "cartouched sitelen" cart.tomo
 Ligature2: "sitelen" t o m o
 EndChar
 
@@ -7187,8 +7186,8 @@ SplineSet
  350 50 l 1,7,-1
  350 850 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tu.t cartouche.body
 Ligature2: "sitelen+-space" t u space
-Substitution2: "cartouched sitelen" cart.tu
 Ligature2: "sitelen" t u
 EndChar
 
@@ -7248,8 +7247,8 @@ SplineSet
  828 496 828 496 782 470 c 1,59,60
  739 595 739 595 621 723 c 1,50,51
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" unpa.t cartouche.body
 Ligature2: "sitelen+-space" u n p a space
-Substitution2: "cartouched sitelen" cart.unpa
 Ligature2: "sitelen" u n p a
 EndChar
 
@@ -7287,8 +7286,8 @@ SplineSet
  519 75 519 75 497 97 c 128,-1,17
  475 119 475 119 475 150 c 128,-1,18
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" uta.t cartouche.body
 Ligature2: "sitelen+-space" u t a space
-Substitution2: "cartouched sitelen" cart.uta
 Ligature2: "sitelen" u t a
 EndChar
 
@@ -7318,8 +7317,8 @@ SplineSet
  550 518.627358491 l 1,15,-1
  783 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" utala.t cartouche.body
 Ligature2: "sitelen+-space" u t a l a space
-Substitution2: "cartouched sitelen" cart.utala
 Ligature2: "sitelen" u t a l a
 EndChar
 
@@ -7348,8 +7347,8 @@ SplineSet
  365 529 l 1,13,-1
  550 900 l 1,3,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" walo.t cartouche.body
 Ligature2: "sitelen+-space" w a l o space
-Substitution2: "cartouched sitelen" cart.walo
 Ligature2: "sitelen" w a l o
 EndChar
 
@@ -7374,8 +7373,8 @@ SplineSet
  437 750 437 750 481 794 c 128,-1,13
  525 838 525 838 525 900 c 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" wan.t cartouche.body
 Ligature2: "sitelen+-space" w a n space
-Substitution2: "cartouched sitelen" cart.wan
 Ligature2: "sitelen" w a n
 EndChar
 
@@ -7418,8 +7417,8 @@ SplineSet
  396 575 396 575 396 545.5 c 128,-1,19
  396 516 396 516 375 495.5 c 128,-1,20
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" waso.t cartouche.body
 Ligature2: "sitelen+-space" w a s o space
-Substitution2: "cartouched sitelen" cart.waso
 Ligature2: "sitelen" w a s o
 EndChar
 
@@ -7460,8 +7459,8 @@ SplineSet
  824 300 l 1,23,-1
  899 800 l 1,20,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" wawa.t cartouche.body
 Ligature2: "sitelen+-space" w a w a space
-Substitution2: "cartouched sitelen" cart.wawa
 Ligature2: "sitelen" w a w a
 EndChar
 
@@ -7494,8 +7493,8 @@ SplineSet
  600 571 l 1,15,-1
  929 900 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" weka.t cartouche.body
 Ligature2: "sitelen+-space" w e k a space
-Substitution2: "cartouched sitelen" cart.weka
 Ligature2: "sitelen" w e k a
 EndChar
 
@@ -7556,8 +7555,8 @@ SplineSet
  119.587952305 558.864030775 119.587952305 558.864030775 167.519023533 651.015833271 c 128,-1,78
  215.450094761 743.167635767 215.450094761 743.167635767 292.25390625 810.646484375 c 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" wile.t cartouche.body
 Ligature2: "sitelen+-space" w i l e space
-Substitution2: "cartouched sitelen" cart.wile
 LCarets2: 3 0 0 0
 Ligature2: "sitelen" w i l e
 EndChar
@@ -7598,7 +7597,7 @@ SplineSet
  675.002929688 674.99609375 l 1,27,-1
  750.000976562 900 l 1,24,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.namako
+MultipleSubs2: "cartouched sitelen" namako.t cartouche.body
 Ligature2: "sitelen" n a m a k o
 Ligature2: "sitelen+-space" n a m a k o space
 EndChar
@@ -7636,7 +7635,7 @@ SplineSet
  600 375 l 1,21,-1
  500 375 l 1,18,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.kin
+MultipleSubs2: "cartouched sitelen" kin.t cartouche.body
 Ligature2: "sitelen+-space" k i n space
 Ligature2: "sitelen" k i n
 EndChar
@@ -7679,7 +7678,7 @@ SplineSet
  700.172607916 516.872748946 700.172607916 516.872748946 733.706747751 574.725850703 c 128,-1,32
  767.240887586 632.578952459 767.240887586 632.578952459 825.1796875 665.96484375 c 1,18,19
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.oko
+MultipleSubs2: "cartouched sitelen" oko.t cartouche.body
 Ligature2: "sitelen+-space" o k o space
 Ligature2: "sitelen" o k o
 EndChar
@@ -7716,7 +7715,7 @@ SplineSet
  200 170.7109375 l 1,19,-1
  829.2890625 800 l 1,16,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.kipisi
+MultipleSubs2: "cartouched sitelen" kipisi.t cartouche.body
 Ligature2: "sitelen+-space" k i p i s i space
 Ligature2: "sitelen" k i p i s i
 EndChar
@@ -7750,8 +7749,8 @@ SplineSet
  100 0 l 1,15,-1
  100 900 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" leko.t cartouche.body
 Ligature2: "sitelen+-space" l e k o space
-Substitution2: "cartouched sitelen" cart.leko
 Ligature2: "sitelen" l e k o
 EndChar
 
@@ -7783,7 +7782,7 @@ SplineSet
  308.581054688 455.98046875 l 1,17,-1
  437.5 650 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.monsuta
+MultipleSubs2: "cartouched sitelen" monsuta.t cartouche.body
 Ligature2: "sitelen+-space" m o n s u t a space
 Ligature2: "sitelen" m o n s u t a
 EndChar
@@ -7837,7 +7836,7 @@ SplineSet
  170.713867188 899.999023438 l 1,48,-1
  313.5 757.212890625 l 1,22,23
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.tonsi
+MultipleSubs2: "cartouched sitelen" tonsi.t cartouche.body
 Ligature2: "sitelen+-space" t o n s i space
 Ligature2: "sitelen" t o n s i
 EndChar
@@ -7892,7 +7891,7 @@ SplineSet
  433.303112488 799.911158586 433.303112488 799.911158586 499.90234375 749.87109375 c 1,55,-1
  500.000976562 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.jasima
+MultipleSubs2: "cartouched sitelen" jasima.t cartouche.body
 Ligature2: "sitelen+-space" j a s i m a space
 Ligature2: "sitelen" j a s i m a
 EndChar
@@ -7971,8 +7970,8 @@ SplineSet
  200 159 200 159 229.5 129.5 c 128,-1,63
  259 100 259 100 300 100 c 1,58,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kijetesantakalu.t cartouche.body
 Ligature2: "sitelen+-space" k i j e t e s a n t a k a l u space
-Substitution2: "cartouched sitelen" cart.kijetesantakalu
 Ligature2: "sitelen" k i j e t e s a n t a k a l u
 EndChar
 
@@ -7982,8 +7981,8 @@ Width: 1100
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
+MultipleSubs2: "cartouched sitelen" wide.space cartouche.body
 Ligature2: "spaces" space space
-Substitution2: "cartouched sitelen" cart.space
 EndChar
 
 StartChar: cartouche.start
@@ -8056,18 +8055,18 @@ Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-100 -99.9990234375 m 1,0,-1
- 1200 -100.000976562 l 1,1,-1
- 1200 -200 l 1,2,-1
- 100 -199.998046875 l 1,3,-1
- 0 -150 l 1,4,-1
- 100 -99.9990234375 l 1,0,-1
-100 1100 m 1,5,-1
- 1200 1099.99804688 l 1,6,-1
- 1200 999.999023438 l 1,7,-1
- 100 1000.00097656 l 1,8,-1
- 0 1050 l 1,9,-1
- 100 1100 l 1,5,-1
+-1000 -99.9990234375 m 1,0,-1
+ 100 -100.000976562 l 1,1,-1
+ 100 -200 l 1,2,-1
+ -1000 -199.998046875 l 1,3,-1
+ -1100 -150 l 1,4,-1
+ -1000 -99.9990234375 l 1,0,-1
+-1000 1100 m 1,5,-1
+ 100 1099.99804688 l 1,6,-1
+ 100 999.999023438 l 1,7,-1
+ -1000 1000.00097656 l 1,8,-1
+ -1100 1050 l 1,9,-1
+ -1000 1100 l 1,5,-1
 EndSplineSet
 EndChar
 
@@ -14710,8 +14709,8 @@ SplineSet
  450 491 450 491 479.5 520.5 c 128,-1,0
  509 550 509 550 550 550 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" period cartouche.body
 LCarets2: 1 0
-Substitution2: "cartouched sitelen" dot.cart
 Ligature2: "sitelen+-space" period space
 EndChar
 
@@ -14761,7 +14760,7 @@ SplineSet
  591 775 591 775 620.5 745.5 c 128,-1,8
  650 716 650 716 650 675 c 128,-1,9
 EndSplineSet
-Substitution2: "cartouched sitelen" col.cart
+MultipleSubs2: "cartouched sitelen" colon cartouche.body
 EndChar
 
 StartChar: periodcentered
@@ -14781,7 +14780,7 @@ SplineSet
  450 491 450 491 479.5 520.5 c 128,-1,0
  509 550 509 550 550 550 c 128,-1,1
 EndSplineSet
-Substitution2: "cartouched sitelen" dot.cart
+MultipleSubs2: "cartouched sitelen" periodcentered cartouche.body
 EndChar
 
 StartChar: dotdot
@@ -14810,12 +14809,12 @@ SplineSet
  390.937255859 548.831054688 390.937255859 548.831054688 419.884155273 519.884155273 c 128,-1,8
  448.831054688 490.937255859 448.831054688 490.937255859 448.831054688 450 c 128,-1,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" dotdot cartouche.body
 Ligature2: "sitelen+-space" periodcentered periodcentered space
 Ligature2: "sitelen+-space" dot dot space
 Ligature2: "sitelen" periodcentered periodcentered
 Ligature2: "sitelen" dot dot
 LCarets2: 2 0 0
-Substitution2: "cartouched sitelen" dotdot.cart
 Ligature2: "sitelen+-space" period period space
 Ligature2: "sitelen" period period
 EndChar
@@ -14855,11 +14854,11 @@ SplineSet
  591 550 591 550 620.5 520.5 c 128,-1,16
  650 491 650 491 650 450 c 128,-1,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" dotdotdot cartouche.body
 Ligature2: "sitelen+-space" periodcentered periodcentered periodcentered space
 Ligature2: "sitelen+-space" dot dot dot space
 Ligature2: "sitelen" periodcentered periodcentered periodcentered
 Ligature2: "sitelen" dot dot dot
-Substitution2: "cartouched sitelen" dotdotdot.cart
 Ligature2: "sitelen+-space" period period period space
 Ligature2: "sitelen" period period period
 EndChar
@@ -15054,7 +15053,8 @@ SplineSet
  600 375 l 1,24,-1
  500 375 l 1,21,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.n
+MultipleSubs2: "cartouched sitelen" n.t cartouche.body
+Ligature2: "sitelen" n
 Ligature2: "sitelen+-space" n space
 EndChar
 
@@ -15176,6 +15176,7 @@ SplineSet
  245.187308762 374.998535157 245.187308762 374.998535157 312.49609375 375 c 2,63,-1
  350 375 l 1,36,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" akesi.anpa cartouche.body
 LCarets2: 1 0
 MultipleSubs2: "stack" akesi.anpa stackjoiner
 Ligature2: "anpa" akesi.t stackjoiner
@@ -15219,6 +15220,7 @@ SplineSet
  433 100 433 100 491.5 133 c 0,33,34
  515.614481718 146.603040969 515.614481718 146.603040969 529.788651838 162.5 c 1,29,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ala.anpa cartouche.body
 MultipleSubs2: "stack" alasa.anpa stackjoiner
 Ligature2: "anpa" alasa.t stackjoiner
 EndChar
@@ -15314,6 +15316,7 @@ SplineSet
  549.677763114 267.228547009 l 1,75,-1
  428.590537321 212.645278212 l 1,72,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ala.anpa cartouche.body
 MultipleSubs2: "stack" ala.anpa stackjoiner
 Ligature2: "anpa" ala.t stackjoiner
 EndChar
@@ -15362,6 +15365,7 @@ SplineSet
  99.9975585932 300.520054798 99.9975585932 300.520054798 162.23732232 362.761003961 c 128,-1,44
  224.477086048 425.001953125 224.477086048 425.001953125 312.498046875 425.001953125 c 0,23,24
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ale.anpa cartouche.body
 MultipleSubs2: "stack" ale.anpa stackjoiner
 Ligature2: "anpa" ale.t stackjoiner
 EndChar
@@ -15392,6 +15396,7 @@ SplineSet
  99.9970703125 149.99609375 l 1,15,-1
  99.998046875 425 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" anpa.anpa cartouche.body
 MultipleSubs2: "stack" anpa.anpa stackjoiner
 Ligature2: "anpa" anpa.t stackjoiner
 EndChar
@@ -15415,6 +15420,7 @@ SplineSet
  300.673828125 99.9990234375 l 1,9,-1
  549.997070312 425.001953125 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" awen.anpa cartouche.body
 MultipleSubs2: "stack" awen.anpa stackjoiner
 Ligature2: "anpa" awen.t stackjoiner
 EndChar
@@ -15471,6 +15477,7 @@ SplineSet
  577.2004126 162.348288963 577.2004126 162.348288963 578.89122906 164.224375837 c 2,57,-1
  580.604492188 166.125 l 1,46,47
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" jaki.anpa cartouche.body
 MultipleSubs2: "stack" jaki.anpa stackjoiner
 Ligature2: "anpa" jaki.t stackjoiner
 EndChar
@@ -15567,6 +15574,7 @@ SplineSet
  293.722514268 281.275532607 293.722514268 281.275532607 374.355539741 328.137766304 c 128,-1,0
  454.988565214 375 454.988565214 375 549.997070312 375 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ike.anpa cartouche.body
 MultipleSubs2: "stack" ike.anpa stackjoiner
 Ligature2: "anpa" ike.t stackjoiner
 EndChar
@@ -15598,6 +15606,7 @@ SplineSet
  150.000976562 125.000976562 l 1,15,-1
  150 425 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ilo.anpa cartouche.body
 MultipleSubs2: "stack" ilo.anpa stackjoiner
 Ligature2: "anpa" ilo.t stackjoiner
 EndChar
@@ -15628,6 +15637,7 @@ SplineSet
  99.998046875 25 l 1,15,-1
  99.998046875 400.001953125 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" insa.anpa cartouche.body
 LCarets2: 1 0
 MultipleSubs2: "stack" insa.anpa stackjoiner
 Ligature2: "anpa" insa.t stackjoiner
@@ -15670,6 +15680,7 @@ SplineSet
  500 300 l 1,25,-1
  500 424.999023438 l 1,22,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kalama.anpa cartouche.body
 MultipleSubs2: "stack" kalama.anpa stackjoiner
 Ligature2: "anpa" kalama.t stackjoiner
 EndChar
@@ -15706,6 +15717,7 @@ SplineSet
  556.448242188 379.770507812 l 2,26,27
  614.170505146 424.998046875 614.170505146 424.998046875 687.5 424.998046875 c 0,11,12
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kala.anpa cartouche.body
 MultipleSubs2: "stack" kala.anpa stackjoiner
 Ligature2: "anpa" kala.t stackjoiner
 EndChar
@@ -15729,6 +15741,7 @@ SplineSet
  357.270507812 119.651367188 l 1,9,-1
  549.997070312 425.001953125 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kama.anpa cartouche.body
 MultipleSubs2: "stack" kama.anpa stackjoiner
 Ligature2: "anpa" kama.t stackjoiner
 EndChar
@@ -15767,6 +15780,7 @@ SplineSet
  250 246.515061174 250 246.515061174 250 349.999023438 c 2,31,-1
  250 425.001953125 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kasi.anpa cartouche.body
 MultipleSubs2: "stack" kasi.anpa stackjoiner
 Ligature2: "anpa" kasi.t stackjoiner
 EndChar
@@ -15792,6 +15806,7 @@ SplineSet
  250.010742188 200.008789062 l 1,10,-1
  349.999023438 424.987304688 l 1,5,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kiwen.anpa cartouche.body
 MultipleSubs2: "stack" kiwen.anpa stackjoiner
 Ligature2: "anpa" kiwen.t stackjoiner
 EndChar
@@ -15904,6 +15919,7 @@ SplineSet
  556.630239122 401.726063233 556.630239122 401.726063233 567.5390625 406.54296875 c 0,172,173
  604.092827982 422.683889947 604.092827982 422.683889947 636.73828125 420.83984375 c 0,85,86
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ko.anpa cartouche.body
 MultipleSubs2: "stack" ko.anpa stackjoiner
 Ligature2: "anpa" ko.t stackjoiner
 EndChar
@@ -15937,6 +15953,7 @@ SplineSet
  688.102539062 99.9990234375 l 1,17,-1
  667.513859237 125 l 1,14,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kule.anpa cartouche.body
 MultipleSubs2: "stack" kule.anpa stackjoiner
 Ligature2: "anpa" kule.t stackjoiner
 EndChar
@@ -16003,6 +16020,7 @@ SplineSet
  99.9990234375 212.093261719 99.9990234375 212.093261719 143.954345703 256.048583984 c 128,-1,40
  187.909667969 300.00390625 187.909667969 300.00390625 250 300.00390625 c 128,-1,41
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kulupu.anpa cartouche.body
 MultipleSubs2: "stack" kulupu.anpa stackjoiner
 Ligature2: "anpa" kulupu.t stackjoiner
 EndChar
@@ -16036,6 +16054,7 @@ SplineSet
  624.589506529 307.441524837 624.589506529 307.441524837 663.183618099 335.283429988 c 128,-1,22
  701.777729669 363.125335138 701.777729669 363.125335138 750.000976562 363.249023438 c 0,8,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lape.anpa cartouche.body
 MultipleSubs2: "stack" lape.anpa stackjoiner
 Ligature2: "anpa" lape.t stackjoiner
 EndChar
@@ -16073,6 +16092,7 @@ SplineSet
  224.999023438 300.460324386 224.999023438 300.460324386 298.257293867 362.731138755 c 128,-1,27
  371.515564296 425.001953125 371.515564296 425.001953125 474.999023438 425.001953125 c 0,10,11
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lawa.anpa cartouche.body
 MultipleSubs2: "stack" lawa.anpa stackjoiner
 Ligature2: "anpa" lawa.t stackjoiner
 EndChar
@@ -16105,6 +16125,7 @@ SplineSet
  150.000976562 0.0009765625 l 1,15,-1
  150.000976562 475.000976562 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" leko.anpa cartouche.body
 MultipleSubs2: "stack" leko.anpa stackjoiner
 Ligature2: "anpa" leko.t stackjoiner
 EndChar
@@ -16136,6 +16157,7 @@ SplineSet
  199.998046875 0 l 1,16,-1
  200 425 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" len.anpa cartouche.body
 MultipleSubs2: "stack" len.anpa stackjoiner
 Ligature2: "anpa" len.t stackjoiner
 EndChar
@@ -16167,6 +16189,7 @@ SplineSet
  550 150 l 1,17,-1
  350 0 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lete.anpa cartouche.body
 MultipleSubs2: "stack" lete.anpa stackjoiner
 Ligature2: "anpa" lete.t stackjoiner
 EndChar
@@ -16196,6 +16219,7 @@ SplineSet
  287.865234375 159.997314453 287.865234375 159.997314453 349.998046875 159.998046875 c 0,22,23
  399.969225477 160.086805629 399.969225477 160.086805629 439.904296875 190.129882812 c 2,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" linja.anpa cartouche.body
 MultipleSubs2: "stack" linja.anpa stackjoiner
 Ligature2: "anpa" linja.t stackjoiner
 EndChar
@@ -16222,6 +16246,7 @@ SplineSet
  950 50 l 1,11,-1
  150 50 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lon.anpa cartouche.body
 LCarets2: 1 0
 MultipleSubs2: "stack" lon.anpa stackjoiner
 Ligature2: "anpa" lon.t stackjoiner
@@ -16253,6 +16278,7 @@ SplineSet
  374.999023438 278.555513058 374.999023438 278.555513058 448.222336607 351.779221373 c 128,-1,0
  521.445649777 425.002929688 521.445649777 425.002929688 624.999023438 425.002929688 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" luka.anpa cartouche.body
 MultipleSubs2: "stack" luka.anpa stackjoiner
 Ligature2: "anpa" luka.t stackjoiner
 EndChar
@@ -16296,6 +16322,7 @@ SplineSet
  262.357813712 352.91980883 262.357813712 352.91980883 356.033375713 388.736760325 c 128,-1,39
  449.708937715 424.55371182 449.708937715 424.55371182 549.997070312 425.001953125 c 0,20,21
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lukin.anpa cartouche.body
 MultipleSubs2: "stack" lukin.anpa stackjoiner
 Ligature2: "anpa" lukin.t stackjoiner
 EndChar
@@ -16340,6 +16367,7 @@ SplineSet
  235.713943679 247.641406011 235.713943679 247.641406011 192.901330588 301.592947173 c 128,-1,40
  150.088717498 355.544488334 150.088717498 355.544488334 150.000976562 425.001953125 c 1,8,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mani.anpa cartouche.body
 MultipleSubs2: "stack" mani.anpa stackjoiner
 Ligature2: "anpa" mani.t stackjoiner
 EndChar
@@ -16385,6 +16413,7 @@ SplineSet
  293.721957727 368.096027361 293.721957727 368.096027361 374.35516697 396.548990243 c 128,-1,24
  454.988376212 425.001953125 454.988376212 425.001953125 549.997070312 425.001953125 c 128,-1,25
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ma.anpa cartouche.body
 MultipleSubs2: "stack" ma.anpa stackjoiner
 Ligature2: "anpa" ma.t stackjoiner
 EndChar
@@ -16538,6 +16567,7 @@ SplineSet
  400.000976562 212.090535638 400.000976562 212.090535638 443.954569577 256.045511959 c 128,-1,133
  487.908162591 300.001953125 487.908162591 300.001953125 549.997070312 300.001953125 c 128,-1,134
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" meli.anpa cartouche.body
 MultipleSubs2: "stack" meli.anpa stackjoiner
 Ligature2: "anpa" meli.t stackjoiner
 EndChar
@@ -16583,6 +16613,7 @@ SplineSet
  650.00122071 266.392188434 650.00122071 266.392188434 620.696117711 295.695117655 c 128,-1,31
  591.391014713 324.998046875 591.391014713 324.998046875 549.997070312 324.998046875 c 128,-1,32
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mije.anpa cartouche.body
 MultipleSubs2: "stack" mije.anpa stackjoiner
 Ligature2: "anpa" mije.t stackjoiner
 EndChar
@@ -16647,6 +16678,7 @@ SplineSet
  293.721957727 368.096027361 293.721957727 368.096027361 374.35516697 396.548990243 c 128,-1,40
  454.988376212 425.001953125 454.988376212 425.001953125 549.997070312 425.001953125 c 128,-1,41
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" moli.anpa cartouche.body
 MultipleSubs2: "stack" moli.anpa stackjoiner
 Ligature2: "anpa" moli.t stackjoiner
 EndChar
@@ -16693,6 +16725,7 @@ SplineSet
  425 175 l 1,31,-1
  675 175 l 1,28,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nanpa.anpa cartouche.body
 MultipleSubs2: "stack" nanpa.anpa stackjoiner
 Ligature2: "anpa" nanpa.t stackjoiner
 EndChar
@@ -16718,6 +16751,7 @@ SplineSet
  500 0 l 1,11,-1
  500 171.544209391 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nasin.anpa cartouche.body
 MultipleSubs2: "stack" nasin.anpa stackjoiner
 Ligature2: "anpa" nasin.t stackjoiner
 EndChar
@@ -16749,6 +16783,7 @@ SplineSet
  150.000976562 0 l 1,15,-1
  150.000976562 425.001953125 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pakala.anpa cartouche.body
 MultipleSubs2: "stack" pakala.anpa stackjoiner
 Ligature2: "anpa" pakala.t stackjoiner
 EndChar
@@ -16784,6 +16819,7 @@ SplineSet
  199.998046875 0 l 1,17,-1
  550.002929688 424.997070312 l 1,15,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pimeja.anpa cartouche.body
 MultipleSubs2: "stack" pimeja.anpa stackjoiner
 Ligature2: "anpa" pimeja.t stackjoiner
 EndChar
@@ -16843,6 +16879,7 @@ SplineSet
  913.371337891 412.5 913.371337891 412.5 931.685668945 394.185668945 c 128,-1,36
  950 375.871337891 950 375.871337891 950 350 c 128,-1,37
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pipi.anpa cartouche.body
 MultipleSubs2: "stack" pipi.anpa stackjoiner
 Ligature2: "anpa" pipi.t stackjoiner
 EndChar
@@ -16873,6 +16910,7 @@ SplineSet
  100.000976562 0.0009765625 l 1,15,-1
  100.000976562 400.001953125 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" poka.anpa cartouche.body
 MultipleSubs2: "stack" poka.anpa stackjoiner
 Ligature2: "anpa" poka.t stackjoiner
 EndChar
@@ -16898,6 +16936,7 @@ SplineSet
  806.27741589 118.724958139 806.27741589 118.724958139 725.643270493 71.862967351 c 128,-1,0
  645.009125095 25.0009765625 645.009125095 25.0009765625 550 25.0009765625 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pona.anpa cartouche.body
 MultipleSubs2: "stack" pona.anpa stackjoiner
 Ligature2: "anpa" pona.t stackjoiner
 EndChar
@@ -16920,6 +16959,7 @@ SplineSet
  199.998046875 299.998046875 l 1,7,-1
  199.998046875 400.001953125 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sama.anpa cartouche.body
 MultipleSubs2: "stack" sama.anpa stackjoiner
 Ligature2: "anpa" sama.t stackjoiner
 EndChar
@@ -16949,6 +16989,7 @@ SplineSet
  100 0 l 1,15,-1
  99.998046875 400 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" selo.anpa cartouche.body
 MultipleSubs2: "stack" selo.anpa stackjoiner
 Ligature2: "anpa" selo.t stackjoiner
 EndChar
@@ -16993,6 +17034,7 @@ SplineSet
  599.908453407 121.813537397 599.908453407 121.813537397 600 137.278320312 c 2,37,-1
  600 349.999023438 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sewi.anpa cartouche.body
 MultipleSubs2: "stack" sewi.anpa stackjoiner
 Ligature2: "anpa" sewi.t stackjoiner
 EndChar
@@ -17018,6 +17060,7 @@ SplineSet
  150.001953125 0 l 1,11,-1
  150.001953125 400 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sijelo.anpa cartouche.body
 MultipleSubs2: "stack" sijelo.anpa stackjoiner
 Ligature2: "anpa" sijelo.t stackjoiner
 EndChar
@@ -17067,6 +17110,7 @@ SplineSet
  125 0 l 1,31,-1
  125 425 l 1,28,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sitelen.anpa cartouche.body
 MultipleSubs2: "stack" sitelen.anpa stackjoiner
 Ligature2: "anpa" sitelen.t stackjoiner
 EndChar
@@ -17180,6 +17224,7 @@ SplineSet
  193.748046875 324.99609375 l 1,96,-1
  193.748046875 425 l 1,28,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" soweli.anpa cartouche.body
 MultipleSubs2: "stack" soweli.anpa stackjoiner
 Ligature2: "anpa" soweli.t stackjoiner
 EndChar
@@ -17222,6 +17267,7 @@ SplineSet
  448.655755756 87.7553114173 448.655755756 87.7553114173 408.604750902 115.290723319 c 0,40,41
  378.380896105 136.069884644 378.380896105 136.069884644 363.743937646 161.270507812 c 1,14,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" suno.anpa cartouche.body
 MultipleSubs2: "stack" suno.anpa stackjoiner
 Ligature2: "anpa" suno.t stackjoiner
 EndChar
@@ -17247,6 +17293,7 @@ SplineSet
  100 300 l 1,11,-1
  100 400 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" supa.anpa cartouche.body
 MultipleSubs2: "stack" supa.anpa stackjoiner
 Ligature2: "anpa" supa.t stackjoiner
 EndChar
@@ -17282,6 +17329,7 @@ SplineSet
  524.111816406 0 524.111816406 0 505.805908203 18.3059082031 c 128,-1,12
  487.5 36.6118164062 487.5 36.6118164062 487.5 62.5 c 128,-1,13
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" suwi.anpa cartouche.body
 MultipleSubs2: "stack" suwi.anpa stackjoiner
 Ligature2: "anpa" suwi.t stackjoiner
 EndChar
@@ -17312,6 +17360,7 @@ SplineSet
  99.9990234375 175.001953125 l 1,20,-1
  99.9990234375 425.001953125 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tan.anpa cartouche.body
 MultipleSubs2: "stack" tan.anpa stackjoiner
 Ligature2: "anpa" tan.t stackjoiner
 EndChar
@@ -17335,6 +17384,7 @@ SplineSet
  99.998046875 100 l 1,9,-1
  550.001953125 425.002929688 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tawa.anpa cartouche.body
 MultipleSubs2: "stack" tawa.anpa stackjoiner
 Ligature2: "anpa" tawa.t stackjoiner
 EndChar
@@ -17376,6 +17426,7 @@ SplineSet
  250 300.460234102 250 300.460234102 337.908762154 362.730727404 c 128,-1,22
  425.817524309 425.001953125 425.817524309 425.001953125 549.997070312 425.001953125 c 128,-1,23
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tenpo.anpa cartouche.body
 MultipleSubs2: "stack" tenpo.anpa stackjoiner
 Ligature2: "anpa" tenpo.t stackjoiner
 EndChar
@@ -17400,6 +17451,7 @@ SplineSet
  250 300 l 1,9,-1
  549.997070312 425.001953125 l 1,5,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tomo.anpa cartouche.body
 MultipleSubs2: "stack" tomo.anpa stackjoiner
 Ligature2: "anpa" tomo.t stackjoiner
 EndChar
@@ -17433,6 +17485,7 @@ SplineSet
  639.261622614 195.595295073 l 1,19,-1
  737.646635555 129.068510555 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" utala.anpa cartouche.body
 MultipleSubs2: "stack" utala.anpa stackjoiner
 Ligature2: "anpa" utala.t stackjoiner
 EndChar
@@ -17465,6 +17518,7 @@ SplineSet
  199.998046875 254.990981896 199.998046875 254.990981896 199.998046875 350 c 1,21,-1
  200 350 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" uta.anpa cartouche.body
 MultipleSubs2: "stack" uta.anpa stackjoiner
 Ligature2: "anpa" uta.t stackjoiner
 EndChar
@@ -17493,6 +17547,7 @@ SplineSet
  406.786132812 251.095703125 l 1,13,-1
  550.002929688 424.997070312 l 1,3,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" walo.sewi cartouche.body
 MultipleSubs2: "stack" walo.anpa stackjoiner
 Ligature2: "anpa" walo.t stackjoiner
 EndChar
@@ -17534,6 +17589,7 @@ SplineSet
  529.815429688 425 l 1,25,-1
  650.001953125 425.001953125 l 1,16,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" waso.sewi cartouche.body
 MultipleSubs2: "stack" waso.anpa stackjoiner
 Ligature2: "anpa" waso.t stackjoiner
 EndChar
@@ -17578,6 +17634,7 @@ SplineSet
  350.001953125 282.783743922 350.001953125 282.783743922 408.607936411 341.391505751 c 128,-1,20
  467.213919696 400 467.213919696 400 550 400 c 128,-1,21
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" wawa.anpa cartouche.body
 MultipleSubs2: "stack" wawa.anpa stackjoiner
 Ligature2: "anpa" wawa.t stackjoiner
 EndChar
@@ -17628,6 +17685,7 @@ SplineSet
  718.208591308 316.00427194 718.208591308 316.00427194 693.37890625 336.26953125 c 1,62,-1
  756.62109375 413.73046875 l 1,4,5
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" wile.anpa cartouche.body
 MultipleSubs2: "stack" wile.anpa stackjoiner
 Ligature2: "anpa" wile.t stackjoiner
 EndChar
@@ -17706,6 +17764,7 @@ SplineSet
  -854.8125 849.999023438 -854.8125 849.999023438 -787.50390625 850 c 2,63,-1
  -750 850 l 1,36,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" akesi.sewi cartouche.body
 LCarets2: 1 -1100
 Ligature2: "sewi" stackjoiner akesi.t
 EndChar
@@ -17748,6 +17807,7 @@ SplineSet
  -667 575 -667 575 -608.5 608 c 0,33,34
  -584.385518282 621.603040969 -584.385518282 621.603040969 -570.211348162 637.5 c 1,29,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" alasa.sewi cartouche.body
 LCarets2: 1 0
 Ligature2: "sewi" stackjoiner alasa.t
 EndChar
@@ -17843,6 +17903,7 @@ SplineSet
  -550.320283762 742.228547009 l 1,75,-1
  -671.407509555 687.645278212 l 1,72,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ala.sewi cartouche.body
 Ligature2: "sewi" stackjoiner ala.t
 EndChar
 
@@ -17890,6 +17951,7 @@ SplineSet
  -1000.00195312 775.522460938 -1000.00195312 775.522460938 -937.76171875 837.763671875 c 128,-1,44
  -875.521484375 900.004882812 -875.521484375 900.004882812 -787.500976562 900.004882812 c 0,23,24
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ale.sewi cartouche.body
 Ligature2: "sewi" stackjoiner ale.t
 EndChar
 
@@ -17919,6 +17981,7 @@ SplineSet
  -1000 624.99609375 l 1,15,-1
  -999.999023438 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" anpa.sewi cartouche.body
 Ligature2: "sewi" stackjoiner anpa.t
 EndChar
 
@@ -17941,6 +18004,7 @@ SplineSet
  -799.323242188 574.99609375 l 1,9,-1
  -550 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" awen.sewi cartouche.body
 Ligature2: "sewi" stackjoiner awen.t
 EndChar
 
@@ -17965,6 +18029,7 @@ SplineSet
  -806.275390625 781.275390625 -806.275390625 781.275390625 -725.641601562 828.137695312 c 128,-1,0
  -645.008789062 875 -645.008789062 875 -550 875 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ike.sewi cartouche.body
 Ligature2: "sewi" stackjoiner ike.t
 EndChar
 
@@ -17995,6 +18060,7 @@ SplineSet
  -949.999023438 600.000976562 l 1,15,-1
  -950 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ilo.sewi cartouche.body
 Ligature2: "sewi" stackjoiner ilo.t
 EndChar
 
@@ -18024,6 +18090,7 @@ SplineSet
  -1000.00195312 524.998046875 l 1,15,-1
  -1000.00195312 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" insa.sewi cartouche.body
 Ligature2: "sewi" stackjoiner insa.t
 EndChar
 
@@ -18079,6 +18146,7 @@ SplineSet
  -522.799804688 637.348632812 -522.799804688 637.348632812 -521.108398438 639.224609375 c 2,57,-1
  -519.395507812 641.125 l 1,46,47
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" jaki.sewi cartouche.body
 Ligature2: "sewi" stackjoiner jaki.t
 EndChar
 
@@ -18119,6 +18187,7 @@ SplineSet
  -600 775.000976562 l 1,25,-1
  -600 900 l 1,22,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kalama.sewi cartouche.body
 Ligature2: "sewi" stackjoiner kalama.t
 EndChar
 
@@ -18154,6 +18223,7 @@ SplineSet
  -543.551757812 854.772460938 l 2,26,27
  -485.829101562 900 -485.829101562 900 -412.5 900 c 0,11,12
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kala.sewi cartouche.body
 Ligature2: "sewi" stackjoiner kala.t
 EndChar
 
@@ -18176,6 +18246,7 @@ SplineSet
  -742.729492188 594.649414062 l 1,9,-1
  -550.002929688 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kama.sewi cartouche.body
 LCarets2: 1 0
 Ligature2: "sewi" stackjoiner kama.t
 EndChar
@@ -18269,6 +18340,7 @@ SplineSet
  -850 721.86328125 -850 721.86328125 -850 825.34765625 c 2,86,-1
  -850 900.350585938 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kasi.sewi cartouche.body
 Ligature2: "sewi" stackjoiner kasi.t
 EndChar
 
@@ -18293,6 +18365,7 @@ SplineSet
  -849.989257812 675.006835938 l 1,10,-1
  -750.000976562 899.985351562 l 1,5,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kiwen.sewi cartouche.body
 Ligature2: "sewi" stackjoiner kiwen.t
 EndChar
 
@@ -18405,6 +18478,7 @@ SplineSet
  -543.370117188 870.182617188 -543.370117188 870.182617188 -532.4609375 875 c 0,173,174
  -495.907226562 891.140625 -495.907226562 891.140625 -463.26171875 889.296875 c 0,86,87
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ko.sewi cartouche.body
 Ligature2: "sewi" stackjoiner ko.t
 EndChar
 
@@ -18437,6 +18511,7 @@ SplineSet
  -411.897460938 575.001953125 l 1,17,-1
  -432.486140764 600.002929688 l 1,14,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kule.sewi cartouche.body
 Ligature2: "sewi" stackjoiner kule.t
 EndChar
 
@@ -18502,6 +18577,7 @@ SplineSet
  -1000.00097656 687.09375 -1000.00097656 687.09375 -956.045898438 731.048828125 c 128,-1,40
  -912.08984375 775.00390625 -912.08984375 775.00390625 -850 775.00390625 c 128,-1,41
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kulupu.sewi cartouche.body
 Ligature2: "sewi" stackjoiner kulupu.t
 EndChar
 
@@ -18534,6 +18610,7 @@ SplineSet
  -475.41015625 781.692382812 -475.41015625 781.692382812 -436.81640625 809.534179688 c 128,-1,22
  -398.22265625 837.375976562 -398.22265625 837.375976562 -349.999023438 837.5 c 0,8,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lape.sewi cartouche.body
 Ligature2: "sewi" stackjoiner lape.t
 EndChar
 
@@ -18570,6 +18647,7 @@ SplineSet
  -875.000976562 775.458007812 -875.000976562 775.458007812 -801.743164062 837.729492188 c 128,-1,27
  -728.484375 900 -728.484375 900 -625.000976562 900 c 0,10,11
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lawa.sewi cartouche.body
 Ligature2: "sewi" stackjoiner lawa.t
 EndChar
 
@@ -18601,6 +18679,7 @@ SplineSet
  -949.999023438 425 l 1,15,-1
  -949.999023438 900 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" leko.sewi cartouche.body
 Ligature2: "sewi" stackjoiner leko.t
 EndChar
 
@@ -18631,6 +18710,7 @@ SplineSet
  -900.001953125 475 l 1,16,-1
  -900 900 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" len.sewi cartouche.body
 Ligature2: "sewi" stackjoiner len.t
 EndChar
 
@@ -18661,6 +18741,7 @@ SplineSet
  -550 625 l 1,17,-1
  -750 475 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lete.sewi cartouche.body
 Ligature2: "sewi" stackjoiner lete.t
 EndChar
 
@@ -18689,6 +18770,7 @@ SplineSet
  -812.134765625 637.49609375 -812.134765625 637.49609375 -750.001953125 637.497070312 c 0,22,23
  -700.03125 637.5859375 -700.03125 637.5859375 -660.095703125 667.62890625 c 2,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" linja.sewi cartouche.body
 Ligature2: "sewi" stackjoiner linja.t
 EndChar
 
@@ -18714,6 +18796,7 @@ SplineSet
  -150 525 l 1,11,-1
  -950 525 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lon.sewi cartouche.body
 Ligature2: "sewi" stackjoiner lon.t
 EndChar
 
@@ -18743,6 +18826,7 @@ SplineSet
  -725.000976562 753.553710938 -725.000976562 753.553710938 -651.77734375 826.776367188 c 128,-1,0
  -578.5546875 900 -578.5546875 900 -475.000976562 900 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" luka.sewi cartouche.body
 Ligature2: "sewi" stackjoiner luka.t
 EndChar
 
@@ -18785,6 +18869,7 @@ SplineSet
  -837.642578125 827.916992188 -837.642578125 827.916992188 -743.966796875 863.734375 c 128,-1,39
  -650.291015625 899.55078125 -650.291015625 899.55078125 -550.002929688 900 c 0,20,21
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lukin.sewi cartouche.body
 Ligature2: "sewi" stackjoiner lukin.t
 EndChar
 
@@ -18828,6 +18913,7 @@ SplineSet
  -864.286132812 722.639648438 -864.286132812 722.639648438 -907.098632812 776.590820312 c 128,-1,40
  -949.911132812 830.54296875 -949.911132812 830.54296875 -949.999023438 900 c 1,8,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mani.sewi cartouche.body
 Ligature2: "sewi" stackjoiner mani.t
 EndChar
 
@@ -18872,6 +18958,7 @@ SplineSet
  -806.278320312 843.09375 -806.278320312 843.09375 -725.64453125 871.546875 c 128,-1,24
  -645.01171875 900 -645.01171875 900 -550.002929688 900 c 128,-1,25
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ma.sewi cartouche.body
 Ligature2: "sewi" stackjoiner ma.t
 EndChar
 
@@ -19024,6 +19111,7 @@ SplineSet
  -699.999023438 687.087890625 -699.999023438 687.087890625 -656.044921875 731.04296875 c 128,-1,133
  -612.091796875 775 -612.091796875 775 -550.002929688 775 c 128,-1,134
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" meli.sewi cartouche.body
 Ligature2: "sewi" stackjoiner meli.t
 EndChar
 
@@ -19068,6 +19156,7 @@ SplineSet
  -449.999023438 741.389648438 -449.999023438 741.389648438 -479.303710938 770.693359375 c 128,-1,31
  -508.609375 799.99609375 -508.609375 799.99609375 -550.002929688 799.99609375 c 128,-1,32
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mije.sewi cartouche.body
 Ligature2: "sewi" stackjoiner mije.t
 EndChar
 
@@ -19131,6 +19220,7 @@ SplineSet
  -806.278320312 843.09375 -806.278320312 843.09375 -725.64453125 871.546875 c 128,-1,40
  -645.01171875 900 -645.01171875 900 -550.002929688 900 c 128,-1,41
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" moli.sewi cartouche.body
 Ligature2: "sewi" stackjoiner moli.t
 EndChar
 
@@ -19176,6 +19266,7 @@ SplineSet
  -150 550 l 1,31,-1
  -325 550 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nanpa.sewi cartouche.body
 LCarets2: 1 0
 Ligature2: "sewi" stackjoiner nanpa.t
 EndChar
@@ -19201,6 +19292,7 @@ SplineSet
  -600 475 l 1,11,-1
  -600 646.544209391 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nasin.sewi cartouche.body
 LCarets2: 1 0
 Ligature2: "sewi" stackjoiner nasin.t
 EndChar
@@ -19232,6 +19324,7 @@ SplineSet
  -949.999023438 474.998046875 l 1,15,-1
  -949.999023438 900 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pakala.sewi cartouche.body
 Ligature2: "sewi" stackjoiner pakala.t
 EndChar
 
@@ -19266,6 +19359,7 @@ SplineSet
  -900.001953125 475.002929688 l 1,17,-1
  -549.997070312 900 l 1,15,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pimeja.sewi cartouche.body
 Ligature2: "sewi" stackjoiner pimeja.t
 EndChar
 
@@ -19324,6 +19418,7 @@ SplineSet
  -187 900 -187 900 -168.5 881.5 c 128,-1,36
  -150 863 -150 863 -150 837.5 c 128,-1,37
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pipi.sewi cartouche.body
 LCarets2: 1 -2200
 Ligature2: "sewi" stackjoiner pipi.t
 EndChar
@@ -19354,6 +19449,7 @@ SplineSet
  -999.999023438 499.999023438 l 1,15,-1
  -999.999023438 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" poka.sewi cartouche.body
 Ligature2: "sewi" stackjoiner poka.t
 EndChar
 
@@ -19378,6 +19474,7 @@ SplineSet
  -293.72265625 618.723632812 -293.72265625 618.723632812 -374.356445312 571.862304688 c 128,-1,0
  -454.991210938 525 -454.991210938 525 -550 525 c 128,-1,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pona.sewi cartouche.body
 LCarets2: 1 900
 Ligature2: "sewi" stackjoiner pona.t
 EndChar
@@ -19400,6 +19497,7 @@ SplineSet
  -900.001953125 799.99609375 l 1,7,-1
  -900.001953125 900 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sama.sewi cartouche.body
 Ligature2: "sewi" stackjoiner sama.t
 EndChar
 
@@ -19428,6 +19526,7 @@ SplineSet
  -1000 499.999023438 l 1,15,-1
  -1000.00195312 899.999023438 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" selo.sewi cartouche.body
 Ligature2: "sewi" stackjoiner selo.t
 EndChar
 
@@ -19471,6 +19570,7 @@ SplineSet
  -500.091796875 596.815429688 -500.091796875 596.815429688 -500 612.280273438 c 2,37,-1
  -500 825.000976562 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sewi.sewi cartouche.body
 Ligature2: "sewi" stackjoiner sewi.t
 EndChar
 
@@ -19495,6 +19595,7 @@ SplineSet
  -949.998046875 500 l 1,11,-1
  -949.998046875 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sijelo.sewi cartouche.body
 Ligature2: "sewi" stackjoiner sijelo.t
 EndChar
 
@@ -19543,6 +19644,7 @@ SplineSet
  -975 475 l 1,31,-1
  -975 900 l 1,28,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sitelen.sewi cartouche.body
 Ligature2: "sewi" stackjoiner sitelen.t
 EndChar
 
@@ -19655,6 +19757,7 @@ SplineSet
  -906.251953125 799.99609375 l 1,96,-1
  -906.251953125 900 l 1,28,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" soweli.sewi cartouche.body
 Ligature2: "sewi" stackjoiner soweli.t
 EndChar
 
@@ -19696,6 +19799,7 @@ SplineSet
  -651.34407976 562.755617128 -651.34407976 562.755617128 -691.395507812 590.291015625 c 0,40,41
  -721.619086092 611.070103412 -721.619086092 611.070103412 -736.255984434 636.270507812 c 1,14,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" suno.sewi cartouche.body
 Ligature2: "sewi" stackjoiner suno.t
 EndChar
 
@@ -19720,6 +19824,7 @@ SplineSet
  -1000 750.000976562 l 1,11,-1
  -1000 850 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" supa.sewi cartouche.body
 Ligature2: "sewi" stackjoiner supa.t
 EndChar
 
@@ -19754,6 +19859,7 @@ SplineSet
  -575.888671875 500 -575.888671875 500 -594.194335938 518.305664062 c 128,-1,12
  -612.5 536.611328125 -612.5 536.611328125 -612.5 562.5 c 128,-1,13
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" suwi.sewi cartouche.body
 Ligature2: "sewi" stackjoiner suwi.t
 EndChar
 
@@ -19783,6 +19889,7 @@ SplineSet
  -1000.00097656 650 l 1,20,-1
  -1000.00097656 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tan.sewi cartouche.body
 Ligature2: "sewi" stackjoiner tan.t
 EndChar
 
@@ -19805,6 +19912,7 @@ SplineSet
  -1000.00390625 574.99609375 l 1,9,-1
  -550 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tawa.sewi cartouche.body
 Ligature2: "sewi" stackjoiner tawa.t
 EndChar
 
@@ -19845,6 +19953,7 @@ SplineSet
  -850 775.45703125 -850 775.45703125 -762.090820312 837.728515625 c 128,-1,22
  -674.182617188 900 -674.182617188 900 -550.002929688 900 c 128,-1,23
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tenpo.sewi cartouche.body
 Ligature2: "sewi" stackjoiner tenpo.t
 EndChar
 
@@ -19868,6 +19977,7 @@ SplineSet
  -850 774.997070312 l 1,9,-1
  -550.002929688 900 l 1,5,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tomo.sewi cartouche.body
 Ligature2: "sewi" stackjoiner tomo.t
 EndChar
 
@@ -19896,6 +20006,7 @@ SplineSet
  -460.738377386 670.595295074 l 1,15,-1
  -362.353364445 604.068510555 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" utala.sewi cartouche.body
 Ligature2: "sewi" stackjoiner utala.t
 EndChar
 
@@ -19927,6 +20038,7 @@ SplineSet
  -900.001953125 754.991210938 -900.001953125 754.991210938 -900.001953125 850 c 1,21,-1
  -900 850 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" uta.sewi cartouche.body
 Ligature2: "sewi" stackjoiner uta.t
 EndChar
 
@@ -19954,6 +20066,7 @@ SplineSet
  -693.213867188 726.098632812 l 1,13,-1
  -549.997070312 900 l 1,3,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" walo.sewi cartouche.body
 Ligature2: "sewi" stackjoiner walo.t
 EndChar
 
@@ -19994,6 +20107,7 @@ SplineSet
  -570.184570312 899.997070312 l 1,25,-1
  -449.998046875 900 l 1,16,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" waso.sewi cartouche.body
 Ligature2: "sewi" stackjoiner waso.t
 EndChar
 
@@ -20033,6 +20147,7 @@ SplineSet
  -749.998046875 757.78125 -749.998046875 757.78125 -691.392578125 816.388671875 c 128,-1,16
  -632.786132812 874.997070312 -632.786132812 874.997070312 -550 874.997070312 c 128,-1,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" wawa.sewi cartouche.body
 Ligature2: "sewi" stackjoiner wawa.t
 EndChar
 
@@ -20078,6 +20193,7 @@ SplineSet
  -381.791015625 791.00390625 -381.791015625 791.00390625 -406.62109375 811.26953125 c 1,58,-1
  -343.37890625 888.73046875 l 1,0,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" wile.sewi cartouche.body
 Ligature2: "sewi" stackjoiner wile.t
 EndChar
 
@@ -20098,7 +20214,7 @@ SplineSet
  450 491 450 491 479.5 520.5 c 128,-1,0
  509 550 509 550 550 550 c 128,-1,1
 EndSplineSet
-Substitution2: "cartouched sitelen" dot.cart
+MultipleSubs2: "cartouched sitelen" dot cartouche.body
 EndChar
 
 StartChar: colon.t
@@ -20127,6 +20243,7 @@ SplineSet
  591 775 591 775 620.5 745.5 c 128,-1,8
  650 716 650 716 650 675 c 128,-1,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" colon.t cartouche.body
 EndChar
 
 StartChar: stackjoiner
@@ -20134,6 +20251,7 @@ Encoding: 208 989589 406
 Width: 0
 Flags: MW
 LayerCount: 2
+MultipleSubs2: "cartouched sitelen" stackjoiner
 Ligature2: "zwj" zwj
 Ligature2: "sitelen" hyphen
 EndChar
@@ -20182,7 +20300,7 @@ SplineSet
  550.002929688 740.62109375 l 1,11,-1
  437.455898823 400 l 1,9,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.A
+MultipleSubs2: "cartouched sitelen" A cartouche.body
 EndChar
 
 StartChar: B
@@ -20221,7 +20339,7 @@ SplineSet
  275.000976562 0 l 1,30,-1
  275.000976562 900.001953125 l 1,16,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.B
+MultipleSubs2: "cartouched sitelen" B cartouche.body
 EndChar
 
 StartChar: C
@@ -20257,7 +20375,7 @@ SplineSet
  250.005859375 724.179740017 250.005859375 724.179740017 337.914454969 812.090114149 c 128,-1,33
  425.823050564 900.001953125 425.823050564 900.001953125 550.002929688 900.001953125 c 0,0,1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.C
+MultipleSubs2: "cartouched sitelen" C cartouche.body
 EndChar
 
 StartChar: D
@@ -20290,7 +20408,7 @@ SplineSet
  250 0 l 1,21,-1
  250 900.001953125 l 1,10,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.D
+MultipleSubs2: "cartouched sitelen" D cartouche.body
 EndChar
 
 StartChar: E
@@ -20317,7 +20435,7 @@ SplineSet
  250 799.998046875 l 1,14,-1
  250 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.E
+MultipleSubs2: "cartouched sitelen" E cartouche.body
 EndChar
 
 StartChar: F
@@ -20341,7 +20459,7 @@ SplineSet
  250 799.998046875 l 1,11,-1
  250 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.F
+MultipleSubs2: "cartouched sitelen" F cartouche.body
 EndChar
 
 StartChar: G
@@ -20387,7 +20505,7 @@ SplineSet
  293.722514268 806.277485732 293.722514268 806.277485732 374.355539741 853.139719429 c 128,-1,43
  454.988565214 900.001953125 454.988565214 900.001953125 549.997070312 900.001953125 c 0,0,1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.G
+MultipleSubs2: "cartouched sitelen" G cartouche.body
 EndChar
 
 StartChar: H
@@ -20411,7 +20529,7 @@ SplineSet
  250 0 l 1,11,-1
  250 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.H
+MultipleSubs2: "cartouched sitelen" H cartouche.body
 EndChar
 
 StartChar: I
@@ -20439,7 +20557,7 @@ SplineSet
  350 799.99609375 l 1,15,-1
  350 900 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.I
+MultipleSubs2: "cartouched sitelen" I cartouche.body
 EndChar
 
 StartChar: J
@@ -20467,7 +20585,7 @@ SplineSet
  500.000976562 799.998046875 l 1,18,-1
  500.000976562 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.J
+MultipleSubs2: "cartouched sitelen" J cartouche.body
 EndChar
 
 StartChar: K
@@ -20491,7 +20609,7 @@ SplineSet
  250 0 l 1,11,-1
  250 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.K
+MultipleSubs2: "cartouched sitelen" K cartouche.body
 EndChar
 
 StartChar: L
@@ -20511,7 +20629,7 @@ SplineSet
  250 0 l 1,7,-1
  250 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.L
+MultipleSubs2: "cartouched sitelen" L cartouche.body
 EndChar
 
 StartChar: M
@@ -20535,7 +20653,7 @@ SplineSet
  199.998046875 0 l 1,11,-1
  199.998046875 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.M
+MultipleSubs2: "cartouched sitelen" M cartouche.body
 EndChar
 
 StartChar: N
@@ -20557,7 +20675,7 @@ SplineSet
  250 0 l 1,9,-1
  250 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.N
+MultipleSubs2: "cartouched sitelen" N cartouche.body
 EndChar
 
 StartChar: O
@@ -20817,7 +20935,7 @@ SplineSet
  250 724.179740017 250 724.179740017 337.908595594 812.090114149 c 128,-1,16
  425.817191189 900.001953125 425.817191189 900.001953125 549.997070312 900.001953125 c 128,-1,17
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.O
+MultipleSubs2: "cartouched sitelen" O cartouche.body
 EndChar
 
 StartChar: P
@@ -20850,7 +20968,7 @@ SplineSet
  250 0 l 1,22,-1
  250 900.001953125 l 1,12,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.P
+MultipleSubs2: "cartouched sitelen" P cartouche.body
 EndChar
 
 StartChar: Q
@@ -21116,7 +21234,7 @@ SplineSet
  250 724.179740017 250 724.179740017 337.908595594 812.090114149 c 128,-1,21
  425.817191189 900.001953125 425.817191189 900.001953125 549.997070312 900.001953125 c 128,-1,22
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.Q
+MultipleSubs2: "cartouched sitelen" Q cartouche.body
 EndChar
 
 StartChar: R
@@ -21156,7 +21274,7 @@ SplineSet
  250 -0 l 1,36,-1
  250 900.001953125 l 1,17,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.R
+MultipleSubs2: "cartouched sitelen" R cartouche.body
 EndChar
 
 StartChar: S
@@ -21239,7 +21357,7 @@ SplineSet
  250 738.833327498 250 738.833327498 330.584510429 819.417640312 c 128,-1,86
  411.169020858 900.001953125 411.169020858 900.001953125 525.001953125 900.001953125 c 0,0,1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.S
+MultipleSubs2: "cartouched sitelen" S cartouche.body
 EndChar
 
 StartChar: T
@@ -21261,7 +21379,7 @@ SplineSet
  250 799.998046875 l 1,9,-1
  250 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.T
+MultipleSubs2: "cartouched sitelen" T cartouche.body
 EndChar
 
 StartChar: U
@@ -21731,7 +21849,7 @@ SplineSet
  250 175.821893422 250 175.821893422 250 300.001953125 c 2,459,-1
  250 900.001953125 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.U
+MultipleSubs2: "cartouched sitelen" U cartouche.body
 EndChar
 
 StartChar: V
@@ -21753,7 +21871,7 @@ SplineSet
  498.134765625 0 l 1,9,-1
  250 900.001953125 l 1,2,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.V
+MultipleSubs2: "cartouched sitelen" V cartouche.body
 EndChar
 
 StartChar: W
@@ -21780,7 +21898,7 @@ SplineSet
  374.075195312 -0 l 1,14,-1
  199.998046875 900.001953125 l 1,2,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.W
+MultipleSubs2: "cartouched sitelen" W cartouche.body
 EndChar
 
 StartChar: X
@@ -21806,7 +21924,7 @@ SplineSet
  493.1640625 449.998046875 l 1,13,-1
  250 900.001953125 l 1,2,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.X
+MultipleSubs2: "cartouched sitelen" X cartouche.body
 EndChar
 
 StartChar: Y
@@ -21831,7 +21949,7 @@ SplineSet
  500.000976562 437.353515625 l 1,12,-1
  250 900.001953125 l 1,2,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.Y
+MultipleSubs2: "cartouched sitelen" Y cartouche.body
 EndChar
 
 StartChar: Z
@@ -21855,7 +21973,7 @@ SplineSet
  250 799.998046875 l 1,11,-1
  250 900.001953125 l 1,2,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.Z
+MultipleSubs2: "cartouched sitelen" Z cartouche.body
 EndChar
 
 StartChar: cart.A
@@ -24258,7 +24376,7 @@ SplineSet
  199.998046875 0 l 1,23,-1
  199.998046875 900.001953125 l 1,20,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.ku
+MultipleSubs2: "cartouched sitelen" ku.t cartouche.body
 Ligature2: "sitelen+-space" k u space
 Ligature2: "sitelen" k u
 EndChar
@@ -24298,7 +24416,7 @@ SplineSet
  349.994873047 782.841837111 349.994873047 782.841837111 408.574605079 841.420186133 c 128,-1,16
  467.154337111 899.997070312 467.154337111 899.997070312 549.997070312 899.997070312 c 128,-1,17
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.misikeke
+MultipleSubs2: "cartouched sitelen" misikeke.t cartouche.body
 Ligature2: "sitelen+-space" m i s i k e k e space
 Ligature2: "sitelen" m i s i k e k e
 EndChar
@@ -24353,7 +24471,7 @@ SplineSet
  750.000976562 217.214768204 750.000976562 217.214768204 750.000976562 300.001953125 c 0,46,47
  750.000976562 356.600963241 750.000976562 356.600963241 722.606533966 401.897549591 c 1,40,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.kokosila
+MultipleSubs2: "cartouched sitelen" kokosila.t cartouche.body
 Ligature2: "sitelen+-space" k o k o s i l a space
 Ligature2: "sitelen" k o k o s i l a
 EndChar
@@ -24394,7 +24512,7 @@ SplineSet
  500 599.999023438 l 1,26,-1
  500 825 l 1,23,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.epiku
+MultipleSubs2: "cartouched sitelen" epiku.t cartouche.body
 Ligature2: "sitelen+-space" e p i k u space
 Ligature2: "sitelen" e p i k u
 EndChar
@@ -24426,7 +24544,7 @@ SplineSet
  325 -0 l 1,15,-1
  225 -0 l 1,12,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.meso
+MultipleSubs2: "cartouched sitelen" meso.t cartouche.body
 Ligature2: "sitelen+-space" m e s o space
 Ligature2: "sitelen" m e s o
 EndChar
@@ -24467,7 +24585,7 @@ SplineSet
  291.777285317 828.725518335 291.777285317 828.725518335 375.111017903 864.363555858 c 128,-1,6
  458.444750489 900.001953125 458.444750489 900.001953125 549.997070312 900.001953125 c 128,-1,7
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.soko
+MultipleSubs2: "cartouched sitelen" soko.t cartouche.body
 Ligature2: "sitelen+-space" s o k o space
 Ligature2: "sitelen" s o k o
 EndChar
@@ -24542,8 +24660,8 @@ SplineSet
  385.704077041 793.489122379 385.704077041 793.489122379 433.605006723 841.391505751 c 0,86,16
  492.210990009 900 492.210990009 900 574.997070312 900 c 128,-1,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lanpan.t cartouche.body
 LCarets2: 6 0 0 0 0 0 0
-Substitution2: "cartouched sitelen" cart.lanpan
 Ligature2: "sitelen+-space" l a n p a n space
 Ligature2: "sitelen" l a n p a n
 EndChar
@@ -25264,7 +25382,7 @@ SplineSet
  199.998046875 699.999023438 l 1,9,-1
  199.998046875 799.998046875 l 1,0,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.pake
+MultipleSubs2: "cartouched sitelen" pake.t cartouche.body
 Ligature2: "sitelen+-space" p a k e space
 Ligature2: "sitelen" p a k e
 EndChar
@@ -25338,7 +25456,7 @@ SplineSet
  550 477.692382812 l 1,53,-1
  155.647460938 199.999023438 l 1,48,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.apeja
+MultipleSubs2: "cartouched sitelen" apeja.t cartouche.body
 Ligature2: "sitelen+-space" a p e j a space
 Ligature2: "sitelen" a p e j a
 EndChar
@@ -25376,7 +25494,7 @@ SplineSet
  675 300 l 1,19,-1
  675 400 l 1,16,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.majuna
+MultipleSubs2: "cartouched sitelen" majuna.t cartouche.body
 Ligature2: "sitelen+-space" m a j u n a space
 Ligature2: "sitelen" m a j u n a
 EndChar
@@ -25407,7 +25525,7 @@ SplineSet
  1000 250 l 1,15,-1
  100 250 l 1,12,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.powe
+MultipleSubs2: "cartouched sitelen" powe.t cartouche.body
 Ligature2: "sitelen+-space" p o w e space
 Ligature2: "sitelen" p o w e
 EndChar
@@ -25770,6 +25888,7 @@ SplineSet
  199.998046875 158.608398438 199.998046875 158.608398438 229.303222656 129.303222656 c 128,-1,167
  258.607707064 99.9987382492 258.607707064 99.9987382492 300 99.9980468913 c 1,162,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lipamanka.t cartouche.body
 Ligature2: "sitelen+-space" l i p a m a n k a space
 Ligature2: "sitelen" l i p a m a n k a
 EndChar
@@ -25865,6 +25984,7 @@ SplineSet
  729.295898438 199.997070312 l 1,8,-1
  200 729.290039062 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.t.dr cartouche.body
 Ligature2: "ni" n i greater v
 Ligature2: "ni" n i v greater
 EndChar
@@ -25887,6 +26007,7 @@ SplineSet
  99.9990234375 400.000976562 l 1,8,-1
  99.9990234375 500 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.t.r cartouche.body
 Ligature2: "ni" n i colon.t
 Ligature2: "ni" n i colon
 Ligature2: "ni" n i greater
@@ -25910,6 +26031,7 @@ SplineSet
  800.002929688 629.295898438 l 1,8,-1
  270.709960938 100 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.t.ur cartouche.body
 Ligature2: "ni" n i greater asciicircum
 Ligature2: "ni" n i asciicircum greater
 EndChar
@@ -25932,6 +26054,7 @@ SplineSet
  600 0 l 1,8,-1
  500.000976562 0 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.t.u cartouche.body
 Ligature2: "ni" n i asciicircum
 EndChar
 
@@ -25953,6 +26076,7 @@ SplineSet
  370.704101562 700.002929688 l 1,8,-1
  900 170.709960938 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.t.ul cartouche.body
 Ligature2: "ni" n i less asciicircum
 Ligature2: "ni" n i asciicircum less
 EndChar
@@ -25975,6 +26099,7 @@ SplineSet
  291.4140625 500 l 1,8,-1
  1000.00097656 500 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.t.l cartouche.body
 Ligature2: "ni" n i less
 EndChar
 
@@ -25996,6 +26121,7 @@ SplineSet
  299.997070312 270.704101562 l 1,8,-1
  829.290039062 800 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.t.dl cartouche.body
 Ligature2: "ni" n i less v
 Ligature2: "ni" n i v less
 EndChar
@@ -26033,6 +26159,7 @@ SplineSet
  -898.647460938 687.08984375 -898.647460938 687.08984375 -854.694335938 731.044921875 c 128,-1,24
  -810.740234375 775.000976562 -810.740234375 775.000976562 -748.651367188 775.000976562 c 0,12,13
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sewi.a.t cartouche.body
 Ligature2: "sewi" stackjoiner a
 Ligature2: "sewi" stackjoiner a.t
 EndChar
@@ -26071,6 +26198,7 @@ SplineSet
  -806.278320312 843.095703125 -806.278320312 843.095703125 -725.64453125 871.548828125 c 128,-1,16
  -645.01171875 900.001953125 -645.01171875 900.001953125 -550.002929688 900.001953125 c 128,-1,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ijo.sewi cartouche.body
 Ligature2: "sewi" stackjoiner ijo.t
 EndChar
 
@@ -26100,6 +26228,7 @@ SplineSet
  -850 474.998046875 l 1,20,-1
  -850 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ken.sewi cartouche.body
 Ligature2: "sewi" stackjoiner ken.t
 EndChar
 
@@ -26118,6 +26247,7 @@ SplineSet
  -708.958984375 770.676757812 l 1,5,-1
  -625.000976562 824.999023438 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lili.sewi cartouche.body
 Ligature2: "sewi" stackjoiner lili.t
 EndChar
 
@@ -26139,6 +26269,7 @@ SplineSet
  -900.000976562 475 l 1,7,-1
  -900.002929688 900 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lipu.sewi cartouche.body
 Ligature2: "sewi" stackjoiner lipu.t
 EndChar
 
@@ -26168,6 +26299,7 @@ SplineSet
  -599.997070312 475 l 1,15,-1
  -599.99609375 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" monsi.sewi cartouche.body
 Ligature2: "sewi" stackjoiner monsi.t
 EndChar
 
@@ -26201,6 +26333,7 @@ SplineSet
  -739.75 855.470703125 -739.75 855.470703125 -668.1875 881.91015625 c 0,33,34
  -620.83984375 899.674804688 -620.83984375 899.674804688 -569.087890625 900.001953125 c 0,10,11
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mun.sewi cartouche.body
 Ligature2: "sewi" stackjoiner mun.t
 EndChar
 
@@ -26227,6 +26360,7 @@ SplineSet
  -825 475 l 1,11,-1
  -825 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mute.sewi cartouche.body
 Ligature2: "sewi" stackjoiner mute.t
 EndChar
 
@@ -26248,6 +26382,7 @@ SplineSet
  -300.384765625 641.409179688 l 1,8,-1
  -550.001953125 475.000976562 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.sewi cartouche.body
 Ligature2: "sewi" stackjoiner ni.t
 EndChar
 
@@ -26502,6 +26637,7 @@ SplineSet
  -999.999023438 812.087890625 -999.999023438 812.087890625 -956.044921875 856.041992188 c 128,-1,249
  -912.08984375 900 -912.08984375 900 -850 900 c 2,229,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nimi.sewi cartouche.body
 Ligature2: "sewi" stackjoiner nimi.t
 EndChar
 
@@ -26541,6 +26677,7 @@ SplineSet
  -600.000976562 725 l 1,28,-1
  -600.000976562 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" noka.sewi cartouche.body
 Ligature2: "sewi" stackjoiner noka.t
 EndChar
 
@@ -26574,6 +26711,8 @@ SplineSet
  -556.012695312 790.114257812 -556.012695312 790.114257812 -501.068359375 845.05859375 c 128,-1,8
  -446.123046875 900.00390625 -446.123046875 900.00390625 -368.509765625 900.00390625 c 128,-1,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ona.sewi cartouche.body
+LCarets2: 1 0
 Ligature2: "sewi" stackjoiner ona.t
 EndChar
 
@@ -26601,6 +26740,7 @@ SplineSet
  -900 475 l 1,13,-1
  -900 900 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" open.sewi cartouche.body
 Ligature2: "sewi" stackjoiner open.t
 EndChar
 
@@ -26625,6 +26765,7 @@ SplineSet
  -850 800.001953125 l 1,11,-1
  -850 900.000976562 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pini.sewi cartouche.body
 Ligature2: "sewi" stackjoiner pini.t
 EndChar
 
@@ -26645,6 +26786,7 @@ SplineSet
  -900 474.998046875 l 1,7,-1
  -899.998046875 900 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" poki.sewi cartouche.body
 Ligature2: "sewi" stackjoiner poki.t
 EndChar
 
@@ -26671,6 +26813,7 @@ SplineSet
  -600 650 l 1,11,-1
  -600 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sin.sewi cartouche.body
 Ligature2: "sewi" stackjoiner sin.t
 EndChar
 
@@ -26700,6 +26843,7 @@ SplineSet
  -800 900 l 1,15,-1
  -500.00390625 900 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sinpin.sewi cartouche.body
 Ligature2: "sewi" stackjoiner sinpin.t
 EndChar
 
@@ -26731,6 +26875,7 @@ SplineSet
  -745.71484375 799.997070312 -745.71484375 799.997070312 -799.998046875 799.998046875 c 1,24,-1
  -799.998046875 900.001953125 l 1,0,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" suli.sewi cartouche.body
 Ligature2: "sewi" stackjoiner suli.t
 EndChar
 
@@ -26768,6 +26913,7 @@ SplineSet
  293.72198687 368.096115127 293.72198687 368.096115127 374.355152399 396.549282251 c 128,-1,16
  454.988317928 425.002929688 454.988317928 425.002929688 549.997070312 425.002929688 c 128,-1,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ijo.anpa cartouche.body
 MultipleSubs2: "stack" ijo.anpa stackjoiner
 Ligature2: "anpa" ijo.t stackjoiner
 EndChar
@@ -26798,6 +26944,7 @@ SplineSet
  250 0 l 1,20,-1
  250 425.002929688 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ken.anpa cartouche.body
 MultipleSubs2: "stack" ken.anpa stackjoiner
 Ligature2: "anpa" ken.t stackjoiner
 EndChar
@@ -26817,6 +26964,7 @@ SplineSet
  391.041015625 295.676757812 l 1,5,-1
  474.999023438 349.999023438 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lili.anpa cartouche.body
 MultipleSubs2: "stack" lili.anpa stackjoiner
 Ligature2: "anpa" lili.t stackjoiner
 EndChar
@@ -26839,6 +26987,7 @@ SplineSet
  199.998046875 0 l 1,7,-1
  199.99609375 425 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lipu.anpa cartouche.body
 MultipleSubs2: "stack" lipu.anpa stackjoiner
 Ligature2: "anpa" lipu.t stackjoiner
 EndChar
@@ -26869,6 +27018,7 @@ SplineSet
  500.002929688 0 l 1,15,-1
  500.00390625 425 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" monsi.anpa cartouche.body
 MultipleSubs2: "stack" monsi.anpa stackjoiner
 Ligature2: "anpa" monsi.t stackjoiner
 EndChar
@@ -26903,6 +27053,7 @@ SplineSet
  379.334839204 380.471968176 379.334839204 380.471968176 450.897460938 406.91015625 c 0,33,34
  498.243286182 424.67575825 498.243286182 424.67575825 549.997070312 425.002929688 c 0,10,11
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mun.anpa cartouche.body
 MultipleSubs2: "stack" mun.anpa stackjoiner
 Ligature2: "anpa" mun.t stackjoiner
 EndChar
@@ -26930,6 +27081,7 @@ SplineSet
  725 0 l 1,11,-1
  725 425 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mute.anpa cartouche.body
 MultipleSubs2: "stack" mute.anpa stackjoiner
 Ligature2: "anpa" mute.t stackjoiner
 EndChar
@@ -26952,6 +27104,7 @@ SplineSet
  799.80859375 166.409179688 l 1,8,-1
  550.19140625 0.0009765625 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ni.anpa cartouche.body
 MultipleSubs2: "stack" ni.anpa stackjoiner
 Ligature2: "anpa" ni.t stackjoiner
 EndChar
@@ -27207,6 +27360,7 @@ SplineSet
  100.000488282 337.086954596 100.000488282 337.086954596 143.955464604 381.040547611 c 128,-1,249
  187.910440925 424.999023438 187.910440925 424.999023438 250 424.999023438 c 2,229,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" nimi.anpa cartouche.body
 MultipleSubs2: "stack" nimi.anpa stackjoiner
 Ligature2: "anpa" nimi.t stackjoiner
 EndChar
@@ -27245,6 +27399,7 @@ SplineSet
  500 250 l 1,26,-1
  500 425 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" noka.anpa cartouche.body
 MultipleSubs2: "stack" noka.anpa stackjoiner
 Ligature2: "anpa" noka.t stackjoiner
 EndChar
@@ -27279,6 +27434,7 @@ SplineSet
  543.987304688 315.112624374 543.987304688 315.112624374 598.932166679 370.05728875 c 128,-1,8
  653.877028671 425.001953125 653.877028671 425.001953125 731.490234375 425.001953125 c 128,-1,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ona.anpa cartouche.body
 MultipleSubs2: "stack" ona.anpa stackjoiner
 Ligature2: "anpa" ona.t stackjoiner
 EndChar
@@ -27307,6 +27463,7 @@ SplineSet
  200 0 l 1,13,-1
  200 425 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" open.anpa cartouche.body
 MultipleSubs2: "stack" open.anpa stackjoiner
 Ligature2: "anpa" open.t stackjoiner
 EndChar
@@ -27332,6 +27489,7 @@ SplineSet
  250 325.002929688 l 1,11,-1
  250 425.001953125 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" pini.anpa cartouche.body
 MultipleSubs2: "stack" pini.anpa stackjoiner
 Ligature2: "anpa" pini.t stackjoiner
 EndChar
@@ -27353,6 +27511,7 @@ SplineSet
  200 0 l 1,7,-1
  200.001953125 425.001953125 l 1,0,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" poki.anpa cartouche.body
 MultipleSubs2: "stack" poki.anpa stackjoiner
 Ligature2: "anpa" poki.t stackjoiner
 EndChar
@@ -27380,6 +27539,7 @@ SplineSet
  500 175 l 1,11,-1
  500 425 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sin.anpa cartouche.body
 MultipleSubs2: "stack" sin.anpa stackjoiner
 Ligature2: "anpa" sin.t stackjoiner
 EndChar
@@ -27410,6 +27570,7 @@ SplineSet
  300 425 l 1,15,-1
  599.99609375 425 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sinpin.anpa cartouche.body
 MultipleSubs2: "stack" sinpin.anpa stackjoiner
 Ligature2: "anpa" sinpin.t stackjoiner
 EndChar
@@ -27506,6 +27667,7 @@ SplineSet
  354.2804875 324.919937839 354.2804875 324.919937839 299.998046875 324.920898438 c 1,87,-1
  299.998046875 424.924804688 l 1,0,1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" suli.anpa cartouche.body
 MultipleSubs2: "stack" suli.anpa stackjoiner
 Ligature2: "anpa" suli.t stackjoiner
 EndChar
@@ -27641,11 +27803,11 @@ SplineSet
  500 375 l 1,24,-1
  600 900.001953125 l 1,21,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" a.t1 cartouche.body
 Ligature2: "alts" a one
 Ligature2: "alts" a.t one
 Ligature2: "alts" a.t var1
 Ligature2: "alts" a var1
-Substitution2: "cartouched sitelen" cart.a1
 EndChar
 
 StartChar: aa.t
@@ -27686,8 +27848,8 @@ SplineSet
  277.877929688 900.002929688 l 1,28,-1
  381.313476562 900.002929688 l 1,25,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.aa
-Ligature2: "sitelen" a a
+MultipleSubs2: "cartouched sitelen" aa.t cartouche.body
+Ligature2: "alts" a.t a.t
 EndChar
 
 StartChar: aaa.t
@@ -27733,8 +27895,8 @@ SplineSet
  600 350 l 1,32,-1
  500 350 l 1,29,-1
 EndSplineSet
-Substitution2: "cartouched sitelen" cart.aaa
-Ligature2: "sitelen" a a a
+MultipleSubs2: "cartouched sitelen" aaa.t cartouche.body
+Ligature2: "alts" a.t a.t a.t
 EndChar
 
 StartChar: akesi.t1
@@ -27820,9 +27982,9 @@ SplineSet
  625.004394556 143.953154423 625.004394556 143.953154423 625.005859375 174.997070312 c 1,72,-1
  474.999023438 175.001953125 l 1,67,68
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" akesi.t1 cartouche.body
 Ligature2: "alts" akesi.t one
 Ligature2: "alts" akesi.t var1
-Substitution2: "cartouched sitelen" cart.akesi1
 EndChar
 
 StartChar: akesi.t2
@@ -27895,9 +28057,9 @@ SplineSet
  625.002929688 325.005859375 l 1,58,-1
  625.002929688 725.0078125 l 1,55,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" akesi.t2 cartouche.body
 Ligature2: "alts" akesi.t two
 Ligature2: "alts" akesi.t var2
-Substitution2: "cartouched sitelen" cart.akesi2
 EndChar
 
 StartChar: akesi.t3
@@ -27982,9 +28144,9 @@ SplineSet
  518.953758845 800.017089862 518.953758845 800.017089862 496.977123572 778.038280818 c 128,-1,71
  475.0004883 756.059471774 475.0004883 756.059471774 474.999023438 725.014648438 c 1,66,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" akesi.t3 cartouche.body
 Ligature2: "alts" akesi.t three
 Ligature2: "alts" akesi.t var3
-Substitution2: "cartouched sitelen" cart.akesi3
 EndChar
 
 StartChar: esun.t1
@@ -28048,9 +28210,9 @@ SplineSet
  500.000976562 300.001953125 l 1,61,-1
  300.001953125 300.001953125 l 2,51,52
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" esun.t1 cartouche.body
 Ligature2: "alts" esun.t one
 Ligature2: "alts" esun.t var1
-Substitution2: "cartouched sitelen" cart.esun1
 EndChar
 
 StartChar: kala.t1
@@ -28105,9 +28267,9 @@ SplineSet
  611.611816406 437.5 611.611816406 437.5 593.305908203 455.805908203 c 128,-1,38
  575 474.111816406 575 474.111816406 575 500 c 128,-1,39
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kala.t1 cartouche.body
 Ligature2: "alts" kala.t one
 Ligature2: "alts" kala.t var1
-Substitution2: "cartouched sitelen" cart.kala1
 LCarets2: 1 0
 EndChar
 
@@ -28147,9 +28309,9 @@ SplineSet
  499.999511717 474.263299329 499.999511717 474.263299329 412.130801507 562.130428961 c 128,-1,32
  324.262091297 649.997558592 324.262091297 649.997558592 199.998046875 649.99609375 c 1,27,28
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kasi.t1 cartouche.body
 Ligature2: "alts" kasi.t one
 Ligature2: "alts" kasi.t var1
-Substitution2: "cartouched sitelen" cart.kasi1
 EndChar
 
 StartChar: kin.t1
@@ -28184,9 +28346,9 @@ SplineSet
  500.000976562 236.600585938 l 1,21,-1
  500.000976562 300.001953125 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" kin.t1 cartouche.body
 Ligature2: "alts" kin.t one
 Ligature2: "alts" kin.t var1
-Substitution2: "cartouched sitelen" cart.kin1
 EndChar
 
 StartChar: lanpan.t1
@@ -28338,9 +28500,9 @@ SplineSet
  799.998046875 446.520455299 799.998046875 446.520455299 726.741306751 373.261936633 c 128,-1,12
  653.484566627 300.003417968 653.484566627 300.003417968 550.002929688 300.001953125 c 128,-1,13
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lanpan.t1 cartouche.body
 Ligature2: "alts" lanpan.t one
 Ligature2: "alts" lanpan.t var1
-Substitution2: "cartouched sitelen" cart.lanpan1
 EndChar
 
 StartChar: lape.t1
@@ -28524,9 +28686,9 @@ SplineSet
  524.111816406 212.5 524.111816406 212.5 505.805908203 230.805908203 c 128,-1,166
  487.5 249.111816406 487.5 249.111816406 487.5 275 c 128,-1,167
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" lape.t1 cartouche.body
 Ligature2: "alts" lape.t one
 Ligature2: "alts" lape.t var1
-Substitution2: "cartouched sitelen" cart.lape1
 EndChar
 
 StartChar: majuna.t1
@@ -28552,9 +28714,9 @@ SplineSet
  425 525 l 1,11,-1
  100 525 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" majuna.t1 cartouche.body
 Ligature2: "alts" majuna.t one
 Ligature2: "alts" majuna.t var1
-Substitution2: "cartouched sitelen" cart.majuna1
 EndChar
 
 StartChar: meli.t1
@@ -28597,9 +28759,9 @@ SplineSet
  750.000244143 682.785836161 750.000244143 682.785836161 691.392360245 741.391941518 c 128,-1,26
  632.784476346 799.998046875 632.784476346 799.998046875 549.997070312 799.998046875 c 128,-1,27
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" meli.t1 cartouche.body
 Ligature2: "alts" meli.t one
 Ligature2: "alts" meli.t var1
-Substitution2: "cartouched sitelen" cart.meli1
 EndChar
 
 StartChar: meli.t2
@@ -28636,9 +28798,9 @@ SplineSet
  750.000244142 682.842400891 750.000244142 682.842400891 691.42047436 741.420590094 c 128,-1,16
  632.840704579 799.998779298 632.840704579 799.998779298 549.997070312 799.998046875 c 128,-1,17
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" meli.t2 cartouche.body
 Ligature2: "alts" meli.t two
 Ligature2: "alts" meli.t var2
-Substitution2: "cartouched sitelen" cart.meli2
 EndChar
 
 StartChar: meso.t1
@@ -28672,9 +28834,9 @@ SplineSet
  550.004882812 213.193359375 l 1,19,-1
  144.723632812 10.556640625 l 1,14,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" meso.t1 cartouche.body
 Ligature2: "alts" meso.t one
 Ligature2: "alts" meso.t var1
-Substitution2: "cartouched sitelen" cart.meso1
 EndChar
 
 StartChar: mi.t1
@@ -29227,9 +29389,9 @@ SplineSet
  649.99609375 741.389892578 649.99609375 741.389892578 620.693359375 770.692626953 c 128,-1,534
  591.390625 799.995361328 591.390625 799.995361328 549.997070312 799.99609375 c 128,-1,535
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mi.t1 cartouche.body
 Ligature2: "alts" mi.t one
 Ligature2: "alts" mi.t var1
-Substitution2: "cartouched sitelen" cart.mi1
 EndChar
 
 StartChar: mije.t1
@@ -29269,9 +29431,9 @@ SplineSet
  649.996582034 432.786004751 649.996582034 432.786004751 591.388980048 491.392025813 c 128,-1,23
  532.781378063 549.998046875 532.781378063 549.998046875 449.994140625 549.998046875 c 128,-1,24
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mije.t1 cartouche.body
 Ligature2: "alts" mije.t one
 Ligature2: "alts" mije.t var1
-Substitution2: "cartouched sitelen" cart.mije1
 EndChar
 
 StartChar: mije.t2
@@ -29394,9 +29556,9 @@ SplineSet
  750.000244143 682.785836161 750.000244143 682.785836161 691.392360245 741.391941518 c 128,-1,103
  632.784476346 799.998046875 632.784476346 799.998046875 549.997070312 799.998046875 c 128,-1,104
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mije.t2 cartouche.body
 Ligature2: "alts" mije.t two
 Ligature2: "alts" mije.t var2
-Substitution2: "cartouched sitelen" cart.mije2
 EndChar
 
 StartChar: misikeke.t1
@@ -29427,9 +29589,9 @@ SplineSet
  801.496027282 336.433478814 801.496027282 336.433478814 832.80859375 425.000976562 c 1,20,-1
  267.6953125 425.000976562 l 1,15,16
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" misikeke.t1 cartouche.body
 Ligature2: "alts" misikeke.t one
 Ligature2: "alts" misikeke.t var1
-Substitution2: "cartouched sitelen" cart.misikeke1
 EndChar
 
 StartChar: moli.t1
@@ -29471,9 +29633,9 @@ SplineSet
  750 150 l 1,27,-1
  350 150 l 1,24,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" moli.t1 cartouche.body
 Ligature2: "alts" moli.t one
 Ligature2: "alts" moli.t var1
-Substitution2: "cartouched sitelen" cart.moli1
 EndChar
 
 StartChar: mu.t1
@@ -29499,10 +29661,10 @@ SplineSet
  0 324.997070312 l 1,11,-1
  225.00390625 249.999023438 l 1,8,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mu.t1 cartouche.body
 LCarets2: 1 0
 Ligature2: "alts" mu.t one
 Ligature2: "alts" mu.t var1
-Substitution2: "cartouched sitelen" cart.mu1
 EndChar
 
 StartChar: mute.t1
@@ -29581,9 +29743,9 @@ SplineSet
  650.00024414 322.484183764 650.00024414 322.484183764 701.255641686 373.74135946 c 128,-1,54
  752.511039232 424.998535157 752.511039232 424.998535157 824.998046875 425 c 128,-1,55
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" mute.t1 cartouche.body
 Ligature2: "alts" mute.t one
 Ligature2: "alts" mute.t var1
-Substitution2: "cartouched sitelen" cart.mute1
 LCarets2: 1 0
 EndChar
 
@@ -29617,11 +29779,11 @@ SplineSet
  400.000976562 150.000976562 l 1,24,-1
  400.000976562 300.001953125 l 1,4,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" n.t1 cartouche.body
 Ligature2: "alts" n one
 Ligature2: "alts" n.t one
 Ligature2: "alts" n.t var1
 Ligature2: "alts" n var1
-Substitution2: "cartouched sitelen" cart.n1
 EndChar
 
 StartChar: namako.t1
@@ -29652,9 +29814,9 @@ SplineSet
  100 400 l 1,15,-1
  100 500 l 1,12,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" namako.t1 cartouche.body
 Ligature2: "alts" namako.t one
 Ligature2: "alts" namako.t var1
-Substitution2: "cartouched sitelen" cart.namako1
 EndChar
 
 StartChar: o.t1
@@ -29688,11 +29850,11 @@ SplineSet
  499.099609375 374.998046875 l 1,19,-1
  599.098632812 900 l 1,16,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" o.t1 cartouche.body
 Ligature2: "alts" o one
 Ligature2: "alts" o.t one
 Ligature2: "alts" o.t var1
 Ligature2: "alts" o var1
-Substitution2: "cartouched sitelen" cart.o1
 EndChar
 
 StartChar: olin.t1
@@ -29753,9 +29915,9 @@ SplineSet
  675.001953125 674.99609375 l 1,68,-1
  750 900 l 1,65,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" olin.t1 cartouche.body
 Ligature2: "alts" olin.t one
 Ligature2: "alts" olin.t var1
-Substitution2: "cartouched sitelen" cart.olin1
 EndChar
 
 StartChar: sewi.t1
@@ -29784,9 +29946,9 @@ SplineSet
  518.932617188 749.998046875 518.932617188 749.998046875 549.998535156 749.998046875 c 128,-1,8
  581.064453125 749.998046875 581.064453125 749.998046875 603.03125 728.03125 c 128,-1,9
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sewi.t1 cartouche.body
 Ligature2: "alts" sewi.t one
 Ligature2: "alts" sewi.t var1
-Substitution2: "cartouched sitelen" cart.sewi1
 EndChar
 
 StartChar: soko.t1
@@ -29901,9 +30063,9 @@ SplineSet
  699.999023438 449.998046875 l 1,106,-1
  400.000976562 449.998046875 l 1,97,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" soko.t1 cartouche.body
 Ligature2: "alts" soko.t one
 Ligature2: "alts" soko.t var1
-Substitution2: "cartouched sitelen" cart.soko1
 EndChar
 
 StartChar: soko.t2
@@ -29934,9 +30096,9 @@ SplineSet
  852.139433039 661.221095006 852.139433039 661.221095006 759.096988497 730.591626589 c 128,-1,14
  666.054543955 799.962158172 666.054543955 799.962158172 549.997070312 799.998046875 c 128,-1,15
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" soko.t2 cartouche.body
 Ligature2: "alts" soko.t two
 Ligature2: "alts" soko.t var2
-Substitution2: "cartouched sitelen" cart.soko2
 EndChar
 
 StartChar: tenpo.t1
@@ -29962,9 +30124,9 @@ SplineSet
  783.114257812 100 l 1,11,-1
  550 373.001953125 l 1,9,-1
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tenpo.t1 cartouche.body
 Ligature2: "alts" tenpo.t one
 Ligature2: "alts" tenpo.t var1
-Substitution2: "cartouched sitelen" cart.tenpo1
 EndChar
 
 StartChar: tonsi.t1
@@ -30014,9 +30176,9 @@ SplineSet
  599.997070312 541.420654297 599.997070312 541.420654297 570.707885742 570.709838867 c 128,-1,34
  541.418701172 599.999023438 541.418701172 599.999023438 499.998046875 599.999023438 c 128,-1,35
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tonsi.t1 cartouche.body
 Ligature2: "alts" tonsi.t one
 Ligature2: "alts" tonsi.t var1
-Substitution2: "cartouched sitelen" cart.tonsi1
 EndChar
 
 StartChar: tonsi.t2
@@ -30084,9 +30246,9 @@ SplineSet
  649.99609375 541.421386719 649.99609375 541.421386719 620.707275391 570.710205078 c 128,-1,52
  591.418457031 599.999023438 591.418457031 599.999023438 549.997070312 599.999023438 c 128,-1,53
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tonsi.t2 cartouche.body
 Ligature2: "alts" tonsi.t two
 Ligature2: "alts" tonsi.t var2
-Substitution2: "cartouched sitelen" cart.tonsi2
 EndChar
 
 StartChar: tonsi.t3
@@ -30132,9 +30294,9 @@ SplineSet
  750.000244141 382.840523269 750.000244141 382.840523269 691.420436608 441.41855265 c 128,-1,28
  632.840629075 499.996582032 632.840629075 499.996582032 549.997070312 499.995117188 c 128,-1,29
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tonsi.t3 cartouche.body
 Ligature2: "alts" tonsi.t three
 Ligature2: "alts" tonsi.t var3
-Substitution2: "cartouched sitelen" cart.tonsi3
 EndChar
 
 StartChar: tonsi.t4
@@ -30191,9 +30353,9 @@ SplineSet
  729.196269813 447.736742833 729.196269813 447.736742833 742.869140625 499.995117188 c 1,53,-1
  599.999023438 499.995117188 l 1,48,49
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" tonsi.t4 cartouche.body
 Ligature2: "alts" tonsi.t four
 Ligature2: "alts" tonsi.t var4
-Substitution2: "cartouched sitelen" cart.tonsi4
 EndChar
 
 StartChar: uta.t1
@@ -30220,9 +30382,9 @@ SplineSet
  777.084711483 462.710423186 777.084711483 462.710423186 794.90234375 549.99609375 c 1,16,-1
  305.697265625 549.99609375 l 1,10,11
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" uta.t1 cartouche.body
 Ligature2: "alts" uta.t one
 Ligature2: "alts" uta.t var1
-Substitution2: "cartouched sitelen" cart.uta1
 EndChar
 
 StartChar: wile.t1
@@ -30279,9 +30441,9 @@ SplineSet
  305.17823148 111.751952252 305.17823148 111.751952252 337.0703125 103.815429688 c 0,74,38
  361.911585015 97.6340342218 361.911585015 97.6340342218 388.69140625 101.178710938 c 128,-1,39
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" wile.t1 cartouche.body
 Ligature2: "alts" wile.t one
 Ligature2: "alts" wile.t var1
-Substitution2: "cartouched sitelen" cart.wile1
 EndChar
 
 StartChar: cart.a1
@@ -33835,9 +33997,9 @@ SplineSet
  449.998779297 158.608154297 449.998779297 158.608154297 479.301513672 129.305419922 c 128,-1,534
  508.604248047 100.002685547 508.604248047 100.002685547 549.997070312 100.001953125 c 128,-1,535
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" sina.t1 cartouche.body
 Ligature2: "alts" sina.t one
 Ligature2: "alts" sina.t var1
-Substitution2: "cartouched sitelen" cart.sina1
 EndChar
 
 StartChar: ona.t1
@@ -34389,9 +34551,9 @@ SplineSet
  841.390869141 349.997802734 841.390869141 349.997802734 870.693603516 379.300537109 c 128,-1,534
  899.996337891 408.603271484 899.996337891 408.603271484 899.997070312 449.99609375 c 128,-1,535
 EndSplineSet
+MultipleSubs2: "cartouched sitelen" ona.t1 cartouche.body
 Ligature2: "alts" ona.t one
 Ligature2: "alts" ona.t var1
-Substitution2: "cartouched sitelen" cart.ona1
 EndChar
 
 StartChar: cart.sina1
@@ -35527,6 +35689,7 @@ Encoding: 637 -1 635
 Width: 0
 Flags: W
 LayerCount: 2
+MultipleSubs2: "cartouched sitelen" var1 cartouche.body
 EndChar
 
 StartChar: var2
@@ -35534,6 +35697,7 @@ Encoding: 638 -1 636
 Width: 0
 Flags: W
 LayerCount: 2
+MultipleSubs2: "cartouched sitelen" var2 cartouche.body
 EndChar
 
 StartChar: var3
@@ -35541,6 +35705,7 @@ Encoding: 639 -1 637
 Width: 0
 Flags: W
 LayerCount: 2
+MultipleSubs2: "cartouched sitelen" var3 cartouche.body
 EndChar
 
 StartChar: var4
@@ -35548,6 +35713,7 @@ Encoding: 640 -1 638
 Width: 0
 Flags: W
 LayerCount: 2
+MultipleSubs2: "cartouched sitelen" var4 cartouche.body
 EndChar
 
 StartChar: bar
