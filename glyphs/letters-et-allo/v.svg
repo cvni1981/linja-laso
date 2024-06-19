@@ -24,13 +24,13 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.9259884"
-     inkscape:cx="116.63213"
-     inkscape:cy="232.18433"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="1.1791813"
+     inkscape:cx="63.603449"
+     inkscape:cy="270.95069"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true">
@@ -69,10 +69,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect15"
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.316237;stroke-miterlimit:100;stroke-opacity:1;-inkscape-stroke:hairline"
-       inkscape:transform-center-x="-15.470463"
-       inkscape:transform-center-y="31.790952"
-       d="M 27.248462,40.000142 49.747864,110 l 10.504268,0 22.499402,-69.999858 -10.503751,0 L 54.999739,93.659914 37.752214,40.000142 Z" />
+       id="rect29"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.264583;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       inkscape:transform-center-x="13.199999"
+       inkscape:transform-center-y="27.399996"
+       d="M 18.800216 46.599988 L 52.399922 99.300027 L 61.999832 96.500054 L 62.00006 34.000034 L 52.000298 36.916631 L 52.000112 80.071351 L 28.799978 43.683391 L 18.800216 46.599988 z "
+       transform="rotate(16.260204)" />
   </g>
 </svg>

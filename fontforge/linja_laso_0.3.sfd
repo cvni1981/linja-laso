@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1710370062
-ModificationTime: 1717714861
+ModificationTime: 1717951639
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -71,11 +71,11 @@ Lookup: 4 0 1 "LIGA cc01 cleanup" { "cc01 cleanup"  } ['liga' ('DFLT' <'dflt' > 
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: class "cartouches" 3 3 3 1
-  Class: 3015 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot akesi.anpa alasa.anpa ala.anpa ale.anpa anpa.anpa awen.anpa jaki.anpa ike.anpa ilo.anpa insa.anpa kalama.anpa kala.anpa kama.anpa kasi.anpa kiwen.anpa ko.anpa kule.anpa kulupu.anpa lape.anpa lawa.anpa leko.anpa len.anpa lete.anpa linja.anpa lon.anpa luka.anpa lukin.anpa mani.anpa ma.anpa meli.anpa mije.anpa moli.anpa nanpa.anpa nasin.anpa pakala.anpa pimeja.anpa pipi.anpa poka.anpa pona.anpa sama.anpa selo.anpa sewi.anpa sijelo.anpa sitelen.anpa soweli.anpa suno.anpa supa.anpa suwi.anpa tan.anpa tawa.anpa tenpo.anpa tomo.anpa utala.anpa uta.anpa walo.anpa waso.anpa wawa.anpa wile.anpa akesi.sewi alasa.sewi ala.sewi ale.sewi anpa.sewi awen.sewi ike.sewi ilo.sewi insa.sewi jaki.sewi kalama.sewi kala.sewi kama.sewi kasi.sewi kiwen.sewi ko.sewi kule.sewi kulupu.sewi lape.sewi lawa.sewi leko.sewi len.sewi lete.sewi linja.sewi lon.sewi luka.sewi lukin.sewi mani.sewi ma.sewi meli.sewi mije.sewi moli.sewi nanpa.sewi nasin.sewi pakala.sewi pimeja.sewi pipi.sewi poka.sewi pona.sewi sama.sewi selo.sewi sewi.sewi sijelo.sewi sitelen.sewi soweli.sewi suno.sewi supa.sewi suwi.sewi tan.sewi tawa.sewi tenpo.sewi tomo.sewi utala.sewi uta.sewi walo.sewi waso.sewi wawa.sewi wile.sewi lipamanka.t ni.t.dr ni.t.r ni.t.ur ni.t.u ni.t.ul ni.t.l ni.t.dl sewi.a.t ijo.sewi ken.sewi lili.sewi lipu.sewi monsi.sewi mun.sewi mute.sewi ni.sewi nimi.sewi noka.sewi ona.sewi open.sewi pini.sewi poki.sewi sin.sewi sinpin.sewi suli.sewi ijo.anpa ken.anpa lili.anpa lipu.anpa monsi.anpa mun.anpa mute.anpa ni.anpa nimi.anpa noka.anpa ona.anpa open.anpa pini.anpa poki.anpa sin.anpa sinpin.anpa suli.anpa a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1
+  Class: 3025 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot akesi.anpa alasa.anpa ala.anpa ale.anpa anpa.anpa awen.anpa jaki.anpa ike.anpa ilo.anpa insa.anpa kalama.anpa kala.anpa kama.anpa kasi.anpa kiwen.anpa ko.anpa kule.anpa kulupu.anpa lape.anpa lawa.anpa leko.anpa len.anpa lete.anpa linja.anpa lon.anpa luka.anpa lukin.anpa mani.anpa ma.anpa meli.anpa mije.anpa moli.anpa nanpa.anpa nasin.anpa pakala.anpa pimeja.anpa pipi.anpa poka.anpa pona.anpa sama.anpa selo.anpa sewi.anpa sijelo.anpa sitelen.anpa soweli.anpa suno.anpa supa.anpa suwi.anpa tan.anpa tawa.anpa tenpo.anpa tomo.anpa utala.anpa uta.anpa walo.anpa waso.anpa wawa.anpa wile.anpa akesi.sewi alasa.sewi ala.sewi ale.sewi anpa.sewi awen.sewi ike.sewi ilo.sewi insa.sewi jaki.sewi kalama.sewi kala.sewi kama.sewi kasi.sewi kiwen.sewi ko.sewi kule.sewi kulupu.sewi lape.sewi lawa.sewi leko.sewi len.sewi lete.sewi linja.sewi lon.sewi luka.sewi lukin.sewi mani.sewi ma.sewi meli.sewi mije.sewi moli.sewi nanpa.sewi nasin.sewi pakala.sewi pimeja.sewi pipi.sewi poka.sewi pona.sewi sama.sewi selo.sewi sewi.sewi sijelo.sewi sitelen.sewi soweli.sewi suno.sewi supa.sewi suwi.sewi tan.sewi tawa.sewi tenpo.sewi tomo.sewi utala.sewi uta.sewi walo.sewi waso.sewi wawa.sewi wile.sewi lipamanka.t ni.t.dr ni.t.r ni.t.ur ni.t.u ni.t.ul ni.t.l ni.t.dl sewi.a.t ijo.sewi ken.sewi lili.sewi lipu.sewi monsi.sewi mun.sewi mute.sewi ni.sewi nimi.sewi noka.sewi ona.sewi open.sewi pini.sewi poki.sewi sin.sewi sinpin.sewi suli.sewi ijo.anpa ken.anpa lili.anpa lipu.anpa monsi.anpa mun.anpa mute.anpa ni.anpa nimi.anpa noka.anpa ona.anpa open.anpa pini.anpa poki.anpa sin.anpa sinpin.anpa suli.anpa a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1 linluwi.t
   Class: 54 cartouche.start cartouche.body tick1 tick2 tick3 tick4
-  BClass: 3015 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot akesi.anpa alasa.anpa ala.anpa ale.anpa anpa.anpa awen.anpa jaki.anpa ike.anpa ilo.anpa insa.anpa kalama.anpa kala.anpa kama.anpa kasi.anpa kiwen.anpa ko.anpa kule.anpa kulupu.anpa lape.anpa lawa.anpa leko.anpa len.anpa lete.anpa linja.anpa lon.anpa luka.anpa lukin.anpa mani.anpa ma.anpa meli.anpa mije.anpa moli.anpa nanpa.anpa nasin.anpa pakala.anpa pimeja.anpa pipi.anpa poka.anpa pona.anpa sama.anpa selo.anpa sewi.anpa sijelo.anpa sitelen.anpa soweli.anpa suno.anpa supa.anpa suwi.anpa tan.anpa tawa.anpa tenpo.anpa tomo.anpa utala.anpa uta.anpa walo.anpa waso.anpa wawa.anpa wile.anpa akesi.sewi alasa.sewi ala.sewi ale.sewi anpa.sewi awen.sewi ike.sewi ilo.sewi insa.sewi jaki.sewi kalama.sewi kala.sewi kama.sewi kasi.sewi kiwen.sewi ko.sewi kule.sewi kulupu.sewi lape.sewi lawa.sewi leko.sewi len.sewi lete.sewi linja.sewi lon.sewi luka.sewi lukin.sewi mani.sewi ma.sewi meli.sewi mije.sewi moli.sewi nanpa.sewi nasin.sewi pakala.sewi pimeja.sewi pipi.sewi poka.sewi pona.sewi sama.sewi selo.sewi sewi.sewi sijelo.sewi sitelen.sewi soweli.sewi suno.sewi supa.sewi suwi.sewi tan.sewi tawa.sewi tenpo.sewi tomo.sewi utala.sewi uta.sewi walo.sewi waso.sewi wawa.sewi wile.sewi lipamanka.t ni.t.dr ni.t.r ni.t.ur ni.t.u ni.t.ul ni.t.l ni.t.dl sewi.a.t ijo.sewi ken.sewi lili.sewi lipu.sewi monsi.sewi mun.sewi mute.sewi ni.sewi nimi.sewi noka.sewi ona.sewi open.sewi pini.sewi poki.sewi sin.sewi sinpin.sewi suli.sewi ijo.anpa ken.anpa lili.anpa lipu.anpa monsi.anpa mun.anpa mute.anpa ni.anpa nimi.anpa noka.anpa ona.anpa open.anpa pini.anpa poki.anpa sin.anpa sinpin.anpa suli.anpa a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1
+  BClass: 3025 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot akesi.anpa alasa.anpa ala.anpa ale.anpa anpa.anpa awen.anpa jaki.anpa ike.anpa ilo.anpa insa.anpa kalama.anpa kala.anpa kama.anpa kasi.anpa kiwen.anpa ko.anpa kule.anpa kulupu.anpa lape.anpa lawa.anpa leko.anpa len.anpa lete.anpa linja.anpa lon.anpa luka.anpa lukin.anpa mani.anpa ma.anpa meli.anpa mije.anpa moli.anpa nanpa.anpa nasin.anpa pakala.anpa pimeja.anpa pipi.anpa poka.anpa pona.anpa sama.anpa selo.anpa sewi.anpa sijelo.anpa sitelen.anpa soweli.anpa suno.anpa supa.anpa suwi.anpa tan.anpa tawa.anpa tenpo.anpa tomo.anpa utala.anpa uta.anpa walo.anpa waso.anpa wawa.anpa wile.anpa akesi.sewi alasa.sewi ala.sewi ale.sewi anpa.sewi awen.sewi ike.sewi ilo.sewi insa.sewi jaki.sewi kalama.sewi kala.sewi kama.sewi kasi.sewi kiwen.sewi ko.sewi kule.sewi kulupu.sewi lape.sewi lawa.sewi leko.sewi len.sewi lete.sewi linja.sewi lon.sewi luka.sewi lukin.sewi mani.sewi ma.sewi meli.sewi mije.sewi moli.sewi nanpa.sewi nasin.sewi pakala.sewi pimeja.sewi pipi.sewi poka.sewi pona.sewi sama.sewi selo.sewi sewi.sewi sijelo.sewi sitelen.sewi soweli.sewi suno.sewi supa.sewi suwi.sewi tan.sewi tawa.sewi tenpo.sewi tomo.sewi utala.sewi uta.sewi walo.sewi waso.sewi wawa.sewi wile.sewi lipamanka.t ni.t.dr ni.t.r ni.t.ur ni.t.u ni.t.ul ni.t.l ni.t.dl sewi.a.t ijo.sewi ken.sewi lili.sewi lipu.sewi monsi.sewi mun.sewi mute.sewi ni.sewi nimi.sewi noka.sewi ona.sewi open.sewi pini.sewi poki.sewi sin.sewi sinpin.sewi suli.sewi ijo.anpa ken.anpa lili.anpa lipu.anpa monsi.anpa mun.anpa mute.anpa ni.anpa nimi.anpa noka.anpa ona.anpa open.anpa pini.anpa poki.anpa sin.anpa sinpin.anpa suli.anpa a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1 linluwi.t
   BClass: 54 cartouche.start cartouche.body tick1 tick2 tick3 tick4
-  FClass: 3015 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot akesi.anpa alasa.anpa ala.anpa ale.anpa anpa.anpa awen.anpa jaki.anpa ike.anpa ilo.anpa insa.anpa kalama.anpa kala.anpa kama.anpa kasi.anpa kiwen.anpa ko.anpa kule.anpa kulupu.anpa lape.anpa lawa.anpa leko.anpa len.anpa lete.anpa linja.anpa lon.anpa luka.anpa lukin.anpa mani.anpa ma.anpa meli.anpa mije.anpa moli.anpa nanpa.anpa nasin.anpa pakala.anpa pimeja.anpa pipi.anpa poka.anpa pona.anpa sama.anpa selo.anpa sewi.anpa sijelo.anpa sitelen.anpa soweli.anpa suno.anpa supa.anpa suwi.anpa tan.anpa tawa.anpa tenpo.anpa tomo.anpa utala.anpa uta.anpa walo.anpa waso.anpa wawa.anpa wile.anpa akesi.sewi alasa.sewi ala.sewi ale.sewi anpa.sewi awen.sewi ike.sewi ilo.sewi insa.sewi jaki.sewi kalama.sewi kala.sewi kama.sewi kasi.sewi kiwen.sewi ko.sewi kule.sewi kulupu.sewi lape.sewi lawa.sewi leko.sewi len.sewi lete.sewi linja.sewi lon.sewi luka.sewi lukin.sewi mani.sewi ma.sewi meli.sewi mije.sewi moli.sewi nanpa.sewi nasin.sewi pakala.sewi pimeja.sewi pipi.sewi poka.sewi pona.sewi sama.sewi selo.sewi sewi.sewi sijelo.sewi sitelen.sewi soweli.sewi suno.sewi supa.sewi suwi.sewi tan.sewi tawa.sewi tenpo.sewi tomo.sewi utala.sewi uta.sewi walo.sewi waso.sewi wawa.sewi wile.sewi lipamanka.t ni.t.dr ni.t.r ni.t.ur ni.t.u ni.t.ul ni.t.l ni.t.dl sewi.a.t ijo.sewi ken.sewi lili.sewi lipu.sewi monsi.sewi mun.sewi mute.sewi ni.sewi nimi.sewi noka.sewi ona.sewi open.sewi pini.sewi poki.sewi sin.sewi sinpin.sewi suli.sewi ijo.anpa ken.anpa lili.anpa lipu.anpa monsi.anpa mun.anpa mute.anpa ni.anpa nimi.anpa noka.anpa ona.anpa open.anpa pini.anpa poki.anpa sin.anpa sinpin.anpa suli.anpa a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1
+  FClass: 3025 period colon A B C D E F G H I J K L M N O P Q R S T U V W X Y Z periodcentered a.t akesi.t ala.t alasa.t ale.t anpa.t ante.t anu.t awen.t e.t en.t esun.t ijo.t ike.t ilo.t insa.t jaki.t jan.t jelo.t jo.t kala.t kalama.t kama.t kasi.t ken.t kepeken.t kili.t kiwen.t ko.t kon.t kule.t kulupu.t kute.t la.t lape.t laso.t lawa.t len.t lete.t li.t lili.t linja.t lipu.t loje.t lon.t luka.t lukin.t lupa.t ma.t mama.t mani.t meli.t mi.t mije.t moku.t moli.t monsi.t mu.t mun.t musi.t mute.t nanpa.t nasa.t nasin.t nena.t ni.t nimi.t noka.t o.t olin.t ona.t open.t pakala.t pali.t palisa.t pan.t pana.t pi.t pilin.t pimeja.t pini.t pipi.t poka.t poki.t pona.t pu.t sama.t seli.t selo.t seme.t sewi.t sijelo.t sike.t sin.t sina.t sinpin.t sitelen.t sona.t soweli.t suli.t suno.t supa.t suwi.t tan.t taso.t tawa.t telo.t tenpo.t toki.t tomo.t tu.t unpa.t uta.t utala.t walo.t wan.t waso.t wawa.t weka.t wile.t namako.t kin.t oko.t kipisi.t leko.t monsuta.t tonsi.t jasima.t kijetesantakalu.t soko.t meso.t epiku.t kokosila.t lanpan.t n.t misikeke.t ku.t wide.space dot colon.t pake.t apeja.t majuna.t powe.t dotdot dotdotdot akesi.anpa alasa.anpa ala.anpa ale.anpa anpa.anpa awen.anpa jaki.anpa ike.anpa ilo.anpa insa.anpa kalama.anpa kala.anpa kama.anpa kasi.anpa kiwen.anpa ko.anpa kule.anpa kulupu.anpa lape.anpa lawa.anpa leko.anpa len.anpa lete.anpa linja.anpa lon.anpa luka.anpa lukin.anpa mani.anpa ma.anpa meli.anpa mije.anpa moli.anpa nanpa.anpa nasin.anpa pakala.anpa pimeja.anpa pipi.anpa poka.anpa pona.anpa sama.anpa selo.anpa sewi.anpa sijelo.anpa sitelen.anpa soweli.anpa suno.anpa supa.anpa suwi.anpa tan.anpa tawa.anpa tenpo.anpa tomo.anpa utala.anpa uta.anpa walo.anpa waso.anpa wawa.anpa wile.anpa akesi.sewi alasa.sewi ala.sewi ale.sewi anpa.sewi awen.sewi ike.sewi ilo.sewi insa.sewi jaki.sewi kalama.sewi kala.sewi kama.sewi kasi.sewi kiwen.sewi ko.sewi kule.sewi kulupu.sewi lape.sewi lawa.sewi leko.sewi len.sewi lete.sewi linja.sewi lon.sewi luka.sewi lukin.sewi mani.sewi ma.sewi meli.sewi mije.sewi moli.sewi nanpa.sewi nasin.sewi pakala.sewi pimeja.sewi pipi.sewi poka.sewi pona.sewi sama.sewi selo.sewi sewi.sewi sijelo.sewi sitelen.sewi soweli.sewi suno.sewi supa.sewi suwi.sewi tan.sewi tawa.sewi tenpo.sewi tomo.sewi utala.sewi uta.sewi walo.sewi waso.sewi wawa.sewi wile.sewi lipamanka.t ni.t.dr ni.t.r ni.t.ur ni.t.u ni.t.ul ni.t.l ni.t.dl sewi.a.t ijo.sewi ken.sewi lili.sewi lipu.sewi monsi.sewi mun.sewi mute.sewi ni.sewi nimi.sewi noka.sewi ona.sewi open.sewi pini.sewi poki.sewi sin.sewi sinpin.sewi suli.sewi ijo.anpa ken.anpa lili.anpa lipu.anpa monsi.anpa mun.anpa mute.anpa ni.anpa nimi.anpa noka.anpa ona.anpa open.anpa pini.anpa poki.anpa sin.anpa sinpin.anpa suli.anpa a.t1 aa.t aaa.t akesi.t1 akesi.t2 akesi.t3 esun.t1 kala.t1 kasi.t1 kin.t1 lanpan.t1 lape.t1 majuna.t1 meli.t1 meli.t2 meso.t1 mi.t1 mije.t1 mije.t2 misikeke.t1 moli.t1 mu.t1 mute.t1 n.t1 namako.t1 o.t1 olin.t1 sewi.t1 soko.t1 soko.t2 tenpo.t1 tonsi.t1 tonsi.t2 tonsi.t3 tonsi.t4 uta.t1 wile.t1 sina.t1 ona.t1 linluwi.t
   FClass: 54 cartouche.start cartouche.body tick1 tick2 tick3 tick4
  1 1 0
   ClsList: 1
@@ -798,21 +798,21 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "" "" "Version 001.000" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 2 0
-Encoding: Custom
+Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 400 10 4
+WinInfo: 420 10 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 0 0 0 564618 1048576 0 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 667 434
+BeginChars: 1114334 454
 
 StartChar: .notdef
-Encoding: 221 -1 0
+Encoding: 1114112 -1 0
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -833,7 +833,7 @@ EndSplineSet
 EndChar
 
 StartChar: .null
-Encoding: 222 -1 1
+Encoding: 1114113 -1 1
 Width: 0
 GlyphClass: 1
 Flags: MW
@@ -841,7 +841,7 @@ LayerCount: 2
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 223 -1 2
+Encoding: 1114114 -1 2
 Width: 433
 GlyphClass: 1
 Flags: MW
@@ -849,15 +849,15 @@ LayerCount: 2
 EndChar
 
 StartChar: space
-Encoding: 0 32 3
-Width: 0
+Encoding: 32 32 3
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 EndChar
 
 StartChar: bracketleft
-Encoding: 43 91 4
+Encoding: 91 91 4
 Width: 1000
 GlyphClass: 2
 Flags: MW
@@ -865,7 +865,7 @@ LayerCount: 2
 EndChar
 
 StartChar: bracketright
-Encoding: 44 93 5
+Encoding: 93 93 5
 Width: 1000
 GlyphClass: 2
 Flags: MW
@@ -873,1172 +873,478 @@ LayerCount: 2
 EndChar
 
 StartChar: a
-Encoding: 46 97 6
-Width: 1100
+Encoding: 97 97 6
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-549.998046875 300.001953125 m 0,0,1
- 600.573545448 299.991813306 600.573545448 299.991813306 640.371493581 269.655913915 c 128,-1,2
- 680.169441714 239.320014525 680.169441714 239.320014525 693.969726562 191.995117188 c 0,3,-1
- 750 0.0009765625 l 1,4,-1
- 650 0.0009765625 l 1,5,-1
- 640.387695312 30.326171875 l 1,6,7
- 600.274662858 0.0144926972366 600.274662858 0.0144926972366 549.998046875 0 c 0,8,9
- 487.909139154 0.0014648447063 487.909139154 0.0014648447063 443.955546139 43.956441166 c 128,-1,10
- 400.001953125 87.9114174874 400.001953125 87.9114174874 400.001953125 150.000976562 c 128,-1,11
- 400.001953125 212.090535638 400.001953125 212.090535638 443.955546139 256.045511959 c 128,-1,12
- 487.909139154 300.00048828 487.909139154 300.00048828 549.998046875 300.001953125 c 0,0,1
-549.998046875 200.002929688 m 128,-1,14
- 529.30213002 200.001464853 529.30213002 200.001464853 514.651553291 185.349307205 c 128,-1,15
- 500.000976562 170.697149556 500.000976562 170.697149556 500.000976562 150.000976562 c 128,-1,16
- 500.000976562 129.304634972 500.000976562 129.304634972 514.651637579 114.65219541 c 128,-1,17
- 529.302298596 99.9997558489 529.302298596 99.9997558489 549.998046875 99.9990234375 c 128,-1,18
- 570.694824219 99.9990234375 570.694824219 99.9990234375 585.347412109 114.651611328 c 128,-1,19
- 600 129.304199219 600 129.304199219 600 150.000976562 c 128,-1,20
- 600 170.697753906 600 170.697753906 585.347412109 185.350341797 c 128,-1,13
- 570.694824219 200.002929688 570.694824219 200.002929688 549.998046875 200.002929688 c 128,-1,14
-500 375 m 1,21,-1
- 500 900 l 1,22,-1
- 600 900 l 1,23,-1
- 600 375 l 1,24,-1
- 500 375 l 1,21,-1
+262.500976562 587.499023438 m 0,0,1
+ 360.810302734 587.499023438 360.810302734 587.499023438 430.405273438 517.904052734 c 128,-1,2
+ 500.000244141 448.309082031 500.000244141 448.309082031 500.000976562 349.999023438 c 2,3,-1
+ 500.000976562 250 l 1,4,-1
+ 500.000976562 0 l 1,5,-1
+ 400.000976562 0 l 1,6,7
+ 399.790452665 49.9299211091 399.790452665 49.9299211091 400.000976562 50.048828125 c 1,8,9
+ 333.343916321 0.0217347093103 333.343916321 0.0217347093103 250 0 c 0,10,11
+ 224.999023438 0.00194929534314 224.999023438 0.00194929534314 224.999023438 0 c 1,12,13
+ 152.561163218 0.00146484116032 152.561163218 0.00146484116032 101.281558172 51.2826508107 c 128,-1,14
+ 50.001953125 102.56383678 50.001953125 102.56383678 50.001953125 175.001953125 c 128,-1,15
+ 50.0034179722 247.439377584 50.0034179722 247.439377584 101.282677074 298.718834301 c 128,-1,16
+ 152.561936176 349.998291017 152.561936176 349.998291017 224.999023438 349.999023438 c 0,17,18
+ 400.000976562 349.999998085 400.000976562 349.999998085 400.000976562 349.999023438 c 1,19,20
+ 400.000976562 406.915451798 400.000976562 406.915451798 359.708900077 447.207725899 c 128,-1,21
+ 319.416823592 487.5 319.416823592 487.5 262.500976562 487.5 c 0,22,23
+ 222.789859023 487.347009578 222.789859023 487.347009578 189.888103814 466.466497613 c 128,-1,24
+ 156.986348604 445.585985647 156.986348604 445.585985647 139.893554688 411.184570312 c 1,25,26
+ 134.228534275 413.993153284 134.228534275 413.993153284 124.956057796 418.5962303 c 128,-1,27
+ 115.683581317 423.199307316 115.683581317 423.199307316 96.0658233077 432.948065965 c 128,-1,28
+ 76.4480652986 442.696824614 76.4480652986 442.696824614 63.4253571122 449.22010115 c 128,-1,29
+ 50.4026489258 455.743377686 50.4026489258 455.743377686 50.4462890625 455.822265625 c 0,30,31
+ 80.031681273 515.266210099 80.031681273 515.266210099 136.938723583 551.300716003 c 128,-1,32
+ 193.845765892 587.335221907 193.845765892 587.335221907 262.500976562 587.499023438 c 0,0,1
+224.999023438 250 m 2,33,34
+ 193.955153665 249.999267574 193.955153665 249.999267574 171.978431322 228.022742847 c 128,-1,35
+ 150.00170898 206.046218119 150.00170898 206.046218119 150.000976562 175.001953125 c 128,-1,36
+ 150.000976562 143.957222874 150.000976562 143.957222874 171.977931523 121.978489363 c 128,-1,37
+ 193.954886484 99.9997558524 193.954886484 99.9997558524 224.999023438 99.9990234375 c 0,38,39
+ 226.58024803 99.9990850782 226.58024803 99.9990850782 229.1690957 99.9991659538 c 128,-1,40
+ 231.757943371 99.9992468294 231.757943371 99.9992468294 237.236345584 99.9993844613 c 128,-1,41
+ 242.714747797 99.9995220931 242.714747797 99.9995220931 246.357541745 99.999440612 c 128,-1,42
+ 250.000335693 99.9993591309 250.000335693 99.9993591309 250 99.9990234375 c 1,43,44
+ 312.090332031 99.9990234375 312.090332031 99.9990234375 356.045654297 143.954345703 c 128,-1,45
+ 400.000976562 187.909667969 400.000976562 187.909667969 400.000976562 250 c 1,46,-1
+ 224.999023438 250 l 2,33,34
 EndSplineSet
 EndChar
 
 StartChar: e
-Encoding: 47 101 7
-Width: 1100
+Encoding: 101 101 7
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-570 871 m 1,0,-1
- 1000 450 l 1,1,-1
- 570 29 l 1,2,-1
- 500 100 l 1,3,-1
- 857 450 l 1,4,-1
- 500 800 l 1,5,-1
- 570 871 l 1,0,-1
-170 871 m 1,6,-1
- 600 450 l 1,7,-1
- 170 29 l 1,8,-1
- 100 100 l 1,9,-1
- 457 450 l 1,10,-1
- 100 800 l 1,11,-1
- 170 871 l 1,6,-1
+275.000976562 599.999023438 m 128,-1,1
+ 368.136399064 599.999023438 368.136399064 599.999023438 434.068321602 534.067298515 c 128,-1,2
+ 500.00024414 468.135573592 500.00024414 468.135573592 500.000976562 375 c 2,3,-1
+ 500.000976562 349.999023438 l 1,4,-1
+ 500.000976562 250 l 1,5,-1
+ 150.000976562 250 l 1,6,-1
+ 149.99609375 237.5 l 2,7,8
+ 149.99609375 180.545241517 149.99609375 180.545241517 190.269005218 140.272132477 c 128,-1,9
+ 230.541916685 99.9990234375 230.541916685 99.9990234375 287.497070312 99.9990234375 c 0,10,11
+ 326.507142085 100.149169221 326.507142085 100.149169221 359.626211182 120.763834108 c 128,-1,12
+ 392.745280278 141.378498994 392.745280278 141.378498994 410.104492188 176.314453125 c 1,13,-1
+ 499.55078125 131.676757812 l 1,14,15
+ 469.504750814 71.3071100863 469.504750814 71.3071100863 412.217345001 35.7341217501 c 128,-1,16
+ 354.929939187 0.161133413915 354.929939187 0.161133413915 287.497070312 0 c 0,17,18
+ 189.120081918 0 189.120081918 0 119.556378872 69.5625176037 c 128,-1,19
+ 49.9926758264 139.125035207 49.9926758264 139.125035207 49.9970703125 237.5 c 2,20,-1
+ 50.001953125 250 l 1,21,-1
+ 50.001953125 275.000976562 l 1,22,-1
+ 50.001953125 375 l 2,23,24
+ 50.0026855469 468.135498047 50.0026855469 468.135498047 115.934448242 534.067260742 c 128,-1,0
+ 181.866210938 599.999023438 181.866210938 599.999023438 275.000976562 599.999023438 c 128,-1,1
+275.000976562 500 m 128,-1,26
+ 223.259033203 500 223.259033203 500 186.630004883 463.37097168 c 128,-1,27
+ 150.000976562 426.741943359 150.000976562 426.741943359 150.000976562 375 c 2,28,-1
+ 150.000976562 349.999023438 l 1,29,-1
+ 400.000976562 349.999023438 l 1,30,-1
+ 400.000976562 375 l 2,31,32
+ 400.000976562 426.741943359 400.000976562 426.741943359 363.371948242 463.37097168 c 128,-1,25
+ 326.742919922 500 326.742919922 500 275.000976562 500 c 128,-1,26
 EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 48 105 8
-Width: 1100
+Encoding: 105 105 8
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-600 779.5 m 128,-1,1
- 579 759 579 759 550 759 c 128,-1,2
- 521 759 521 759 500 779.5 c 128,-1,3
- 479 800 479 800 479 829.5 c 128,-1,4
- 479 859 479 859 500 879.5 c 128,-1,5
- 521 900 521 900 550 900 c 128,-1,6
- 579 900 579 900 600 879.5 c 128,-1,7
- 621 859 621 859 621 829.5 c 128,-1,0
- 621 800 621 800 600 779.5 c 128,-1,1
-500 700 m 1,8,-1
- 600 700 l 1,9,-1
- 600 0 l 1,10,-1
- 500 0 l 1,11,-1
- 500 700 l 1,8,-1
+100 600 m 1,0,-1
+ 324.998046875 599.999023438 l 1,1,-1
+ 324.998046875 99.9990234375 l 1,2,-1
+ 500.000976562 99.9990234375 l 1,3,-1
+ 500.000976562 0 l 1,4,-1
+ 50.001953125 0 l 1,5,-1
+ 50.001953125 99.9990234375 l 1,6,-1
+ 224.999023438 99.9990234375 l 1,7,-1
+ 224.999023438 500 l 1,8,-1
+ 100 500.000976562 l 1,9,-1
+ 100 600 l 1,0,-1
+200 750 m 128,-1,11
+ 200 781 200 781 222 803 c 128,-1,12
+ 244 825 244 825 275 825 c 128,-1,13
+ 306 825 306 825 328 803 c 128,-1,14
+ 350 781 350 781 350 750 c 128,-1,15
+ 350 719 350 719 328 697 c 128,-1,16
+ 306 675 306 675 275 675 c 128,-1,17
+ 244 675 244 675 222 697 c 128,-1,10
+ 200 719 200 719 200 750 c 128,-1,11
 EndSplineSet
 EndChar
 
 StartChar: j
-Encoding: 49 106 9
-Width: 1100
+Encoding: 106 106 9
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-600 779.5 m 128,-1,1
- 579 759 579 759 550 759 c 128,-1,2
- 521 759 521 759 500 779.5 c 128,-1,3
- 479 800 479 800 479 829.5 c 128,-1,4
- 479 859 479 859 500 879.5 c 128,-1,5
- 521 900 521 900 550 900 c 128,-1,6
- 579 900 579 900 600 879.5 c 128,-1,7
- 621 859 621 859 621 829.5 c 128,-1,0
- 621 800 621 800 600 779.5 c 128,-1,1
-500 700 m 1,8,-1
- 600 700 l 1,9,-1
- 600 0 l 2,10,11
- 600 -83 600 -83 541.5 -141.5 c 128,-1,12
- 483 -200 483 -200 400 -200 c 128,-1,13
- 317 -200 317 -200 259 -141 c 1,14,-1
- 329 -71 l 1,15,16
- 359 -100 359 -100 400 -100 c 128,-1,17
- 441 -100 441 -100 470.5 -70.5 c 128,-1,18
- 500 -41 500 -41 500 0 c 2,19,-1
- 500 700 l 1,8,-1
+275 750 m 128,-1,1
+ 275 781 275 781 297 803 c 128,-1,2
+ 319 825 319 825 350 825 c 128,-1,3
+ 381 825 381 825 403 803 c 128,-1,4
+ 425 781 425 781 425 750 c 128,-1,5
+ 425 719 425 719 403 697 c 128,-1,6
+ 381 675 381 675 350 675 c 128,-1,7
+ 319 675 319 675 297 697 c 128,-1,0
+ 275 719 275 719 275 750 c 128,-1,1
+99.9990234375 599.999023438 m 1,8,-1
+ 400.000976562 599.999023438 l 1,9,-1
+ 400.000976562 555.2421875 l 1,10,-1
+ 400.000976562 500 l 2,11,12
+ 399.999027267 5.2451171875 399.999027267 5.2451171875 400.000976562 5.2451171875 c 1,13,14
+ 400.000244143 -79.7103967075 400.000244143 -79.7103967075 339.857081924 -139.851780385 c 128,-1,15
+ 279.713919705 -199.993164062 279.713919705 -199.993164062 194.7578125 -199.993164062 c 0,16,17
+ 109.873031891 -199.686673164 109.873031891 -199.686673164 50.001953125 -139.510742188 c 1,18,19
+ 54.4637440272 -135.049259489 54.4637440272 -135.049259489 61.7684120905 -127.744995804 c 128,-1,20
+ 69.0730801537 -120.440732118 69.0730801537 -120.440732118 84.5302787054 -104.984221726 c 128,-1,21
+ 99.9874772571 -89.5277113337 99.9874772571 -89.5277113337 110.262400128 -79.2523810575 c 128,-1,22
+ 120.537322998 -68.9770507813 120.537322998 -68.9770507813 120.530273438 -68.982421875 c 1,23,24
+ 151.230429413 -99.8421125154 151.230429413 -99.8421125154 194.7578125 -99.9990234375 c 128,-1,25
+ 238.320800781 -99.9990234375 238.320800781 -99.9990234375 269.161376953 -69.1584472656 c 128,-1,26
+ 300.001953125 -38.3178710938 300.001953125 -38.3178710938 300.001953125 5.2451171875 c 2,27,-1
+ 300.001953125 500 l 1,28,-1
+ 99.9990234375 500 l 1,29,-1
+ 99.9990234375 599.999023438 l 1,8,-1
 EndSplineSet
 EndChar
 
 StartChar: k
-Encoding: 50 107 10
-Width: 1100
+Encoding: 107 107 10
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-300 1000 m 1,0,-1
- 400 1000 l 1,1,-1
- 400 441 l 1,2,-1
- 659 700 l 1,3,-1
- 800 700 l 1,4,-1
- 450 350 l 1,5,-1
- 800 0 l 1,6,-1
- 659 0 l 1,7,-1
- 400 259 l 1,8,-1
- 400 0 l 1,9,-1
- 300 0 l 1,10,-1
- 300 1000 l 1,0,-1
+50.001953125 900.001953125 m 1,0,-1
+ 150.000976562 900.001953125 l 1,1,-1
+ 150.000976562 351.854492188 l 1,2,-1
+ 367.125 600 l 1,3,-1
+ 500 599.999023438 l 1,4,-1
+ 309.091796875 381.81640625 l 1,5,-1
+ 500.000976562 -0 l 1,6,-1
+ 388.198242188 -0 l 1,7,-1
+ 237.944335938 300.50390625 l 1,8,-1
+ 150.000976562 199.998046875 l 1,9,-1
+ 150.000976562 -0 l 1,10,-1
+ 50.001953125 -0 l 1,11,-1
+ 50.001953125 900.001953125 l 1,0,-1
 EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 51 108 11
-Width: 1100
+Encoding: 108 108 11
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-475 1000 m 1,0,-1
- 575 1000 l 1,1,-1
- 575 999 l 1,2,-1
- 575 998 l 1,3,-1
- 575 997 l 1,4,-1
- 575 996 l 1,5,-1
- 575 995 l 1,6,-1
- 575 994 l 1,7,-1
- 575 993 l 1,8,-1
- 575 992 l 1,9,-1
- 575 991 l 1,10,-1
- 575 990 l 1,11,-1
- 575 989 l 1,12,-1
- 575 988 l 1,13,-1
- 575 987 l 1,14,-1
- 575 986 l 1,15,-1
- 575 985 l 1,16,-1
- 575 984 l 1,17,-1
- 575 983 l 1,18,-1
- 575 982 l 1,19,-1
- 575 981 l 1,20,-1
- 575 980 l 1,21,-1
- 575 979 l 1,22,-1
- 575 978 l 1,23,-1
- 575 977 l 1,24,-1
- 575 976 l 1,25,-1
- 575 975 l 1,26,-1
- 575 974 l 1,27,-1
- 575 973 l 1,28,-1
- 575 972 l 1,29,-1
- 575 971 l 1,30,-1
- 575 970 l 1,31,-1
- 575 969 l 1,32,-1
- 575 968 l 1,33,-1
- 575 967 l 1,34,-1
- 575 966 l 1,35,-1
- 575 965 l 1,36,-1
- 575 964 l 1,37,-1
- 575 963 l 1,38,-1
- 575 962 l 1,39,-1
- 575 961 l 1,40,-1
- 575 960 l 1,41,-1
- 575 959 l 1,42,-1
- 575 958 l 1,43,-1
- 575 957 l 1,44,-1
- 575 956 l 1,45,-1
- 575 955 l 1,46,-1
- 575 954 l 1,47,-1
- 575 953 l 1,48,-1
- 575 952 l 1,49,-1
- 575 951 l 1,50,-1
- 575 950 l 1,51,-1
- 575 949 l 1,52,-1
- 575 948 l 1,53,-1
- 575 947 l 1,54,-1
- 575 946 l 1,55,-1
- 575 945 l 1,56,-1
- 575 944 l 1,57,-1
- 575 943 l 1,58,-1
- 575 942 l 1,59,-1
- 575 941 l 1,60,-1
- 575 940 l 1,61,-1
- 575 939 l 1,62,-1
- 575 938 l 1,63,-1
- 575 937 l 1,64,-1
- 575 936 l 1,65,-1
- 575 935 l 1,66,-1
- 575 934 l 1,67,-1
- 575 933 l 1,68,-1
- 575 932 l 1,69,-1
- 575 931 l 1,70,-1
- 575 930 l 1,71,-1
- 575 929 l 1,72,-1
- 575 928 l 1,73,-1
- 575 927 l 1,74,-1
- 575 926 l 1,75,-1
- 575 925 l 1,76,-1
- 575 924 l 1,77,-1
- 575 923 l 1,78,-1
- 575 922 l 1,79,-1
- 575 921 l 1,80,-1
- 575 920 l 1,81,-1
- 575 919 l 1,82,-1
- 575 918 l 1,83,-1
- 575 917 l 1,84,-1
- 575 916 l 1,85,-1
- 575 915 l 1,86,-1
- 575 914 l 1,87,-1
- 575 913 l 1,88,-1
- 575 912 l 1,89,-1
- 575 911 l 1,90,-1
- 575 910 l 1,91,-1
- 575 909 l 1,92,-1
- 575 908 l 1,93,-1
- 575 907 l 1,94,-1
- 575 906 l 1,95,-1
- 575 905 l 1,96,-1
- 575 904 l 1,97,-1
- 575 903 l 1,98,-1
- 575 902 l 1,99,-1
- 575 901 l 1,100,-1
- 575 900 l 1,101,-1
- 575 899 l 1,102,-1
- 575 898 l 1,103,-1
- 575 897 l 1,104,-1
- 575 896 l 1,105,-1
- 575 895 l 1,106,-1
- 575 894 l 1,107,-1
- 575 893 l 1,108,-1
- 575 892 l 1,109,-1
- 575 891 l 1,110,-1
- 575 890 l 1,111,-1
- 575 889 l 1,112,-1
- 575 888 l 1,113,-1
- 575 887 l 1,114,-1
- 575 886 l 1,115,-1
- 575 885 l 1,116,-1
- 575 884 l 1,117,-1
- 575 883 l 1,118,-1
- 575 882 l 1,119,-1
- 575 881 l 1,120,-1
- 575 880 l 1,121,-1
- 575 879 l 1,122,-1
- 575 878 l 1,123,-1
- 575 877 l 1,124,-1
- 575 876 l 1,125,-1
- 575 875 l 1,126,-1
- 575 874 l 1,127,-1
- 575 873 l 1,128,-1
- 575 872 l 1,129,-1
- 575 871 l 1,130,-1
- 575 870 l 1,131,-1
- 575 869 l 1,132,-1
- 575 868 l 1,133,-1
- 575 867 l 1,134,-1
- 575 866 l 1,135,-1
- 575 865 l 1,136,-1
- 575 864 l 1,137,-1
- 575 863 l 1,138,-1
- 575 862 l 1,139,-1
- 575 861 l 1,140,-1
- 575 860 l 1,141,-1
- 575 859 l 1,142,-1
- 575 858 l 1,143,-1
- 575 857 l 1,144,-1
- 575 856 l 1,145,-1
- 575 855 l 1,146,-1
- 575 854 l 1,147,-1
- 575 853 l 1,148,-1
- 575 852 l 1,149,-1
- 575 851 l 1,150,-1
- 575 850 l 1,151,-1
- 575 849 l 1,152,-1
- 575 848 l 1,153,-1
- 575 847 l 1,154,-1
- 575 846 l 1,155,-1
- 575 845 l 1,156,-1
- 575 844 l 1,157,-1
- 575 843 l 1,158,-1
- 575 841 l 1,159,-1
- 575 840 l 1,160,-1
- 575 839 l 1,161,-1
- 575 838 l 1,162,-1
- 575 837 l 1,163,-1
- 575 836 l 1,164,-1
- 575 835 l 1,165,-1
- 575 834 l 1,166,-1
- 575 833 l 1,167,-1
- 575 832 l 1,168,-1
- 575 831 l 1,169,-1
- 575 830 l 1,170,-1
- 575 829 l 1,171,-1
- 575 827 l 1,172,-1
- 575 826 l 1,173,-1
- 575 825 l 1,174,-1
- 575 824 l 1,175,-1
- 575 823 l 1,176,-1
- 575 822 l 1,177,-1
- 575 821 l 1,178,-1
- 575 820 l 1,179,-1
- 575 819 l 1,180,-1
- 575 817 l 1,181,-1
- 575 816 l 1,182,-1
- 575 815 l 1,183,-1
- 575 814 l 1,184,-1
- 575 813 l 1,185,-1
- 575 812 l 1,186,-1
- 575 811 l 1,187,-1
- 575 809 l 1,188,-1
- 575 808 l 1,189,-1
- 575 807 l 1,190,-1
- 575 806 l 1,191,-1
- 575 805 l 1,192,-1
- 575 804 l 1,193,-1
- 575 803 l 1,194,-1
- 575 801 l 1,195,-1
- 575 800 l 1,196,-1
- 575 799 l 1,197,-1
- 575 798 l 1,198,-1
- 575 797 l 1,199,-1
- 575 796 l 1,200,-1
- 575 794 l 1,201,-1
- 575 793 l 1,202,-1
- 575 792 l 1,203,-1
- 575 791 l 1,204,-1
- 575 790 l 1,205,-1
- 575 789 l 1,206,-1
- 575 787 l 1,207,-1
- 575 786 l 1,208,-1
- 575 785 l 1,209,-1
- 575 784 l 1,210,-1
- 575 783 l 1,211,-1
- 575 781 l 1,212,-1
- 575 780 l 1,213,-1
- 575 779 l 1,214,-1
- 575 778 l 1,215,-1
- 575 777 l 1,216,-1
- 575 775 l 1,217,-1
- 575 774 l 1,218,-1
- 575 773 l 1,219,-1
- 575 772 l 1,220,-1
- 575 771 l 1,221,-1
- 575 769 l 1,222,-1
- 575 768 l 1,223,-1
- 575 767 l 1,224,-1
- 575 766 l 1,225,-1
- 575 764 l 1,226,-1
- 575 763 l 1,227,-1
- 575 762 l 1,228,-1
- 575 761 l 1,229,-1
- 575 760 l 1,230,-1
- 575 758 l 1,231,-1
- 575 757 l 1,232,-1
- 575 756 l 1,233,-1
- 575 755 l 1,234,-1
- 575 753 l 1,235,-1
- 575 752 l 1,236,-1
- 575 751 l 1,237,-1
- 575 750 l 1,238,-1
- 575 748 l 1,239,-1
- 575 747 l 1,240,-1
- 575 746 l 1,241,-1
- 575 745 l 1,242,-1
- 575 743 l 1,243,-1
- 575 742 l 1,244,-1
- 575 741 l 1,245,-1
- 575 739 l 1,246,-1
- 575 738 l 1,247,-1
- 575 737 l 1,248,-1
- 575 736 l 1,249,-1
- 575 734 l 1,250,-1
- 575 733 l 1,251,-1
- 575 732 l 1,252,-1
- 575 731 l 1,253,-1
- 575 729 l 1,254,-1
- 575 728 l 1,255,-1
- 575 727 l 1,256,-1
- 575 725 l 1,257,-1
- 575 724 l 1,258,-1
- 575 723 l 1,259,-1
- 575 721 l 1,260,-1
- 575 720 l 1,261,-1
- 575 719 l 1,262,-1
- 575 718 l 1,263,-1
- 575 716 l 1,264,-1
- 575 715 l 1,265,-1
- 575 714 l 1,266,-1
- 575 712 l 1,267,-1
- 575 711 l 1,268,-1
- 575 710 l 1,269,-1
- 575 708 l 1,270,-1
- 575 707 l 1,271,-1
- 575 706 l 1,272,-1
- 575 704 l 1,273,-1
- 575 703 l 1,274,-1
- 575 702 l 1,275,-1
- 575 700 l 1,276,-1
- 575 699 l 1,277,-1
- 575 698 l 1,278,-1
- 575 696 l 1,279,-1
- 575 695 l 1,280,-1
- 575 694 l 1,281,-1
- 575 692 l 1,282,-1
- 575 691 l 1,283,-1
- 575 690 l 1,284,-1
- 575 688 l 1,285,-1
- 575 687 l 1,286,-1
- 575 686 l 1,287,-1
- 575 684 l 1,288,-1
- 575 683 l 1,289,-1
- 575 682 l 1,290,-1
- 575 680 l 1,291,-1
- 575 679 l 1,292,-1
- 575 677 l 1,293,-1
- 575 676 l 1,294,-1
- 575 675 l 1,295,-1
- 575 673 l 1,296,-1
- 575 672 l 1,297,-1
- 575 671 l 1,298,-1
- 575 669 l 1,299,-1
- 575 668 l 1,300,-1
- 575 666 l 1,301,-1
- 575 665 l 1,302,-1
- 575 664 l 1,303,-1
- 575 662 l 1,304,-1
- 575 661 l 1,305,-1
- 575 659 l 1,306,-1
- 575 658 l 1,307,-1
- 575 657 l 1,308,-1
- 575 655 l 1,309,-1
- 575 654 l 1,310,-1
- 575 653 l 1,311,-1
- 575 651 l 1,312,-1
- 575 650 l 1,313,-1
- 575 648 l 1,314,-1
- 575 647 l 1,315,-1
- 575 645 l 1,316,-1
- 575 644 l 1,317,-1
- 575 643 l 1,318,-1
- 575 641 l 1,319,-1
- 575 640 l 1,320,-1
- 575 638 l 1,321,-1
- 575 637 l 1,322,-1
- 575 636 l 1,323,-1
- 575 634 l 1,324,-1
- 575 633 l 1,325,-1
- 575 631 l 1,326,-1
- 575 630 l 1,327,-1
- 575 628 l 1,328,-1
- 575 627 l 1,329,-1
- 575 626 l 1,330,-1
- 575 624 l 1,331,-1
- 575 623 l 1,332,-1
- 575 621 l 1,333,-1
- 575 620 l 1,334,-1
- 575 618 l 1,335,-1
- 575 617 l 1,336,-1
- 575 615 l 1,337,-1
- 575 614 l 1,338,-1
- 575 613 l 1,339,-1
- 575 611 l 1,340,-1
- 575 610 l 1,341,-1
- 575 608 l 1,342,-1
- 575 607 l 1,343,-1
- 575 605 l 1,344,-1
- 575 604 l 1,345,-1
- 575 602 l 1,346,-1
- 575 601 l 1,347,-1
- 575 599 l 1,348,-1
- 575 598 l 1,349,-1
- 575 596 l 1,350,-1
- 575 595 l 1,351,-1
- 575 593 l 1,352,-1
- 575 592 l 1,353,-1
- 575 591 l 1,354,-1
- 575 589 l 1,355,-1
- 575 588 l 1,356,-1
- 575 586 l 1,357,-1
- 575 585 l 1,358,-1
- 575 583 l 1,359,-1
- 575 582 l 1,360,-1
- 575 580 l 1,361,-1
- 575 579 l 1,362,-1
- 575 577 l 1,363,-1
- 575 576 l 1,364,-1
- 575 574 l 1,365,-1
- 575 573 l 1,366,-1
- 575 571 l 1,367,-1
- 575 570 l 1,368,-1
- 575 568 l 1,369,-1
- 575 567 l 1,370,-1
- 575 565 l 1,371,-1
- 575 564 l 1,372,-1
- 575 562 l 1,373,-1
- 575 561 l 1,374,-1
- 575 559 l 1,375,-1
- 575 558 l 1,376,-1
- 575 556 l 1,377,-1
- 575 554 l 1,378,-1
- 575 553 l 1,379,-1
- 575 551 l 1,380,-1
- 575 550 l 1,381,-1
- 575 548 l 1,382,-1
- 575 547 l 1,383,-1
- 575 545 l 1,384,-1
- 575 544 l 1,385,-1
- 575 542 l 1,386,-1
- 575 541 l 1,387,-1
- 575 539 l 1,388,-1
- 575 538 l 1,389,-1
- 575 536 l 1,390,-1
- 575 535 l 1,391,-1
- 575 533 l 1,392,-1
- 575 531 l 1,393,-1
- 575 530 l 1,394,-1
- 575 528 l 1,395,-1
- 575 527 l 1,396,-1
- 575 525 l 1,397,-1
- 575 524 l 1,398,-1
- 575 522 l 1,399,-1
- 575 521 l 1,400,-1
- 575 519 l 1,401,-1
- 575 517 l 1,402,-1
- 575 516 l 1,403,-1
- 575 514 l 1,404,-1
- 575 513 l 1,405,-1
- 575 511 l 1,406,-1
- 575 510 l 1,407,-1
- 575 508 l 1,408,-1
- 575 506 l 1,409,-1
- 575 505 l 1,410,-1
- 575 503 l 1,411,-1
- 575 502 l 1,412,-1
- 575 500 l 1,413,-1
- 575 499 l 1,414,-1
- 575 497 l 1,415,-1
- 575 495 l 1,416,-1
- 575 494 l 1,417,-1
- 575 492 l 1,418,-1
- 575 491 l 1,419,-1
- 575 489 l 1,420,-1
- 575 487 l 1,421,-1
- 575 486 l 1,422,-1
- 575 484 l 1,423,-1
- 575 483 l 1,424,-1
- 575 481 l 1,425,-1
- 575 479 l 1,426,-1
- 575 478 l 1,427,-1
- 575 476 l 1,428,-1
- 575 475 l 1,429,-1
- 575 473 l 1,430,-1
- 575 471 l 1,431,-1
- 575 470 l 1,432,-1
- 575 468 l 1,433,-1
- 575 467 l 1,434,-1
- 575 465 l 1,435,-1
- 575 463 l 1,436,-1
- 575 462 l 1,437,-1
- 575 460 l 1,438,-1
- 575 458 l 1,439,-1
- 575 457 l 1,440,-1
- 575 455 l 1,441,-1
- 575 454 l 1,442,-1
- 575 452 l 1,443,-1
- 575 450 l 1,444,-1
- 575 449 l 1,445,-1
- 575 447 l 1,446,-1
- 575 445 l 1,447,-1
- 575 444 l 1,448,-1
- 575 442 l 1,449,-1
- 575 440 l 1,450,-1
- 575 439 l 1,451,-1
- 575 437 l 1,452,-1
- 575 436 l 1,453,-1
- 575 434 l 1,454,-1
- 575 432 l 1,455,-1
- 575 431 l 1,456,-1
- 575 429 l 1,457,-1
- 575 427 l 1,458,-1
- 575 426 l 1,459,-1
- 575 424 l 1,460,-1
- 575 422 l 1,461,-1
- 575 421 l 1,462,-1
- 575 419 l 1,463,-1
- 575 417 l 1,464,-1
- 575 416 l 1,465,-1
- 575 414 l 1,466,-1
- 575 412 l 1,467,-1
- 575 411 l 1,468,-1
- 575 409 l 1,469,-1
- 575 407 l 1,470,-1
- 575 406 l 1,471,-1
- 575 404 l 1,472,-1
- 575 402 l 1,473,-1
- 575 401 l 1,474,-1
- 575 399 l 1,475,-1
- 575 397 l 1,476,-1
- 575 395 l 1,477,-1
- 575 394 l 1,478,-1
- 575 392 l 1,479,-1
- 575 390 l 1,480,-1
- 575 389 l 1,481,-1
- 575 387 l 1,482,-1
- 575 385 l 1,483,-1
- 575 384 l 1,484,-1
- 575 382 l 1,485,-1
- 575 380 l 1,486,-1
- 575 379 l 1,487,-1
- 575 377 l 1,488,-1
- 575 375 l 1,489,-1
- 575 373 l 1,490,-1
- 575 372 l 1,491,-1
- 575 370 l 1,492,-1
- 575 368 l 1,493,-1
- 575 367 l 1,494,-1
- 575 365 l 1,495,-1
- 575 363 l 1,496,-1
- 575 361 l 1,497,-1
- 575 360 l 1,498,-1
- 575 358 l 1,499,-1
- 575 356 l 1,500,-1
- 575 355 l 1,501,-1
- 575 353 l 1,502,-1
- 575 351 l 1,503,-1
- 575 349 l 1,504,-1
- 575 348 l 1,505,-1
- 575 346 l 1,506,-1
- 575 344 l 1,507,-1
- 575 342 l 1,508,-1
- 575 341 l 1,509,-1
- 575 339 l 1,510,-1
- 575 337 l 1,511,-1
- 575 335 l 1,512,-1
- 575 334 l 1,513,-1
- 575 332 l 1,514,-1
- 575 330 l 1,515,-1
- 575 328 l 1,516,-1
- 575 327 l 1,517,-1
- 575 325 l 1,518,-1
- 575 323 l 1,519,-1
- 575 321 l 1,520,-1
- 575 320 l 1,521,-1
- 575 318 l 1,522,-1
- 575 316 l 1,523,-1
- 575 314 l 1,524,-1
- 575 313 l 1,525,-1
- 575 311 l 1,526,-1
- 575 309 l 1,527,-1
- 575 307 l 1,528,-1
- 575 306 l 1,529,-1
- 575 304 l 1,530,-1
- 575 302 l 1,531,-1
- 575 300 l 1,532,-1
- 575 298 l 1,533,-1
- 575 297 l 1,534,-1
- 575 295 l 1,535,-1
- 575 293 l 1,536,-1
- 575 291 l 1,537,-1
- 575 290 l 1,538,-1
- 575 288 l 1,539,-1
- 575 286 l 1,540,-1
- 575 284 l 1,541,-1
- 575 282 l 1,542,-1
- 575 281 l 1,543,-1
- 575 279 l 1,544,-1
- 575 277 l 1,545,-1
- 575 275 l 1,546,-1
- 575 273 l 1,547,-1
- 575 272 l 1,548,-1
- 575 270 l 1,549,-1
- 575 268 l 1,550,-1
- 575 266 l 1,551,-1
- 575 264 l 1,552,-1
- 575 262 l 1,553,-1
- 575 261 l 1,554,-1
- 575 259 l 1,555,-1
- 575 257 l 1,556,-1
- 575 255 l 1,557,-1
- 575 253 l 1,558,-1
- 575 252 l 1,559,-1
- 575 250 l 1,560,-1
- 575 248 l 1,561,-1
- 575 246 l 1,562,-1
- 575 244 l 1,563,-1
- 575 242 l 1,564,-1
- 575 241 l 1,565,-1
- 575 239 l 1,566,-1
- 575 237 l 1,567,-1
- 575 235 l 1,568,-1
- 575 233 l 1,569,-1
- 575 231 l 1,570,-1
- 575 230 l 1,571,-1
- 575 228 l 1,572,-1
- 575 226 l 1,573,-1
- 575 224 l 1,574,-1
- 575 222 l 1,575,-1
- 575 220 l 1,576,-1
- 575 218 l 1,577,-1
- 575 217 l 1,578,-1
- 575 215 l 1,579,-1
- 575 213 l 1,580,-1
- 575 211 l 1,581,-1
- 575 209 l 1,582,-1
- 575 207 l 1,583,-1
- 575 205 l 1,584,-1
- 575 204 l 1,585,-1
- 575 202 l 1,586,-1
- 575 200 l 1,587,-1
- 575 198 l 1,588,-1
- 575 196 l 1,589,-1
- 575 194 l 1,590,-1
- 575 192 l 1,591,-1
- 575 190 l 1,592,-1
- 575 189 l 1,593,-1
- 575 187 l 1,594,-1
- 575 185 l 1,595,-1
- 575 183 l 1,596,-1
- 575 181 l 1,597,-1
- 575 179 l 1,598,-1
- 575 177 l 1,599,-1
- 575 175 l 1,600,-1
- 575 173 l 1,601,-1
- 575 171 l 1,602,-1
- 575 170 l 1,603,-1
- 575 168 l 1,604,-1
- 575 166 l 1,605,-1
- 575 164 l 1,606,-1
- 575 162 l 1,607,-1
- 575 160 l 1,608,-1
- 575 158 l 1,609,-1
- 575 150 l 2,610,611
- 575 129 575 129 589.5 114.5 c 128,-1,612
- 604 100 604 100 625 100 c 1,613,-1
- 625 0 l 1,614,615
- 563 0 563 0 519 44 c 128,-1,616
- 475 88 475 88 475 150 c 2,617,-1
- 475 1000 l 1,0,-1
+99.9990234375 900.001953125 m 1,0,-1
+ 300.001953125 900.001953125 l 1,1,-1
+ 300.001953125 799.998046875 l 1,2,-1
+ 300.001953125 199.998046875 l 2,3,4
+ 300.002685547 158.605224609 300.002685547 158.605224609 329.305419922 129.302490234 c 128,-1,5
+ 358.608154297 99.9997558594 358.608154297 99.9997558594 400.000976562 99.9990234375 c 1,6,7
+ 399.998052619 0 399.998052619 0 400.000976562 0 c 1,8,9
+ 317.214302953 0 317.214302953 0 258.606541124 58.6059832857 c 128,-1,10
+ 199.998779294 117.211966571 199.998779294 117.211966571 199.998046875 199.998046875 c 2,11,-1
+ 199.998046875 799.998046875 l 1,12,-1
+ 99.9990234375 799.998046875 l 1,13,-1
+ 99.9990234375 900.001953125 l 1,0,-1
 EndSplineSet
 EndChar
 
 StartChar: m
-Encoding: 52 109 12
-Width: 1100
+Encoding: 109 109 12
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-100 700 m 1,0,-1
- 200 700 l 1,1,-1
- 200 650 l 1,2,3
- 267 700 267 700 350 700 c 0,4,5
- 410 700 410 700 462.5 673 c 128,-1,6
- 515 646 515 646 550 600 c 1,7,8
- 585 646 585 646 637.5 673 c 128,-1,9
- 690 700 690 700 750 700 c 0,10,11
- 853 700 853 700 926.5 626.5 c 128,-1,12
- 1000 553 1000 553 1000 450 c 2,13,-1
- 1000 0 l 1,14,-1
- 900 0 l 1,15,-1
- 900 450 l 2,16,17
- 900 512 900 512 856 556 c 128,-1,18
- 812 600 812 600 750 600 c 128,-1,19
- 688 600 688 600 644 556 c 128,-1,20
- 600 512 600 512 600 450 c 2,21,-1
- 600 0 l 1,22,-1
- 500 0 l 1,23,-1
- 500 450 l 2,24,25
- 500 512 500 512 456 556 c 128,-1,26
- 412 600 412 600 350 600 c 128,-1,27
- 288 600 288 600 244 556 c 128,-1,28
- 200 512 200 512 200 450 c 2,29,-1
- 200 0 l 1,30,-1
- 100 0 l 1,31,-1
- 100 700 l 1,0,-1
+50.001953125 599.999023438 m 1,0,-1
+ 149.913085938 599.999023438 l 1,1,2
+ 149.917959176 594.472610294 149.917959176 594.472610294 149.913085938 594.44921875 c 1,3,4
+ 168.310969287 599.843882974 168.310969287 599.843882974 187.4765625 599.999023438 c 0,5,6
+ 237.000787699 599.991755213 237.000787699 599.991755213 275.146484375 568.399414062 c 1,7,8
+ 313.140640125 599.868166693 313.140640125 599.868166693 362.473632812 599.999023438 c 0,9,10
+ 419.38127211 599.999023438 419.38127211 599.999023438 459.667686836 559.712806327 c 128,-1,11
+ 499.954101562 519.426589217 499.954101562 519.426589217 499.954101562 462.51953125 c 2,12,-1
+ 499.954101562 0 l 1,13,-1
+ 400.04296875 0 l 1,14,-1
+ 400.04296875 462.51953125 l 2,15,16
+ 399.99609375 478.051269531 399.99609375 478.051269531 389.000732422 489.046630859 c 128,-1,17
+ 378.005371094 500.041992188 378.005371094 500.041992188 362.473632812 500.041992188 c 128,-1,18
+ 346.953536375 500.039795015 346.953536375 500.039795015 335.96260834 489.05696845 c 128,-1,19
+ 324.971680306 478.074141886 324.971680306 478.074141886 324.95703125 462.555664062 c 2,20,-1
+ 324.95703125 0 l 1,21,-1
+ 225.045898438 0 l 1,22,-1
+ 225.045898438 462.51953125 l 2,23,24
+ 224.999023438 478.051269531 224.999023438 478.051269531 214.003662109 489.046630859 c 128,-1,25
+ 203.008300781 500.041992188 203.008300781 500.041992188 187.4765625 500.041992188 c 128,-1,26
+ 171.944917268 500.041992188 171.944917268 500.041992188 160.949997696 489.046677386 c 128,-1,27
+ 149.955078125 478.051362584 149.955078125 478.051362584 149.955078125 462.51953125 c 1,28,-1
+ 149.913085938 0 l 1,29,-1
+ 50.001953125 0 l 1,30,-1
+ 50.001953125 462.51953125 l 1,31,-1
+ 50.001953125 599.999023438 l 1,0,-1
 EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 53 110 13
-Width: 1100
+Encoding: 110 110 13
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-400.000976562 300.001953125 m 1,0,-1
- 500.000976562 300.001953125 l 1,1,2
- 500.070176547 291.146390548 500.070176547 291.146390548 500.000976562 291.098632812 c 1,3,4
- 524.235198072 299.84394008 524.235198072 299.84394008 549.997070312 300.001953125 c 0,5,6
- 612.08805922 300.001953125 612.08805922 300.001953125 656.043541329 256.046668632 c 128,-1,7
- 699.999023438 212.091384139 699.999023438 212.091384139 699.999023438 150.000976562 c 2,8,-1
- 699.999023438 0 l 1,9,-1
- 600 0 l 1,10,11
- 599.997076057 150.000976562 599.997076057 150.000976562 600 150.000976562 c 1,12,13
- 599.998535172 170.696800373 599.998535172 170.696800373 585.345935766 185.347423624 c 128,-1,14
- 570.69333636 199.998046875 570.69333636 199.998046875 549.997070312 199.998046875 c 128,-1,15
- 529.302246076 199.996582014 529.302246076 199.996582014 514.651977526 185.346313464 c 128,-1,16
- 500.001708976 170.696044913 500.001708976 170.696044913 500.000976562 150.000976562 c 2,17,-1
- 500.000976562 0 l 1,18,-1
- 400.000976562 0 l 1,19,-1
- 400.000976562 150.000976562 l 1,20,-1
- 400.000976562 300.001953125 l 1,0,-1
-500 375 m 1,21,-1
- 500 900 l 1,22,-1
- 600 900 l 1,23,-1
- 600 375 l 1,24,-1
- 500 375 l 1,21,-1
+50.001953125 599.999023438 m 1,0,-1
+ 149.913085938 599.999023438 l 1,1,2
+ 150.153823912 561.575911458 150.153823912 561.575911458 149.913085938 561.443359375 c 1,3,4
+ 206.598599974 599.7374216 206.598599974 599.7374216 275.000976562 599.999023438 c 0,5,6
+ 368.136399064 599.999023438 368.136399064 599.999023438 434.068321602 534.067298515 c 128,-1,7
+ 500.00024414 468.135573592 500.00024414 468.135573592 500.000976562 375 c 1,8,-1
+ 499.954101562 0 l 1,9,-1
+ 400.04296875 0 l 1,10,-1
+ 400.04296875 375 l 2,11,12
+ 400.000976562 426.741943359 400.000976562 426.741943359 363.371948242 463.37097168 c 128,-1,13
+ 326.742919922 500 326.742919922 500 275.000976562 500 c 128,-1,14
+ 223.259033203 500 223.259033203 500 186.630004883 463.37097168 c 128,-1,15
+ 150.000976562 426.741943359 150.000976562 426.741943359 150.000976562 375 c 1,16,-1
+ 149.913085938 0 l 1,17,-1
+ 50.001953125 0 l 1,18,-1
+ 50.001953125 599.999023438 l 1,0,-1
 EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 54 111 14
-Width: 1100
+Encoding: 111 111 14
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-550 300.001953125 m 128,-1,1
- 612.090332031 300.001953125 612.090332031 300.001953125 656.045654297 256.046630859 c 128,-1,2
- 700.000976562 212.091308594 700.000976562 212.091308594 700.000976562 150.000976562 c 128,-1,3
- 700.000976562 87.9106445312 700.000976562 87.9106445312 656.045654297 43.9553222656 c 128,-1,4
- 612.090332031 0 612.090332031 0 550 0 c 128,-1,5
- 487.911092279 0.0014648447063 487.911092279 0.0014648447063 443.957499264 43.956441166 c 128,-1,6
- 400.00390625 87.9114174874 400.00390625 87.9114174874 400.00390625 150.000976562 c 128,-1,7
- 400.00390625 212.090535638 400.00390625 212.090535638 443.957499264 256.045511959 c 128,-1,0
- 487.911092279 300.00048828 487.911092279 300.00048828 550 300.001953125 c 128,-1,1
-550 200.002929688 m 128,-1,9
- 529.304251721 200.002197276 529.304251721 200.002197276 514.653590704 185.349757715 c 128,-1,10
- 500.002929688 170.697318153 500.002929688 170.697318153 500.002929688 150.000976562 c 128,-1,11
- 500.002929688 129.304803569 500.002929688 129.304803569 514.653506416 114.65264592 c 128,-1,12
- 529.304083145 100.000488272 529.304083145 100.000488272 550 99.9990234375 c 128,-1,13
- 570.696777344 99.9990234375 570.696777344 99.9990234375 585.349365234 114.651611328 c 128,-1,14
- 600.001953125 129.304199219 600.001953125 129.304199219 600.001953125 150.000976562 c 128,-1,15
- 600.001953125 170.697753906 600.001953125 170.697753906 585.349365234 185.350341797 c 128,-1,8
- 570.696777344 200.002929688 570.696777344 200.002929688 550 200.002929688 c 128,-1,9
-500 374.998046875 m 1,16,-1
- 500 900 l 1,17,-1
- 600 900 l 1,18,-1
- 600 374.998046875 l 1,19,-1
- 500 374.998046875 l 1,16,-1
+275.000976562 599.999023438 m 0,0,1
+ 361.201418549 599.903576279 361.201418549 599.903576279 425.047921485 542.26846529 c 128,-1,2
+ 488.894424422 484.6333543 488.894424422 484.6333543 498.357421875 400.000976562 c 1,3,-1
+ 499.954101562 400.000976562 l 1,4,-1
+ 499.954101562 375.708007812 l 2,5,6
+ 499.961046007 375.602539062 499.961046007 375.602539062 499.976804554 375.365422175 c 0,7,-1
+ 499.954101562 375 l 1,8,-1
+ 499.954101562 224.999023438 l 2,9,10
+ 500.000244139 131.86401367 500.000244139 131.86401367 434.068237304 65.932006835 c 128,-1,11
+ 368.136230469 0 368.136230469 0 275.000976562 0 c 128,-1,12
+ 181.866379533 0 181.866379533 0 115.93453254 65.9320446077 c 128,-1,13
+ 50.0026855482 131.864089215 50.0026855482 131.864089215 50.001953125 224.999023438 c 2,14,-1
+ 50.001953125 375 l 2,15,16
+ 50.0026855469 468.135498047 50.0026855469 468.135498047 115.934448242 534.067260742 c 128,-1,17
+ 181.866210938 599.999023438 181.866210938 599.999023438 275.000976562 599.999023438 c 0,0,1
+275.000976562 500 m 128,-1,19
+ 223.259033203 500 223.259033203 500 186.630004883 463.37097168 c 128,-1,20
+ 150.000976562 426.741943359 150.000976562 426.741943359 150.000976562 375 c 1,21,-1
+ 149.913085938 224.999023438 l 2,22,23
+ 150.000976562 173.257080078 150.000976562 173.257080078 186.630004883 136.628051758 c 128,-1,24
+ 223.259033203 99.9990234375 223.259033203 99.9990234375 275.000976562 99.9990234375 c 128,-1,25
+ 326.742919922 99.9990234375 326.742919922 99.9990234375 363.371948242 136.628051758 c 128,-1,26
+ 400.000976562 173.257080078 400.000976562 173.257080078 400.000976562 224.999023438 c 1,27,-1
+ 400.04296875 375 l 2,28,29
+ 400.000976562 426.741943359 400.000976562 426.741943359 363.371948242 463.37097168 c 128,-1,18
+ 326.742919922 500 326.742919922 500 275.000976562 500 c 128,-1,19
 EndSplineSet
 EndChar
 
 StartChar: p
-Encoding: 55 112 15
-Width: 1100
+Encoding: 112 112 15
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-750 300 m 2,0,-1
- 750 400 l 2,1,2
- 750 483 750 483 691.5 541.5 c 128,-1,3
- 633 600 633 600 550 600 c 128,-1,4
- 467 600 467 600 408.5 541.5 c 128,-1,5
- 350 483 350 483 350 400 c 2,6,-1
- 350 300 l 2,7,8
- 350 217 350 217 408.5 158.5 c 128,-1,9
- 467 100 467 100 550 100 c 128,-1,10
- 633 100 633 100 691.5 158.5 c 128,-1,11
- 750 217 750 217 750 300 c 2,0,-1
-350 623.439092706 m 1,12,13
- 434.339814417 700 434.339814417 700 550 700 c 0,14,15
- 674 700 674 700 762 612 c 128,-1,16
- 850 524 850 524 850 400 c 2,17,-1
- 850 300 l 2,18,19
- 850 176 850 176 762 88 c 128,-1,20
- 674 0 674 0 550 0 c 0,21,22
- 434.339814417 0 434.339814417 0 350 76.5609072944 c 1,23,-1
- 350 -200 l 1,24,-1
- 250 -200 l 1,25,-1
- 250 300 l 1,26,-1
- 250 400 l 1,27,-1
- 250 700 l 1,28,-1
- 350 700 l 1,29,-1
- 350 623.439092706 l 1,12,13
+50.001953125 599.999023438 m 1,0,-1
+ 150.000976562 599.999023438 l 1,1,2
+ 150.241714537 561.637436811 150.241714537 561.637436811 150.000976562 561.505859375 c 1,3,4
+ 206.655449678 599.738863249 206.655449678 599.738863249 275.000976562 599.999023438 c 0,5,6
+ 368.136399064 599.999023438 368.136399064 599.999023438 434.068321602 534.067298515 c 128,-1,7
+ 500.00024414 468.135573592 500.00024414 468.135573592 500.000976562 375 c 0,8,9
+ 500.000001915 224.999023438 500.000001915 224.999023438 500.000976562 224.999023438 c 1,10,11
+ 500.000244139 131.86401367 500.000244139 131.86401367 434.068237304 65.932006835 c 128,-1,12
+ 368.136230469 0 368.136230469 0 275.000976562 0 c 0,13,14
+ 206.653104241 0.264499675074 206.653104241 0.264499675074 150.000976562 38.4990234375 c 1,15,-1
+ 150.000976562 -199.998046875 l 1,16,-1
+ 50.001953125 -199.998046875 l 1,17,-1
+ 50.001953125 224.999023438 l 1,18,-1
+ 50.001953125 375 l 1,19,-1
+ 50.001953125 599.999023438 l 1,0,-1
+275.000976562 500 m 128,-1,21
+ 223.259033203 500 223.259033203 500 186.630004883 463.37097168 c 128,-1,22
+ 150.000976562 426.741943359 150.000976562 426.741943359 150.000976562 375 c 2,23,-1
+ 150.000976562 224.999023438 l 2,24,25
+ 150.000976562 173.257080078 150.000976562 173.257080078 186.630004883 136.628051758 c 128,-1,26
+ 223.259033203 99.9990234375 223.259033203 99.9990234375 275.000976562 99.9990234375 c 128,-1,27
+ 326.742919922 99.9990234375 326.742919922 99.9990234375 363.371948242 136.628051758 c 128,-1,28
+ 400.000976562 173.257080078 400.000976562 173.257080078 400.000976562 224.999023438 c 2,29,-1
+ 400.000976562 375 l 2,30,31
+ 400.000976562 426.741943359 400.000976562 426.741943359 363.371948242 463.37097168 c 128,-1,20
+ 326.742919922 500 326.742919922 500 275.000976562 500 c 128,-1,21
 EndSplineSet
 EndChar
 
 StartChar: s
-Encoding: 56 115 16
-Width: 1100
+Encoding: 115 115 16
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-550 700 m 128,-1,1
- 633 700 633 700 691.5 641.5 c 128,-1,2
- 750 583 750 583 750 500 c 1,3,-1
- 749 500 l 1,4,-1
- 748 500 l 1,5,-1
- 747 500 l 1,6,-1
- 746 500 l 1,7,-1
- 745 500 l 1,8,-1
- 744 500 l 1,9,-1
- 743 500 l 1,10,-1
- 742 500 l 1,11,-1
- 741 500 l 1,12,-1
- 740 500 l 1,13,-1
- 739 500 l 1,14,-1
- 738 500 l 1,15,-1
- 737 500 l 1,16,-1
- 736 500 l 1,17,-1
- 735 500 l 1,18,-1
- 734 500 l 1,19,-1
- 733 500 l 1,20,-1
- 732 500 l 1,21,-1
- 731 500 l 1,22,-1
- 730 500 l 1,23,-1
- 729 500 l 1,24,-1
- 728 500 l 1,25,-1
- 727 500 l 1,26,-1
- 726 500 l 1,27,-1
- 725 500 l 1,28,-1
- 723 500 l 1,29,-1
- 722 500 l 1,30,-1
- 721 500 l 1,31,-1
- 720 500 l 1,32,-1
- 718 500 l 1,33,-1
- 717 500 l 1,34,-1
- 716 500 l 1,35,-1
- 714 500 l 1,36,-1
- 713 500 l 1,37,-1
- 712 500 l 1,38,-1
- 710 500 l 1,39,-1
- 709 500 l 1,40,-1
- 708 500 l 1,41,-1
- 706 500 l 1,42,-1
- 705 500 l 1,43,-1
- 703 500 l 1,44,-1
- 702 500 l 1,45,-1
- 700 500 l 1,46,-1
- 699 500 l 1,47,-1
- 697 500 l 1,48,-1
- 696 500 l 1,49,-1
- 694 500 l 1,50,-1
- 693 500 l 1,51,-1
- 691 500 l 1,52,-1
- 689 500 l 1,53,-1
- 688 500 l 1,54,-1
- 686 500 l 1,55,-1
- 685 500 l 1,56,-1
- 683 500 l 1,57,-1
- 681 500 l 1,58,-1
- 680 500 l 1,59,-1
- 678 500 l 1,60,-1
- 676 500 l 1,61,-1
- 675 500 l 1,62,-1
- 673 500 l 1,63,-1
- 671 500 l 1,64,-1
- 670 500 l 1,65,-1
- 668 500 l 1,66,-1
- 666 500 l 1,67,-1
- 664 500 l 1,68,-1
- 662 500 l 1,69,-1
- 661 500 l 1,70,-1
- 659 500 l 1,71,-1
- 650 500 l 1,72,73
- 650 541 650 541 620.5 570.5 c 128,-1,74
- 591 600 591 600 550 600 c 128,-1,75
- 509 600 509 600 479.5 570.5 c 128,-1,76
- 450 541 450 541 450 500 c 128,-1,77
- 450 459 450 459 479.5 429.5 c 128,-1,78
- 509 400 509 400 550 400 c 0,79,80
- 633 400 633 400 691.5 341.5 c 128,-1,81
- 750 283 750 283 750 200 c 128,-1,82
- 750 117 750 117 691.5 58.5 c 128,-1,83
- 633 0 633 0 550 0 c 128,-1,84
- 467 0 467 0 408.5 58.5 c 128,-1,85
- 350 117 350 117 350 200 c 1,86,-1
- 351 200 l 1,87,-1
- 352 200 l 1,88,-1
- 353 200 l 1,89,-1
- 354 200 l 1,90,-1
- 355 200 l 1,91,-1
- 356 200 l 1,92,-1
- 357 200 l 1,93,-1
- 358 200 l 1,94,-1
- 359 200 l 1,95,-1
- 360 200 l 1,96,-1
- 361 200 l 1,97,-1
- 362 200 l 1,98,-1
- 363 200 l 1,99,-1
- 364 200 l 1,100,-1
- 365 200 l 1,101,-1
- 366 200 l 1,102,-1
- 367 200 l 1,103,-1
- 368 200 l 1,104,-1
- 369 200 l 1,105,-1
- 370 200 l 1,106,-1
- 371 200 l 1,107,-1
- 372 200 l 1,108,-1
- 373 200 l 1,109,-1
- 374 200 l 1,110,-1
- 375 200 l 1,111,-1
- 377 200 l 1,112,-1
- 378 200 l 1,113,-1
- 379 200 l 1,114,-1
- 380 200 l 1,115,-1
- 382 200 l 1,116,-1
- 383 200 l 1,117,-1
- 384 200 l 1,118,-1
- 386 200 l 1,119,-1
- 387 200 l 1,120,-1
- 388 200 l 1,121,-1
- 390 200 l 1,122,-1
- 391 200 l 1,123,-1
- 392 200 l 1,124,-1
- 394 200 l 1,125,-1
- 395 200 l 1,126,-1
- 397 200 l 1,127,-1
- 398 200 l 1,128,-1
- 400 200 l 1,129,-1
- 401 200 l 1,130,-1
- 403 200 l 1,131,-1
- 404 200 l 1,132,-1
- 406 200 l 1,133,-1
- 407 200 l 1,134,-1
- 409 200 l 1,135,-1
- 411 200 l 1,136,-1
- 412 200 l 1,137,-1
- 414 200 l 1,138,-1
- 415 200 l 1,139,-1
- 417 200 l 1,140,-1
- 419 200 l 1,141,-1
- 420 200 l 1,142,-1
- 422 200 l 1,143,-1
- 424 200 l 1,144,-1
- 425 200 l 1,145,-1
- 427 200 l 1,146,-1
- 429 200 l 1,147,-1
- 430 200 l 1,148,-1
- 432 200 l 1,149,-1
- 434 200 l 1,150,-1
- 436 200 l 1,151,-1
- 437 200 l 1,152,-1
- 439 200 l 1,153,-1
- 441 200 l 1,154,-1
- 450 200 l 1,155,156
- 450 159 450 159 479.5 129.5 c 128,-1,157
- 509 100 509 100 550 100 c 128,-1,158
- 591 100 591 100 620.5 129.5 c 128,-1,159
- 650 159 650 159 650 200 c 128,-1,160
- 650 241 650 241 620.5 270.5 c 128,-1,161
- 591 300 591 300 550 300 c 0,162,163
- 467 300 467 300 408.5 358.5 c 128,-1,164
- 350 417 350 417 350 500 c 128,-1,165
- 350 583 350 583 408.5 641.5 c 128,-1,0
- 467 700 467 700 550 700 c 128,-1,1
+224.999023438 599.999023438 m 0,0,1
+ 324.882063802 600.212471278 324.882063802 600.212471278 324.998046875 599.999023438 c 0,2,3
+ 379.808726983 599.850492825 379.808726983 599.850492825 425.924992426 572.416488471 c 128,-1,4
+ 472.041257868 544.982484117 472.041257868 544.982484117 498.23828125 498.993164062 c 1,5,6
+ 492.752038744 495.849565173 492.752038744 495.849565173 483.768558785 490.70487748 c 128,-1,7
+ 474.785078826 485.560189787 474.785078826 485.560189787 455.772685722 474.676821128 c 128,-1,8
+ 436.760292618 463.79345247 436.760292618 463.79345247 424.108127877 456.575208291 c 128,-1,9
+ 411.455963135 449.356964111 411.455963135 449.356964111 411.4375 449.393554688 c 0,10,11
+ 398.381239037 472.377579578 398.381239037 472.377579578 375.372121517 486.118841417 c 128,-1,12
+ 352.363003998 499.860103255 352.363003998 499.860103255 324.998046875 500 c 2,13,-1
+ 224.999023438 500 l 2,14,15
+ 193.955153665 499.999267574 193.955153665 499.999267574 171.978431322 478.022742847 c 128,-1,16
+ 150.00170898 456.046218119 150.00170898 456.046218119 150.000976562 425.001953125 c 128,-1,17
+ 150.000976562 393.957222874 150.000976562 393.957222874 171.977931523 371.978489363 c 128,-1,18
+ 193.954886484 349.999755852 193.954886484 349.999755852 224.999023438 349.999023438 c 2,19,-1
+ 324.998046875 349.999023438 l 2,20,21
+ 397.435302734 349.998291016 397.435302734 349.998291016 448.71484375 298.71875 c 128,-1,22
+ 499.994384766 247.439208984 499.994384766 247.439208984 499.995117188 175.001953125 c 128,-1,23
+ 499.995117188 102.56383678 499.995117188 102.56383678 448.715512141 51.2826508107 c 128,-1,24
+ 397.435907094 0.00146484116032 397.435907094 0.00146484116032 324.998046875 0 c 0,25,26
+ 225.11500651 -0.213447840074 225.11500651 -0.213447840074 224.999023438 0 c 0,27,28
+ 170.18851947 0.148530135195 170.18851947 0.148530135195 124.072215522 27.5829359972 c 128,-1,29
+ 77.9559115741 55.0173418593 77.9559115741 55.0173418593 51.7587890625 101.006835938 c 1,30,31
+ 57.2450932094 104.150434706 57.2450932094 104.150434706 66.228654044 109.295102155 c 128,-1,32
+ 75.2122148786 114.439769604 75.2122148786 114.439769604 94.2247456142 125.323061908 c 128,-1,33
+ 113.23727635 136.206354212 113.23727635 136.206354212 125.88935961 143.424374616 c 128,-1,34
+ 138.541442871 150.64239502 138.541442871 150.64239502 138.559570312 150.60546875 c 0,35,36
+ 151.615831276 127.621443859 151.615831276 127.621443859 174.624948795 113.880182021 c 128,-1,37
+ 197.634066315 100.138920183 197.634066315 100.138920183 224.999023438 99.9990234375 c 0,38,39
+ 324.998046875 100.001947381 324.998046875 100.001947381 324.998046875 99.9990234375 c 1,40,41
+ 356.042183829 99.9997558524 356.042183829 99.9997558524 378.019138789 121.978489363 c 128,-1,42
+ 399.99609375 143.957222874 399.99609375 143.957222874 399.99609375 175.001953125 c 128,-1,43
+ 399.995361328 206.046386719 399.995361328 206.046386719 378.018920898 228.022827148 c 128,-1,44
+ 356.042480469 249.999267578 356.042480469 249.999267578 324.998046875 250 c 0,45,46
+ 224.999023438 250.001949295 224.999023438 250.001949295 224.999023438 250 c 1,47,48
+ 152.561163218 250.001464841 152.561163218 250.001464841 101.281558172 301.282650811 c 128,-1,49
+ 50.001953125 352.56383678 50.001953125 352.56383678 50.001953125 425.001953125 c 128,-1,50
+ 50.0034179722 497.439377584 50.0034179722 497.439377584 101.282677074 548.718834301 c 128,-1,51
+ 152.561936176 599.998291017 152.561936176 599.998291017 224.999023438 599.999023438 c 0,0,1
 EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 57 116 17
-Width: 1100
+Encoding: 116 116 17
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-350 700 m 1,0,-1
- 350 800 l 1,1,-1
- 450 800 l 1,2,-1
- 450 1000 l 1,3,-1
- 550 1000 l 1,4,-1
- 550 800 l 1,5,-1
- 750 800 l 1,6,-1
- 750 700 l 1,7,-1
- 550 700 l 1,8,-1
- 550 300 l 2,9,10
- 550 217 550 217 608.5 158.5 c 128,-1,11
- 667 100 667 100 750 100 c 1,12,-1
- 750 0 l 1,13,14
- 626 0 626 0 538 88 c 128,-1,15
- 450 176 450 176 450 300 c 2,16,-1
- 450 700 l 1,17,-1
- 350 700 l 1,0,-1
+200.000976562 799.998046875 m 1,0,-1
+ 300 799.998046875 l 1,1,-1
+ 300 600 l 1,2,-1
+ 425 600 l 1,3,-1
+ 425 500 l 1,4,-1
+ 300 500 l 1,5,-1
+ 300 224.999023438 l 2,6,7
+ 300 173.257080078 300 173.257080078 336.62902832 136.628051758 c 128,-1,8
+ 373.258056641 99.9990234375 373.258056641 99.9990234375 425 99.9990234375 c 1,9,-1
+ 425 0 l 1,10,11
+ 331.864670548 0 331.864670548 0 265.932823555 65.9320446084 c 128,-1,12
+ 200.000976562 131.864089217 200.000976562 131.864089217 200.000976562 224.999023438 c 2,13,-1
+ 200.000976562 500 l 1,14,-1
+ 99.99609375 500 l 1,15,-1
+ 99.99609375 600 l 1,16,-1
+ 200.000976562 600 l 1,17,-1
+ 200.000976562 799.998046875 l 1,0,-1
 EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 58 117 18
-Width: 1100
+Encoding: 117 117 18
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-300 700 m 1,0,-1
- 400 700 l 1,1,-1
- 400 250 l 2,2,3
- 400 188 400 188 444 144 c 128,-1,4
- 488 100 488 100 550 100 c 128,-1,5
- 612 100 612 100 656 144 c 128,-1,6
- 700 188 700 188 700 250 c 2,7,-1
- 700 700 l 1,8,-1
- 800 700 l 1,9,-1
- 800 250 l 1,10,-1
- 800 0 l 1,11,-1
- 700 0 l 1,12,-1
- 700 50 l 1,13,14
- 633 0 633 0 550 0 c 0,15,16
- 447 0 447 0 373.5 73.5 c 128,-1,17
- 300 147 300 147 300 250 c 2,18,-1
- 300 700 l 1,0,-1
+500.000976562 0 m 1,0,-1
+ 400.088867188 0 l 1,1,2
+ 399.84910386 38.4240866268 399.84910386 38.4240866268 400.088867188 38.5556640625 c 1,3,4
+ 343.407065173 0.263061426399 343.407065173 0.263061426399 275.000976562 0 c 0,5,6
+ 181.866379533 0 181.866379533 0 115.93453254 65.9320446077 c 128,-1,7
+ 50.0026855482 131.864089215 50.0026855482 131.864089215 50.001953125 224.999023438 c 1,8,-1
+ 50.048828125 599.999023438 l 1,9,-1
+ 149.959960938 599.999023438 l 1,10,-1
+ 149.959960938 224.999023438 l 2,11,12
+ 150.000976562 173.257080078 150.000976562 173.257080078 186.630004883 136.628051758 c 128,-1,13
+ 223.259033203 99.9990234375 223.259033203 99.9990234375 275.000976562 99.9990234375 c 128,-1,14
+ 326.742919922 99.9990234375 326.742919922 99.9990234375 363.371948242 136.628051758 c 128,-1,15
+ 400.000976562 173.257080078 400.000976562 173.257080078 400.000976562 224.999023438 c 1,16,-1
+ 400.088867188 599.999023438 l 1,17,-1
+ 500.000976562 599.999023438 l 1,18,-1
+ 500.000976562 0 l 1,0,-1
 EndSplineSet
 EndChar
 
 StartChar: w
-Encoding: 60 119 19
-Width: 1100
+Encoding: 119 119 19
+Width: 550
 GlyphClass: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-100 700 m 1,0,-1
- 205 700 l 1,1,-1
- 377.521437321 163.266639445 l 1,2,-1
- 500 544 l 1,3,-1
- 600 544 l 1,4,-1
- 722.478562679 163.266639445 l 1,5,-1
- 895 700 l 1,6,-1
- 1000 700 l 1,7,-1
- 775 0 l 1,8,-1
- 670 0 l 1,9,-1
- 550 373 l 1,10,-1
- 430 0 l 1,11,-1
- 325 0 l 1,12,-1
- 100 700 l 1,0,-1
+50.001953125 600 m 1,0,-1
+ 151.060546875 599.999023438 l 1,1,-1
+ 187.502929688 350.11328125 l 1,2,-1
+ 223.9453125 599.999023438 l 1,3,-1
+ 326.057617188 599.999023438 l 1,4,-1
+ 362.5 350.11328125 l 1,5,-1
+ 398.942382812 600 l 1,6,-1
+ 500.000976562 599.999023438 l 1,7,-1
+ 412.501953125 -0 l 1,8,-1
+ 312.498046875 -0 l 1,9,-1
+ 275.000976562 257.12109375 l 1,10,-1
+ 237.504882812 -0 l 1,11,-1
+ 137.500976562 0 l 1,12,-1
+ 50.001953125 600 l 1,0,-1
 EndSplineSet
 EndChar
 
 StartChar: a.t
-Encoding: 65 989440 20
+Encoding: 989440 989440 20
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2077,7 +1383,7 @@ Ligature2: "sitelen+-space" a space
 EndChar
 
 StartChar: akesi.t
-Encoding: 66 989441 21
+Encoding: 989441 989441 21
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2158,7 +1464,7 @@ Ligature2: "sitelen" a k e s i
 EndChar
 
 StartChar: ala.t
-Encoding: 67 989442 22
+Encoding: 989442 989442 22
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2186,7 +1492,7 @@ Ligature2: "sitelen" a l a
 EndChar
 
 StartChar: alasa.t
-Encoding: 68 989443 23
+Encoding: 989443 989443 23
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2238,7 +1544,7 @@ Ligature2: "sitelen" a l a s a
 EndChar
 
 StartChar: ale.t
-Encoding: 69 989444 24
+Encoding: 989444 989444 24
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2302,7 +1608,7 @@ Ligature2: "sitelen" a l i
 EndChar
 
 StartChar: anpa.t
-Encoding: 70 989445 25
+Encoding: 989445 989445 25
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2334,7 +1640,7 @@ Ligature2: "sitelen" a n p a
 EndChar
 
 StartChar: ante.t
-Encoding: 71 989446 26
+Encoding: 989446 989446 26
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2362,7 +1668,7 @@ Ligature2: "sitelen" a n t e
 EndChar
 
 StartChar: anu.t
-Encoding: 72 989447 27
+Encoding: 989447 989447 27
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2386,7 +1692,7 @@ Ligature2: "sitelen" a n u
 EndChar
 
 StartChar: awen.t
-Encoding: 73 989448 28
+Encoding: 989448 989448 28
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2411,7 +1717,7 @@ Ligature2: "sitelen" a w e n
 EndChar
 
 StartChar: e.t
-Encoding: 74 989449 29
+Encoding: 989449 989449 29
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2439,7 +1745,7 @@ Ligature2: "sitelen+-space" e space
 EndChar
 
 StartChar: en.t
-Encoding: 75 989450 30
+Encoding: 989450 989450 30
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2466,7 +1772,7 @@ Ligature2: "sitelen" e n
 EndChar
 
 StartChar: esun.t
-Encoding: 76 989451 31
+Encoding: 989451 989451 31
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2528,7 +1834,7 @@ Ligature2: "sitelen" e s u n
 EndChar
 
 StartChar: ijo.t
-Encoding: 77 989452 32
+Encoding: 989452 989452 32
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2572,7 +1878,7 @@ Ligature2: "sitelen" i j o
 EndChar
 
 StartChar: ike.t
-Encoding: 78 989453 33
+Encoding: 989453 989453 33
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2671,7 +1977,7 @@ Ligature2: "sitelen" i k e
 EndChar
 
 StartChar: ilo.t
-Encoding: 79 989454 34
+Encoding: 989454 989454 34
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2704,7 +2010,7 @@ Ligature2: "sitelen" i l o
 EndChar
 
 StartChar: insa.t
-Encoding: 80 989455 35
+Encoding: 989455 989455 35
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2739,7 +2045,7 @@ Ligature2: "sitelen" i n s a
 EndChar
 
 StartChar: jaki.t
-Encoding: 81 989456 36
+Encoding: 989456 989456 36
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2839,7 +2145,7 @@ Ligature2: "sitelen" j a k i
 EndChar
 
 StartChar: jan.t
-Encoding: 82 989457 37
+Encoding: 989457 989457 37
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2881,7 +2187,7 @@ Ligature2: "sitelen" j a n
 EndChar
 
 StartChar: jelo.t
-Encoding: 83 989458 38
+Encoding: 989458 989458 38
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2931,7 +2237,7 @@ Ligature2: "sitelen" j e l o
 EndChar
 
 StartChar: jo.t
-Encoding: 84 989459 39
+Encoding: 989459 989459 39
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -2985,7 +2291,7 @@ Ligature2: "sitelen" j o
 EndChar
 
 StartChar: kala.t
-Encoding: 85 989460 40
+Encoding: 989460 989460 40
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3025,7 +2331,7 @@ Ligature2: "sitelen" k a l a
 EndChar
 
 StartChar: kalama.t
-Encoding: 86 989461 41
+Encoding: 989461 989461 41
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3070,7 +2376,7 @@ Ligature2: "sitelen" k a l a m a
 EndChar
 
 StartChar: kama.t
-Encoding: 87 989462 42
+Encoding: 989462 989462 42
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3099,7 +2405,7 @@ Ligature2: "sitelen" k a m a
 EndChar
 
 StartChar: kasi.t
-Encoding: 88 989463 43
+Encoding: 989463 989463 43
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3144,7 +2450,7 @@ Ligature2: "sitelen" k a s i
 EndChar
 
 StartChar: ken.t
-Encoding: 89 989464 44
+Encoding: 989464 989464 44
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3182,7 +2488,7 @@ Ligature2: "sitelen" k e n
 EndChar
 
 StartChar: kepeken.t
-Encoding: 90 989465 45
+Encoding: 989465 989465 45
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3231,7 +2537,7 @@ Ligature2: "sitelen" k e p e k e n
 EndChar
 
 StartChar: kili.t
-Encoding: 91 989466 46
+Encoding: 989466 989466 46
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3282,7 +2588,7 @@ Ligature2: "sitelen" k i l i
 EndChar
 
 StartChar: kiwen.t
-Encoding: 92 989467 47
+Encoding: 989467 989467 47
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3308,7 +2614,7 @@ Ligature2: "sitelen" k i w e n
 EndChar
 
 StartChar: ko.t
-Encoding: 93 989468 48
+Encoding: 989468 989468 48
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3437,7 +2743,7 @@ Ligature2: "sitelen" k o
 EndChar
 
 StartChar: kon.t
-Encoding: 94 989469 49
+Encoding: 989469 989469 49
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3485,7 +2791,7 @@ Ligature2: "sitelen" k o n
 EndChar
 
 StartChar: kule.t
-Encoding: 95 989470 50
+Encoding: 989470 989470 50
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3520,7 +2826,7 @@ Ligature2: "sitelen" k u l e
 EndChar
 
 StartChar: kulupu.t
-Encoding: 96 989471 51
+Encoding: 989471 989471 51
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3588,7 +2894,7 @@ Ligature2: "sitelen" k u l u p u
 EndChar
 
 StartChar: kute.t
-Encoding: 97 989472 52
+Encoding: 989472 989472 52
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3633,7 +2939,7 @@ Ligature2: "sitelen" k u t e
 EndChar
 
 StartChar: la.t
-Encoding: 98 989473 53
+Encoding: 989473 989473 53
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3658,7 +2964,7 @@ Ligature2: "sitelen" l a
 EndChar
 
 StartChar: lape.t
-Encoding: 99 989474 54
+Encoding: 989474 989474 54
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3693,7 +2999,7 @@ Ligature2: "sitelen" l a p e
 EndChar
 
 StartChar: laso.t
-Encoding: 100 989475 55
+Encoding: 989475 989475 55
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3741,7 +3047,7 @@ Ligature2: "sitelen" l a s o
 EndChar
 
 StartChar: lawa.t
-Encoding: 101 989476 56
+Encoding: 989476 989476 56
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3784,7 +3090,7 @@ Ligature2: "sitelen" l a w a
 EndChar
 
 StartChar: len.t
-Encoding: 102 989477 57
+Encoding: 989477 989477 57
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3817,7 +3123,7 @@ Ligature2: "sitelen" l e n
 EndChar
 
 StartChar: lete.t
-Encoding: 103 989478 58
+Encoding: 989478 989478 58
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3850,7 +3156,7 @@ Ligature2: "sitelen" l e t e
 EndChar
 
 StartChar: li.t
-Encoding: 104 989479 59
+Encoding: 989479 989479 59
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3871,7 +3177,7 @@ Ligature2: "sitelen" l i
 EndChar
 
 StartChar: lili.t
-Encoding: 105 989480 60
+Encoding: 989480 989480 60
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3892,7 +3198,7 @@ Ligature2: "sitelen" l i l i
 EndChar
 
 StartChar: linja.t
-Encoding: 106 989481 61
+Encoding: 989481 989481 61
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3924,7 +3230,7 @@ Ligature2: "sitelen" l i n j a
 EndChar
 
 StartChar: lipu.t
-Encoding: 107 989482 62
+Encoding: 989482 989482 62
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3954,7 +3260,7 @@ Ligature2: "sitelen" l i p u
 EndChar
 
 StartChar: loje.t
-Encoding: 108 989483 63
+Encoding: 989483 989483 63
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -3994,7 +3300,7 @@ Ligature2: "sitelen" l o j e
 EndChar
 
 StartChar: lon.t
-Encoding: 109 989484 64
+Encoding: 989484 989484 64
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4022,7 +3328,7 @@ Ligature2: "sitelen" l o n
 EndChar
 
 StartChar: luka.t
-Encoding: 110 989485 65
+Encoding: 989485 989485 65
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4054,7 +3360,7 @@ Ligature2: "sitelen" l u k a
 EndChar
 
 StartChar: lukin.t
-Encoding: 111 989486 66
+Encoding: 989486 989486 66
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4100,7 +3406,7 @@ Ligature2: "sitelen" l u k i n
 EndChar
 
 StartChar: lupa.t
-Encoding: 112 989487 67
+Encoding: 989487 989487 67
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4129,7 +3435,7 @@ Ligature2: "sitelen" l u p a
 EndChar
 
 StartChar: ma.t
-Encoding: 113 989488 68
+Encoding: 989488 989488 68
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4180,7 +3486,7 @@ Ligature2: "sitelen" m a
 EndChar
 
 StartChar: mama.t
-Encoding: 114 989489 69
+Encoding: 989489 989489 69
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4231,7 +3537,7 @@ Ligature2: "sitelen" m a m a
 EndChar
 
 StartChar: mani.t
-Encoding: 115 989490 70
+Encoding: 989490 989490 70
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4277,7 +3583,7 @@ Ligature2: "sitelen" m a n i
 EndChar
 
 StartChar: meli.t
-Encoding: 116 989491 71
+Encoding: 989491 989491 71
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4330,7 +3636,7 @@ Ligature2: "sitelen" m e l i
 EndChar
 
 StartChar: mi.t
-Encoding: 117 989492 72
+Encoding: 989492 989492 72
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4367,7 +3673,7 @@ Ligature2: "sitelen" m i
 EndChar
 
 StartChar: mije.t
-Encoding: 118 989493 73
+Encoding: 989493 989493 73
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4420,7 +3726,7 @@ Ligature2: "sitelen" m i j e
 EndChar
 
 StartChar: moku.t
-Encoding: 119 989494 74
+Encoding: 989494 989494 74
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4510,7 +3816,7 @@ Ligature2: "sitelen" m o k u
 EndChar
 
 StartChar: moli.t
-Encoding: 120 989495 75
+Encoding: 989495 989495 75
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4580,7 +3886,7 @@ Ligature2: "sitelen" m o l i
 EndChar
 
 StartChar: monsi.t
-Encoding: 121 989496 76
+Encoding: 989496 989496 76
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4617,7 +3923,7 @@ Ligature2: "sitelen" m o n s i
 EndChar
 
 StartChar: mu.t
-Encoding: 122 989497 77
+Encoding: 989497 989497 77
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4690,7 +3996,7 @@ Ligature2: "sitelen" m u
 EndChar
 
 StartChar: mun.t
-Encoding: 123 989498 78
+Encoding: 989498 989498 78
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4736,7 +4042,7 @@ Ligature2: "sitelen" m u n
 EndChar
 
 StartChar: musi.t
-Encoding: 124 989499 79
+Encoding: 989499 989499 79
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4803,7 +4109,7 @@ Ligature2: "sitelen" m u s i
 EndChar
 
 StartChar: mute.t
-Encoding: 125 989500 80
+Encoding: 989500 989500 80
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4832,7 +4138,7 @@ Ligature2: "sitelen" m u t e
 EndChar
 
 StartChar: nanpa.t
-Encoding: 126 989501 81
+Encoding: 989501 989501 81
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4880,7 +4186,7 @@ Ligature2: "sitelen" n a n p a
 EndChar
 
 StartChar: nasa.t
-Encoding: 127 989502 82
+Encoding: 989502 989502 82
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4936,7 +4242,7 @@ Ligature2: "sitelen" n a s a
 EndChar
 
 StartChar: nasin.t
-Encoding: 128 989503 83
+Encoding: 989503 989503 83
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4963,7 +4269,7 @@ Ligature2: "sitelen" n a s i n
 EndChar
 
 StartChar: nena.t
-Encoding: 129 989504 84
+Encoding: 989504 989504 84
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -4992,7 +4298,7 @@ Ligature2: "sitelen" n e n a
 EndChar
 
 StartChar: ni.t
-Encoding: 130 989505 85
+Encoding: 989505 989505 85
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5016,7 +4322,7 @@ Ligature2: "sitelen" n i
 EndChar
 
 StartChar: nimi.t
-Encoding: 131 989506 86
+Encoding: 989506 989506 86
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5192,7 +4498,7 @@ Ligature2: "sitelen" n i m i
 EndChar
 
 StartChar: noka.t
-Encoding: 132 989507 87
+Encoding: 989507 989507 87
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5227,7 +4533,7 @@ Ligature2: "sitelen" n o k a
 EndChar
 
 StartChar: o.t
-Encoding: 133 989508 88
+Encoding: 989508 989508 88
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5264,7 +4570,7 @@ Ligature2: "sitelen+-space" o space
 EndChar
 
 StartChar: olin.t
-Encoding: 134 989509 89
+Encoding: 989509 989509 89
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5335,7 +4641,7 @@ Ligature2: "sitelen" o l i n
 EndChar
 
 StartChar: ona.t
-Encoding: 135 989510 90
+Encoding: 989510 989510 90
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5373,7 +4679,7 @@ Ligature2: "sitelen" o n a
 EndChar
 
 StartChar: open.t
-Encoding: 136 989511 91
+Encoding: 989511 989511 91
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5403,7 +4709,7 @@ Ligature2: "sitelen" o p e n
 EndChar
 
 StartChar: pakala.t
-Encoding: 137 989512 92
+Encoding: 989512 989512 92
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5445,7 +4751,7 @@ Ligature2: "sitelen" p a k a l a
 EndChar
 
 StartChar: pali.t
-Encoding: 138 989513 93
+Encoding: 989513 989513 93
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5494,7 +4800,7 @@ Ligature2: "sitelen" p a l i
 EndChar
 
 StartChar: palisa.t
-Encoding: 139 989514 94
+Encoding: 989514 989514 94
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5535,7 +4841,7 @@ Ligature2: "sitelen" p a l i s a
 EndChar
 
 StartChar: pan.t
-Encoding: 140 989515 95
+Encoding: 989515 989515 95
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5576,7 +4882,7 @@ Ligature2: "sitelen" p a n
 EndChar
 
 StartChar: pana.t
-Encoding: 141 989516 96
+Encoding: 989516 989516 96
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5623,7 +4929,7 @@ Ligature2: "sitelen" p a n a
 EndChar
 
 StartChar: pi.t
-Encoding: 142 989517 97
+Encoding: 989517 989517 97
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5646,7 +4952,7 @@ Ligature2: "sitelen" p i
 EndChar
 
 StartChar: pilin.t
-Encoding: 143 989518 98
+Encoding: 989518 989518 98
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5706,7 +5012,7 @@ Ligature2: "sitelen" p i l i n
 EndChar
 
 StartChar: pimeja.t
-Encoding: 144 989519 99
+Encoding: 989519 989519 99
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5746,7 +5052,7 @@ Ligature2: "sitelen" p i m e j a
 EndChar
 
 StartChar: pini.t
-Encoding: 145 989520 100
+Encoding: 989520 989520 100
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5773,7 +5079,7 @@ Ligature2: "sitelen" p i n i
 EndChar
 
 StartChar: pipi.t
-Encoding: 146 989521 101
+Encoding: 989521 989521 101
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5835,7 +5141,7 @@ Ligature2: "sitelen" p i p i
 EndChar
 
 StartChar: poka.t
-Encoding: 147 989522 102
+Encoding: 989522 989522 102
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5868,7 +5174,7 @@ Ligature2: "sitelen" p o k a
 EndChar
 
 StartChar: poki.t
-Encoding: 148 989523 103
+Encoding: 989523 989523 103
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5893,7 +5199,7 @@ Ligature2: "sitelen" p o k i
 EndChar
 
 StartChar: pona.t
-Encoding: 149 989524 104
+Encoding: 989524 989524 104
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -5992,7 +5298,7 @@ Ligature2: "sitelen" p o n a
 EndChar
 
 StartChar: pu.t
-Encoding: 150 989525 105
+Encoding: 989525 989525 105
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6060,7 +5366,7 @@ Ligature2: "sitelen" p u
 EndChar
 
 StartChar: sama.t
-Encoding: 151 989526 106
+Encoding: 989526 989526 106
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6084,7 +5390,7 @@ Ligature2: "sitelen" s a m a
 EndChar
 
 StartChar: seli.t
-Encoding: 152 989527 107
+Encoding: 989527 989527 107
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6122,7 +5428,7 @@ Ligature2: "sitelen" s e l i
 EndChar
 
 StartChar: selo.t
-Encoding: 153 989528 108
+Encoding: 989528 989528 108
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6153,7 +5459,7 @@ Ligature2: "sitelen" s e l o
 EndChar
 
 StartChar: seme.t
-Encoding: 154 989529 109
+Encoding: 989529 989529 109
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6368,7 +5674,7 @@ Ligature2: "sitelen" s e m e
 EndChar
 
 StartChar: sewi.t
-Encoding: 155 989530 110
+Encoding: 989530 989530 110
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6417,7 +5723,7 @@ Ligature2: "sitelen" s e w i
 EndChar
 
 StartChar: sijelo.t
-Encoding: 156 989531 111
+Encoding: 989531 989531 111
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6444,7 +5750,7 @@ Ligature2: "sitelen" s i j e l o
 EndChar
 
 StartChar: sike.t
-Encoding: 157 989532 112
+Encoding: 989532 989532 112
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6507,7 +5813,7 @@ Ligature2: "sitelen" s i k e
 EndChar
 
 StartChar: sin.t
-Encoding: 158 989533 113
+Encoding: 989533 989533 113
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6536,7 +5842,7 @@ Ligature2: "sitelen" s i n
 EndChar
 
 StartChar: sina.t
-Encoding: 159 989534 114
+Encoding: 989534 989534 114
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6574,7 +5880,7 @@ Ligature2: "sitelen" s i n a
 EndChar
 
 StartChar: sinpin.t
-Encoding: 160 989535 115
+Encoding: 989535 989535 115
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6606,7 +5912,7 @@ Ligature2: "sitelen" s i n p i n
 EndChar
 
 StartChar: sitelen.t
-Encoding: 161 989536 116
+Encoding: 989536 989536 116
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6663,7 +5969,7 @@ Ligature2: "sitelen" s i t e l e n
 EndChar
 
 StartChar: sona.t
-Encoding: 162 989537 117
+Encoding: 989537 989537 117
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6703,7 +6009,7 @@ Ligature2: "sitelen" s o n a
 EndChar
 
 StartChar: soweli.t
-Encoding: 163 989538 118
+Encoding: 989538 989538 118
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6766,7 +6072,7 @@ Ligature2: "sitelen" s o w e l i
 EndChar
 
 StartChar: suli.t
-Encoding: 164 989539 119
+Encoding: 989539 989539 119
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6800,7 +6106,7 @@ Ligature2: "sitelen" s u l i
 EndChar
 
 StartChar: suno.t
-Encoding: 165 989540 120
+Encoding: 989540 989540 120
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6844,7 +6150,7 @@ Ligature2: "sitelen" s u n o
 EndChar
 
 StartChar: supa.t
-Encoding: 166 989541 121
+Encoding: 989541 989541 121
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6871,7 +6177,7 @@ Ligature2: "sitelen" s u p a
 EndChar
 
 StartChar: suwi.t
-Encoding: 167 989542 122
+Encoding: 989542 989542 122
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6908,7 +6214,7 @@ Ligature2: "sitelen" s u w i
 EndChar
 
 StartChar: tan.t
-Encoding: 168 989543 123
+Encoding: 989543 989543 123
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6942,7 +6248,7 @@ Ligature2: "sitelen" t a n
 EndChar
 
 StartChar: taso.t
-Encoding: 169 989544 124
+Encoding: 989544 989544 124
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6967,7 +6273,7 @@ Ligature2: "sitelen" t a s o
 EndChar
 
 StartChar: tawa.t
-Encoding: 170 989545 125
+Encoding: 989545 989545 125
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -6997,7 +6303,7 @@ Ligature2: "sitelen" t a w a
 EndChar
 
 StartChar: telo.t
-Encoding: 171 989546 126
+Encoding: 989546 989546 126
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7045,7 +6351,7 @@ Ligature2: "sitelen" t e l o
 EndChar
 
 StartChar: tenpo.t
-Encoding: 172 989547 127
+Encoding: 989547 989547 127
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7096,7 +6402,7 @@ Ligature2: "sitelen" t e n p o
 EndChar
 
 StartChar: toki.t
-Encoding: 173 989548 128
+Encoding: 989548 989548 128
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7143,7 +6449,7 @@ Ligature2: "sitelen" t o k i
 EndChar
 
 StartChar: tomo.t
-Encoding: 174 989549 129
+Encoding: 989549 989549 129
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7169,7 +6475,7 @@ Ligature2: "sitelen" t o m o
 EndChar
 
 StartChar: tu.t
-Encoding: 175 989550 130
+Encoding: 989550 989550 130
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7193,7 +6499,7 @@ Ligature2: "sitelen" t u
 EndChar
 
 StartChar: unpa.t
-Encoding: 176 989551 131
+Encoding: 989551 989551 131
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7254,7 +6560,7 @@ Ligature2: "sitelen" u n p a
 EndChar
 
 StartChar: uta.t
-Encoding: 177 989552 132
+Encoding: 989552 989552 132
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7293,7 +6599,7 @@ Ligature2: "sitelen" u t a
 EndChar
 
 StartChar: utala.t
-Encoding: 178 989553 133
+Encoding: 989553 989553 133
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7324,7 +6630,7 @@ Ligature2: "sitelen" u t a l a
 EndChar
 
 StartChar: walo.t
-Encoding: 179 989554 134
+Encoding: 989554 989554 134
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7354,7 +6660,7 @@ Ligature2: "sitelen" w a l o
 EndChar
 
 StartChar: wan.t
-Encoding: 180 989555 135
+Encoding: 989555 989555 135
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7380,7 +6686,7 @@ Ligature2: "sitelen" w a n
 EndChar
 
 StartChar: waso.t
-Encoding: 181 989556 136
+Encoding: 989556 989556 136
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7424,7 +6730,7 @@ Ligature2: "sitelen" w a s o
 EndChar
 
 StartChar: wawa.t
-Encoding: 182 989557 137
+Encoding: 989557 989557 137
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7466,7 +6772,7 @@ Ligature2: "sitelen" w a w a
 EndChar
 
 StartChar: weka.t
-Encoding: 183 989558 138
+Encoding: 989558 989558 138
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7500,7 +6806,7 @@ Ligature2: "sitelen" w e k a
 EndChar
 
 StartChar: wile.t
-Encoding: 184 989559 139
+Encoding: 989559 989559 139
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7563,7 +6869,7 @@ Ligature2: "sitelen" w i l e
 EndChar
 
 StartChar: namako.t
-Encoding: 185 989560 140
+Encoding: 989560 989560 140
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7604,7 +6910,7 @@ Ligature2: "sitelen+-space" n a m a k o space
 EndChar
 
 StartChar: kin.t
-Encoding: 186 989561 141
+Encoding: 989561 989561 141
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7642,7 +6948,7 @@ Ligature2: "sitelen" k i n
 EndChar
 
 StartChar: oko.t
-Encoding: 187 989562 142
+Encoding: 989562 989562 142
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7685,7 +6991,7 @@ Ligature2: "sitelen" o k o
 EndChar
 
 StartChar: kipisi.t
-Encoding: 188 989563 143
+Encoding: 989563 989563 143
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7722,7 +7028,7 @@ Ligature2: "sitelen" k i p i s i
 EndChar
 
 StartChar: leko.t
-Encoding: 189 989564 144
+Encoding: 989564 989564 144
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7756,7 +7062,7 @@ Ligature2: "sitelen" l e k o
 EndChar
 
 StartChar: monsuta.t
-Encoding: 190 989565 145
+Encoding: 989565 989565 145
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7789,7 +7095,7 @@ Ligature2: "sitelen" m o n s u t a
 EndChar
 
 StartChar: tonsi.t
-Encoding: 191 989566 146
+Encoding: 989566 989566 146
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7843,7 +7149,7 @@ Ligature2: "sitelen" t o n s i
 EndChar
 
 StartChar: jasima.t
-Encoding: 192 989567 147
+Encoding: 989567 989567 147
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7898,7 +7204,7 @@ Ligature2: "sitelen" j a s i m a
 EndChar
 
 StartChar: kijetesantakalu.t
-Encoding: 193 989568 148
+Encoding: 989568 989568 148
 Width: 1100
 GlyphClass: 1
 Flags: MW
@@ -7977,7 +7283,7 @@ Ligature2: "sitelen" k i j e t e s a n t a k a l u
 EndChar
 
 StartChar: wide.space
-Encoding: 202 989577 149
+Encoding: 989577 989577 149
 Width: 1100
 GlyphClass: 3
 Flags: MW
@@ -7987,7 +7293,7 @@ Ligature2: "spaces" space space
 EndChar
 
 StartChar: cartouche.start
-Encoding: 203 989584 150
+Encoding: 989584 989584 150
 Width: 1100
 GlyphClass: 2
 Flags: MW
@@ -8018,7 +7324,7 @@ Ligature2: "sitelen+-space" bracketleft space
 EndChar
 
 StartChar: cartouche.end
-Encoding: 204 989585 151
+Encoding: 989585 989585 151
 Width: 1100
 GlyphClass: 2
 Flags: MW
@@ -8049,7 +7355,7 @@ Ligature2: "sitelen" bracketright
 EndChar
 
 StartChar: cartouche.body
-Encoding: 205 989586 152
+Encoding: 989586 989586 152
 Width: 0
 GlyphClass: 2
 Flags: MW
@@ -8072,7 +7378,7 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 3 46 153
+Encoding: 46 46 153
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8094,7 +7400,7 @@ Ligature2: "sitelen+-space" period space
 EndChar
 
 StartChar: comma
-Encoding: 1 44 154
+Encoding: 44 44 154
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8114,7 +7420,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon
-Encoding: 14 58 155
+Encoding: 58 58 155
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8143,7 +7449,7 @@ MultipleSubs2: "cartouched sitelen" colon cartouche.body
 EndChar
 
 StartChar: periodcentered
-Encoding: 62 183 156
+Encoding: 183 183 156
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8163,7 +7469,7 @@ MultipleSubs2: "cartouched sitelen" periodcentered cartouche.body
 EndChar
 
 StartChar: dotdot
-Encoding: 347 -1 157
+Encoding: 1114115 -1 157
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8199,7 +7505,7 @@ Ligature2: "sitelen" period period
 EndChar
 
 StartChar: dotdotdot
-Encoding: 348 -1 158
+Encoding: 1114116 -1 158
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8243,7 +7549,7 @@ Ligature2: "sitelen" period period period
 EndChar
 
 StartChar: n.t
-Encoding: 199 989574 159
+Encoding: 989574 989574 159
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8278,7 +7584,7 @@ Ligature2: "sitelen+-space" n space
 EndChar
 
 StartChar: akesi.anpa
-Encoding: 354 -1 160
+Encoding: 1114117 -1 160
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8358,7 +7664,7 @@ Ligature2: "anpa" akesi.t stackjoiner
 EndChar
 
 StartChar: alasa.anpa
-Encoding: 355 -1 161
+Encoding: 1114118 -1 161
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8401,7 +7707,7 @@ Ligature2: "anpa" alasa.t stackjoiner
 EndChar
 
 StartChar: ala.anpa
-Encoding: 356 -1 162
+Encoding: 1114119 -1 162
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8497,7 +7803,7 @@ Ligature2: "anpa" ala.t stackjoiner
 EndChar
 
 StartChar: ale.anpa
-Encoding: 357 -1 163
+Encoding: 1114120 -1 163
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8546,7 +7852,7 @@ Ligature2: "anpa" ale.t stackjoiner
 EndChar
 
 StartChar: anpa.anpa
-Encoding: 358 -1 164
+Encoding: 1114121 -1 164
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8577,7 +7883,7 @@ Ligature2: "anpa" anpa.t stackjoiner
 EndChar
 
 StartChar: awen.anpa
-Encoding: 359 -1 165
+Encoding: 1114122 -1 165
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8601,7 +7907,7 @@ Ligature2: "anpa" awen.t stackjoiner
 EndChar
 
 StartChar: jaki.anpa
-Encoding: 360 -1 166
+Encoding: 1114123 -1 166
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8658,7 +7964,7 @@ Ligature2: "anpa" jaki.t stackjoiner
 EndChar
 
 StartChar: ike.anpa
-Encoding: 361 -1 167
+Encoding: 1114124 -1 167
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8755,7 +8061,7 @@ Ligature2: "anpa" ike.t stackjoiner
 EndChar
 
 StartChar: ilo.anpa
-Encoding: 362 -1 168
+Encoding: 1114125 -1 168
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8787,7 +8093,7 @@ Ligature2: "anpa" ilo.t stackjoiner
 EndChar
 
 StartChar: insa.anpa
-Encoding: 363 -1 169
+Encoding: 1114126 -1 169
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8819,7 +8125,7 @@ Ligature2: "anpa" insa.t stackjoiner
 EndChar
 
 StartChar: kalama.anpa
-Encoding: 364 -1 170
+Encoding: 1114127 -1 170
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8861,7 +8167,7 @@ Ligature2: "anpa" kalama.t stackjoiner
 EndChar
 
 StartChar: kala.anpa
-Encoding: 365 -1 171
+Encoding: 1114128 -1 171
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8898,7 +8204,7 @@ Ligature2: "anpa" kala.t stackjoiner
 EndChar
 
 StartChar: kama.anpa
-Encoding: 366 -1 172
+Encoding: 1114129 -1 172
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8922,7 +8228,7 @@ Ligature2: "anpa" kama.t stackjoiner
 EndChar
 
 StartChar: kasi.anpa
-Encoding: 367 -1 173
+Encoding: 1114130 -1 173
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8961,7 +8267,7 @@ Ligature2: "anpa" kasi.t stackjoiner
 EndChar
 
 StartChar: kiwen.anpa
-Encoding: 368 -1 174
+Encoding: 1114131 -1 174
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -8987,7 +8293,7 @@ Ligature2: "anpa" kiwen.t stackjoiner
 EndChar
 
 StartChar: ko.anpa
-Encoding: 369 -1 175
+Encoding: 1114132 -1 175
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9100,7 +8406,7 @@ Ligature2: "anpa" ko.t stackjoiner
 EndChar
 
 StartChar: kule.anpa
-Encoding: 370 -1 176
+Encoding: 1114133 -1 176
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9134,7 +8440,7 @@ Ligature2: "anpa" kule.t stackjoiner
 EndChar
 
 StartChar: kulupu.anpa
-Encoding: 371 -1 177
+Encoding: 1114134 -1 177
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9201,7 +8507,7 @@ Ligature2: "anpa" kulupu.t stackjoiner
 EndChar
 
 StartChar: lape.anpa
-Encoding: 372 -1 178
+Encoding: 1114135 -1 178
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9235,7 +8541,7 @@ Ligature2: "anpa" lape.t stackjoiner
 EndChar
 
 StartChar: lawa.anpa
-Encoding: 373 -1 179
+Encoding: 1114136 -1 179
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9273,7 +8579,7 @@ Ligature2: "anpa" lawa.t stackjoiner
 EndChar
 
 StartChar: leko.anpa
-Encoding: 374 -1 180
+Encoding: 1114137 -1 180
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9306,7 +8612,7 @@ Ligature2: "anpa" leko.t stackjoiner
 EndChar
 
 StartChar: len.anpa
-Encoding: 375 -1 181
+Encoding: 1114138 -1 181
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9338,7 +8644,7 @@ Ligature2: "anpa" len.t stackjoiner
 EndChar
 
 StartChar: lete.anpa
-Encoding: 376 -1 182
+Encoding: 1114139 -1 182
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9370,7 +8676,7 @@ Ligature2: "anpa" lete.t stackjoiner
 EndChar
 
 StartChar: linja.anpa
-Encoding: 377 -1 183
+Encoding: 1114140 -1 183
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9400,7 +8706,7 @@ Ligature2: "anpa" linja.t stackjoiner
 EndChar
 
 StartChar: lon.anpa
-Encoding: 378 -1 184
+Encoding: 1114141 -1 184
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9428,7 +8734,7 @@ Ligature2: "anpa" lon.t stackjoiner
 EndChar
 
 StartChar: luka.anpa
-Encoding: 379 -1 185
+Encoding: 1114142 -1 185
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9459,7 +8765,7 @@ Ligature2: "anpa" luka.t stackjoiner
 EndChar
 
 StartChar: lukin.anpa
-Encoding: 380 -1 186
+Encoding: 1114143 -1 186
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9503,7 +8809,7 @@ Ligature2: "anpa" lukin.t stackjoiner
 EndChar
 
 StartChar: mani.anpa
-Encoding: 381 -1 187
+Encoding: 1114144 -1 187
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9548,7 +8854,7 @@ Ligature2: "anpa" mani.t stackjoiner
 EndChar
 
 StartChar: ma.anpa
-Encoding: 382 -1 188
+Encoding: 1114145 -1 188
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9594,7 +8900,7 @@ Ligature2: "anpa" ma.t stackjoiner
 EndChar
 
 StartChar: meli.anpa
-Encoding: 383 -1 189
+Encoding: 1114146 -1 189
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9748,7 +9054,7 @@ Ligature2: "anpa" meli.t stackjoiner
 EndChar
 
 StartChar: mije.anpa
-Encoding: 384 -1 190
+Encoding: 1114147 -1 190
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9794,7 +9100,7 @@ Ligature2: "anpa" mije.t stackjoiner
 EndChar
 
 StartChar: moli.anpa
-Encoding: 385 -1 191
+Encoding: 1114148 -1 191
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9859,7 +9165,7 @@ Ligature2: "anpa" moli.t stackjoiner
 EndChar
 
 StartChar: nanpa.anpa
-Encoding: 386 -1 192
+Encoding: 1114149 -1 192
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9906,7 +9212,7 @@ Ligature2: "anpa" nanpa.t stackjoiner
 EndChar
 
 StartChar: nasin.anpa
-Encoding: 387 -1 193
+Encoding: 1114150 -1 193
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9932,7 +9238,7 @@ Ligature2: "anpa" nasin.t stackjoiner
 EndChar
 
 StartChar: pakala.anpa
-Encoding: 388 -1 194
+Encoding: 1114151 -1 194
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -9964,7 +9270,7 @@ Ligature2: "anpa" pakala.t stackjoiner
 EndChar
 
 StartChar: pimeja.anpa
-Encoding: 389 -1 195
+Encoding: 1114152 -1 195
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10000,7 +9306,7 @@ Ligature2: "anpa" pimeja.t stackjoiner
 EndChar
 
 StartChar: pipi.anpa
-Encoding: 390 -1 196
+Encoding: 1114153 -1 196
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10060,7 +9366,7 @@ Ligature2: "anpa" pipi.t stackjoiner
 EndChar
 
 StartChar: poka.anpa
-Encoding: 391 -1 197
+Encoding: 1114154 -1 197
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10091,7 +9397,7 @@ Ligature2: "anpa" poka.t stackjoiner
 EndChar
 
 StartChar: pona.anpa
-Encoding: 392 -1 198
+Encoding: 1114155 -1 198
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10117,7 +9423,7 @@ Ligature2: "anpa" pona.t stackjoiner
 EndChar
 
 StartChar: sama.anpa
-Encoding: 393 -1 199
+Encoding: 1114156 -1 199
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10140,7 +9446,7 @@ Ligature2: "anpa" sama.t stackjoiner
 EndChar
 
 StartChar: selo.anpa
-Encoding: 394 -1 200
+Encoding: 1114157 -1 200
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10170,7 +9476,7 @@ Ligature2: "anpa" selo.t stackjoiner
 EndChar
 
 StartChar: sewi.anpa
-Encoding: 395 -1 201
+Encoding: 1114158 -1 201
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10215,7 +9521,7 @@ Ligature2: "anpa" sewi.t stackjoiner
 EndChar
 
 StartChar: sijelo.anpa
-Encoding: 396 -1 202
+Encoding: 1114159 -1 202
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10241,7 +9547,7 @@ Ligature2: "anpa" sijelo.t stackjoiner
 EndChar
 
 StartChar: sitelen.anpa
-Encoding: 397 -1 203
+Encoding: 1114160 -1 203
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10291,7 +9597,7 @@ Ligature2: "anpa" sitelen.t stackjoiner
 EndChar
 
 StartChar: soweli.anpa
-Encoding: 398 -1 204
+Encoding: 1114161 -1 204
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10405,7 +9711,7 @@ Ligature2: "anpa" soweli.t stackjoiner
 EndChar
 
 StartChar: suno.anpa
-Encoding: 399 -1 205
+Encoding: 1114162 -1 205
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10448,7 +9754,7 @@ Ligature2: "anpa" suno.t stackjoiner
 EndChar
 
 StartChar: supa.anpa
-Encoding: 400 -1 206
+Encoding: 1114163 -1 206
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10474,7 +9780,7 @@ Ligature2: "anpa" supa.t stackjoiner
 EndChar
 
 StartChar: suwi.anpa
-Encoding: 401 -1 207
+Encoding: 1114164 -1 207
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10510,7 +9816,7 @@ Ligature2: "anpa" suwi.t stackjoiner
 EndChar
 
 StartChar: tan.anpa
-Encoding: 402 -1 208
+Encoding: 1114165 -1 208
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10541,7 +9847,7 @@ Ligature2: "anpa" tan.t stackjoiner
 EndChar
 
 StartChar: tawa.anpa
-Encoding: 403 -1 209
+Encoding: 1114166 -1 209
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10565,7 +9871,7 @@ Ligature2: "anpa" tawa.t stackjoiner
 EndChar
 
 StartChar: tenpo.anpa
-Encoding: 404 -1 210
+Encoding: 1114167 -1 210
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10607,7 +9913,7 @@ Ligature2: "anpa" tenpo.t stackjoiner
 EndChar
 
 StartChar: tomo.anpa
-Encoding: 405 -1 211
+Encoding: 1114168 -1 211
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10632,7 +9938,7 @@ Ligature2: "anpa" tomo.t stackjoiner
 EndChar
 
 StartChar: utala.anpa
-Encoding: 406 -1 212
+Encoding: 1114169 -1 212
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10666,7 +9972,7 @@ Ligature2: "anpa" utala.t stackjoiner
 EndChar
 
 StartChar: uta.anpa
-Encoding: 407 -1 213
+Encoding: 1114170 -1 213
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10699,7 +10005,7 @@ Ligature2: "anpa" uta.t stackjoiner
 EndChar
 
 StartChar: walo.anpa
-Encoding: 408 -1 214
+Encoding: 1114171 -1 214
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10728,7 +10034,7 @@ Ligature2: "anpa" walo.t stackjoiner
 EndChar
 
 StartChar: waso.anpa
-Encoding: 409 -1 215
+Encoding: 1114172 -1 215
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10770,7 +10076,7 @@ Ligature2: "anpa" waso.t stackjoiner
 EndChar
 
 StartChar: wawa.anpa
-Encoding: 410 -1 216
+Encoding: 1114173 -1 216
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10815,7 +10121,7 @@ Ligature2: "anpa" wawa.t stackjoiner
 EndChar
 
 StartChar: wile.anpa
-Encoding: 411 -1 217
+Encoding: 1114174 -1 217
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -10866,7 +10172,7 @@ Ligature2: "anpa" wile.t stackjoiner
 EndChar
 
 StartChar: akesi.sewi
-Encoding: 412 -1 218
+Encoding: 1114175 -1 218
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -10946,7 +10252,7 @@ Ligature2: "sewi" stackjoiner akesi.t
 EndChar
 
 StartChar: alasa.sewi
-Encoding: 413 -1 219
+Encoding: 1114176 -1 219
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -10990,7 +10296,7 @@ Ligature2: "sewi" stackjoiner alasa.t
 EndChar
 
 StartChar: ala.sewi
-Encoding: 414 -1 220
+Encoding: 1114177 -1 220
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11086,7 +10392,7 @@ Ligature2: "sewi" stackjoiner ala.t
 EndChar
 
 StartChar: ale.sewi
-Encoding: 415 -1 221
+Encoding: 1114178 -1 221
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11135,7 +10441,7 @@ Ligature2: "sewi" stackjoiner ale.t
 EndChar
 
 StartChar: anpa.sewi
-Encoding: 416 -1 222
+Encoding: 1114179 -1 222
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11166,7 +10472,7 @@ Ligature2: "sewi" stackjoiner anpa.t
 EndChar
 
 StartChar: awen.sewi
-Encoding: 417 -1 223
+Encoding: 1114180 -1 223
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11190,7 +10496,7 @@ Ligature2: "sewi" stackjoiner awen.t
 EndChar
 
 StartChar: ike.sewi
-Encoding: 418 -1 224
+Encoding: 1114181 -1 224
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11216,7 +10522,7 @@ Ligature2: "sewi" stackjoiner ike.t
 EndChar
 
 StartChar: ilo.sewi
-Encoding: 419 -1 225
+Encoding: 1114182 -1 225
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11247,7 +10553,7 @@ Ligature2: "sewi" stackjoiner ilo.t
 EndChar
 
 StartChar: insa.sewi
-Encoding: 420 -1 226
+Encoding: 1114183 -1 226
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11278,7 +10584,7 @@ Ligature2: "sewi" stackjoiner insa.t
 EndChar
 
 StartChar: jaki.sewi
-Encoding: 421 -1 227
+Encoding: 1114184 -1 227
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11335,7 +10641,7 @@ Ligature2: "sewi" stackjoiner jaki.t
 EndChar
 
 StartChar: kalama.sewi
-Encoding: 422 -1 228
+Encoding: 1114185 -1 228
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11377,7 +10683,7 @@ Ligature2: "sewi" stackjoiner kalama.t
 EndChar
 
 StartChar: kala.sewi
-Encoding: 423 -1 229
+Encoding: 1114186 -1 229
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11414,7 +10720,7 @@ Ligature2: "sewi" stackjoiner kala.t
 EndChar
 
 StartChar: kama.sewi
-Encoding: 424 -1 230
+Encoding: 1114187 -1 230
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11439,7 +10745,7 @@ Ligature2: "sewi" stackjoiner kama.t
 EndChar
 
 StartChar: kasi.sewi
-Encoding: 425 -1 231
+Encoding: 1114188 -1 231
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11533,7 +10839,7 @@ Ligature2: "sewi" stackjoiner kasi.t
 EndChar
 
 StartChar: kiwen.sewi
-Encoding: 426 -1 232
+Encoding: 1114189 -1 232
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11559,7 +10865,7 @@ Ligature2: "sewi" stackjoiner kiwen.t
 EndChar
 
 StartChar: ko.sewi
-Encoding: 427 -1 233
+Encoding: 1114190 -1 233
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11673,7 +10979,7 @@ Ligature2: "sewi" stackjoiner ko.t
 EndChar
 
 StartChar: kule.sewi
-Encoding: 428 -1 234
+Encoding: 1114191 -1 234
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11707,7 +11013,7 @@ Ligature2: "sewi" stackjoiner kule.t
 EndChar
 
 StartChar: kulupu.sewi
-Encoding: 429 -1 235
+Encoding: 1114192 -1 235
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11774,7 +11080,7 @@ Ligature2: "sewi" stackjoiner kulupu.t
 EndChar
 
 StartChar: lape.sewi
-Encoding: 430 -1 236
+Encoding: 1114193 -1 236
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11808,7 +11114,7 @@ Ligature2: "sewi" stackjoiner lape.t
 EndChar
 
 StartChar: lawa.sewi
-Encoding: 431 -1 237
+Encoding: 1114194 -1 237
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11846,7 +11152,7 @@ Ligature2: "sewi" stackjoiner lawa.t
 EndChar
 
 StartChar: leko.sewi
-Encoding: 432 -1 238
+Encoding: 1114195 -1 238
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11879,7 +11185,7 @@ Ligature2: "sewi" stackjoiner leko.t
 EndChar
 
 StartChar: len.sewi
-Encoding: 433 -1 239
+Encoding: 1114196 -1 239
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11911,7 +11217,7 @@ Ligature2: "sewi" stackjoiner len.t
 EndChar
 
 StartChar: lete.sewi
-Encoding: 434 -1 240
+Encoding: 1114197 -1 240
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11943,7 +11249,7 @@ Ligature2: "sewi" stackjoiner lete.t
 EndChar
 
 StartChar: linja.sewi
-Encoding: 435 -1 241
+Encoding: 1114198 -1 241
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -11973,7 +11279,7 @@ Ligature2: "sewi" stackjoiner linja.t
 EndChar
 
 StartChar: lon.sewi
-Encoding: 436 -1 242
+Encoding: 1114199 -1 242
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12000,7 +11306,7 @@ Ligature2: "sewi" stackjoiner lon.t
 EndChar
 
 StartChar: luka.sewi
-Encoding: 437 -1 243
+Encoding: 1114200 -1 243
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12031,7 +11337,7 @@ Ligature2: "sewi" stackjoiner luka.t
 EndChar
 
 StartChar: lukin.sewi
-Encoding: 438 -1 244
+Encoding: 1114201 -1 244
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12075,7 +11381,7 @@ Ligature2: "sewi" stackjoiner lukin.t
 EndChar
 
 StartChar: mani.sewi
-Encoding: 439 -1 245
+Encoding: 1114202 -1 245
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12120,7 +11426,7 @@ Ligature2: "sewi" stackjoiner mani.t
 EndChar
 
 StartChar: ma.sewi
-Encoding: 440 -1 246
+Encoding: 1114203 -1 246
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12166,7 +11472,7 @@ Ligature2: "sewi" stackjoiner ma.t
 EndChar
 
 StartChar: meli.sewi
-Encoding: 441 -1 247
+Encoding: 1114204 -1 247
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12320,7 +11626,7 @@ Ligature2: "sewi" stackjoiner meli.t
 EndChar
 
 StartChar: mije.sewi
-Encoding: 442 -1 248
+Encoding: 1114205 -1 248
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12366,7 +11672,7 @@ Ligature2: "sewi" stackjoiner mije.t
 EndChar
 
 StartChar: moli.sewi
-Encoding: 443 -1 249
+Encoding: 1114206 -1 249
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12431,7 +11737,7 @@ Ligature2: "sewi" stackjoiner moli.t
 EndChar
 
 StartChar: nanpa.sewi
-Encoding: 444 -1 250
+Encoding: 1114207 -1 250
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12479,7 +11785,7 @@ Ligature2: "sewi" stackjoiner nanpa.t
 EndChar
 
 StartChar: nasin.sewi
-Encoding: 445 -1 251
+Encoding: 1114208 -1 251
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12506,7 +11812,7 @@ Ligature2: "sewi" stackjoiner nasin.t
 EndChar
 
 StartChar: pakala.sewi
-Encoding: 446 -1 252
+Encoding: 1114209 -1 252
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12538,7 +11844,7 @@ Ligature2: "sewi" stackjoiner pakala.t
 EndChar
 
 StartChar: pimeja.sewi
-Encoding: 447 -1 253
+Encoding: 1114210 -1 253
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12574,7 +11880,7 @@ Ligature2: "sewi" stackjoiner pimeja.t
 EndChar
 
 StartChar: pipi.sewi
-Encoding: 448 -1 254
+Encoding: 1114211 -1 254
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12635,7 +11941,7 @@ Ligature2: "sewi" stackjoiner pipi.t
 EndChar
 
 StartChar: poka.sewi
-Encoding: 449 -1 255
+Encoding: 1114212 -1 255
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12666,7 +11972,7 @@ Ligature2: "sewi" stackjoiner poka.t
 EndChar
 
 StartChar: pona.sewi
-Encoding: 450 -1 256
+Encoding: 1114213 -1 256
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12693,7 +11999,7 @@ Ligature2: "sewi" stackjoiner pona.t
 EndChar
 
 StartChar: sama.sewi
-Encoding: 451 -1 257
+Encoding: 1114214 -1 257
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12716,7 +12022,7 @@ Ligature2: "sewi" stackjoiner sama.t
 EndChar
 
 StartChar: selo.sewi
-Encoding: 452 -1 258
+Encoding: 1114215 -1 258
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12746,7 +12052,7 @@ Ligature2: "sewi" stackjoiner selo.t
 EndChar
 
 StartChar: sewi.sewi
-Encoding: 453 -1 259
+Encoding: 1114216 -1 259
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12791,7 +12097,7 @@ Ligature2: "sewi" stackjoiner sewi.t
 EndChar
 
 StartChar: sijelo.sewi
-Encoding: 454 -1 260
+Encoding: 1114217 -1 260
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12817,7 +12123,7 @@ Ligature2: "sewi" stackjoiner sijelo.t
 EndChar
 
 StartChar: sitelen.sewi
-Encoding: 455 -1 261
+Encoding: 1114218 -1 261
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12867,7 +12173,7 @@ Ligature2: "sewi" stackjoiner sitelen.t
 EndChar
 
 StartChar: soweli.sewi
-Encoding: 456 -1 262
+Encoding: 1114219 -1 262
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -12981,7 +12287,7 @@ Ligature2: "sewi" stackjoiner soweli.t
 EndChar
 
 StartChar: suno.sewi
-Encoding: 457 -1 263
+Encoding: 1114220 -1 263
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13024,7 +12330,7 @@ Ligature2: "sewi" stackjoiner suno.t
 EndChar
 
 StartChar: supa.sewi
-Encoding: 458 -1 264
+Encoding: 1114221 -1 264
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13050,7 +12356,7 @@ Ligature2: "sewi" stackjoiner supa.t
 EndChar
 
 StartChar: suwi.sewi
-Encoding: 459 -1 265
+Encoding: 1114222 -1 265
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13086,7 +12392,7 @@ Ligature2: "sewi" stackjoiner suwi.t
 EndChar
 
 StartChar: tan.sewi
-Encoding: 460 -1 266
+Encoding: 1114223 -1 266
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13116,7 +12422,7 @@ Ligature2: "sewi" stackjoiner tan.t
 EndChar
 
 StartChar: tawa.sewi
-Encoding: 461 -1 267
+Encoding: 1114224 -1 267
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13140,7 +12446,7 @@ Ligature2: "sewi" stackjoiner tawa.t
 EndChar
 
 StartChar: tenpo.sewi
-Encoding: 462 -1 268
+Encoding: 1114225 -1 268
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13182,7 +12488,7 @@ Ligature2: "sewi" stackjoiner tenpo.t
 EndChar
 
 StartChar: tomo.sewi
-Encoding: 463 -1 269
+Encoding: 1114226 -1 269
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13207,7 +12513,7 @@ Ligature2: "sewi" stackjoiner tomo.t
 EndChar
 
 StartChar: utala.sewi
-Encoding: 464 -1 270
+Encoding: 1114227 -1 270
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13237,7 +12543,7 @@ Ligature2: "sewi" stackjoiner utala.t
 EndChar
 
 StartChar: uta.sewi
-Encoding: 465 -1 271
+Encoding: 1114228 -1 271
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13270,7 +12576,7 @@ Ligature2: "sewi" stackjoiner uta.t
 EndChar
 
 StartChar: walo.sewi
-Encoding: 466 -1 272
+Encoding: 1114229 -1 272
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13299,7 +12605,7 @@ Ligature2: "sewi" stackjoiner walo.t
 EndChar
 
 StartChar: waso.sewi
-Encoding: 467 -1 273
+Encoding: 1114230 -1 273
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13341,7 +12647,7 @@ Ligature2: "sewi" stackjoiner waso.t
 EndChar
 
 StartChar: wawa.sewi
-Encoding: 468 -1 274
+Encoding: 1114231 -1 274
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13382,7 +12688,7 @@ Ligature2: "sewi" stackjoiner wawa.t
 EndChar
 
 StartChar: wile.sewi
-Encoding: 469 -1 275
+Encoding: 1114232 -1 275
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13429,7 +12735,7 @@ Ligature2: "sewi" stackjoiner wile.t
 EndChar
 
 StartChar: dot
-Encoding: 215 989596 276
+Encoding: 989596 989596 276
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13449,7 +12755,7 @@ MultipleSubs2: "cartouched sitelen" dot cartouche.body
 EndChar
 
 StartChar: colon.t
-Encoding: 216 989597 277
+Encoding: 989597 989597 277
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13478,7 +12784,7 @@ MultipleSubs2: "cartouched sitelen" colon.t cartouche.body
 EndChar
 
 StartChar: stackjoiner
-Encoding: 208 989589 278
+Encoding: 989589 989589 278
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -13488,7 +12794,7 @@ Ligature2: "sitelen" hyphen
 EndChar
 
 StartChar: hyphen
-Encoding: 2 45 279
+Encoding: 45 45 279
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -13503,14 +12809,14 @@ EndSplineSet
 EndChar
 
 StartChar: zwj
-Encoding: 64 8205 280
+Encoding: 8205 8205 280
 Width: 0
 Flags: MW
 LayerCount: 2
 EndChar
 
 StartChar: A
-Encoding: 17 65 281
+Encoding: 65 65 281
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13535,7 +12841,7 @@ MultipleSubs2: "cartouched sitelen" A cartouche.body
 EndChar
 
 StartChar: B
-Encoding: 18 66 282
+Encoding: 66 66 282
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13574,7 +12880,7 @@ MultipleSubs2: "cartouched sitelen" B cartouche.body
 EndChar
 
 StartChar: C
-Encoding: 19 67 283
+Encoding: 67 67 283
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13610,7 +12916,7 @@ MultipleSubs2: "cartouched sitelen" C cartouche.body
 EndChar
 
 StartChar: D
-Encoding: 20 68 284
+Encoding: 68 68 284
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13643,7 +12949,7 @@ MultipleSubs2: "cartouched sitelen" D cartouche.body
 EndChar
 
 StartChar: E
-Encoding: 21 69 285
+Encoding: 69 69 285
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13670,7 +12976,7 @@ MultipleSubs2: "cartouched sitelen" E cartouche.body
 EndChar
 
 StartChar: F
-Encoding: 22 70 286
+Encoding: 70 70 286
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13694,7 +13000,7 @@ MultipleSubs2: "cartouched sitelen" F cartouche.body
 EndChar
 
 StartChar: G
-Encoding: 23 71 287
+Encoding: 71 71 287
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13740,7 +13046,7 @@ MultipleSubs2: "cartouched sitelen" G cartouche.body
 EndChar
 
 StartChar: H
-Encoding: 24 72 288
+Encoding: 72 72 288
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13764,7 +13070,7 @@ MultipleSubs2: "cartouched sitelen" H cartouche.body
 EndChar
 
 StartChar: I
-Encoding: 25 73 289
+Encoding: 73 73 289
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13792,7 +13098,7 @@ MultipleSubs2: "cartouched sitelen" I cartouche.body
 EndChar
 
 StartChar: J
-Encoding: 26 74 290
+Encoding: 74 74 290
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13820,7 +13126,7 @@ MultipleSubs2: "cartouched sitelen" J cartouche.body
 EndChar
 
 StartChar: K
-Encoding: 27 75 291
+Encoding: 75 75 291
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13844,7 +13150,7 @@ MultipleSubs2: "cartouched sitelen" K cartouche.body
 EndChar
 
 StartChar: L
-Encoding: 28 76 292
+Encoding: 76 76 292
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13864,7 +13170,7 @@ MultipleSubs2: "cartouched sitelen" L cartouche.body
 EndChar
 
 StartChar: M
-Encoding: 29 77 293
+Encoding: 77 77 293
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13888,7 +13194,7 @@ MultipleSubs2: "cartouched sitelen" M cartouche.body
 EndChar
 
 StartChar: N
-Encoding: 30 78 294
+Encoding: 78 78 294
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -13910,7 +13216,7 @@ MultipleSubs2: "cartouched sitelen" N cartouche.body
 EndChar
 
 StartChar: O
-Encoding: 31 79 295
+Encoding: 79 79 295
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14170,7 +13476,7 @@ MultipleSubs2: "cartouched sitelen" O cartouche.body
 EndChar
 
 StartChar: P
-Encoding: 32 80 296
+Encoding: 80 80 296
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14203,7 +13509,7 @@ MultipleSubs2: "cartouched sitelen" P cartouche.body
 EndChar
 
 StartChar: Q
-Encoding: 33 81 297
+Encoding: 81 81 297
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14469,7 +13775,7 @@ MultipleSubs2: "cartouched sitelen" Q cartouche.body
 EndChar
 
 StartChar: R
-Encoding: 34 82 298
+Encoding: 82 82 298
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14509,7 +13815,7 @@ MultipleSubs2: "cartouched sitelen" R cartouche.body
 EndChar
 
 StartChar: S
-Encoding: 35 83 299
+Encoding: 83 83 299
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14592,7 +13898,7 @@ MultipleSubs2: "cartouched sitelen" S cartouche.body
 EndChar
 
 StartChar: T
-Encoding: 36 84 300
+Encoding: 84 84 300
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -14614,7 +13920,7 @@ MultipleSubs2: "cartouched sitelen" T cartouche.body
 EndChar
 
 StartChar: U
-Encoding: 37 85 301
+Encoding: 85 85 301
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15084,7 +14390,7 @@ MultipleSubs2: "cartouched sitelen" U cartouche.body
 EndChar
 
 StartChar: V
-Encoding: 38 86 302
+Encoding: 86 86 302
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15106,7 +14412,7 @@ MultipleSubs2: "cartouched sitelen" V cartouche.body
 EndChar
 
 StartChar: W
-Encoding: 39 87 303
+Encoding: 87 87 303
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15133,7 +14439,7 @@ MultipleSubs2: "cartouched sitelen" W cartouche.body
 EndChar
 
 StartChar: X
-Encoding: 40 88 304
+Encoding: 88 88 304
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15159,7 +14465,7 @@ MultipleSubs2: "cartouched sitelen" X cartouche.body
 EndChar
 
 StartChar: Y
-Encoding: 41 89 305
+Encoding: 89 89 305
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15184,7 +14490,7 @@ MultipleSubs2: "cartouched sitelen" Y cartouche.body
 EndChar
 
 StartChar: Z
-Encoding: 42 90 306
+Encoding: 90 90 306
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15208,7 +14514,7 @@ MultipleSubs2: "cartouched sitelen" Z cartouche.body
 EndChar
 
 StartChar: zero
-Encoding: 4 48 307
+Encoding: 48 48 307
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15243,7 +14549,7 @@ EndSplineSet
 EndChar
 
 StartChar: one
-Encoding: 5 49 308
+Encoding: 49 49 308
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15268,7 +14574,7 @@ EndSplineSet
 EndChar
 
 StartChar: two
-Encoding: 6 50 309
+Encoding: 50 50 309
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15297,7 +14603,7 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 7 51 310
+Encoding: 51 51 310
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15338,7 +14644,7 @@ EndSplineSet
 EndChar
 
 StartChar: four
-Encoding: 8 52 311
+Encoding: 52 52 311
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15365,7 +14671,7 @@ EndSplineSet
 EndChar
 
 StartChar: five
-Encoding: 9 53 312
+Encoding: 53 53 312
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15407,7 +14713,7 @@ EndSplineSet
 EndChar
 
 StartChar: six
-Encoding: 10 54 313
+Encoding: 54 54 313
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15442,7 +14748,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven
-Encoding: 11 55 314
+Encoding: 55 55 314
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15460,7 +14766,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 12 56 315
+Encoding: 56 56 315
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15505,7 +14811,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine
-Encoding: 13 57 316
+Encoding: 57 57 316
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -15540,7 +14846,7 @@ EndSplineSet
 EndChar
 
 StartChar: ku.t
-Encoding: 201 989576 317
+Encoding: 989576 989576 317
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15582,7 +14888,7 @@ Ligature2: "sitelen" k u
 EndChar
 
 StartChar: misikeke.t
-Encoding: 200 989575 318
+Encoding: 989575 989575 318
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15622,7 +14928,7 @@ Ligature2: "sitelen" m i s i k e k e
 EndChar
 
 StartChar: kokosila.t
-Encoding: 197 989572 319
+Encoding: 989572 989572 319
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15677,7 +14983,7 @@ Ligature2: "sitelen" k o k o s i l a
 EndChar
 
 StartChar: epiku.t
-Encoding: 196 989571 320
+Encoding: 989571 989571 320
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15718,7 +15024,7 @@ Ligature2: "sitelen" e p i k u
 EndChar
 
 StartChar: meso.t
-Encoding: 195 989570 321
+Encoding: 989570 989570 321
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15750,7 +15056,7 @@ Ligature2: "sitelen" m e s o
 EndChar
 
 StartChar: soko.t
-Encoding: 194 989569 322
+Encoding: 989569 989569 322
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15791,7 +15097,7 @@ Ligature2: "sitelen" s o k o
 EndChar
 
 StartChar: lanpan.t
-Encoding: 198 989573 323
+Encoding: 989573 989573 323
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15867,7 +15173,7 @@ Ligature2: "sitelen" l a n p a n
 EndChar
 
 StartChar: pake.t
-Encoding: 217 989600 324
+Encoding: 989600 989600 324
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15891,7 +15197,7 @@ Ligature2: "sitelen" p a k e
 EndChar
 
 StartChar: apeja.t
-Encoding: 218 989601 325
+Encoding: 989601 989601 325
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -15965,7 +15271,7 @@ Ligature2: "sitelen" a p e j a
 EndChar
 
 StartChar: majuna.t
-Encoding: 219 989602 326
+Encoding: 989602 989602 326
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16003,7 +15309,7 @@ Ligature2: "sitelen" m a j u n a
 EndChar
 
 StartChar: powe.t
-Encoding: 220 989603 327
+Encoding: 989603 989603 327
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -16034,7 +15340,7 @@ Ligature2: "sitelen" p o w e
 EndChar
 
 StartChar: lipamanka.t
-Encoding: 514 -1 328
+Encoding: 1114233 -1 328
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16194,7 +15500,7 @@ Ligature2: "sitelen" l i p a m a n k a
 EndChar
 
 StartChar: less
-Encoding: 15 60 329
+Encoding: 60 60 329
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16212,7 +15518,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 16 62 330
+Encoding: 62 62 330
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16230,25 +15536,25 @@ EndSplineSet
 EndChar
 
 StartChar: v
-Encoding: 59 118 331
-Width: 1100
-Flags: M
+Encoding: 118 118 331
+Width: 550
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-272.484375 699.999023438 m 1,0,-1
- 377.522460938 699.999023438 l 1,1,-1
- 549.997070312 163.400390625 l 1,2,-1
- 722.477539062 699.999023438 l 1,3,-1
- 827.515625 699.999023438 l 1,4,-1
- 602.521484375 0 l 1,5,-1
- 497.478515625 0 l 1,6,-1
- 272.484375 699.999023438 l 1,0,-1
+50.001953125 599.999023438 m 1,0,-1
+ 154.166015625 599.999023438 l 1,1,-1
+ 275.000976562 185.71484375 l 1,2,-1
+ 395.8359375 600 l 1,3,-1
+ 500 600 l 1,4,-1
+ 324.998046875 -0 l 1,5,-1
+ 224.999023438 -0 l 1,6,-1
+ 50.001953125 599.999023438 l 1,0,-1
 EndSplineSet
 EndChar
 
 StartChar: asciicircum
-Encoding: 45 94 332
+Encoding: 94 94 332
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16267,7 +15573,7 @@ EndSplineSet
 EndChar
 
 StartChar: ni.t.dr
-Encoding: 515 -1 333
+Encoding: 1114234 -1 333
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16284,13 +15590,15 @@ SplineSet
  729.295898438 199.997070312 l 1,8,-1
  200 729.290039062 l 1,0,-1
 EndSplineSet
+Ligature2: "alts" ni.t var4
+Ligature2: "alts" ni.t four
 MultipleSubs2: "cartouched sitelen" ni.t.dr cartouche.body
 Ligature2: "ni" n i greater v
 Ligature2: "ni" n i v greater
 EndChar
 
 StartChar: ni.t.r
-Encoding: 516 -1 334
+Encoding: 1114235 -1 334
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16307,6 +15615,8 @@ SplineSet
  99.9990234375 400.000976562 l 1,8,-1
  99.9990234375 500 l 1,0,-1
 EndSplineSet
+Ligature2: "alts" ni.t var1
+Ligature2: "alts" ni.t one
 MultipleSubs2: "cartouched sitelen" ni.t.r cartouche.body
 Ligature2: "ni" n i colon.t
 Ligature2: "ni" n i colon
@@ -16314,7 +15624,7 @@ Ligature2: "ni" n i greater
 EndChar
 
 StartChar: ni.t.ur
-Encoding: 517 -1 335
+Encoding: 1114236 -1 335
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16331,13 +15641,15 @@ SplineSet
  800.002929688 629.295898438 l 1,8,-1
  270.709960938 100 l 1,0,-1
 EndSplineSet
+Ligature2: "alts" ni.t var5
+Ligature2: "alts" ni.t five
 MultipleSubs2: "cartouched sitelen" ni.t.ur cartouche.body
 Ligature2: "ni" n i greater asciicircum
 Ligature2: "ni" n i asciicircum greater
 EndChar
 
 StartChar: ni.t.u
-Encoding: 518 -1 336
+Encoding: 1114237 -1 336
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16354,12 +15666,14 @@ SplineSet
  600 0 l 1,8,-1
  500.000976562 0 l 1,0,-1
 EndSplineSet
+Ligature2: "alts" ni.t var2
+Ligature2: "alts" ni.t two
 MultipleSubs2: "cartouched sitelen" ni.t.u cartouche.body
 Ligature2: "ni" n i asciicircum
 EndChar
 
 StartChar: ni.t.ul
-Encoding: 519 -1 337
+Encoding: 1114238 -1 337
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16376,13 +15690,15 @@ SplineSet
  370.704101562 700.002929688 l 1,8,-1
  900 170.709960938 l 1,0,-1
 EndSplineSet
+Ligature2: "alts" ni.t six
+Ligature2: "alts" ni.t var6
 MultipleSubs2: "cartouched sitelen" ni.t.ul cartouche.body
 Ligature2: "ni" n i less asciicircum
 Ligature2: "ni" n i asciicircum less
 EndChar
 
 StartChar: ni.t.l
-Encoding: 520 -1 338
+Encoding: 1114239 -1 338
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16399,12 +15715,14 @@ SplineSet
  291.4140625 500 l 1,8,-1
  1000.00097656 500 l 1,0,-1
 EndSplineSet
+Ligature2: "alts" ni.t var3
+Ligature2: "alts" ni.t three
 MultipleSubs2: "cartouched sitelen" ni.t.l cartouche.body
 Ligature2: "ni" n i less
 EndChar
 
 StartChar: ni.t.dl
-Encoding: 521 -1 339
+Encoding: 1114240 -1 339
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -16421,13 +15739,15 @@ SplineSet
  299.997070312 270.704101562 l 1,8,-1
  829.290039062 800 l 1,0,-1
 EndSplineSet
+Ligature2: "alts" ni.t seven
+Ligature2: "alts" ni.t var7
 MultipleSubs2: "cartouched sitelen" ni.t.dl cartouche.body
 Ligature2: "ni" n i less v
 Ligature2: "ni" n i v less
 EndChar
 
 StartChar: sewi.a.t
-Encoding: 522 -1 340
+Encoding: 1114241 -1 340
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16466,7 +15786,7 @@ Ligature2: "sewi" stackjoiner a.t
 EndChar
 
 StartChar: ijo.sewi
-Encoding: 523 -1 341
+Encoding: 1114242 -1 341
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16505,7 +15825,7 @@ Ligature2: "sewi" stackjoiner ijo.t
 EndChar
 
 StartChar: ken.sewi
-Encoding: 524 -1 342
+Encoding: 1114243 -1 342
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16536,7 +15856,7 @@ Ligature2: "sewi" stackjoiner ken.t
 EndChar
 
 StartChar: lili.sewi
-Encoding: 525 -1 343
+Encoding: 1114244 -1 343
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16556,7 +15876,7 @@ Ligature2: "sewi" stackjoiner lili.t
 EndChar
 
 StartChar: lipu.sewi
-Encoding: 526 -1 344
+Encoding: 1114245 -1 344
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16579,7 +15899,7 @@ Ligature2: "sewi" stackjoiner lipu.t
 EndChar
 
 StartChar: monsi.sewi
-Encoding: 527 -1 345
+Encoding: 1114246 -1 345
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16610,7 +15930,7 @@ Ligature2: "sewi" stackjoiner monsi.t
 EndChar
 
 StartChar: mun.sewi
-Encoding: 528 -1 346
+Encoding: 1114247 -1 346
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16645,7 +15965,7 @@ Ligature2: "sewi" stackjoiner mun.t
 EndChar
 
 StartChar: mute.sewi
-Encoding: 529 -1 347
+Encoding: 1114248 -1 347
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16673,7 +15993,7 @@ Ligature2: "sewi" stackjoiner mute.t
 EndChar
 
 StartChar: ni.sewi
-Encoding: 530 -1 348
+Encoding: 1114249 -1 348
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16696,7 +16016,7 @@ Ligature2: "sewi" stackjoiner ni.t
 EndChar
 
 StartChar: nimi.sewi
-Encoding: 531 -1 349
+Encoding: 1114250 -1 349
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16952,7 +16272,7 @@ Ligature2: "sewi" stackjoiner nimi.t
 EndChar
 
 StartChar: noka.sewi
-Encoding: 532 -1 350
+Encoding: 1114251 -1 350
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -16993,7 +16313,7 @@ Ligature2: "sewi" stackjoiner noka.t
 EndChar
 
 StartChar: ona.sewi
-Encoding: 533 -1 351
+Encoding: 1114252 -1 351
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17029,7 +16349,7 @@ Ligature2: "sewi" stackjoiner ona.t
 EndChar
 
 StartChar: open.sewi
-Encoding: 534 -1 352
+Encoding: 1114253 -1 352
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17058,7 +16378,7 @@ Ligature2: "sewi" stackjoiner open.t
 EndChar
 
 StartChar: pini.sewi
-Encoding: 535 -1 353
+Encoding: 1114254 -1 353
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17084,7 +16404,7 @@ Ligature2: "sewi" stackjoiner pini.t
 EndChar
 
 StartChar: poki.sewi
-Encoding: 536 -1 354
+Encoding: 1114255 -1 354
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17106,7 +16426,7 @@ Ligature2: "sewi" stackjoiner poki.t
 EndChar
 
 StartChar: sin.sewi
-Encoding: 537 -1 355
+Encoding: 1114256 -1 355
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17134,7 +16454,7 @@ Ligature2: "sewi" stackjoiner sin.t
 EndChar
 
 StartChar: sinpin.sewi
-Encoding: 538 -1 356
+Encoding: 1114257 -1 356
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17165,7 +16485,7 @@ Ligature2: "sewi" stackjoiner sinpin.t
 EndChar
 
 StartChar: suli.sewi
-Encoding: 539 -1 357
+Encoding: 1114258 -1 357
 Width: 0
 Flags: MW
 LayerCount: 2
@@ -17198,7 +16518,7 @@ Ligature2: "sewi" stackjoiner suli.t
 EndChar
 
 StartChar: ijo.anpa
-Encoding: 540 -1 358
+Encoding: 1114259 -1 358
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17237,7 +16557,7 @@ Ligature2: "anpa" ijo.t stackjoiner
 EndChar
 
 StartChar: ken.anpa
-Encoding: 541 -1 359
+Encoding: 1114260 -1 359
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17268,7 +16588,7 @@ Ligature2: "anpa" ken.t stackjoiner
 EndChar
 
 StartChar: lili.anpa
-Encoding: 542 -1 360
+Encoding: 1114261 -1 360
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17288,7 +16608,7 @@ Ligature2: "anpa" lili.t stackjoiner
 EndChar
 
 StartChar: lipu.anpa
-Encoding: 543 -1 361
+Encoding: 1114262 -1 361
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17311,7 +16631,7 @@ Ligature2: "anpa" lipu.t stackjoiner
 EndChar
 
 StartChar: monsi.anpa
-Encoding: 544 -1 362
+Encoding: 1114263 -1 362
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17342,7 +16662,7 @@ Ligature2: "anpa" monsi.t stackjoiner
 EndChar
 
 StartChar: mun.anpa
-Encoding: 545 -1 363
+Encoding: 1114264 -1 363
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17377,7 +16697,7 @@ Ligature2: "anpa" mun.t stackjoiner
 EndChar
 
 StartChar: mute.anpa
-Encoding: 546 -1 364
+Encoding: 1114265 -1 364
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17405,7 +16725,7 @@ Ligature2: "anpa" mute.t stackjoiner
 EndChar
 
 StartChar: ni.anpa
-Encoding: 547 -1 365
+Encoding: 1114266 -1 365
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17428,7 +16748,7 @@ Ligature2: "anpa" ni.t stackjoiner
 EndChar
 
 StartChar: nimi.anpa
-Encoding: 548 -1 366
+Encoding: 1114267 -1 366
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17684,7 +17004,7 @@ Ligature2: "anpa" nimi.t stackjoiner
 EndChar
 
 StartChar: noka.anpa
-Encoding: 549 -1 367
+Encoding: 1114268 -1 367
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17723,7 +17043,7 @@ Ligature2: "anpa" noka.t stackjoiner
 EndChar
 
 StartChar: ona.anpa
-Encoding: 550 -1 368
+Encoding: 1114269 -1 368
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17758,7 +17078,7 @@ Ligature2: "anpa" ona.t stackjoiner
 EndChar
 
 StartChar: open.anpa
-Encoding: 551 -1 369
+Encoding: 1114270 -1 369
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17787,7 +17107,7 @@ Ligature2: "anpa" open.t stackjoiner
 EndChar
 
 StartChar: pini.anpa
-Encoding: 552 -1 370
+Encoding: 1114271 -1 370
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17813,7 +17133,7 @@ Ligature2: "anpa" pini.t stackjoiner
 EndChar
 
 StartChar: poki.anpa
-Encoding: 553 -1 371
+Encoding: 1114272 -1 371
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17835,7 +17155,7 @@ Ligature2: "anpa" poki.t stackjoiner
 EndChar
 
 StartChar: sin.anpa
-Encoding: 554 -1 372
+Encoding: 1114273 -1 372
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17863,7 +17183,7 @@ Ligature2: "anpa" sin.t stackjoiner
 EndChar
 
 StartChar: sinpin.anpa
-Encoding: 555 -1 373
+Encoding: 1114274 -1 373
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17894,7 +17214,7 @@ Ligature2: "anpa" sinpin.t stackjoiner
 EndChar
 
 StartChar: suli.anpa
-Encoding: 556 -1 374
+Encoding: 1114275 -1 374
 Width: 1100
 Flags: M
 LayerCount: 2
@@ -17991,7 +17311,7 @@ Ligature2: "anpa" suli.t stackjoiner
 EndChar
 
 StartChar: te.t
-Encoding: 557 -1 375
+Encoding: 1114276 -1 375
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -18012,7 +17332,7 @@ Ligature2: "sitelen+-space" t e space
 EndChar
 
 StartChar: to.t
-Encoding: 558 -1 376
+Encoding: 1114277 -1 376
 Width: 1100
 Flags: MW
 LayerCount: 2
@@ -18033,63 +17353,63 @@ Ligature2: "sitelen+-space" t o space
 EndChar
 
 StartChar: uF1993
-Encoding: 206 989587 377
+Encoding: 989587 989587 377
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uF1994
-Encoding: 207 989588 378
+Encoding: 989588 989588 378
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uF1996
-Encoding: 209 989590 379
+Encoding: 989590 989590 379
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uF1997
-Encoding: 210 989591 380
+Encoding: 989591 989591 380
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uF1998
-Encoding: 211 989592 381
+Encoding: 989592 989592 381
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uF1999
-Encoding: 212 989593 382
+Encoding: 989593 989593 382
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uF199A
-Encoding: 213 989594 383
+Encoding: 989594 989594 383
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uF199B
-Encoding: 214 989595 384
+Encoding: 989595 989595 384
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: a.t1
-Encoding: 559 -1 385
+Encoding: 1114278 -1 385
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18129,7 +17449,7 @@ Ligature2: "alts" a var1
 EndChar
 
 StartChar: aa.t
-Encoding: 560 -1 386
+Encoding: 1114279 -1 386
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18171,7 +17491,7 @@ Ligature2: "alts" a.t a.t
 EndChar
 
 StartChar: aaa.t
-Encoding: 561 -1 387
+Encoding: 1114280 -1 387
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18218,7 +17538,7 @@ Ligature2: "alts" a.t a.t a.t
 EndChar
 
 StartChar: akesi.t1
-Encoding: 562 -1 388
+Encoding: 1114281 -1 388
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18306,7 +17626,7 @@ Ligature2: "alts" akesi.t var1
 EndChar
 
 StartChar: akesi.t2
-Encoding: 563 -1 389
+Encoding: 1114282 -1 389
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18381,7 +17701,7 @@ Ligature2: "alts" akesi.t var2
 EndChar
 
 StartChar: akesi.t3
-Encoding: 564 -1 390
+Encoding: 1114283 -1 390
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18468,7 +17788,7 @@ Ligature2: "alts" akesi.t var3
 EndChar
 
 StartChar: esun.t1
-Encoding: 565 -1 391
+Encoding: 1114284 -1 391
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18534,7 +17854,7 @@ Ligature2: "alts" esun.t var1
 EndChar
 
 StartChar: kala.t1
-Encoding: 566 -1 392
+Encoding: 1114285 -1 392
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18592,7 +17912,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: kasi.t1
-Encoding: 567 -1 393
+Encoding: 1114286 -1 393
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18633,7 +17953,7 @@ Ligature2: "alts" kasi.t var1
 EndChar
 
 StartChar: kin.t1
-Encoding: 568 -1 394
+Encoding: 1114287 -1 394
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18670,7 +17990,7 @@ Ligature2: "alts" kin.t var1
 EndChar
 
 StartChar: lanpan.t1
-Encoding: 569 -1 395
+Encoding: 1114288 -1 395
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -18824,7 +18144,7 @@ Ligature2: "alts" lanpan.t var1
 EndChar
 
 StartChar: lape.t1
-Encoding: 570 -1 396
+Encoding: 1114289 -1 396
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19010,7 +18330,7 @@ Ligature2: "alts" lape.t var1
 EndChar
 
 StartChar: majuna.t1
-Encoding: 571 -1 397
+Encoding: 1114290 -1 397
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19038,7 +18358,7 @@ Ligature2: "alts" majuna.t var1
 EndChar
 
 StartChar: meli.t1
-Encoding: 572 -1 398
+Encoding: 1114291 -1 398
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19083,7 +18403,7 @@ Ligature2: "alts" meli.t var1
 EndChar
 
 StartChar: meli.t2
-Encoding: 573 -1 399
+Encoding: 1114292 -1 399
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19122,7 +18442,7 @@ Ligature2: "alts" meli.t var2
 EndChar
 
 StartChar: meso.t1
-Encoding: 574 -1 400
+Encoding: 1114293 -1 400
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19158,7 +18478,7 @@ Ligature2: "alts" meso.t var1
 EndChar
 
 StartChar: mi.t1
-Encoding: 575 -1 401
+Encoding: 1114294 -1 401
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19713,7 +19033,7 @@ Ligature2: "alts" mi.t var1
 EndChar
 
 StartChar: mije.t1
-Encoding: 576 -1 402
+Encoding: 1114295 -1 402
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19755,7 +19075,7 @@ Ligature2: "alts" mije.t var1
 EndChar
 
 StartChar: mije.t2
-Encoding: 577 -1 403
+Encoding: 1114296 -1 403
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19880,7 +19200,7 @@ Ligature2: "alts" mije.t var2
 EndChar
 
 StartChar: misikeke.t1
-Encoding: 578 -1 404
+Encoding: 1114297 -1 404
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19913,7 +19233,7 @@ Ligature2: "alts" misikeke.t var1
 EndChar
 
 StartChar: moli.t1
-Encoding: 579 -1 405
+Encoding: 1114298 -1 405
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19957,7 +19277,7 @@ Ligature2: "alts" moli.t var1
 EndChar
 
 StartChar: mu.t1
-Encoding: 580 -1 406
+Encoding: 1114299 -1 406
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -19986,7 +19306,7 @@ Ligature2: "alts" mu.t var1
 EndChar
 
 StartChar: mute.t1
-Encoding: 581 -1 407
+Encoding: 1114300 -1 407
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20068,7 +19388,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: n.t1
-Encoding: 582 -1 408
+Encoding: 1114301 -1 408
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20105,7 +19425,7 @@ Ligature2: "alts" n var1
 EndChar
 
 StartChar: namako.t1
-Encoding: 583 -1 409
+Encoding: 1114302 -1 409
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20138,7 +19458,7 @@ Ligature2: "alts" namako.t var1
 EndChar
 
 StartChar: o.t1
-Encoding: 584 -1 410
+Encoding: 1114303 -1 410
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20176,7 +19496,7 @@ Ligature2: "alts" o var1
 EndChar
 
 StartChar: olin.t1
-Encoding: 585 -1 411
+Encoding: 1114304 -1 411
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20239,7 +19559,7 @@ Ligature2: "alts" olin.t var1
 EndChar
 
 StartChar: sewi.t1
-Encoding: 586 -1 412
+Encoding: 1114305 -1 412
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20270,7 +19590,7 @@ Ligature2: "alts" sewi.t var1
 EndChar
 
 StartChar: soko.t1
-Encoding: 587 -1 413
+Encoding: 1114306 -1 413
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20387,7 +19707,7 @@ Ligature2: "alts" soko.t var1
 EndChar
 
 StartChar: soko.t2
-Encoding: 588 -1 414
+Encoding: 1114307 -1 414
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20420,7 +19740,7 @@ Ligature2: "alts" soko.t var2
 EndChar
 
 StartChar: tenpo.t1
-Encoding: 589 -1 415
+Encoding: 1114308 -1 415
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20448,7 +19768,7 @@ Ligature2: "alts" tenpo.t var1
 EndChar
 
 StartChar: tonsi.t1
-Encoding: 590 -1 416
+Encoding: 1114309 -1 416
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20500,7 +19820,7 @@ Ligature2: "alts" tonsi.t var1
 EndChar
 
 StartChar: tonsi.t2
-Encoding: 591 -1 417
+Encoding: 1114310 -1 417
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20570,7 +19890,7 @@ Ligature2: "alts" tonsi.t var2
 EndChar
 
 StartChar: tonsi.t3
-Encoding: 592 -1 418
+Encoding: 1114311 -1 418
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20618,7 +19938,7 @@ Ligature2: "alts" tonsi.t var3
 EndChar
 
 StartChar: tonsi.t4
-Encoding: 593 -1 419
+Encoding: 1114312 -1 419
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20677,7 +19997,7 @@ Ligature2: "alts" tonsi.t var4
 EndChar
 
 StartChar: uta.t1
-Encoding: 594 -1 420
+Encoding: 1114313 -1 420
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20706,7 +20026,7 @@ Ligature2: "alts" uta.t var1
 EndChar
 
 StartChar: wile.t1
-Encoding: 595 -1 421
+Encoding: 1114314 -1 421
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -20765,7 +20085,7 @@ Ligature2: "alts" wile.t var1
 EndChar
 
 StartChar: sina.t1
-Encoding: 633 -1 422
+Encoding: 1114315 -1 422
 Width: 1100
 LayerCount: 2
 Fore
@@ -21319,7 +20639,7 @@ Ligature2: "alts" sina.t var1
 EndChar
 
 StartChar: ona.t1
-Encoding: 634 -1 423
+Encoding: 1114316 -1 423
 Width: 1100
 LayerCount: 2
 Fore
@@ -21873,7 +21193,7 @@ Ligature2: "alts" ona.t var1
 EndChar
 
 StartChar: var1
-Encoding: 637 -1 424
+Encoding: 1114317 -1 424
 Width: 0
 Flags: W
 LayerCount: 2
@@ -21881,7 +21201,7 @@ MultipleSubs2: "cartouched sitelen" var1 cartouche.body
 EndChar
 
 StartChar: var2
-Encoding: 638 -1 425
+Encoding: 1114318 -1 425
 Width: 0
 Flags: W
 LayerCount: 2
@@ -21889,7 +21209,7 @@ MultipleSubs2: "cartouched sitelen" var2 cartouche.body
 EndChar
 
 StartChar: var3
-Encoding: 639 -1 426
+Encoding: 1114319 -1 426
 Width: 0
 Flags: W
 LayerCount: 2
@@ -21897,7 +21217,7 @@ MultipleSubs2: "cartouched sitelen" var3 cartouche.body
 EndChar
 
 StartChar: var4
-Encoding: 640 -1 427
+Encoding: 1114320 -1 427
 Width: 0
 Flags: W
 LayerCount: 2
@@ -21905,7 +21225,7 @@ MultipleSubs2: "cartouched sitelen" var4 cartouche.body
 EndChar
 
 StartChar: bar
-Encoding: 61 124 428
+Encoding: 124 124 428
 Width: 1100
 Flags: W
 LayerCount: 2
@@ -21920,15 +21240,15 @@ EndSplineSet
 EndChar
 
 StartChar: zwnj
-Encoding: 63 8204 429
-Width: 70
+Encoding: 8204 8204 429
+Width: 0
 Flags: W
 LayerCount: 2
 Ligature2: "sitelen" bar
 EndChar
 
 StartChar: tick1
-Encoding: 644 -1 430
+Encoding: 1114321 -1 430
 Width: 0
 Flags: W
 HStem: -350 250
@@ -21949,7 +21269,7 @@ Ligature2: "sitelen" comma
 EndChar
 
 StartChar: tick2
-Encoding: 645 -1 431
+Encoding: 1114322 -1 431
 Width: 0
 Flags: W
 HStem: -350 250
@@ -21975,7 +21295,7 @@ Ligature2: "sitelen" comma comma
 EndChar
 
 StartChar: tick3
-Encoding: 646 -1 432
+Encoding: 1114323 -1 432
 Width: 0
 Flags: W
 HStem: -350 250
@@ -22008,7 +21328,7 @@ Ligature2: "sitelen" comma comma comma
 EndChar
 
 StartChar: tick4
-Encoding: 647 -1 433
+Encoding: 1114324 -1 433
 Width: 0
 Flags: W
 HStem: -350 250
@@ -22043,6 +21363,640 @@ SplineSet
 EndSplineSet
 Ligature2: "sitelen+-space" comma comma comma comma space
 Ligature2: "sitelen" comma comma comma comma
+EndChar
+
+StartChar: var5
+Encoding: 1114325 -1 434
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: var6
+Encoding: 1114326 -1 435
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: var7
+Encoding: 1114327 -1 436
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Ante.t
+Encoding: 1114328 -1 437
+Width: 1100
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+199.998046875 900.001953125 m 1,0,-1
+ 307.293945312 900.001953125 l 1,1,-1
+ 428.645507812 587.958984375 l 1,2,-1
+ 549.997070312 900.001953125 l 1,3,-1
+ 671.354492188 587.943359375 l 1,4,-1
+ 792.706054688 900.001953125 l 1,5,-1
+ 900.001953125 900.001953125 l 1,6,-1
+ 725 449.993164062 l 1,7,-1
+ 899.997070312 -0 l 1,8,-1
+ 792.701171875 -0 l 1,9,-1
+ 671.354492188 312.04296875 l 1,10,-1
+ 550.002929688 -0 l 1,11,-1
+ 428.645507812 312.05859375 l 1,12,-1
+ 307.2890625 -0 l 1,13,-1
+ 199.993164062 -0 l 1,14,-1
+ 374.995117188 450.008789062 l 1,15,-1
+ 199.998046875 900.001953125 l 1,0,-1
+549.997070312 624.1015625 m 1,16,-1
+ 482.291015625 450.008789062 l 1,17,-1
+ 550.002929688 275.900390625 l 1,18,-1
+ 617.704101562 449.993164062 l 1,19,-1
+ 549.997070312 624.1015625 l 1,16,-1
+EndSplineSet
+Ligature2: "sitelen" A n t e
+Ligature2: "sitelen+-space" A n t e space
+EndChar
+
+StartChar: unicode.t
+Encoding: 1114329 -1 438
+Width: 1100
+LayerCount: 2
+Fore
+SplineSet
+99.9990234375 900.001953125 m 1,0,-1
+ 199.998046875 900.001953125 l 1,1,2
+ 199.998046875 900.001953125 199.998046875 900.001953125 199.998046875 250 c 0,3,4
+ 199.998046875 187.909667969 199.998046875 187.909667969 243.953369141 143.954345703 c 128,-1,5
+ 287.908691406 99.9990234375 287.908691406 99.9990234375 349.999023438 99.9990234375 c 128,-1,6
+ 412.089448518 99.9990234375 412.089448518 99.9990234375 456.04521254 143.954392227 c 128,-1,7
+ 500.000976562 187.909761017 500.000976562 187.909761017 500.000976562 250 c 2,8,-1
+ 500.000976562 900.001953125 l 1,9,-1
+ 600 900.001953125 l 1,10,-1
+ 600 500 l 1,11,-1
+ 750.000976562 500 l 1,12,-1
+ 750.000976562 650.001953125 l 1,13,-1
+ 850 650.001953125 l 1,14,-1
+ 850 500 l 1,15,-1
+ 1000.00097656 500 l 1,16,-1
+ 1000.00097656 400.000976562 l 1,17,-1
+ 850 400.000976562 l 1,18,-1
+ 850 250 l 1,19,-1
+ 750.000976562 250 l 1,20,-1
+ 750.000976562 400.000976562 l 1,21,-1
+ 600 400.000976562 l 1,22,23
+ 599.999025352 250 599.999025352 250 600 250 c 1,24,25
+ 600 146.516037736 600 146.516037736 526.741783516 73.2580188681 c 128,-1,26
+ 453.483567033 0 453.483567033 0 349.999023438 0 c 128,-1,27
+ 246.515136719 0 246.515136719 0 173.257080078 73.2580566406 c 128,-1,28
+ 99.9990234375 146.516113281 99.9990234375 146.516113281 99.9990234375 250 c 2,29,-1
+ 99.9990234375 900.001953125 l 1,0,-1
+EndSplineSet
+Ligature2: "sitelen+-space" U n i c o d e space
+Ligature2: "sitelen+-space" j u n i k o space
+Ligature2: "sitelen" U n i c o d e
+Ligature2: "sitelen" j u n i k o
+EndChar
+
+StartChar: csur.t
+Encoding: 1114330 -1 439
+Width: 1100
+LayerCount: 2
+Fore
+SplineSet
+99.9990234375 900.001953125 m 1,0,-1
+ 199.998046875 900.001953125 l 1,1,-1
+ 199.998046875 250 l 2,2,3
+ 199.997314453 187.8671875 199.997314453 187.8671875 243.931762695 143.932739258 c 128,-1,4
+ 287.866210938 99.9982910156 287.866210938 99.9982910156 349.999023438 99.9990234375 c 128,-1,5
+ 412.131760436 99.9982910165 412.131760436 99.9982910165 456.066368499 143.932701507 c 128,-1,6
+ 500.000976562 187.867111998 500.000976562 187.867111998 500.000976562 250 c 2,7,-1
+ 500.000976562 900.001953125 l 1,8,-1
+ 600 900.001953125 l 1,9,-1
+ 600 500 l 1,10,11
+ 650.001953125 500.000974648 650.001953125 500.000974648 650.001953125 500 c 1,12,13
+ 650.002685547 572.437255859 650.002685547 572.437255859 701.282226562 623.716796875 c 128,-1,14
+ 752.561767578 674.996337891 752.561767578 674.996337891 824.999023438 674.997070312 c 128,-1,15
+ 897.437139782 674.997070312 897.437139782 674.997070312 948.718325752 623.717465266 c 128,-1,16
+ 999.999511721 572.437860219 999.999511721 572.437860219 1000.00097656 500 c 2,17,-1
+ 1000.00097656 400.000976562 l 1,18,-1
+ 750.000976562 400.000976562 l 1,19,20
+ 750.001708984 368.957275391 750.001708984 368.957275391 771.978149414 346.980834961 c 128,-1,21
+ 793.954589844 325.004394531 793.954589844 325.004394531 824.999023438 325.002929688 c 0,22,23
+ 868.395727836 325.222489994 868.395727836 325.222489994 889.83203125 362.954101562 c 1,24,25
+ 895.345613873 359.819298154 895.345613873 359.819298154 904.370488868 354.682977101 c 128,-1,26
+ 913.395363863 349.546656049 913.395363863 349.546656049 932.489725365 338.670904735 c 128,-1,27
+ 951.584086867 327.795153421 951.584086867 327.795153421 964.261693702 320.529900929 c 128,-1,28
+ 976.939300537 313.264648438 976.939300537 313.264648438 976.901367188 313.200195312 c 0,29,30
+ 953.904097853 272.941561884 953.904097853 272.941561884 913.466594817 248.9799433 c 128,-1,31
+ 873.029091781 225.018324715 873.029091781 225.018324715 824.999023438 225.00390625 c 0,32,33
+ 752.561767578 225.005371094 752.561767578 225.005371094 701.282226562 276.284912109 c 128,-1,34
+ 650.002685547 327.564453125 650.002685547 327.564453125 650.001953125 400.000976562 c 1,35,-1
+ 600 400.000976562 l 1,36,-1
+ 600 250 l 2,37,38
+ 600 146.446626339 600 146.446626339 526.776291685 73.2233131696 c 128,-1,39
+ 453.552583371 0 453.552583371 0 349.999023438 0 c 128,-1,40
+ 246.445556641 0 246.445556641 0 173.222290039 73.2232666016 c 128,-1,41
+ 99.9990234375 146.446533203 99.9990234375 146.446533203 99.9990234375 250 c 2,42,-1
+ 99.9990234375 900.001953125 l 1,0,-1
+824.999023438 574.998046875 m 128,-1,44
+ 793.954589844 574.997314453 793.954589844 574.997314453 771.978149414 553.020874023 c 128,-1,45
+ 750.001708984 531.044433594 750.001708984 531.044433594 750.000976562 500 c 1,46,47
+ 899.999029182 500.000974648 899.999029182 500.000974648 900.001953125 500 c 1,48,49
+ 900.001220714 531.044700779 900.001220714 531.044700779 878.022571506 553.021373827 c 128,-1,43
+ 856.043922299 574.998046875 856.043922299 574.998046875 824.999023438 574.998046875 c 128,-1,44
+EndSplineSet
+Ligature2: "sitelen+-space" c s u r space
+Ligature2: "sitelen+-space" s i j e s u w a space
+Ligature2: "sitelen" c s u r
+Ligature2: "sitelen" s i j e s u w a
+EndChar
+
+StartChar: ucsur.t
+Encoding: 1114331 -1 440
+Width: 1100
+LayerCount: 2
+Fore
+SplineSet
+99.9990234375 900.001953125 m 1,0,-1
+ 199.998046875 900.001953125 l 1,1,-1
+ 199.998046875 250 l 2,2,3
+ 199.997314453 187.8671875 199.997314453 187.8671875 243.931762695 143.932739258 c 128,-1,4
+ 287.866210938 99.9982910156 287.866210938 99.9982910156 349.999023438 99.9990234375 c 128,-1,5
+ 412.131760436 99.9982910165 412.131760436 99.9982910165 456.066368499 143.932701507 c 128,-1,6
+ 500.000976562 187.867111998 500.000976562 187.867111998 500.000976562 250 c 2,7,-1
+ 500.000976562 900.001953125 l 1,8,-1
+ 600 900.001953125 l 1,9,-1
+ 600 500 l 1,10,-1
+ 650.001953125 500 l 1,11,-1
+ 650.001953125 699.999023438 l 1,12,-1
+ 750.000976562 699.999023438 l 1,13,-1
+ 750.000976562 500 l 1,14,-1
+ 1000.00097656 500 l 1,15,-1
+ 1000.00097656 400.000976562 l 1,16,-1
+ 750.000976562 400.000976562 l 1,17,-1
+ 750.000976562 241.421875 l 1,18,-1
+ 858.578125 349.999023438 l 1,19,-1
+ 999.99609375 349.999023438 l 1,20,-1
+ 859.999023438 209.997070312 l 1,21,-1
+ 1000.00097656 0 l 1,22,-1
+ 879.817382812 0 l 1,23,-1
+ 787.889648438 137.887695312 l 1,24,-1
+ 750.000976562 99.9990234375 l 1,25,-1
+ 750.000976562 0 l 1,26,-1
+ 650.001953125 0 l 1,27,-1
+ 650.001953125 400.000976562 l 1,28,-1
+ 600 400.000976562 l 1,29,-1
+ 600 250 l 2,30,31
+ 600 146.446626339 600 146.446626339 526.776291685 73.2233131696 c 128,-1,32
+ 453.552583371 0 453.552583371 0 349.999023438 0 c 128,-1,33
+ 246.445556641 0 246.445556641 0 173.222290039 73.2232666016 c 128,-1,34
+ 99.9990234375 146.446533203 99.9990234375 146.446533203 99.9990234375 250 c 2,35,-1
+ 99.9990234375 900.001953125 l 1,0,-1
+EndSplineSet
+Ligature2: "sitelen+-space" u c s u r space
+Ligature2: "sitelen+-space" j u s i j e s u w a space
+Ligature2: "sitelen" u c s u r
+Ligature2: "sitelen" j u s i j e s u w a
+EndChar
+
+StartChar: Linku.t
+Encoding: 1114332 -1 441
+Width: 1100
+LayerCount: 2
+Fore
+SplineSet
+200 -0 m 1,0,-1
+ 200 900 l 1,1,-1
+ 300 900 l 1,2,-1
+ 300 -0 l 1,3,-1
+ 200 -0 l 1,0,-1
+800 -0 m 1,4,-1
+ 800 900 l 1,5,-1
+ 900 900 l 1,6,-1
+ 900 -0 l 1,7,-1
+ 800 -0 l 1,4,-1
+200 800 m 1,8,-1
+ 200 900 l 1,9,-1
+ 900 900 l 1,10,-1
+ 900 800 l 1,11,-1
+ 200 800 l 1,8,-1
+255.276367188 389.444335938 m 1,12,-1
+ 540.943359375 532.272460938 l 1,13,-1
+ 611.543945312 355.771484375 l 1,14,-1
+ 799.998046875 449.998046875 l 1,15,-1
+ 844.723632812 360.556640625 l 1,16,-1
+ 559.056640625 217.728515625 l 1,17,-1
+ 488.456054688 394.229492188 l 1,18,-1
+ 300.001953125 300.001953125 l 1,19,-1
+ 255.276367188 389.444335938 l 1,12,-1
+600 650 m 128,-1,21
+ 600 681 600 681 622 703 c 128,-1,22
+ 644 725 644 725 675 725 c 128,-1,23
+ 706 725 706 725 728 703 c 128,-1,24
+ 750 681 750 681 750 650 c 128,-1,25
+ 750 619 750 619 728 597 c 128,-1,26
+ 706 575 706 575 675 575 c 128,-1,27
+ 644 575 644 575 622 597 c 128,-1,20
+ 600 619 600 619 600 650 c 128,-1,21
+EndSplineSet
+Ligature2: "sitelen" L i n k u
+EndChar
+
+StartChar: linluwi.t
+Encoding: 1114333 -1 442
+Width: 1100
+LayerCount: 2
+Fore
+SplineSet
+999.90234375 900.001953125 m 1,0,-1
+ 999.90234375 799.998046875 l 1,1,-1
+ 999.90234375 450.127929688 l 2,2,3
+ 1000.00097656 449.400965232 1000.00097656 449.400965232 999.955676485 448.078002744 c 128,-1,4
+ 999.910376407 446.755040256 999.910376407 446.755040256 999.90234375 446.247070312 c 2,5,-1
+ 999.90234375 0 l 1,6,-1
+ 899.903320312 0 l 1,7,-1
+ 899.903320312 250.046875 l 1,8,9
+ 833.383344656 200.126953125 833.383344656 200.126953125 750.000976562 200.126953125 c 128,-1,10
+ 666.696887512 200.218724226 666.696887512 200.218724226 600.09765625 250.258789062 c 0,11,-1
+ 599.901367188 0 l 1,12,-1
+ 499.90234375 0 l 1,13,-1
+ 499.90234375 325.153320312 l 1,14,-1
+ 439.90625 369.998046875 l 2,15,16
+ 399.970372554 400.040598644 399.970372554 400.040598644 349.999023438 400.130859375 c 0,17,18
+ 287.866699219 400.130859375 287.866699219 400.130859375 243.932006837 356.196166994 c 128,-1,19
+ 199.997314456 312.261474612 199.997314456 312.261474612 199.998046875 250.12890625 c 1,20,-1
+ 199.900390625 0 l 1,21,-1
+ 99.9013671875 0 l 1,22,-1
+ 99.9013671875 900.001953125 l 1,23,-1
+ 999.90234375 900.001953125 l 1,0,-1
+899.903320312 799.998046875 m 1,24,-1
+ 199.900390625 799.998046875 l 1,25,-1
+ 199.900390625 450.055664062 l 1,26,27
+ 266.491260937 500.129882812 266.491260937 500.129882812 349.999023438 500.129882812 c 0,28,29
+ 433.303112488 500.038111711 433.303112488 500.038111711 499.90234375 449.998046875 c 2,30,-1
+ 660.09375 330.258789062 l 2,31,32
+ 700.029623825 300.216240017 700.029623825 300.216240017 750.000976562 300.125976562 c 0,33,34
+ 811.593308728 300.125976562 811.593308728 300.125976562 855.353961377 343.404157775 c 128,-1,35
+ 899.114614027 386.682338987 899.114614027 386.682338987 899.903320312 448.184570312 c 2,36,-1
+ 899.903320312 799.998046875 l 1,24,-1
+775.002929688 724.998046875 m 128,-1,38
+ 806.067871094 724.997314453 806.067871094 724.997314453 828.034057617 703.03112793 c 128,-1,39
+ 850.000244141 681.064941406 850.000244141 681.064941406 850.000976562 650 c 128,-1,40
+ 850.002441404 618.933633985 850.002441404 618.933633985 828.035908789 596.96571836 c 128,-1,41
+ 806.069376173 574.997802735 806.069376173 574.997802735 775.002929688 574.997070312 c 128,-1,42
+ 743.935058594 574.995605469 743.935058594 574.995605469 721.966796875 596.963867188 c 128,-1,43
+ 699.998535156 618.932128906 699.998535156 618.932128906 700 650 c 128,-1,44
+ 700.000732423 681.066446485 700.000732423 681.066446485 721.968648048 703.032979101 c 128,-1,37
+ 743.936563673 724.999511717 743.936563673 724.999511717 775.002929688 724.998046875 c 128,-1,38
+550 725 m 128,-1,46
+ 581.064941406 724.999267578 581.064941406 724.999267578 603.03112793 703.033081055 c 128,-1,47
+ 624.997314453 681.066894531 624.997314453 681.066894531 624.998046875 650.001953125 c 128,-1,48
+ 624.999511717 618.93558711 624.999511717 618.93558711 603.032979101 596.967671485 c 128,-1,49
+ 581.066446485 574.99975586 581.066446485 574.99975586 550 574.999023438 c 128,-1,50
+ 518.932128906 574.997558594 518.932128906 574.997558594 496.963867188 596.965820312 c 128,-1,51
+ 474.995605469 618.934082031 474.995605469 618.934082031 474.997070312 650.001953125 c 128,-1,52
+ 474.997802735 681.06839961 474.997802735 681.06839961 496.96571836 703.034932226 c 128,-1,45
+ 518.933633985 725.001464842 518.933633985 725.001464842 550 725 c 128,-1,46
+325.001953125 724.998046875 m 128,-1,54
+ 356.066894531 724.997314453 356.066894531 724.997314453 378.033081055 703.03112793 c 128,-1,55
+ 399.999267578 681.064941406 399.999267578 681.064941406 400 650 c 128,-1,56
+ 400.001464842 618.933633985 400.001464842 618.933633985 378.034932226 596.96571836 c 128,-1,57
+ 356.06839961 574.997802735 356.06839961 574.997802735 325.001953125 574.997070312 c 128,-1,58
+ 293.934082031 574.995605469 293.934082031 574.995605469 271.965820312 596.963867188 c 128,-1,59
+ 249.997558594 618.932128906 249.997558594 618.932128906 249.999023438 650 c 128,-1,60
+ 249.99975586 681.066446485 249.99975586 681.066446485 271.967671485 703.032979101 c 128,-1,53
+ 293.93558711 724.999511717 293.93558711 724.999511717 325.001953125 724.998046875 c 128,-1,54
+EndSplineSet
+MultipleSubs2: "cartouched sitelen" linluwi.t cartouche.body
+Ligature2: "sitelen+-space" l i n l u w i space
+Ligature2: "sitelen" l i n l u w i
+EndChar
+
+StartChar: b
+Encoding: 98 98 443
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50.001953125 0.001953125 m 1,0,-1
+ 50.001953125 225.001953125 l 1,1,-1
+ 50.001953125 375.002929688 l 1,2,-1
+ 50.0029296875 900 l 1,3,-1
+ 150.001953125 900 l 1,4,-1
+ 150.000976562 561.502929688 l 1,5,6
+ 206.654554044 599.738327572 206.654554044 599.738327572 275.000976562 600.001953125 c 0,7,8
+ 368.198654966 600.001220704 368.198654966 600.001220704 434.099449553 534.100623689 c 128,-1,9
+ 500.00024414 468.200026674 500.00024414 468.200026674 500.000976562 375.002929688 c 2,10,-1
+ 500.000976562 225.001953125 l 2,11,12
+ 500.000244141 131.804199219 500.000244141 131.804199219 434.099487305 65.9034423828 c 128,-1,13
+ 368.198730469 0.002685546875 368.198730469 0.002685546875 275.000976562 0.001953125 c 0,14,15
+ 206.656197811 0.262582376834 206.656197811 0.262582376834 150.000976562 38.49609375 c 1,16,-1
+ 150.000976562 0.001953125 l 1,17,-1
+ 50.001953125 0.001953125 l 1,0,-1
+275.000976562 100.000976562 m 128,-1,19
+ 326.778151674 100.000976562 326.778151674 100.000976562 363.389930329 136.61295279 c 128,-1,20
+ 400.001708983 173.224929017 400.001708983 173.224929017 400.000976562 225.001953125 c 2,21,-1
+ 400.000976562 375.002929688 l 2,22,23
+ 400.001708984 426.779296875 400.001708984 426.779296875 363.389892578 463.391113281 c 128,-1,24
+ 326.778076172 500.002929688 326.778076172 500.002929688 275.000976562 500.002929688 c 128,-1,25
+ 223.224609375 500.002929688 223.224609375 500.002929688 186.612792969 463.391113281 c 128,-1,26
+ 150.000976562 426.779296875 150.000976562 426.779296875 150.000976562 375.002929688 c 2,27,-1
+ 150.000976562 225.001953125 l 2,28,29
+ 150.000976562 173.224929018 150.000976562 173.224929018 186.612755218 136.61295279 c 128,-1,18
+ 223.224533873 100.000976562 223.224533873 100.000976562 275.000976562 100.000976562 c 128,-1,19
+EndSplineSet
+EndChar
+
+StartChar: c
+Encoding: 99 99 444
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50.001953125 237.5 m 2,0,-1
+ 50.4462890625 362.5 l 2,1,2
+ 50.442626988 460.874307865 50.442626988 460.874307865 120.00636779 530.436665651 c 128,-1,3
+ 189.570108593 599.999023438 189.570108593 599.999023438 287.946289062 599.999023438 c 0,4,5
+ 355.379250594 599.83862397 355.379250594 599.83862397 412.666589616 564.265677109 c 128,-1,6
+ 469.953928637 528.692730248 469.953928637 528.692730248 500.000976562 468.323242188 c 1,7,-1
+ 410.553710938 423.684570312 l 1,8,9
+ 393.195310267 458.620365822 393.195310267 458.620365822 360.075924109 479.235109678 c 128,-1,10
+ 326.956537951 499.849853535 326.956537951 499.849853535 287.946289062 500 c 0,11,12
+ 230.99177472 500.000732421 230.99177472 500.000732421 190.71854361 459.727698883 c 128,-1,13
+ 150.4453125 419.454665346 150.4453125 419.454665346 150.4453125 362.5 c 2,14,-1
+ 150.000976562 237.5 l 2,15,16
+ 150.000976562 180.545410156 150.000976562 180.545410156 190.274169922 140.272216797 c 128,-1,17
+ 230.547363281 99.9990234375 230.547363281 99.9990234375 287.501953125 99.9990234375 c 0,18,19
+ 326.512202013 100.149169903 326.512202013 100.149169903 359.631588172 120.763913759 c 128,-1,20
+ 392.75097433 141.378657616 392.75097433 141.378657616 410.109375 176.314453125 c 1,21,-1
+ 499.555664062 131.676757812 l 1,22,23
+ 469.5095549 71.3069519053 469.5095549 71.3069519053 412.222466315 35.7340424485 c 128,-1,24
+ 354.93537773 0.161132991703 354.93537773 0.161132991703 287.501953125 0 c 0,25,26
+ 189.125697152 0 189.125697152 0 119.561994103 69.5625176075 c 128,-1,27
+ 49.9982910533 139.125035215 49.9982910533 139.125035215 50.001953125 237.5 c 2,0,-1
+EndSplineSet
+EndChar
+
+StartChar: d
+Encoding: 100 100 445
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+500.000976562 0.001953125 m 1,0,-1
+ 400.000976562 0.001953125 l 1,1,-1
+ 400.000976562 38.49609375 l 1,2,3
+ 343.345746801 0.262576632453 343.345746801 0.262576632453 275.000976562 0.001953125 c 0,4,5
+ 181.803879576 0.00268554746836 181.803879576 0.00268554746836 115.903282561 65.9034801344 c 128,-1,6
+ 50.0026855463 131.804274721 50.0026855463 131.804274721 50.001953125 225.001953125 c 2,7,-1
+ 50.001953125 375.002929688 l 2,8,9
+ 50.0026855469 468.199951172 50.0026855469 468.199951172 115.903320312 534.100585938 c 128,-1,10
+ 181.803955078 600.001220703 181.803955078 600.001220703 275.000976562 600.001953125 c 0,11,12
+ 343.348905591 599.738321761 343.348905591 599.738321761 400.000976562 561.502929688 c 1,13,-1
+ 400.000976562 900 l 1,14,-1
+ 500 900 l 1,15,-1
+ 500.000976562 375.002929688 l 1,16,-1
+ 500.000976562 225.001953125 l 1,17,-1
+ 500.000976562 0.001953125 l 1,0,-1
+275.000976562 100.000976562 m 128,-1,19
+ 326.778151674 100.000976562 326.778151674 100.000976562 363.389930329 136.61295279 c 128,-1,20
+ 400.001708983 173.224929017 400.001708983 173.224929017 400.000976562 225.001953125 c 2,21,-1
+ 400.000976562 375.002929688 l 2,22,23
+ 400.001708984 426.779296875 400.001708984 426.779296875 363.389892578 463.391113281 c 128,-1,24
+ 326.778076172 500.002929688 326.778076172 500.002929688 275.000976562 500.002929688 c 128,-1,25
+ 223.224609375 500.002929688 223.224609375 500.002929688 186.612792969 463.391113281 c 128,-1,26
+ 150.000976562 426.779296875 150.000976562 426.779296875 150.000976562 375.002929688 c 2,27,-1
+ 150.000976562 225.001953125 l 2,28,29
+ 150.000976562 173.224929018 150.000976562 173.224929018 186.612755218 136.61295279 c 128,-1,18
+ 223.224533873 100.000976562 223.224533873 100.000976562 275.000976562 100.000976562 c 128,-1,19
+EndSplineSet
+EndChar
+
+StartChar: f
+Encoding: 102 102 446
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200.000976562 0 m 1,0,-1
+ 200.000976562 500.000976562 l 1,1,-1
+ 99.99609375 500.000976562 l 1,2,-1
+ 99.99609375 600 l 1,3,-1
+ 200.000976562 600 l 1,4,-1
+ 200.000976562 675.000976562 l 2,5,6
+ 200.000976562 768.198730469 200.000976562 768.198730469 265.901611328 834.099365234 c 128,-1,7
+ 331.802246094 900 331.802246094 900 425 900 c 1,8,-1
+ 425 800.000976562 l 1,9,10
+ 373.223069029 800.000976562 373.223069029 800.000976562 336.611534514 763.389244476 c 128,-1,11
+ 300 726.777512389 300 726.777512389 300 675.000976562 c 2,12,-1
+ 300 600 l 1,13,-1
+ 425 600 l 1,14,-1
+ 425 500.000976562 l 1,15,-1
+ 300 500.000976562 l 1,16,-1
+ 300 0 l 1,17,-1
+ 200.000976562 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: g
+Encoding: 103 103 447
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+275.000976562 599.999023438 m 0,0,1
+ 343.347202116 599.73839438 343.347202116 599.73839438 400.000976562 561.505859375 c 1,2,-1
+ 400.000976562 599.999023438 l 1,3,-1
+ 500.000976562 599.999023438 l 1,4,-1
+ 500.000976562 375 l 1,5,-1
+ 500.000976562 224.999023438 l 1,6,-1
+ 500.000976562 37.501953125 l 2,7,8
+ 500.004638634 -60.87301166 500.004638634 -60.87301166 430.440935585 -130.435529268 c 128,-1,9
+ 360.877232536 -199.998046875 360.877232536 -199.998046875 262.500976562 -199.998046875 c 0,10,11
+ 195.067443659 -199.836913625 195.067443659 -199.836913625 137.779896815 -164.263955821 c 128,-1,12
+ 80.4923499719 -128.690998017 80.4923499719 -128.690998017 50.4462890625 -68.3212890625 c 1,13,-1
+ 139.893554688 -23.68359375 l 1,14,15
+ 157.25203417 -58.6195478776 157.25203417 -58.6195478776 190.371103269 -79.2342127658 c 128,-1,16
+ 223.490172368 -99.8488776541 223.490172368 -99.8488776541 262.500976562 -99.9990234375 c 0,17,18
+ 319.455810547 -99.9990234375 319.455810547 -99.9990234375 359.728759764 -59.7260742203 c 128,-1,19
+ 400.001708981 -19.4531250031 400.001708981 -19.4531250031 400.000976562 37.501953125 c 1,20,21
+ 343.348905591 0.263631364024 343.348905591 0.263631364024 275.000976562 0 c 0,22,23
+ 181.803955078 0.000732421875 181.803955078 0.000732421875 115.903320312 65.9013671875 c 128,-1,24
+ 50.0026855469 131.802001953 50.0026855469 131.802001953 50.001953125 224.999023438 c 2,25,-1
+ 50.001953125 375 l 2,26,27
+ 50.0026855469 468.197753906 50.0026855469 468.197753906 115.903320312 534.098388672 c 128,-1,28
+ 181.803955078 599.999023438 181.803955078 599.999023438 275.000976562 599.999023438 c 0,0,1
+275.000976562 500 m 128,-1,30
+ 223.224609375 500.000732422 223.224609375 500.000732422 186.612792969 463.388916016 c 128,-1,31
+ 150.000976562 426.777099609 150.000976562 426.777099609 150.000976562 375 c 2,32,-1
+ 150.000976562 224.999023438 l 2,33,34
+ 150.000976562 173.22265625 150.000976562 173.22265625 186.612792969 136.610839844 c 128,-1,35
+ 223.224609375 99.9990234375 223.224609375 99.9990234375 275.000976562 99.9990234375 c 128,-1,36
+ 326.778076172 99.9990234375 326.778076172 99.9990234375 363.389892578 136.610839844 c 128,-1,37
+ 400.001708984 173.22265625 400.001708984 173.22265625 400.000976562 224.999023438 c 2,38,-1
+ 400.000976562 375 l 2,39,40
+ 400.001708984 426.777099609 400.001708984 426.777099609 363.389892578 463.388916016 c 128,-1,29
+ 326.778076172 500.000732422 326.778076172 500.000732422 275.000976562 500 c 128,-1,30
+EndSplineSet
+EndChar
+
+StartChar: h
+Encoding: 104 104 448
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50.001953125 900 m 1,0,-1
+ 149.913085938 900 l 1,1,-1
+ 149.913085938 561.443359375 l 1,2,3
+ 206.59691431 599.736887255 206.59691431 599.736887255 275.000976562 599.999023438 c 0,4,5
+ 368.198654967 599.999023438 368.198654967 599.999023438 434.099449553 534.098426423 c 128,-1,6
+ 500.00024414 468.197829409 500.00024414 468.197829409 500.000976562 375 c 2,7,-1
+ 499.954101562 0 l 1,8,-1
+ 400.04296875 0 l 1,9,-1
+ 400.04296875 375 l 2,10,11
+ 400.001953125 426.777175111 400.001953125 426.777175111 363.389976898 463.388953766 c 128,-1,12
+ 326.77800067 500.000732421 326.77800067 500.000732421 275.000976562 500 c 128,-1,13
+ 223.224609375 500.000732422 223.224609375 500.000732422 186.612792969 463.388916016 c 128,-1,14
+ 150.000976562 426.777099609 150.000976562 426.777099609 150.000976562 375 c 1,15,-1
+ 149.913085938 0 l 1,16,-1
+ 50.001953125 0 l 1,17,-1
+ 50.001953125 900 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 449
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+500.000976562 599.999023438 m 1,0,-1
+ 500.000976562 375 l 1,1,-1
+ 500.000976562 224.999023438 l 1,2,-1
+ 500.000976562 -199.998046875 l 1,3,-1
+ 400.000976562 -199.998046875 l 1,4,-1
+ 400.000976562 38.4990234375 l 1,5,6
+ 343.350409179 0.264505713263 343.350409179 0.264505713263 275.000976562 0 c 0,7,8
+ 181.866379533 0 181.866379533 0 115.93453254 65.9320446077 c 128,-1,9
+ 50.0026855482 131.864089215 50.0026855482 131.864089215 50.001953125 224.999023438 c 2,10,-1
+ 50.001953125 375 l 2,11,12
+ 50.0026855469 468.135498047 50.0026855469 468.135498047 115.934448242 534.067260742 c 128,-1,13
+ 181.866210938 599.999023438 181.866210938 599.999023438 275.000976562 599.999023438 c 0,14,15
+ 343.348055461 599.738862843 343.348055461 599.738862843 400.000976562 561.505859375 c 1,16,-1
+ 400.000976562 599.999023438 l 1,17,-1
+ 500.000976562 599.999023438 l 1,0,-1
+275.000976562 500 m 128,-1,19
+ 223.259033203 500 223.259033203 500 186.630004883 463.37097168 c 128,-1,20
+ 150.000976562 426.741943359 150.000976562 426.741943359 150.000976562 375 c 2,21,-1
+ 150.000976562 224.999023438 l 2,22,23
+ 150.000976562 173.257080078 150.000976562 173.257080078 186.630004883 136.628051758 c 128,-1,24
+ 223.259033203 99.9990234375 223.259033203 99.9990234375 275.000976562 99.9990234375 c 128,-1,25
+ 326.742919922 99.9990234375 326.742919922 99.9990234375 363.371948242 136.628051758 c 128,-1,26
+ 400.000976562 173.257080078 400.000976562 173.257080078 400.000976562 224.999023438 c 2,27,-1
+ 400.000976562 375 l 2,28,29
+ 400.000976562 426.741943359 400.000976562 426.741943359 363.371948242 463.37097168 c 128,-1,18
+ 326.742919922 500 326.742919922 500 275.000976562 500 c 128,-1,19
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 450
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+99.9990234375 599.999023438 m 1,0,-1
+ 199.998046875 599.999023438 l 1,1,2
+ 200.230987669 570.756581265 200.230987669 570.756581265 199.998046875 570.626953125 c 1,3,4
+ 248.460057112 599.801469439 248.460057112 599.801469439 305.025390625 599.999023438 c 0,5,6
+ 389.949938677 599.997557604 389.949938677 599.997557604 449.998046875 539.946289062 c 1,7,8
+ 445.525261514 535.47344209 445.525261514 535.47344209 438.20245244 528.150552116 c 128,-1,9
+ 430.879643366 520.827662142 430.879643366 520.827662142 415.383820754 505.331701912 c 128,-1,10
+ 399.887998141 489.835741683 399.887998141 489.835741683 389.586180467 479.534005485 c 128,-1,11
+ 379.284362793 469.232269287 379.284362793 469.232269287 379.2890625 469.237304688 c 0,12,13
+ 348.529527522 500 348.529527522 500 305.025390625 500 c 128,-1,14
+ 261.551100937 500 261.551100937 500 230.774573906 469.223670585 c 128,-1,15
+ 199.998046875 438.447341171 199.998046875 438.447341171 199.998046875 394.973632812 c 2,16,-1
+ 199.998046875 0 l 1,17,-1
+ 99.9990234375 0 l 1,18,-1
+ 99.9990234375 394.973632812 l 1,19,-1
+ 99.9990234375 599.999023438 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: x
+Encoding: 120 120 451
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50.001953125 599.999023438 m 1,0,-1
+ 164.563476562 599.999023438 l 1,1,-1
+ 275.000976562 402.4609375 l 1,2,-1
+ 385.43359375 599.999023438 l 1,3,-1
+ 500.000976562 599.999023438 l 1,4,-1
+ 332.284179688 299.997070312 l 1,5,-1
+ 500.000976562 0 l 1,6,-1
+ 385.43359375 0 l 1,7,-1
+ 275.000976562 197.538085938 l 1,8,-1
+ 164.563476562 0 l 1,9,-1
+ 50.001953125 0 l 1,10,-1
+ 217.717773438 299.997070312 l 1,11,-1
+ 50.001953125 599.999023438 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: y
+Encoding: 121 121 452
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50.001953125 599.999023438 m 1,0,-1
+ 154.166015625 600 l 1,1,-1
+ 275.000976562 185.71484375 l 1,2,-1
+ 395.8359375 600 l 1,3,-1
+ 500.000976562 599.999023438 l 1,4,-1
+ 266.666015625 -199.998046875 l 1,5,-1
+ 162.501953125 -199.998046875 l 1,6,-1
+ 222.916992188 7.1416015625 l 1,7,-1
+ 50.001953125 599.999023438 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: z
+Encoding: 122 122 453
+Width: 550
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+50.001953125 599.999023438 m 1,0,-1
+ 500.000976562 599.999023438 l 1,1,-1
+ 500.000976562 500 l 1,2,-1
+ 178.3203125 99.9990234375 l 1,3,-1
+ 500.000976562 99.9990234375 l 1,4,-1
+ 500.000976562 0 l 1,5,-1
+ 50.001953125 0 l 1,6,-1
+ 50.001953125 99.9990234375 l 1,7,-1
+ 371.677734375 500 l 1,8,-1
+ 50.001953125 500 l 1,9,-1
+ 50.001953125 599.999023438 l 1,0,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

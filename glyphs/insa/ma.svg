@@ -24,13 +24,13 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.80285795"
-     inkscape:cx="146.35217"
-     inkscape:cy="284.60826"
-     inkscape:window-width="1354"
-     inkscape:window-height="733"
-     inkscape:window-x="5"
-     inkscape:window-y="5"
+     inkscape:zoom="2.1210216"
+     inkscape:cx="160.06438"
+     inkscape:cy="255.53724"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -57,8 +57,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="path1"
-       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264583;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       d="M 54.999744 19.999813 A 45 45 0 0 0 9.9999064 64.99965 A 45 45 0 0 0 54.999744 110 A 45 45 0 0 0 100.0001 64.99965 A 45 45 0 0 0 54.999744 19.999813 z M 50.000049 30.393494 L 50.000049 59.999955 L 20.393587 59.999955 A 35 35 0 0 1 50.000049 30.393494 z M 59.999955 30.393494 A 35 35 0 0 1 89.606417 59.999955 L 59.999955 59.999955 L 59.999955 30.393494 z M 20.393587 69.999862 L 50.000049 69.999862 L 50.000049 99.606323 A 35 35 0 0 1 20.393587 69.999862 z M 59.999955 69.999862 L 89.627604 69.999862 A 35 35 0 0 1 59.999955 99.627511 L 59.999955 69.999862 z " />
+       id="path2"
+       style="vector-effect:non-scaling-stroke;fill:#000000;fill-rule:evenodd;stroke-width:0.264583;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       d="M 54.999744 42.500248 A 22.500002 22.500002 0 0 0 32.499825 65.000167 A 22.500002 22.500002 0 0 0 54.999744 87.500085 A 22.500002 22.500002 0 0 0 77.500179 65.000167 A 22.500002 22.500002 0 0 0 54.999744 42.500248 z M 58.749902 50.480123 A 15 15 0 0 1 69.519788 61.250008 L 58.749902 61.250008 L 58.749902 50.480123 z M 51.250102 50.5349 L 51.250102 61.250008 L 40.534993 61.250008 A 15 15 0 0 1 51.250102 50.5349 z M 40.534993 68.749809 L 51.250102 68.749809 L 51.250102 79.464917 A 15 15 0 0 1 40.534993 68.749809 z M 58.749902 68.749809 L 69.465011 68.749809 A 15 15 0 0 1 58.749902 79.464917 L 58.749902 68.749809 z " />
   </g>
 </svg>

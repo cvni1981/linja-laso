@@ -7,7 +7,7 @@
    viewBox="0 0 110 130"
    version="1.1"
    id="svg1"
-   sodipodi:docname="akesi3.svg"
+   sodipodi:docname="akesi2.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.88464241"
-     inkscape:cx="88.171219"
-     inkscape:cy="282.60006"
+     inkscape:cx="87.606019"
+     inkscape:cy="281.46966"
      inkscape:window-width="1366"
      inkscape:window-height="768"
      inkscape:window-x="0"
@@ -69,45 +69,10 @@
        cy="425.00232"
        transform="matrix(0,1,1,0,0,0)"
        r="70.710548" />
-    <rect
-       style="font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:2.77497"
+    <path
        id="rect6"
-       width="549.99945"
-       height="99.999908"
-       x="275.0025"
-       y="-737.50018"
-       transform="scale(1,-1)" />
-    <rect
        style="font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:2.77497"
-       id="rect6-1"
-       width="549.99957"
-       height="99.999908"
-       x="275.0025"
-       y="-512.50037"
-       transform="scale(1,-1)" />
-    <path
-       id="path1"
-       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:2.64583;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       d="M 550.00002,949.99967 A 174.99985,174.99985 0 0 1 375.00306,774.99761 h 99.99902 a 74.999951,74.999951 0 0 0 74.99794,75.00304 74.999951,74.999951 0 0 0 75.00313,-75.00304 h 99.99892 A 174.99985,174.99985 0 0 1 550.00002,949.99967 Z" />
-    <path
-       id="path1-4"
-       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:2.64583;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       d="m 375.00306,375.00161 a 174.99985,174.99985 0 0 1 0,-0.01 174.99985,174.99985 0 0 1 174.99696,-174.99678 174.99985,174.99985 0 0 1 175.00205,174.99678 174.99985,174.99985 0 0 1 0,0.01 h -99.99892 a 74.999951,74.999951 0 0 0 0,-0.01 74.999951,74.999951 0 0 0 -75.00313,-74.99788 74.999951,74.999951 0 0 0 -74.99794,74.99788 74.999951,74.999951 0 0 0 0,0.01 z" />
-    <rect
-       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:2.64583;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       id="rect2"
-       width="99.999908"
-       height="399.99963"
-       x="375.00241"
-       y="-775.00018"
-       transform="scale(1,-1)" />
-    <rect
-       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:2.64583;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       id="rect3"
-       width="99.999603"
-       height="399.99719"
-       x="625.0022"
-       y="-774.99774"
+       d="M 549.99748 -199.99275 A 174.99985 174.99985 0 0 1 375.00238 -374.99301 A 174.99985 174.99985 0 0 0 375.00238 -374.99817 A 174.99985 174.99985 0 0 0 375.00238 -375.00334 L 375.00238 -412.49934 L 275.00445 -412.49934 L 275.00445 -512.50244 L 375.00238 -512.50244 L 375.00238 -637.50115 L 275.00445 -637.50115 L 275.00445 -737.49908 L 375.00238 -737.49908 L 375.00238 -775.00025 A 174.99985 174.99985 0 0 1 549.99748 -950.00051 A 174.99985 174.99985 0 0 1 725.0029 -775.00025 A 174.99985 174.99985 0 0 1 725.0029 -774.99508 L 725.0029 -737.49908 L 825.00084 -737.49908 L 825.00084 -637.50115 L 725.0029 -637.50115 L 725.0029 -512.50244 L 825.00084 -512.50244 L 825.00084 -412.49934 L 725.0029 -412.49934 L 725.0029 -375.00334 L 725.0029 -374.99817 A 174.99985 174.99985 0 0 0 725.0029 -374.99301 A 174.99985 174.99985 0 0 1 549.99748 -199.99275 z M 549.99748 -299.99585 A 74.999951 74.999951 0 0 0 625.00497 -374.99301 A 74.999951 74.999951 0 0 1 625.00497 -374.99817 L 624.9998 -374.99817 L 624.9998 -412.49934 L 475.00032 -412.49934 L 475.00032 -374.99817 A 74.999951 74.999951 0 0 1 475.00032 -374.99301 A 74.999951 74.999951 0 0 0 549.99748 -299.99585 z M 475.00032 -512.50244 L 624.9998 -512.50244 L 624.9998 -637.50115 L 475.00032 -637.50115 L 475.00032 -512.50244 z M 475.00032 -737.49908 L 624.9998 -737.49908 L 624.9998 -775.00025 L 625.00497 -775.00025 A 74.999951 74.999951 0 0 0 549.99748 -850.00257 A 74.999951 74.999951 0 0 0 475.00032 -774.99508 L 475.00032 -737.49908 z "
        transform="scale(1,-1)" />
   </g>
 </svg>

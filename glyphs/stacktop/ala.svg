@@ -26,7 +26,7 @@
      showgrid="true"
      inkscape:zoom="0.088282755"
      inkscape:cx="1936.9581"
-     inkscape:cy="2180.4938"
+     inkscape:cy="2169.1666"
      inkscape:window-width="674"
      inkscape:window-height="733"
      inkscape:window-x="685"
@@ -55,14 +55,8 @@
   <g
      id="layer1">
     <path
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0.0840258;-inkscape-stroke:hairline"
-       d="M 200,625.00001 154.77837,535.92791 900.00003,200 l 45.20983,89.07744 z"
        id="path3"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0.0840258;-inkscape-stroke:hairline"
-       d="m 900.00003,625.00001 45.2216,-89.0721 L 200.00001,200 l -45.2099,89.07744 z"
-       id="path3-2"
-       sodipodi:nodetypes="ccccc" />
+       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.0840258;-inkscape-stroke:hairline"
+       d="M 200.0002 200.0002 L 154.79003 289.07745 L 428.59038 412.49989 L 154.77815 535.92801 L 200.0002 625.00009 L 550.00002 467.22885 L 899.99985 625.00009 L 945.22137 535.92801 L 671.40966 412.5004 L 945.21001 289.07745 L 899.99985 200.0002 L 550.00002 357.77144 L 200.0002 200.0002 z " />
   </g>
 </svg>

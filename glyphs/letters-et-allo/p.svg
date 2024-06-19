@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.5219612"
-     inkscape:cx="257.89094"
-     inkscape:cy="277.60235"
+     inkscape:zoom="1.3444217"
+     inkscape:cx="157.31671"
+     inkscape:cy="307.56719"
      inkscape:window-width="1354"
      inkscape:window-height="733"
      inkscape:window-x="5"
@@ -68,17 +68,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-miterlimit:100;stroke-opacity:1;-inkscape-stroke:hairline"
-       id="rect7"
-       width="9.999999"
-       height="90"
-       x="24.999802"
-       y="40.000187" />
     <path
-       id="path8"
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.226785;stroke-miterlimit:100;stroke-opacity:1;-inkscape-stroke:hairline"
-       d="M 74.999574,79.999955 C 74.999472,91.045504 66.04531,99.999666 54.999761,99.999768 43.954212,99.999666 35.00005,91.045504 34.999948,79.999955 h -9.999906 c 1.52e-4,16.568325 13.431394,29.999575 29.999719,29.999725 16.568527,1.3e-4 30.000084,-13.431198 30.000236,-29.999725 V 70.000049 C 84.999843,53.431523 71.568287,40.000198 54.999761,40.000329 38.431437,40.000483 25.000196,53.431725 25.000042,70.000049 h 9.999906 C 35.00005,58.9545 43.954212,50.000338 54.999761,50.000236 66.04531,50.000338 74.999472,58.9545 74.999574,70.000049 Z"
-       sodipodi:nodetypes="ccccscccccccc" />
+       id="path1"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.264583;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       d="M 5.0002116 50.000049 L 5.0002116 72.499967 L 5.0002116 87.500085 L 5.0002116 129.99982 L 15.000118 129.99982 L 15.000118 106.15011 A 22.500002 22.500002 0 0 0 27.50013 110 A 22.500002 22.500002 0 0 0 50.000049 87.500085 L 50.000049 72.499967 A 22.500002 22.500002 0 0 0 27.50013 50.000049 A 22.500002 22.500002 0 0 0 15.000118 53.849426 L 15.000118 50.000049 L 5.0002116 50.000049 z M 27.50013 59.999955 A 12.5 12.5 0 0 1 40.000142 72.499967 L 40.000142 87.500085 A 12.5 12.5 0 0 1 27.50013 100.0001 A 12.5 12.5 0 0 1 15.000118 87.500085 L 15.000118 72.499967 A 12.5 12.5 0 0 1 27.50013 59.999955 z " />
   </g>
 </svg>

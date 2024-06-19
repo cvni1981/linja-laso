@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.1426093"
-     inkscape:cx="188.6034"
-     inkscape:cy="287.49984"
+     inkscape:zoom="1.9071968"
+     inkscape:cx="186.13706"
+     inkscape:cy="321.6763"
      inkscape:window-width="1354"
      inkscape:window-height="733"
      inkscape:window-x="5"
@@ -69,24 +69,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect15"
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.316237;stroke-miterlimit:100;stroke-opacity:1;-inkscape-stroke:hairline"
-       inkscape:transform-center-x="-15.470463"
-       inkscape:transform-center-y="31.790952"
-       d="M -2.7197231 41.141499 L -2.7202516 114.66839 L 7.2801119 117.88279 L 7.2801484 44.355744 L -2.7197231 41.141499 z "
-       transform="rotate(-17.81889)" />
-    <path
-       id="rect15-6"
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.316237;stroke-miterlimit:100;stroke-opacity:1;-inkscape-stroke:hairline"
-       inkscape:transform-center-x="15.470463"
-       inkscape:transform-center-y="31.790952"
-       d="M 32.499825,110 H 43.004093 L 55.00026,72.677734 66.996427,110 H 77.500696 L 59.999998,55.553705 49.999997,55.55533 Z"
-       sodipodi:nodetypes="cccccccc" />
-    <path
-       id="rect15-6-4"
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.316237;stroke-miterlimit:100;stroke-opacity:1;-inkscape-stroke:hairline"
-       inkscape:transform-center-x="15.470463"
-       inkscape:transform-center-y="31.790952"
-       d="M 99.999996,40.000001 77.500592,109.99985 H 66.996325 L 89.496246,40.000002 Z" />
+       id="rect1"
+       style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       inkscape:transform-center-x="-9.8623233"
+       inkscape:transform-center-y="28.765112"
+       d="M -3.2281397 50.151714 L -3.2878634 50.151714 L -3.2878626 110.96934 L 6.5759843 112.61331 L 11.575192 98.033076 L 11.574938 113.44647 C 14.840504 113.99467 18.107888 114.53193 21.375153 115.06989 L 41.099788 57.539701 L 31.101371 55.873299 L 21.573439 83.663103 L 21.573184 68.249621 L 11.776622 66.61686 L 6.7108083 81.392411 L 6.7106381 51.808177 L -3.2281397 50.151714 z "
+       transform="rotate(-9.4623215)" />
   </g>
 </svg>

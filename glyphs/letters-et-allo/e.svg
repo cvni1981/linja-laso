@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   sodipodi:docname="jelo.svg"
+   sodipodi:docname="e.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +24,16 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.2872353"
-     inkscape:cx="77.685873"
-     inkscape:cy="323.95009"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.54605467"
+     inkscape:cx="306.74584"
+     inkscape:cy="478.88978"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     showguides="true">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -68,20 +69,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect3"
-       style="fill:#020202;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-miterlimit:100;stroke-opacity:1"
-       d="m 54.999998,30.000095 c -11.04574,1.02e-4 -19.999996,8.954589 -19.999813,20.000329 0.0025,7.80186 4.541495,14.890142 11.62668,18.156515 L 20.000067,109.99986 H 31.85309 78.147422 90.000445 L 63.37313,68.157455 C 70.458686,64.891156 74.997982,57.802591 75.000327,50.000424 75.00051,38.954483 66.045939,29.999912 54.999998,30.000095 Z m 0,9.999906 a 9.999999,9.999999 0 0 1 10.000423,9.999906 9.999999,9.999999 0 0 1 -10.000423,9.999907 9.999999,9.999999 0 0 1 -9.999907,-9.999907 9.999999,9.999999 0 0 1 9.999907,-9.999906 z m 5.16e-4,33.625338 16.783472,26.374614 h -33.56746 z" />
-    <path
-       id="rect4"
-       style="fill:#020202;stroke-width:0.209171;stroke-miterlimit:100"
-       d="m 49.999998,20 h 9.999999 v 12.5 h -9.999999 z" />
-    <path
-       id="rect4-9"
-       style="fill:#020202;stroke-width:0.209171;stroke-miterlimit:100"
-       d="m 85.000252,44.999764 v 9.999999 h -12.5 v -9.999999 z" />
-    <path
-       id="rect4-9-7"
-       style="fill:#020202;stroke-width:0.209171;stroke-miterlimit:100"
-       d="m 37.500256,44.999764 v 9.999999 h -12.5 v -9.999999 z" />
+       id="rect2"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264583;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       d="M 27.50013 50.000049 A 22.500002 22.500002 0 0 0 5.0002116 72.499967 L 5.0002116 82.499874 L 5.0002116 84.99998 L 4.9996948 86.250033 C 4.9991618 99.36676 15.632938 109.99999 28.749666 110 C 37.740765 109.9785 45.948925 104.88161 49.95509 96.832332 L 41.010417 92.368522 C 38.695939 97.02665 33.951067 99.980043 28.749666 100.0001 C 21.155707 100.00013 14.999564 93.843992 14.999601 86.250033 L 15.000118 84.99998 L 50.000049 84.99998 L 50.000049 75.000073 L 50.000049 72.499967 A 22.500002 22.500002 0 0 0 27.50013 50.000049 z M 27.50013 59.999955 A 12.499999 12.499999 0 0 1 40.000142 72.499967 L 40.000142 75.000073 L 15.000118 75.000073 L 15.000118 72.499967 A 12.499999 12.499999 0 0 1 27.50013 59.999955 z " />
   </g>
 </svg>

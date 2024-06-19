@@ -24,16 +24,16 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.0347232"
-     inkscape:cx="156.08038"
-     inkscape:cy="279.30174"
+     inkscape:zoom="1.1630588"
+     inkscape:cx="137.13838"
+     inkscape:cy="316.40704"
      inkscape:window-width="1366"
      inkscape:window-height="768"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="false">
+     showguides="true">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -55,171 +55,6 @@
      id="defs1">
     <inkscape:path-effect
        effect="spiro"
-       id="path-effect37"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect36"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect35"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect34"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect30"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect15"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect14"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect9"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect29"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect28"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect27"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect24"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect23"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect8"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect1"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect21"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect20"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect19"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect18"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect17"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect16"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect13"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect12"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect10"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect7"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect6"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect5"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect4"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect3"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect2"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect26"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect25"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect22"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
        id="path-effect11"
        is_visible="true"
        lpeversion="1" />
@@ -228,76 +63,41 @@
        id="path-effect11-1"
        is_visible="true"
        lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect2-7"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect2-0"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect17-0"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect17-0-3"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect23-8"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect24-1"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect9-8"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect14-7"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect30-4"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect37-7"
-       is_visible="true"
-       lpeversion="1" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264582;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       id="rect1"
+       width="7.5"
+       height="12.500001"
+       x="51.249996"
+       y="45" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264582;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       id="rect1-3"
+       width="7.5"
+       height="12.500001"
+       x="85.443779"
+       y="-3.3842885"
+       inkscape:transform-center-x="-13.181708"
+       inkscape:transform-center-y="-16.667486"
+       transform="rotate(38.339184)" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264582;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       id="rect1-3-2"
+       width="7.5"
+       height="12.500001"
+       x="-0.8349691"
+       y="64.850426"
+       inkscape:transform-center-x="13.181708"
+       inkscape:transform-center-y="-16.667487"
+       transform="matrix(-0.78435233,0.62031559,0.62031559,0.78435233,0,0)" />
     <path
-       id="rect15"
-       style="fill:#0a0a0a;stroke-width:0.2514;stroke-miterlimit:100"
-       d="m 49.999991,19.999901 h 9.999999 v 22.5001 h -9.999999 z" />
-    <path
-       id="rect15-8"
-       style="fill:#0a0a0a;stroke-width:0.5333;stroke-miterlimit:100"
-       d="M 75.000073 19.999813 L 67.500273 42.500248 L 78.040715 42.500248 L 85.541032 19.999813 L 75.000073 19.999813 z " />
-    <path
-       id="rect15-8-0"
-       style="fill:#0a0a0a;stroke-width:0.5333;stroke-miterlimit:100"
-       d="m 35.000198,19.999566 7.4998,22.500435 H 31.959556 L 24.459239,19.999566 Z" />
-    <path
-       id="path1"
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.264583;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       d="M 54.999744 50.000049 A 30.000002 30.000002 0 0 0 25.000024 79.999768 A 30.000002 30.000002 0 0 0 54.999744 110 A 30.000002 30.000002 0 0 0 84.99998 79.999768 A 30.000002 30.000002 0 0 0 54.999744 50.000049 z M 54.999744 59.999955 A 19.999998 19.999998 0 0 1 75.000073 79.999768 A 19.999998 19.999998 0 0 1 54.999744 100.0001 A 19.999998 19.999998 0 0 1 34.999931 79.999768 A 19.999998 19.999998 0 0 1 54.999744 59.999955 z " />
+       id="path5"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264583;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       d="M 54.999744 62.500061 A 12.499999 12.499999 0 0 0 42.500248 75.000073 A 12.499999 12.499999 0 0 0 54.999744 87.500085 A 12.499999 12.499999 0 0 0 67.499756 75.000073 A 12.499999 12.499999 0 0 0 54.999744 62.500061 z M 54.999744 69.999862 A 4.9999986 4.9999986 0 0 1 59.999955 75.000073 A 4.9999986 4.9999986 0 0 1 54.999744 79.999768 A 4.9999986 4.9999986 0 0 1 50.000049 75.000073 A 4.9999986 4.9999986 0 0 1 54.999744 69.999862 z " />
   </g>
 </svg>

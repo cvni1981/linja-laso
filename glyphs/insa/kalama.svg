@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.0506974"
-     inkscape:cx="117.0651"
-     inkscape:cy="189.39801"
+     inkscape:zoom="0.7216105"
+     inkscape:cx="28.408677"
+     inkscape:cy="363.07676"
      inkscape:window-width="1366"
      inkscape:window-height="768"
      inkscape:window-x="0"
@@ -68,21 +68,36 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264582;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       id="rect1"
+       width="7.5"
+       height="12.500001"
+       x="51.249996"
+       y="47.5" />
     <path
-       id="rect2"
-       style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.233342;stroke-miterlimit:100;-inkscape-stroke:hairline"
-       d="M 19.999813 59.999955 L 19.999813 65.000167 A 35 35 0 0 0 54.999744 100.0001 A 35 35 0 0 0 90.000191 65.000167 L 90.000191 59.999955 L 19.999813 59.999955 z M 30.56971 70.000378 L 79.490238 70.000378 A 25.000002 25.000002 0 0 1 54.999744 90.000191 A 25.000002 25.000002 0 0 1 30.56971 70.000378 z " />
-    <path
-       id="rect15-88"
-       style="fill:#0a0a0a;stroke-width:0.2514;stroke-miterlimit:100"
-       d="m 50,30.000001 h 9.999996 v 22.5001 H 50 Z" />
-    <path
-       id="rect15-8"
-       style="fill:#0a0a0a;stroke-width:0.5333;stroke-miterlimit:100"
-       d="m 75.000076,29.999913 -7.4998,22.500435 h 10.54044 l 7.50032,-22.500435 z" />
-    <path
-       id="rect15-8-0"
-       style="fill:#0a0a0a;stroke-width:0.5333;stroke-miterlimit:100"
-       d="m 35.00021,29.999665 7.4998,22.500436 H 31.959553 l -7.50031,-22.500436 z" />
+       id="path3"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264583;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       d="m 37.500033,67.500001 v 2.500106 A 17.5,17.5 0 0 0 54.99974,87.499814 17.5,17.5 0 0 0 72.499963,70.000107 v -2.500106 z m 8.83977,7.499801 h 17.32039 a 10.000002,10.000002 0 0 1 -8.660453,5.000211 10.000002,10.000002 0 0 1 -8.659937,-5.000211 z" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264582;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       id="rect1-3"
+       width="7.5"
+       height="12.500001"
+       x="85.443779"
+       y="-3.3842885"
+       inkscape:transform-center-x="-13.181708"
+       inkscape:transform-center-y="-16.667486"
+       transform="rotate(38.339184)" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264582;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       id="rect1-3-2"
+       width="7.5"
+       height="12.500001"
+       x="-0.8349691"
+       y="64.850426"
+       inkscape:transform-center-x="13.181708"
+       inkscape:transform-center-y="-16.667487"
+       transform="matrix(-0.78435233,0.62031559,0.62031559,0.78435233,0,0)" />
   </g>
 </svg>

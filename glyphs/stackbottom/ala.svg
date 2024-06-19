@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.088282755"
-     inkscape:cx="1936.9581"
-     inkscape:cy="2191.821"
-     inkscape:window-width="674"
-     inkscape:window-height="733"
-     inkscape:window-x="685"
-     inkscape:window-y="5"
+     inkscape:cx="1931.2945"
+     inkscape:cy="2186.1574"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -55,12 +55,12 @@
   <g
      id="layer1">
     <path
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0.0840258;-inkscape-stroke:hairline"
+       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.0840258;-inkscape-stroke:hairline"
        d="m 200,1100 -45.22163,-89.0721 745.22166,-335.92791 45.20983,89.07744 z"
        id="path3"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0.0840258;-inkscape-stroke:hairline"
+       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:0.0840258;-inkscape-stroke:hairline"
        d="m 900.00003,1100 45.2216,-89.0721 -745.22162,-335.92791 -45.2099,89.07744 z"
        id="path3-2"
        sodipodi:nodetypes="ccccc" />

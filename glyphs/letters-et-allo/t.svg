@@ -24,9 +24,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.79863048"
-     inkscape:cx="45.703239"
-     inkscape:cy="199.71689"
+     inkscape:zoom="1.1940259"
+     inkscape:cx="128.13793"
+     inkscape:cy="280.98219"
      inkscape:window-width="1354"
      inkscape:window-height="733"
      inkscape:window-x="5"
@@ -68,23 +68,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23334;stroke-miterlimit:100;stroke-opacity:1;-inkscape-stroke:hairline"
-       id="rect9"
-       width="9.999999"
-       height="70"
-       x="45"
-       y="10" />
-    <rect
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-miterlimit:100;stroke-opacity:1;-inkscape-stroke:hairline"
-       id="rect10"
-       width="39.999996"
-       height="10"
-       x="35.000004"
-       y="30.000002" />
     <path
-       id="path10"
-       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-miterlimit:100;stroke-opacity:1;-inkscape-stroke:hairline"
-       d="M 45.000145,79.999768 A 30.000002,30.000002 0 0 0 74.999865,110 v -9.9999 A 19.999998,19.999998 0 0 1 55.000052,79.999768 Z" />
+       id="rect27"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.264583;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       d="M 20.00008,30.000235 V 50.000048 H 9.9996571 v 9.999906 H 20.00008 v 27.50013 A 22.499998,22.499998 0 0 0 42.499998,110 v -9.9999 A 12.499998,12.499998 0 0 1 29.999986,87.500084 V 59.999954 H 42.499998 V 50.000048 H 29.999986 V 30.000235 Z" />
   </g>
 </svg>
